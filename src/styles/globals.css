@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* consider having a dark mode and a amoled mode */
+html {
+  @apply dark:bg-black bg-white;
+}
