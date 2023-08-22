@@ -1,0 +1,31 @@
+---
+title: Grønnsakssuppe 2
+tags: ["suppe", "middag"]
+ingredienser:
+  [
+    "hakkede tomater",
+    "grønn paprika",
+    "løk",
+    "kålhode",
+    "sellerirot",
+    "gulerøtter",
+  ]
+heroImage: "/et-sted-i-public"
+---
+
+# Grønnsakssuppe 2
+
+## Ingredienser
+
+- 2-3 l vann
+- 1-2 bokser tomat
+- 2 grønne paprika
+- 3 løk
+- 1 stor hodekål
+- 100 g sellerirot
+- 2 buljongterninger (valgfri type)
+- urter og krydder
+
+## Instrukjsoner
+
+Vask og del alle grønnsakene i mindre biter. Kok alt mørt unntatt tomatene, de skal oppi de siste 5 min.
