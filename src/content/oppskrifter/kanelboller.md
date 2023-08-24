@@ -3,7 +3,7 @@ title: Kanelboller (skillingsboller)
 tags: ["bakverk", "dessert", "boller"]
 ingredienser:
   ["smør", "margarin", "gjær", "melk", "sukker", "kardemome", "hvetemel"]
-heroImage: "/et-sted-i-public"
+heroImage: "/et-sted-i-public.jpeg"
 ---
 
 # Kanelboller (skillingsboller)

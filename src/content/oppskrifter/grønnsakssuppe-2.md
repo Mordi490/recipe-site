@@ -10,7 +10,7 @@ ingredienser:
     "sellerirot",
     "gulerøtter",
   ]
-heroImage: "/et-sted-i-public"
+heroImage: "/et-sted-i-public.jpeg"
 ---
 
 # Grønnsakssuppe 2

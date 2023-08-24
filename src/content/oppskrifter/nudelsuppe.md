@@ -12,7 +12,7 @@ ingredienser:
     "gulerøtter",
     "buljong",
   ]
-heroImage: "/et-sted-i-public"
+heroImage: "/et-sted-i-public.jpeg"
 ---
 
 # Nudelsuppe

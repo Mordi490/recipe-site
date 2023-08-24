@@ -12,8 +12,8 @@ const oppskrifter = await getCollection("oppskrifter");
       <ul class="flex flex-col space-y-4 py-2">
         {
           oppskrifter.map((o) => (
-            <li class="dark:text-white text-lg font-semibold active:underline  hover:underline border-1 border-red-400 border truncate rounded w-fit mx-auto px-4 py-2">
-              <a href={`/oppskrift/${o.slug}`}>{o.data.title}</a>
+            <li class="text-lg font-semibold active:underline hover:underline border-1 border-red-400 border truncate rounded w-fit mx-auto px-4 py-2">
+              <a href={`/oppskrifter/${o.slug}`}>{o.data.title}</a>
             </li>
           ))
         }

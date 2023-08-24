@@ -1,0 +1,23 @@
+---
+import { CollectionEntry, getCollection } from "astro:content";
+import RecipePost from "../../layouts/RecipePost.astro";
+
+export async function getStaticPaths() {
+  const oppskrifter = await getCollection("oppskrifter");
+  return oppskrifter.map((o) => ({
+    params: { slug: o.slug },
+    props: o,
+  }));
+}
+type Props = CollectionEntry<"oppskrifter">;
+
+const oppskrift = Astro.props;
+const { Content } = await oppskrift.render();
+---
+
+<RecipePost {...oppskrift.data}>
+  <main>
+    <h3 class="text-center text-4xl font-bol">{oppskrift.data.title}</h3>
+    <Content />
+  </main>
+</RecipePost>

@@ -2,7 +2,7 @@
 title: Tikka Lasagne
 tags: ["middag"]
 ingredienser: ["kjøttdeig", "lasagne plater", "ost", "tikka masala saus"]
-heroImage: "/et-sted-i-public"
+heroImage: "/et-sted-i-public.jpeg"
 ---
 
 # Tikka Lasagne

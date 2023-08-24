@@ -14,7 +14,7 @@ ingredienser:
     "pepper",
     "hvetemel",
   ]
-heroImage: "/et-sted-i-public"
+heroImage: "/et-sted-i-public.jpeg"
 ---
 
 # Pepperkaker

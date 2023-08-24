@@ -17,7 +17,7 @@ ingredienser:
     "appelsinjuice",
     "safran",
   ]
-heroImage: "/et-sted-i-public"
+heroImage: "/et-sted-i-public.jpeg"
 ---
 
 # Sjokolademoussekake

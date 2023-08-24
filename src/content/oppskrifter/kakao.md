@@ -2,7 +2,7 @@
 title: kakao
 tags: ["drikke", "dessert"]
 ingredienser: ["sukker", "kakao", "vann", "melk"]
-heroImage: "/et-sted-i-public"
+heroImage: "/et-sted-i-public.jpeg"
 ---
 
 # Kakao

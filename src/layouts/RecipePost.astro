@@ -1,0 +1,22 @@
+---
+import type { CollectionEntry } from "astro:content";
+
+type Props = CollectionEntry<"oppskrifter">["data"];
+
+const { title, tags, ingredienser, heroImage } = Astro.props;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{title}</title>
+  </head>
+  <body>
+    <!--Find a better way to conditionally render the image if there is a image -->
+    <slot />
+    <hr class="w-full h-px my-4 bg-gray-300" />
+    {heroImage && <img height={360} width={720} src={heroImage} alt="bildet" />}
+  </body>
+</html>

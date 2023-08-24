@@ -1,8 +1,8 @@
 ---
 title: Sjokoladetrøfler
 tags: ["dessert", "sjokolade"]
-ingerdienser: ["sjokolade", "fløte", "smør", "kakaopulver"]
-heroImage: "/et-sted-i-public"
+ingredienser: ["sjokolade", "fløte", "smør", "kakaopulver"]
+heroImage: "/et-sted-i-public.jpeg"
 ---
 
 # Sjokoladetrøfler

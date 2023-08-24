@@ -2,7 +2,7 @@
 title: Blomkålsuppe
 tags: ["suppe", "middag"]
 ingredienser: ["blomkål", "gressløk"]
-heroImage: "/et-sted-i-public"
+heroImage: "/et-sted-i-public.jpeg"
 ---
 
 # Blomkålsuppe
