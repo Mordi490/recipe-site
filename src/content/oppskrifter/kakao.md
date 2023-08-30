@@ -16,4 +16,4 @@ heroImage: "/et-sted-i-public.jpeg"
 
 ## Instruksjoner
 
-Rør sukker, kakao og halvaparten av melken i en kjelle. Visp alt godt for å unngå at sukker og kakao klumper seg sammen og brennes. tilsett så resten av melken og varm opptill ønskettemp.
+Rør sukker, kakao og halvaparten av melken i en kjelle. Visp alt godt for å unngå at sukker og kakao klumper seg sammen og brennes. Tilsett så resten av melken og varm opptill ønskettemp.

@@ -1,0 +1,20 @@
+---
+title: banankake-sukrin
+tags: ["sukrin", "dessert", "kake"]
+ingredienser: ["sukrin", "egg", "rømme"]
+heroImage: "/et-sted-i-public.jpeg"
+---
+
+# banankake-sukrin
+
+## Ingredienser
+
+- 4 store egg
+- 2 dl vann
+- 1 dl olje
+- 1-2 godt modne, moste bananer
+- sukrin kakemiks
+
+## Instruksjoner
+
+Bland ingrendiensene tilsett posens innhold og visp til en glat, jevn røre. Stekes midt i ovnen på 175 gr. i ca. 30 minutter. Glasurforslag: [Melisglasur](./melisglasur-sukrin)

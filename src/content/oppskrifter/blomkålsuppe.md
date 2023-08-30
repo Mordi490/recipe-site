@@ -7,12 +7,11 @@ heroImage: "/et-sted-i-public.jpeg"
 
 # Blomkålsuppe
 
-Fylden får den fra blomkålen selv, her er hverken fløte eller ost. En lekker forrett eller varm kveldskos, signert ernæringsfysiolog Gunn Helene Arsky, hentet fra hennes bok «<Spis deg ung>>.
+Fylden får den fra blomkålen selv, her er hverken fløte eller ost. En lekker forrett eller varm kveldskos, signert ernæringsfysiolog Gunn Helene Arsky, hentet fra hennes bok "Spis deg ung".
 
 ## Ingredienser
 
-. 1L vann
-
+- 1 l vann
 - 2 ts salt
 - buketter og blader av et blomkålhode (kast den grove stilken) 2-3 ss usaltet smør
 - olivenolje
