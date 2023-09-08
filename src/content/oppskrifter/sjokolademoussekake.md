@@ -17,6 +17,7 @@ ingredienser:
     "appelsinjuice",
     "safran",
   ]
+tattFra: https://www.matprat.no/oppskrifter/gjester/sjokolademoussekake/
 heroImage: "/et-sted-i-public.jpeg"
 ---
 
