@@ -11,7 +11,7 @@ heroImage: "/et-sted-i-public.jpeg"
 
 ### Bunn
 
-- 18 kronmo-kjeks
+- 18 Kornmo-kjeks
 - 75 g smør
 - 100 g sukker
 - 1/2 ts kanel

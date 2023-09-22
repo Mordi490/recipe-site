@@ -31,7 +31,7 @@ heroImage: "/et-sted-i-public.jpeg"
 
 ## Instruksjoner
 
-1. Dryss salt og spisskumin op kyllingstrimlene og stek dem raskt i olje. Avkjøl strimlene.
+1. Dryss salt og spisskumin på kyllingstrimlene og stek dem raskt i olje. Avkjøl strimlene.
 
 2. Forvell asparges og sukkererter. Antrett kyllingstrimlene på fat sammen med de andre ingrediensene
 

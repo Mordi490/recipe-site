@@ -9,7 +9,7 @@ heroImage: "/et-sted-i-public.jpeg"
 
 Skolebrør folger samme oppskrift som [prinsessekake](./prinsessekake)
 
-- **1 porsjon hvetedeigI**
+- **1 porsjon hvetedeig**
 - **1 pakke vaniljekrem**
 - **melis**
 

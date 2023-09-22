@@ -1,0 +1,31 @@
+---
+title: Nøttekake med krem
+tags: ["dessert", "småkake"]
+ingredienser: ["havregryn", "egg", "smør"]
+heroImage: "/et-sted-i-public.jpeg"
+---
+
+# Nøttekake med krem
+
+## Ingredienser
+
+### Bunner
+
+- 5 eggehviter
+- 250 g sukker
+- 250 g hakkede hasselnøtter
+
+### Fyll
+
+- 3 dl kremfløte
+- 100 g mørk kokesjokolade
+- revet skall og saft av 1 appelsin
+
+### Pynt
+
+- krem
+- kiwi
+
+## Instruksjoner
+
+Pisk eggehvitene stive. Pisk sukkeret i litt etter litt. Vend forsiktig i hakkede nøtter. Fordel deigen i 2 smurte kakefromer eller reng 2 sirkler på bakepapir, ca. 24 cm i diameter, og fordel deigen oppå. Stek bunnene 35-40 minutter ved 175 gr. La dem avkjøles. Pisk fløten stiv. Smelt sjokoladen og la den avkjøles. Bland sjokolade, revet appelsinskall og appelsinsaft i kremen. Fordel fyllet mellom de to bunnene. Sprøyt med krem langs kanten og pynt med kiwi. Bunnene kan fryses.

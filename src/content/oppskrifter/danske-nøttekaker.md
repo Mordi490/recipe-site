@@ -1,0 +1,31 @@
+---
+title: Danske nøttekaker
+tags: ["dessert", "bakverk"]
+ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+heroImage: "/et-sted-i-public.jpeg"
+---
+
+# Danske nøttekaker
+
+## Ingredienser
+
+- 1 1/2 dl (ca 100 g) nøttekjerner
+- 3 dl melis
+- 2 eggehviter
+- evt. smeltet kokesjokolade
+
+## Instruksjon
+
+1. Mal nøtten på mandelkvern. Ikke finfordel dem i foodprocessor, da flyter kakene utover under stekingen. Bland nøttene med melis i en bolle.
+
+2. Stivpisk hvitene, og rør inn litt etter litt i nøtteblandingen.
+
+3. Sett røren med to teskjeer i små topper på en bakepapirkledd stekeplate.
+
+4. Stek kakene midt i ovnen ved 175 gr, ca. 15 minutter.
+
+5. Legg bakepapiret med kakene over på en rist. Avkjøl og løsne fra papiret.
+
+6. Server kaken enkle, eller legg sammen to og to med smeltet kokesjokolade imellom.
+
+7. Oppbevar kaken tørt og kjølig hvis de har sjokoladefyll.

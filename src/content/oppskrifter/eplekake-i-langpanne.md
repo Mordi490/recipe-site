@@ -9,19 +9,16 @@ heroImage: "/et-sted-i-public.jpeg"
 
 ## Ingredienser
 
-- 1 presset appelsing og vann, tilsammen 4 dl, eller appelsinjuice
-- 50 g gjær
-- 1 ss olje
-- 1 1/2 ts salt
-- 1 ss honninh eller sirup
-- 1 1/2 dl solsikkefrø
-- 3 ss havregryn
-- 1 dl sammalt rug, grov
-- 2 dl sammalt hvete, grov
-- 1 revet eple
-- 1 revet gulrot (tilsammen ca. 1 1/2 dl)
-- ca. 10 dl hvetemel
+- 400 g siktet mel
+- 300 g sukker
+- 2 ts bakepulver
+- 100 g kokosmasse
+- 300 g smør
+- 5 store egg
+- ca. 10 epler
+- **Dryss: 2 ss sukker**
+- **Dryss: 1 ss malt kanel**
 
 ## Instruksjon
 
-Smuldre gjæren i en bakebolle, tilsett litt lunkent vann og rør ut gjæren. Tilsett olje, salt, honning og resten av væsken, revet eple og gulrot, solsikkefrø, havregryn, grovt mel og hvetemel. Elt deigen til den blir smidig. Sett deigen til hevning på et lunt sted i ca. 45 minutter. Godt tildekket med plast. Ta deigen opp på bakebordet og form til to runde brød som legges på bakepapir. Brødene kan også legges i smurte brødformer. Etterhev i ca. 2 minutter, godt tildekket. Pensle med sammenpisket egg og strø på solsikefrø. Stek brødene på nederste rille i ovnen ved 200 gr. i 30-40 minutter. Avkjøl brødene på rist. Brødene egner seg godt til frysing.
+Bland sammen mel, sukker og bakepulber. Smuldre inn romtemperet smør, eller ha alt i food processor og la maiskine gå til alt er blandet. Rør i kokos og egg. Bruk en langpanne som er ca. 30x40 cm. Legg bakepapir i bunnen av langpannen og fordel bakerøren jevnt utover. Trykk skrelte eplebiter tett sammen i røren. Dryss over sukker og kanel. Stek kaken ved 200 gr. i ca. 40 minutter.
