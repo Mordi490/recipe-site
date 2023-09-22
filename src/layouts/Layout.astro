@@ -34,7 +34,11 @@ const { tab_title, description, page_title } = Astro.props;
 
   <body class="flex flex-col h-screen">
     <Header />
-    {page_title && <h5 class="text-3xl font-bold text-center py-2">{page_title}</h5>}
+    {
+      page_title && (
+        <h5 class="text-3xl font-bold text-center py-2">{page_title}</h5>
+      )
+    }
     <main class="flex-grow px-1 mx-auto text-lg">
       <slot />
     </main>
