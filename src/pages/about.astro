@@ -4,6 +4,7 @@ import Layout from "../layouts/Layout.astro";
 import tidsskriftkassett from "../assets/images/tidsskriftkassett.jpg";
 import ark1 from "../assets/images/slitt-ark-1.jpg";
 import ark2 from "../assets/images/slitt-ark-2.jpg";
+import { Image } from "astro:assets";
 ---
 
 <Layout
@@ -22,11 +23,7 @@ import ark2 from "../assets/images/slitt-ark-2.jpg";
     </p>
 
     <div class="flex justify-center pt-2 pb-4">
-      <img
-        src={tidsskriftkassett}
-        alt="bilde av tidsskriftkassett"
-        width={300}
-      />
+      <Image src={tidsskriftkassett} alt="Bildet av tidsskriftkassetten" />
     </div>
 
     <p>
@@ -39,8 +36,8 @@ import ark2 from "../assets/images/slitt-ark-2.jpg";
     <div
       class="flex flex-col sm:flex-row items-center sm:justify-around pt-2 pb-4 gap-1"
     >
-      <img src={ark1} alt="slitt ark" width={320} />
-      <img src={ark2} alt="slitt ark" width={320} />
+      <Image src={ark1} alt="slitt ark" width={320} />
+      <Image src={ark2} alt="slitt ark" width={320} />
     </div>
 
     <p>
