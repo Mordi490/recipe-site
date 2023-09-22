@@ -1,21 +1,52 @@
 ---
 import Layout from "../layouts/Layout.astro";
+
+import tidsskriftkassett from "../assets/images/tidsskriftkassett.jpg";
+import ark1 from "../assets/images/slitt-ark-1.jpg";
+import ark2 from "../assets/images/slitt-ark-2.jpg";
 ---
 
-<Layout title="Om siden">
-  <p>
-    Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore veritatis
-    minus dolorem temporibus aliquid saepe, fugiat adipisci velit voluptate
-    officiis, dolore quos dignissimos veniam quisquam dolorum cumque repellat
-    quo ex!
-  </p>
+<Layout
+  page_title="Om Siden"
+  description="Bakgrunn for siden"
+  tab_title="Om Siden"
+>
+  <div class="max-w-4xl">
+    <p>
+      Min mor har alltid vært opptatt av baking og matlaging. Gjennom årene har
+      hun samlet mange oppskrifter. Oppskriftene kan være klippet ut av
+      magasiner, aviser, skrevet på ark eller handlelapper, utskrifter fra nett.
+      Men alt er skrevet på papir som lagres i en gammel, nokså nedslit <span
+        class="italic">tidsskriftkassett</span
+      >. , eller så ligger de løst i posen med tidsskriftkassetten.
+    </p>
 
-  <p>
-    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Placeat sed
-    quisquam ratione neque repudiandae, commodi consequuntur delectus autem
-    nesciunt temporibus. Ducimus ut eos et reprehenderit fugit assumenda
-    voluptate in tenetur provident non, obcaecati, similique numquam. Dicta
-    dolorem nostrum delectus porro itaque. Ratione alias hic nemo odio beatae
-    molestiae ipsa quas?
-  </p>
+    <div class="flex justify-center pt-2 pb-4">
+      <img
+        src={tidsskriftkassett}
+        alt="bilde av tidsskriftkassett"
+        width={300}
+      />
+    </div>
+
+    <p>
+      Flere av oppskriftene er løse ark som blir gravd opp i ny og ne, noe som
+      etter lang tid gjør oppsriftene vanskeligere å lese. Blekk som blir
+      utydeligere spm tiden går, flekker som kommer på papirene, ark som blir
+      revet, osv er de vanligste skrammene de får.
+    </p>
+
+    <div
+      class="flex flex-col sm:flex-row items-center sm:justify-around pt-2 pb-4 gap-1"
+    >
+      <img src={ark1} alt="slitt ark" width={320} />
+      <img src={ark2} alt="slitt ark" width={320} />
+    </div>
+
+    <p>
+      Riktig nok er de fleste i good stand, men uansett så kommer det en dag
+      hvor noen blir uleselige. Derav kommer behovet for denne siden. Et arkiv
+      over oppskriftene.
+    </p>
+  </div>
 </Layout>

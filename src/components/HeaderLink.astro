@@ -1,0 +1,22 @@
+---
+import type { HTMLAttributes } from "astro/types";
+import { twMerge } from "tailwind-merge";
+
+type Props = HTMLAttributes<"a">;
+
+const { href, ...props } = Astro.props;
+
+const { pathname } = Astro.url;
+const isActive = href === pathname || href === pathname.replace(/\/$/, "");
+---
+
+<a
+  href={href}
+  class={twMerge(
+    "inline-block no-underline",
+    isActive && "underline font-bold"
+  )}
+  {...props}
+>
+  <slot />
+</a>

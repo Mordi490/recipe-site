@@ -5,6 +5,7 @@ const oppskrifter = defineCollection({
   schema: z.object({
     title: z.string(),
     tags: z.array(z.string()),
+    tattFra: z.string().optional(),
     ingredienser: z.array(z.string()),
     heroImage: z.string().optional(),
   }),

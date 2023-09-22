@@ -1,23 +1,43 @@
 ---
 interface Props {
-  title: string;
+  tab_title: string;
+  description: string;
+  page_title?: string;
 }
-import "../styles/globals.css";
 
-const { title } = Astro.props;
+import "../styles/globals.css";
+import Footer from "../components/Footer.astro";
+import HeaderLink from "../components/HeaderLink.astro";
+import Header from "../components/Header.astro";
+
+const { tab_title, description, page_title } = Astro.props;
 ---
 
-<!DOCTYPE html>
-<html lang="en">
+<!doctype html>
+<html lang="en" class="bg-slate-100">
+  <!-- head & header should maybe be their own componenets -->
+
+  <!-- head for meta data  -->
   <head>
+    <!-- Global Metadata -->
     <meta charset="UTF-8" />
     <meta name="description" content="Astro description" />
     <meta name="viewport" content="width=device-width" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="generator" content={Astro.generator} />
-    <title>{title}</title>
+
+    <!-- Primary Meta Tags -->
+    <title>{tab_title}</title>
+    <meta name="title" content={tab_title} />
+    <meta name="description" content={description} />
   </head>
-  <body>
-    <slot />
+
+  <body class="flex flex-col h-screen">
+    <Header />
+    {page_title && <h5 class="text-3xl font-bold text-center py-2">{page_title}</h5>}
+    <main class="flex-grow px-1 mx-auto text-lg">
+      <slot />
+    </main>
+    <Footer />
   </body>
 </html>
