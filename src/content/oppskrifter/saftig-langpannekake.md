@@ -17,7 +17,7 @@ heroImage: "/et-sted-i-public.jpeg"
 - 1 ts vaniljesukker
 - 1 liter skummet kulturmelk
 
-### Galsur
+### Glasur
 
 - 1 dl kremfløte
 - 200 g kokesjokolade

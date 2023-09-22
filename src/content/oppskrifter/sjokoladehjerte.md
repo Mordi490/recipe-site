@@ -18,7 +18,7 @@ heroImage: "/et-sted-i-public.jpeg"
 - 1 ts bakepulver
 - 1 ts vaniljesukker
 
-### Galsur
+### Glasur
 
 - 200 g kremost
 - ca. 55 ss melis

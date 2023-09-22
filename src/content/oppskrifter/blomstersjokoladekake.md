@@ -17,7 +17,7 @@ heroImage: "/et-sted-i-public.jpeg"
 - 125 g hvetemel
 - 1 ts bakepulver
 
-### Galsur
+### Glasur
 
 - 1-2 pk. Dronning-glasur
 - kremflløte

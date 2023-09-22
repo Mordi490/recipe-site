@@ -21,7 +21,7 @@ heroImage: "/et-sted-i-public.jpeg"
 - 3 dl revne gulrøtter
 - 100 g kokesjokolade
 
-### Galsur
+### Glasur
 
 - 100 g kremost
 - 60 g smør

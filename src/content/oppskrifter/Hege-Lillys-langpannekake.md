@@ -19,7 +19,7 @@ heroImage: "/et-sted-i-public.jpeg"
 - 3 1/2 dl melk
 - 300 g smør
 
-### Galsur
+### Glasur
 
 - 75 g smør
 - 2 pl. hvit sjokolade

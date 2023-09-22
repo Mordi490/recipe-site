@@ -1,9 +1,16 @@
 ---
 import Layout from "../layouts/Layout.astro";
+import { getCollection } from "astro:content";
+
+const oppskrifter = await getCollection("oppskrifter");
+
+const total = oppskrifter.length;
 ---
 
-<Layout tab_title="tab title" description="pls i try">
+<Layout tab_title="Bentes Opskrifter" description="pls i try">
   <p class="text-xl py-6">
-    Dette er et arkiv over oppskrifter som Bente har samlet
+    Dette er et arkiv over oppskrifter som Bente har samlet.
   </p>
+
+  <h3>Det er totalt {total} oppskrifter</h3>
 </Layout>
