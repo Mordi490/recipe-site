@@ -1,15 +1,20 @@
 ---
 import type { CollectionEntry } from "astro:content";
-
+import { BASE_RECIPE_URL } from "../const";
 type Props = {
   post: CollectionEntry<"oppskrifter">;
   aboveTheFold: boolean;
 };
-const url = Astro.url;
 const { post, aboveTheFold } = Astro.props;
 ---
 
-<a href={`${url.origin}/oppskrifter/${post.slug}`}>
+<a href={`${BASE_RECIPE_URL}/oppskrifter/${post.slug}`}>
+  <pre
+    class="text-center text-xl font-semibold">
+    url origin: {JSON.stringify(Astro.url.origin, null, 2)}
+    url pathname: {JSON.stringify(Astro.url.pathname, null, 2)}
+    BASE_RECIPE_URL is {BASE_RECIPE_URL} + / + ${post.slug}
+  </pre>
   <h2
     class="text-lg font-semibold active:underline hover:underline rounded-full px-4 py-2 truncate"
   >
