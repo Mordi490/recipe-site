@@ -7,7 +7,6 @@ interface Props {
 
 import "../styles/globals.css";
 import Footer from "../components/Footer.astro";
-import HeaderLink from "../components/HeaderLink.astro";
 import Header from "../components/Header.astro";
 
 const { tab_title, description, page_title } = Astro.props;
@@ -15,9 +14,6 @@ const { tab_title, description, page_title } = Astro.props;
 
 <!doctype html>
 <html lang="en" class="bg-slate-100">
-  <!-- head & header should maybe be their own componenets -->
-
-  <!-- head for meta data  -->
   <head>
     <!-- Global Metadata -->
     <meta charset="UTF-8" />
@@ -31,9 +27,9 @@ const { tab_title, description, page_title } = Astro.props;
     <meta name="title" content={tab_title} />
     <meta name="description" content={description} />
   </head>
-
   <body class="flex flex-col h-screen">
     <Header />
+
     {
       page_title && (
         <h5 class="text-3xl font-bold text-center py-2">{page_title}</h5>

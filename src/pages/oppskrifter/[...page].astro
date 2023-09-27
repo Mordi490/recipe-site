@@ -1,0 +1,29 @@
+---
+import { getCollection, type CollectionEntry } from "astro:content";
+import Pagination from "../../components/Pagination.astro";
+import Layout from "../../layouts/Layout.astro";
+import type { GetStaticPathsOptions, Page } from "astro";
+import RecipeCard from "../../components/RecipeCard.astro";
+import { PER_PAGE } from "../../const";
+
+export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
+  const oppskrifter = await getCollection("oppskrifter");
+  return paginate(oppskrifter, { pageSize: PER_PAGE });
+}
+
+interface Post {
+  page: Page<CollectionEntry<"oppskrifter">>;
+}
+
+const { page } = Astro.props;
+const posts = page.data;
+---
+
+<Layout
+  description="Samling av oppskrifter"
+  tab_title="Oppskrifter"
+  page_title="Liste over alle oppskrifter"
+>
+  <RecipeCard posts={posts} page={page} />
+  <Pagination prevUrl={page.url.prev} nextUrl={page.url.next} url={page.url} />
+</Layout>

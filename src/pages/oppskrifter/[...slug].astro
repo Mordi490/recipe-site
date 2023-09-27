@@ -1,8 +1,6 @@
 ---
-import { CollectionEntry, getCollection } from "astro:content";
+import { type CollectionEntry, getCollection } from "astro:content";
 import RecipePost from "../../layouts/RecipePost.astro";
-
-export const prerender = true;
 
 export async function getStaticPaths() {
   const oppskrifter = await getCollection("oppskrifter");

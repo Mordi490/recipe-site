@@ -1,0 +1,23 @@
+---
+import type { Page } from "astro";
+import type { CollectionEntry } from "astro:content";
+import Recipe from "./Recipe.astro";
+
+type Props = {
+  posts: CollectionEntry<"oppskrifter">[];
+  page?: Page<CollectionEntry<"oppskrifter">>;
+};
+
+// Page might be needed for mor granular/advanced pagination setup. see https://philna.sh/blog/2023/07/13/easy-and-accessible-pagination-links-for-your-astro-collections/
+const { posts, page } = Astro.props;
+---
+
+<section>
+  <ul class="flex flex-col gap-2 py-2 sm:grid sm:grid-cols-2 xl:grid-cols-3">
+    {
+      posts.map((post, index) => (
+        <Recipe post={post} aboveTheFold={index < 1} />
+      ))
+    }
+  </ul>
+</section>

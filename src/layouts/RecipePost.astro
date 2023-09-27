@@ -1,59 +1,36 @@
 ---
 import type { CollectionEntry } from "astro:content";
-import Footer from "../components/Footer.astro";
-import HeaderLink from "../components/HeaderLink.astro";
+import Layout from "./Layout.astro";
 
 type Props = CollectionEntry<"oppskrifter">["data"];
 
 const { title, tags, ingredienser, heroImage, tattFra } = Astro.props;
 ---
 
-<!--Option A: Put your faith in TW Typography and apply 88 CSS rules
-Option B: Create inline CSS yourself --><!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>{title}</title>
-  </head>
-  <header>
-    <nav class="flex justify-around text-2xl bg-gray-400 py-2">
-      <HeaderLink href="/">Home</HeaderLink>
-      <HeaderLink href="/oppskrifter">oppskrifter</HeaderLink>
-      <HeaderLink href="/about">About</HeaderLink>
-    </nav>
-  </header>
-
-  <body>
-    <!--Find a better way to conditionally render the image if there is a image -->
-    <section class="prose prose-lg lg:prose-xl mx-auto py-4 px-2">
-      {
-        tattFra && (
-          <p class="text-sm">
-            Denne oppskriften er fra eller basert på denne:{" "}
-            <span>
-              <a href={tattFra}>{tattFra}</a>
-            </span>
-          </p>
-        )
-      }
-      <slot />
-      
-    </section>
-    <hr class="w-full h-px my-4 bg-gray-300" />
+<Layout description={`Oppskrift for: ${title}`} tab_title={title}>
+  <section class="prose prose-lg lg:prose-xl mx-auto py-4 px-2">
     {
-      heroImage && (
-        <img
-          class="mx-auto"
-          height={360}
-          width={720}
-          src={heroImage}
-          alt="bildet"
-        />
+      tattFra && (
+        <p class="text-sm">
+          Denne oppskriften er fra eller basert på denne:{" "}
+          <span>
+            <a href={tattFra}>{tattFra}</a>
+          </span>
+        </p>
       )
     }
-  </body>
-  <Footer />
-
-
-</html>
+    <slot />
+  </section>
+  <hr class="w-full h-px my-4 bg-gray-300" />
+  {
+    heroImage && (
+      <img
+        class="mx-auto"
+        height={360}
+        width={720}
+        src={heroImage}
+        alt="bildet"
+      />
+    )
+  }
+</Layout>

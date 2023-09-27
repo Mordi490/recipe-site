@@ -1,0 +1,21 @@
+---
+import type { CollectionEntry } from "astro:content";
+import { postPath } from "../utils";
+
+type Props = {
+  post: CollectionEntry<"oppskrifter">;
+  aboveTheFold: boolean;
+};
+
+const { post, aboveTheFold } = Astro.props;
+
+console.log(JSON.stringify(post,null, 4))
+console.log("pure slug:" , post.slug);
+console.log("onCLick path:" , postPath(post.slug));
+---
+
+  <a href={postPath(post.slug)}>
+    <h2 class="text-lg font-semibold active:underline hover:underline rounded-full px-4 py-2 truncate">
+      {post.data.title}
+    </h2>
+  </a>
