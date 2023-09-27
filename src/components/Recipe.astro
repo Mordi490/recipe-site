@@ -1,16 +1,15 @@
 ---
 import type { CollectionEntry } from "astro:content";
-import { postPath } from "../utils";
 
 type Props = {
   post: CollectionEntry<"oppskrifter">;
   aboveTheFold: boolean;
 };
-
+const url = Astro.url;
 const { post, aboveTheFold } = Astro.props;
 ---
 
-<a href={postPath(post.slug)}>
+<a href={`${url.origin}/oppskrifter/${post.slug}`}>
   <h2
     class="text-lg font-semibold active:underline hover:underline rounded-full px-4 py-2 truncate"
   >
