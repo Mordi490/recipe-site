@@ -23,3 +23,5 @@ heroImage: "/et-sted-i-public.jpeg"
 ## Instruksjon
 
 Pisk eggeplommer og sukker til eggedosis. Sikt inn tørre ingredienser og vend SER IKKE OPPSKRIFTEN REEE
+
+mel og natron. Pisk eggehvitene stive og fold dem inn til slutt. Stek små kopper på tørr stekepanne. Rør nyplukkede ville bær eller hangelær med litt sukekr og server til koppene.

@@ -14,18 +14,26 @@ heroImage: "/et-sted-i-public.jpeg"
 - 100 g hvetemel
 - 1 ts bakepulver
 
-Stekes i 30 min 175 gr.
-
 ## Marengs
 
 - 4 eggehviter
 - 200 g sukker
 - 1/2 boks mandler
 
-Eggehvitene piskes og sukkeret tilsetter litt etter litt. Mandlene hakkes og strøs på marengsen som er lagt på den øvrige deig.
-
 ## Fyll
 
 1 pk. romfull kokes med 3 dl melk 1/4 l fløte
 
 Avkjøl romfylet som blandes med pisket fløte.
+
+# Instruksjoner
+
+Stekes i 30 min 175 gr.
+
+Som nevnt ved ingrediensene, rør margarin og sukker hvitt. Rør inn eggeplommer ett og ett om gangen. Bland inn melk, hvetemel og bakepulver.
+
+Eggehvitene piskes og sukkeret tilsetter litt etter litt. Mandlene hakkes og strøs på marengsen som er lagt på den øvrige deig.
+
+**Fyll:** Kok romfyllet med 3 dl melk og 1/4 fløte.
+
+Avkjøl romfyllet som blandes med pisket fløte.

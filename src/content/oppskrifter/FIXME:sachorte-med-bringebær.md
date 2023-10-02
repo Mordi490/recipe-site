@@ -33,6 +33,6 @@ heroImage: "/et-sted-i-public.jpeg"
 
 ## Instruksjoner
 
-Bruk en 24 cm springform. Brekk sjokoladen i biter og smelt den med smør over svak varme. Pisk eggeplommer og sukker til tykk eggedosis. Tilsett sjokoladesmør og sikt på mel, potetmel og bakepulver. Pisk eggehvitene stive og bland alt forsiktig sammen. Hell røren i en godt smurt form og stek kaken til den er friskt brun og slipper kanten av formen. Avkjøl kaken i formen på rist. Når kaken er kald dles den i to lag. Smør et tynt lag syltetøy på den en bunnen og må på toppen.
+Bruk en 24 cm springform. Brekk sjokoladen i biter og smelt den med smør over svak varme. Pisk eggeplommer og sukker til tykk eggedosis. Tilsett sjokoladesmør og sikt på mel, potetmel og bakepulver. Pisk eggehvitene stive og bland alt forsiktig sammen. Hell røren i en godt smurt form og stek kaken til den er friskt brun og slipper kanten av formen. Avkjøl kaken i formen på rist. Når kaken er kald deles den i to lag. Smør et tynt lag syltetøy på den en bunnen og må på toppen.
 
 **Glasur:** smelt sjokoladen i fløte ved svak varme. når all

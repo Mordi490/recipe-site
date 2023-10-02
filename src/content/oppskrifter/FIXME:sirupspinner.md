@@ -21,4 +21,4 @@ heroImage: "/et-sted-i-public.jpeg"
 
 ## Instruksjon
 
-Kok opp sukker, margarin, sirup og fløte, avkjøl dette og tilsett krydderene og siktet mel. Arbeid deigen godt sett den i kjelleren til neste dag. Mandlene skåldes og deles i to. Deigen hevles tynt ut og skjæres i snipper med lakkelssnore eller skarye kruvå. Legg 1/2 skåldet mandel op hver kake. Hvis du dypper mandelen i et øyeblikk i eggehvite, fester den seg bedre til kaken. Snippene stekes 6-7 minutter i ovn på 180 grader. Avkjøl kaken før de legges i tett boks.
+Kok opp sukker, margarin, sirup og fløte, avkjøl dette og tilsett krydderene og siktet mel. Arbeid deigen godt sett den i kjelleren til neste dag. Mandlene skåldes og deles i to. Deigen hevles tynt ut og skjæres i snipper med "lakkelssnore" eller skarye kruvå. Legg 1/2 skåldet mandel op hver kake. Hvis du dypper mandelen i et øyeblikk i eggehvite, fester den seg bedre til kaken. Snippene stekes 6-7 minutter i ovn på 180 grader. Avkjøl kaken før de legges i tett boks.
