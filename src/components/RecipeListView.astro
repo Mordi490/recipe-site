@@ -8,11 +8,11 @@ type Props = {
   page?: Page<CollectionEntry<"oppskrifter">>;
 };
 
-// Page might be needed for mor granular/advanced pagination setup. see https://philna.sh/blog/2023/07/13/easy-and-accessible-pagination-links-for-your-astro-collections/
+// Page might be needed for more granular/advanced pagination setup. see https://philna.sh/blog/2023/07/13/easy-and-accessible-pagination-links-for-your-astro-collections/
 const { posts, page } = Astro.props;
 ---
 
-<section>
+<section class="pb-2">
   <ul class="flex flex-col gap-2 py-2 sm:grid sm:grid-cols-2 xl:grid-cols-3">
     {
       posts.map((post, index) => (
