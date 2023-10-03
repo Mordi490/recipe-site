@@ -2,12 +2,12 @@
 const { prevUrl, nextUrl } = Astro.props;
 ---
 
-<nav aria-label="Pagination" class="flex justify-between">
+<nav aria-label="Pagination" class="flex justify-between px-1">
   <div class="flex">
     {
       prevUrl && (
         <a
-          class="bg-blue-500 hover:bg-blue-600 text-white font-semibold py-2 px-4 rounded"
+          class="bg-blue-700 hover:bg-blue-600 text-white font-semibold py-2 px-4 rounded"
           href={prevUrl}
         >
           Forrige Side
@@ -20,7 +20,7 @@ const { prevUrl, nextUrl } = Astro.props;
     {
       nextUrl && (
         <a
-          class="bg-blue-500 hover:bg-blue-600 text-white font-semibold py-2 px-4 rounded"
+          class="bg-blue-700 hover:bg-blue-600 text-white font-semibold py-2 px-4 rounded"
           href={nextUrl}
         >
           Neste Side
