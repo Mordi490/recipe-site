@@ -4,7 +4,11 @@
 
 <aside class="flex justify-center py-2">
   <form>
-    <label for="search" class="font-bold text-lg" aria-hidden="true"></label>
+    <div class="flex flex-col">
+      <label for="search" class="font-bold text-lg" aria-hidden="true"
+        >Søk etter oppskrift</label
+      >
+    </div>
     <input
       class="border-2 border-solid border-black rounded-lg px-4 py-2 text-lg text-gray-800 focus:outline-none focus:ring focus:border-blue-300"
       type="search"
@@ -23,12 +27,11 @@
   form?.addEventListener("submit", (e) => {
     e.preventDefault();
     const formData = new FormData(form);
-    //console.log("bar: ", formData);
 
     const searchTerm = formData.get("search")?.toString();
-    //console.log("bar: ", searchTerm);
     if (!searchTerm || searchTerm.length === 0) return;
     const url = new URL("/search", window.location.origin);
     url.searchParams.set("q", searchTerm);
+    window.location.assign(url.toString());
   });
 </script>

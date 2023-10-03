@@ -3,7 +3,7 @@ import { getCollection, type CollectionEntry } from "astro:content";
 import Pagination from "../../components/Pagination.astro";
 import Layout from "../../layouts/Layout.astro";
 import type { GetStaticPathsOptions, Page } from "astro";
-import RecipeCard from "../../components/RecipeCard.astro";
+import RecipeListView from "../../components/RecipeListView.astro";
 import { PER_PAGE } from "../../const";
 
 export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
@@ -24,6 +24,6 @@ const posts = page.data;
   tab_title="Oppskrifter"
   page_title="Liste over alle oppskrifter"
 >
-  <RecipeCard posts={posts} page={page} />
+  <RecipeListView posts={posts} page={page} />
   <Pagination prevUrl={page.url.prev} nextUrl={page.url.next} url={page.url} />
 </Layout>

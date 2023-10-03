@@ -8,27 +8,34 @@ export const prerender = false;
   description={`Søk etter oppskrifter`}
   tab_title={`Søk etter oppskrifter`}
 >
-  <aside
-    class="border-2 border-solid border-black w-fit px-8 py-4 rounded-lg grid"
-  >
-    <div class="flex flex-col">
-      <label for="search" class="font-bold text-lg">Søk etter oppskrift</label>
-      <span>Søk etter tittelen på oppskrift</span>
-    </div>
-    <input
-      class="border-2 border-solid border-black rounded-lg px-4 py-2 text-lg text-gray-800 focus:outline-none focus:ring focus:border-blue-300"
-      type="search"
-      name="search"
-      id="search"
-      min="1"
-      max="40"
-      placeholder="Skriv her"
-      required
-    />
-  </aside>
-  <p id="searchReadOut"></p>
+  <div class="flex flex-col items-center pt-4 pb-2">
+    <aside
+      class="border-2 border-solid border-black w-fit px-8 py-4 rounded-lg grid"
+    >
+      <div class="flex flex-col">
+        <label for="search" class="font-bold text-lg">Søk etter oppskrift</label
+        >
+        <span>Søk etter tittelen på oppskrift</span>
+      </div>
+      <input
+        class="border-2 border-solid border-black rounded-lg px-4 py-2 text-lg text-gray-800 focus:outline-none focus:ring focus:border-blue-300"
+        type="search"
+        name="search"
+        id="search"
+        min="1"
+        max="40"
+        placeholder="Skriv her"
+        required
+      />
+    </aside>
+    <p id="searchReadOut"></p>
+  </div>
   <section aria-label="Search Reults">
-    <ul id="searchResult"></ul>
+    <ul
+      id="searchResult"
+      class="flex flex-col gap-2 py-2 sm:grid sm:grid-cols-2 xl:grid-cols-3"
+    >
+    </ul>
   </section>
 </Layout>
 
@@ -103,7 +110,6 @@ export const prerender = false;
     if (!FUSE_INSTANCE) return;
 
     const searchResult = FUSE_INSTANCE.search(search);
-    //console.log("res: ", searchResult);
     resultsList.innerHTML =
       searchResult.length > 0
         ? generateSearchList(searchResult)
@@ -124,7 +130,6 @@ export const prerender = false;
   function generateSearchList(results: any) {
     return results
       .map((res: RecipeSearchResultItem) => {
-        //console.log("searchRes: ", res);
         const { slug, title } = res.item;
         return `<li class="text-lg font-semibold active:underline hover:underline rounded-full px-4 py-2 truncate">
                 <a href="/oppskrifter/${slug}">${title}</a>
@@ -136,7 +141,7 @@ export const prerender = false;
   // functions
   function updateDocumentTitle(search: string) {
     document.title = search
-      ? `Søkeresultater for "${search}""`
+      ? `Søkeresultater for "${search}"`
       : "Søk etter oppskrift";
   }
 

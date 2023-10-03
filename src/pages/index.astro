@@ -1,6 +1,5 @@
 ---
 import SearchBar from "../components/SearchBar.astro";
-import SearchWidget from "../components/SearchWidget.astro";
 import Layout from "../layouts/Layout.astro";
 import { getCollection } from "astro:content";
 
@@ -17,6 +16,6 @@ const total = oppskrifter.length;
 
     <h3 class="italic text-base pb-4">Det er totalt {total} oppskrifter</h3>
 
-    <SearchWidget />
+    <SearchBar />
   </div>
 </Layout>
