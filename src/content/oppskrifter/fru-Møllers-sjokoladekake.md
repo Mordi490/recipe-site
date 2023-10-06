@@ -29,4 +29,4 @@ heroImage: "/et-sted-i-public.jpeg"
 
 ## Instruksjon
 
-Hell fløte, kaffe, 100 g sukker og kakao i en kjele. Gi dette et oppkok og ha det avkjøles etterpå. Rør smør og resten av sukkeret porøst. Tilsett eggene, ett av gangen, g rør godt mellom hvert egg. Bland hvetemel, vaniljesukker og bakepulver og hell dette vekselvis i smørblandingen med den avkjølte væsken. Fyll deigen i en smurt kakeform og la etterheve ca. 45 minutter. Sett den i kald ovn og sett ovnen på 175 gr. La kaken avkjøles i formen. Bland alle ingrediensene til glasuren og strym dette over når den er litt lunken pyny med skåldede mandler.
+Hell fløte, kaffe, 100 g sukker og kakao i en kjele. Gi dette et oppkok og ha det avkjøles etterpå. Rør smør og resten av sukkeret porøst. Tilsett eggene, ett av gangen, g rør godt mellom hvert egg. Bland hvetemel, vaniljesukker og bakepulver og hell dette vekselvis i smørblandingen med den avkjølte væsken. Fyll deigen i en smurt kakeform og la etterheve ca. 45 minutter. Sett den i kald ovn og sett ovnen på 175 gr. La kaken avkjøles i formen. Bland alle ingrediensene til glasuren og stryk dette over når den er litt lunken pynt med skåldede mandler.
