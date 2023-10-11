@@ -1,12 +1,16 @@
 ---
-title: Delfiakake med kviklunsj
+title: Delfiakake med kvikklunsj
 tags: ["dessert", "sukrin"]
 ingredienser: ["mandelmel", "sukrinmelis", "eggehviter"]
 tattFra: https://www.detsoteliv.no/oppskrift/delfiakake-med-kvikk-lunsj
-heroImage: "/et-sted-i-public.jpeg"
+heroImage:
+  [
+    "../../assets/recipe-images/web_delfiakake-med-kvikklunsj-en.jpg",
+    "../../assets/recipe-images/web_delfiakake-med-kvikklunsj-to.jpg",
+  ]
 ---
 
-# Delfiakake med kviklunsj
+# Delfiakake med kvikklunsj
 
 ## Ingredienser
 

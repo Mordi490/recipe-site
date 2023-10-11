@@ -2,7 +2,7 @@
 title: Ostefromasj-kake
 tags: ["dessert", "småkake"]
 ingredienser: ["havregryn", "egg", "smør"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage: ["../../assets/recipe-images/web_ostefromasj-kake.jpg"]
 ---
 
 # Ostefromasj-kake

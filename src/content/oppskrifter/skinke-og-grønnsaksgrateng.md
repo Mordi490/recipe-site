@@ -2,7 +2,11 @@
 title: Skinke- og grønnsaksgrateng
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage:
+  [
+    "../../assets/recipe-images/web_skinke-og-grønnsakgrateng.jpg",
+    "../../assets/recipe-images/web_skinke-og-grønnsakgrateng-en.jpg",
+  ]
 ---
 
 # Skinke- og grønnsaksgrateng

@@ -3,7 +3,7 @@ title: Tacosalat
 tags: ["dessert", "sukrin"]
 ingredienser: ["mandelmel", "sukrinmelis", "eggehviter"]
 tattFra: https://www.matprat.no/oppskrifter/kos/tacosalat/
-heroImage: "/et-sted-i-public.jpeg"
+heroImage: ["../../assets/recipe-images/web_tacosalat.jpg"]
 ---
 
 # Tacosalat

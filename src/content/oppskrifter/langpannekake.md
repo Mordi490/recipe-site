@@ -14,7 +14,7 @@ ingredienser:
     "melis",
     "kaffe",
   ]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage: ["../../assets/recipe-images/web_langpannekake-2.jpg"]
 ---
 
 # Langpannekake

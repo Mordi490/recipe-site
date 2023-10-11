@@ -2,7 +2,7 @@
 title: Hjertekake
 tags: ["drikke", "dessert"]
 ingredienser: ["sukker", "vann", "melk"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage: ["../../assets/recipe-images/web_hjertekake.jpg"]
 ---
 
 # Hjertekake

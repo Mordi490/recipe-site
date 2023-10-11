@@ -2,7 +2,7 @@
 title: Elins punsjboller
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage: ["../../assets/recipe-images/web_elins-beste-punsjboller.jpg"]
 ---
 
 # Elins punsjboller

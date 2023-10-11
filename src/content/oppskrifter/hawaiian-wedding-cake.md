@@ -2,7 +2,7 @@
 title: Hawaiian wedding cake
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage: ["../../assets/recipe-images/web_hawaii-wedding-cake.jpg"]
 ---
 
 # Hawaiian wedding cake
@@ -25,7 +25,6 @@ heroImage: "/et-sted-i-public.jpeg"
 - 2 pk. kremost naturell
 - 110 g smør
 - 1 ts vaniljesukker
-
 
 ## Instruksjon
 

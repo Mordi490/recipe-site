@@ -3,7 +3,12 @@ title: Snickerskladdkake
 tags: ["middag", "lasagne"]
 ingredienser: ["kjøttdeig", "pasta"]
 tattFra: https://www.detsoteliv.no/oppskrift/snickerskladdkake
-heroImage: "/et-sted-i-public.jpeg"
+heroImage:
+  [
+    "../../assets/recipe-images/web_snickerskladdkake-en.jpg",
+    "../../assets/recipe-images/web_snickerskladdkake-to.jpg",
+    "../../assets/recipe-images/web_snickerskladdkake-tre.jpg",
+  ]
 ---
 
 # Snickerskladdkake

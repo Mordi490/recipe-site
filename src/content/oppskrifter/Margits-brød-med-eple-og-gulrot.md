@@ -2,7 +2,8 @@
 title: Margits beste brød med eple og gulrot
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage:
+  ["../../assets/recipe-images/web_margits-beste-brød-med-eple-og-gulrot.jpg"]
 ---
 
 # Margits beste brød med eple og gulrot

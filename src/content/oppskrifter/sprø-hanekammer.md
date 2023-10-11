@@ -3,7 +3,7 @@ title: Sprø hanekammer
 tags: ["bakverk", "bolle", "rundstykke"]
 ingredienser:
   ["sukker", "sammalt hvetemel", "sukker", "bakepulver", "margarin", "sur melk"]
-heroImage: "/et-sted-i-public"
+heroImage: ["../../assets/recipe-images/web_sprø-hanekammer.jpg"]
 ---
 
 # Sprø hanekammer

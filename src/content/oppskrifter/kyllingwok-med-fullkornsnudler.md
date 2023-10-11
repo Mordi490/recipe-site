@@ -3,7 +3,7 @@ title: Kyllingwok med fullkornsnudler
 tags: ["dessert", "sukrin"]
 ingredienser: ["mandelmel", "sukrinmelis", "eggehviter"]
 tattFra: https://www.matprat.no/oppskrifter/sunn/kyllingwok-med-fullkornsnudler/
-heroImage: "/et-sted-i-public.jpeg"
+heroImage: ["../../assets/recipe-images/web_kyllingwok-med-fullkornnudler.jpg"]
 ---
 
 # Kyllingwok med fullkornsnudler

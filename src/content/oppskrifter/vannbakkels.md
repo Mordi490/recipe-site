@@ -2,7 +2,11 @@
 title: Vannbakkels
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage:
+  [
+    "../../assets/recipe-images/web_vannbakkels-en.jpg",
+    "../../assets/recipe-images/web_vannbakkels-to.jpg",
+  ]
 ---
 
 # Vannbakkels

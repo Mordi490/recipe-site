@@ -3,7 +3,6 @@ title: Fylte briochelengder
 tags: ["bakverk", "bolle", "rundstykke"]
 ingredienser:
   ["sukker", "sammalt hvetemel", "sukker", "bakepulver", "margarin", "sur melk"]
-heroImage: "/et-sted-i-public"
 ---
 
 # Fylte briochelengder

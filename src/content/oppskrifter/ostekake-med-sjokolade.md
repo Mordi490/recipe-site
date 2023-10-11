@@ -2,7 +2,7 @@
 title: Ostekake med sjokolade
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage: ["../../assets/recipe-images/web_wienerstenger.jpg"]
 ---
 
 # Ostekake med sjokolade

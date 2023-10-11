@@ -2,7 +2,7 @@
 title: Tante Ellas pålegg
 tags: ["dessert", "småkake"]
 ingredienser: ["kylling", "pasta", "brokkoli"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage: ["../../assets/recipe-images/web_guleprim-tante-ellas-pålegg.jpg"]
 ---
 
 # Tante Ellas pålegg

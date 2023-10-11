@@ -2,7 +2,7 @@
 title: After Eight ostekake
 tags: ["dessert", "kake", "ostekake"]
 ingredienser: ["sukrin", "egg", "rømme"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage: ["../../assets/recipe-images/web_after-eight-ostekake.jpg"]
 ---
 
 # After Eight ostekake

@@ -2,7 +2,10 @@
 title: Amalies sjokoladekake
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage:
+  [
+    "../../assets/recipe-images/web_amalies-sjokoladekake-sjokoladekake-med-granateple.jpg",
+  ]
 ---
 
 # Amalies sjokoladekake
@@ -36,4 +39,4 @@ heroImage: "/et-sted-i-public.jpeg"
 
 ## Instruksjon
 
-Rør smør og sukker hvitt og kremaktig. Rør i eggeplommen. Ha i melk blandet med kaffe vekselvis med alt det tørre. Pisk eggehviten stiv og vend det i røren. Fyll røren i godt smurt form og stek kaken ved 200 gr på nederste rille, ca. 25 minutter. Smelt sjokoladen i vannbad. Tilsett kremfløte, sterk kaffe og smeltet smør. Bland inn melisen. Legg glasuren på toppen. Pynt kaken med hvite sjkoladehjerter.
+Rør smør og sukker hvitt og kremaktig. Rør i eggeplommen. Ha i melk blandet med kaffe vekselvis med alt det tørre. Pisk eggehviten stiv og vend det i røren. Fyll røren i godt smurt form og stek kaken ved 200 gr på nederste rille, ca. 25 minutter. Smelt sjokoladen i vannbad. Tilsett kremfløte, sterk kaffe og smeltet smør. Bland inn melisen. Legg glasuren på toppen. Pynt kaken med hvite sjokoladehjerter.

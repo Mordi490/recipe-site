@@ -2,7 +2,11 @@
 title: Fylte hvetestenger og kranser
 tags: ["kake", "dessert", "bakverk"]
 ingredienser: ["sukker", "kakao", "vann", "melk"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage:
+  [
+    "../../assets/recipe-images/web_fylte-hvetestenger-og-kranser-en.jpg",
+    "../../assets/recipe-images/web_fylte-hvetestenger-og-kranser-to.jpg",
+  ]
 ---
 
 # Fylte hvetestenger og kranser

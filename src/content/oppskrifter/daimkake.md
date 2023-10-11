@@ -11,7 +11,11 @@ ingredienser:
     "margarin",
     "sur melk",
   ]
-heroImage: "/et-sted-i-public"
+heroImage:
+  [
+    "../../assets/recipe-images/web_daimkake-en.jpg",
+    "../../assets/recipe-images/web_daimkake-to.jpg",
+  ]
 ---
 
 # Daimkake

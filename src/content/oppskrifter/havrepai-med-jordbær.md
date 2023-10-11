@@ -2,7 +2,7 @@
 title: Havrepai med jordbær
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage: ["../../assets/recipe-images/web_havrepai-med-jordbær-to.jpg"]
 ---
 
 # Havrepai med jordbær

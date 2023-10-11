@@ -2,7 +2,7 @@
 title: Hong Kong-style sursøt kylling
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage: ["../../assets/recipe-images/web_hong-kong-style-sursøt-kylling.jpg"]
 ---
 
 # Hong Kong-style sursøt kylling

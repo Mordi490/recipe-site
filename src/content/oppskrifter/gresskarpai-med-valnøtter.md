@@ -2,7 +2,10 @@
 title: Gresskarpai med valnøtter
 tags: ["dessert", "småkake"]
 ingredienser: ["kylling", "pasta", "brokkoli"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage:
+  [
+    "../../assets/recipe-images/web_ferskenpai-gresskarpai-med-valnøtter-plommepai-sesamfrøkake-med-kremtopp.jpg",
+  ]
 ---
 
 # Gresskarpai med valnøtter

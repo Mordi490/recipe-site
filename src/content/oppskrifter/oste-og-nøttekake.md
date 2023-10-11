@@ -2,7 +2,7 @@
 title: Oste- og nøttekake
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage: ["../../assets/recipe-images/web_oste-og-nøttekake.jpg"]
 ---
 
 # Oste- og nøttekake

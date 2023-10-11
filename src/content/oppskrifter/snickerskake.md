@@ -1,11 +1,12 @@
 ---
-title: sjokoladekake med ostekrem
+title: Snickerskake
 tags: ["drikke", "dessert"]
 ingredienser: ["sukker", "vann", "melk"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage:
+  ["../../assets/recipe-images/web_snickers-kake-sjokoladekake-med-ostekrem.jpg"]
 ---
 
-# sjokoladekake med ostekrem
+# Snickerskake
 
 ## Ingredienser
 
@@ -22,6 +23,10 @@ heroImage: "/et-sted-i-public.jpeg"
 - 4 ss melis
 - 75 g mørk kokesjokolade
 - 3 dl fløte
+
+### Pynt
+
+- noen peanøtter
 
 ## Instruksjoner
 

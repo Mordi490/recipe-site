@@ -2,7 +2,7 @@
 title: pisket krem sukrin
 tags: ["sukrin", "glasur"]
 ingredienser: ["SukrinMelis", "kremfløte"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage: ["../../assets/recipe-images/web_sukrin-glasur-preview.jpg"]
 ---
 
 # pisket krem sukrin

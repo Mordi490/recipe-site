@@ -2,7 +2,7 @@
 title: Scaloppine av kyllingbryst
 tags: ["dessert", "småkake"]
 ingredienser: ["kylling", "pasta", "brokkoli"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage: ["../../assets/recipe-images/web_scaloppine.jpg"]
 ---
 
 # Scaloppine av kyllingbryst

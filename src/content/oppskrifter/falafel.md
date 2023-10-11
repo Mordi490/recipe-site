@@ -3,7 +3,12 @@ title: Falafel
 tags: ["dessert", "småkake"]
 ingredienser: ["havregryn", "egg", "smør"]
 tattFra: https://www.nrk.no/mat/falafel-_-kikertboller-1.12152010
-heroImage: "/et-sted-i-public.jpeg"
+heroImage:
+  [
+    "../../assets/recipe-images/web_falafel-en.jpg",
+    "../../assets/recipe-images/web_falafel-to.jpg",
+    "../../assets/recipe-images/web_falafel-tre.jpg",
+  ]
 ---
 
 # Falafel
@@ -25,6 +30,7 @@ heroImage: "/et-sted-i-public.jpeg"
 - olje til steking
 
 ### Til servering
+
 - 4 pitabrød, myke tynnbrød eller lefse
 - 2 plommetomater, i små biter
 - 1 liten slangeagurk, i små biter
@@ -41,6 +47,7 @@ Kjør kikertene i en kjøkkenbaskin sammen med løk og hvitløk. Tilsett mel, sp
 Form "fasrsen" til valnøttstore boller og oppbevar bollene i kjøleskapet. Stek bollene gylne i stekepannen i en god klunk olje før servering. Server de gjerne med [yoghurt- og tahinidipp](yoghurt-tahinidipp)
 
 ### Tips
+
 Falafel lages ofte av tørkede kikerter som har vært bløtlagt i rikelig med vann over natten. Det gir bollene en fastere konsistens, men de bør da friteres i 3-5 minutter.
 
 Når vi bruker kokte kikerter, frå bollene en myk konsistens. De må behandles forsiktig i pannen for ikke å ødelegge fasongen.

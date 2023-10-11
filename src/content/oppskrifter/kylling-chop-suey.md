@@ -3,7 +3,11 @@ title: Kylling chop suey
 tags: ["dessert", "sukrin"]
 ingredienser: ["mandelmel", "sukrinmelis", "eggehviter"]
 tattFra: https://www.matprat.no/oppskrifter/sunn/kylling-chop-suey/
-heroImage: "/et-sted-i-public.jpeg"
+heroImage:
+  [
+    "../../assets/recipe-images/web_kylling-chop-suey.jpg",
+    "../../assets/recipe-images/web_kylling-chop-suey-to.jpg",
+  ]
 ---
 
 # Kylling chop suey

@@ -2,7 +2,11 @@
 title: Marengskake terte
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage:
+  [
+    "../../assets/recipe-images/web_marengsterte-kake-en.jpg",
+    "../../assets/recipe-images/web_marengsterte-kake-to.jpg",
+  ]
 ---
 
 # Marengskake terte

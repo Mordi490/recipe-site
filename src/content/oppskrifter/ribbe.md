@@ -3,7 +3,11 @@ title: Ribbe
 tags: ["dessert", "bakverk", "sukrin"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
 tattFra: https://www.aperitif.no/oppskrifter/oppskrift/ribbe-som-gjor-glad,63327
-heroImage: "/et-sted-i-public.jpeg"
+heroImage:
+  [
+    "../../assets/recipe-images/web_ribbe.jpg",
+    "../../assets/recipe-images/web_ribbe-to.jpg",
+  ]
 ---
 
 # Ribbe

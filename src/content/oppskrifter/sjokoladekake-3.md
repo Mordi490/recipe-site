@@ -2,7 +2,7 @@
 title: Sjokoladekake 3
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage: ["../../assets/recipe-images/web_sjokoladekake-4.jpg"]
 ---
 
 # Sjokoladekake 3
@@ -28,4 +28,4 @@ heroImage: "/et-sted-i-public.jpeg"
 
 ## Instruksjoner
 
-Pisk eggedosis av sukker og egg, vend inn resten av ingrediensene og stek ved 175 gr. i ca. 45 minutter i nederste rille. 
+Pisk eggedosis av sukker og egg, vend inn resten av ingrediensene og stek ved 175 gr. i ca. 45 minutter i nederste rille.

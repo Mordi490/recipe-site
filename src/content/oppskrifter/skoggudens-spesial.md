@@ -2,7 +2,8 @@
 title: Skoggudens spesial
 tags: ["dessert", "småkake"]
 ingredienser: ["havregryn", "egg", "smør"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage: ["../../assets/recipe-images/web_skoggudens-spesial.jpg",
+"../../assets/recipe-images/web_skytten-kake-preview.jpg"]
 ---
 
 # Skoggudens spesial

@@ -18,7 +18,7 @@ ingredienser:
     "safran",
   ]
 tattFra: https://www.matprat.no/oppskrifter/gjester/sjokolademoussekake/
-heroImage: "/et-sted-i-public.jpeg"
+heroImage: ["../../assets/recipe-images/web_sjokolademoussekake.jpg"]
 ---
 
 # Sjokolademoussekake

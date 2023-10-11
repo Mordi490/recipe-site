@@ -3,7 +3,11 @@ title: Kylinggryte med kikerter, tomat og spinat
 tags: ["middag", "gryte"]
 ingredienser: ["kylling", "spinat", "tomat", "kikerter"]
 tattFra: https://www.matprat.no/oppskrifter/sunn/kyllinggryte-med-kikerter-tomat-og-spinat/
-heroImage: "/et-sted-i-public.jpeg"
+heroImage:
+  [
+    "../../assets/recipe-images/web_kyllinggryte-med-kikerter-tomat-og-spinat-en.jpg",
+    "../../assets/recipe-images/web_kyllinggryte-med-kikerter-tomat-og-spinat-to.jpg",
+  ]
 ---
 
 # Kylinggryte med kikerter, tomat og spinat

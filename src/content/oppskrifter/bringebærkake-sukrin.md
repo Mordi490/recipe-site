@@ -2,7 +2,7 @@
 title: bringebærkake-sukrin
 tags: ["sukrin", "dessert", "kake"]
 ingredienser: ["sukrin", "egg", "rømme"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage: ["../../assets/recipe-images/web_bringebærkake-sukrin.jpg"]
 ---
 
 # bringebærkake-sukrin
@@ -17,4 +17,4 @@ heroImage: "/et-sted-i-public.jpeg"
 
 ## Instruksjoner
 
-Bland ingrendiensene tilsett posens innhold og visp til en glat, jevn røre.strø over bringebær. Stekes midt i ovnen på 175 gr. i ca. 30 minutter.
+Bland ingrendiensene tilsett posens innhold og visp til en glat, jevn røre. strø over bringebær. Stekes midt i ovnen på 175 gr. i ca. 30 minutter.

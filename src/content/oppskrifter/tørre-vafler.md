@@ -2,7 +2,11 @@
 title: Tørre vafler
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage:
+  [
+    "../../assets/recipe-images/web_tørre-vafler-en.jpg",
+    "../../assets/recipe-images/web_tørre-vafler-to.jpg",
+  ]
 ---
 
 # Tørre vafler

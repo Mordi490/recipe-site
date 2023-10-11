@@ -1,11 +1,11 @@
 ---
-title: Sjokolademuffins
+title: Sjokolademuffins sukrin
 tags: ["sukrin", "dessert", "kake"]
 ingredienser: ["sukrin", "egg", "rømme"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage: ["../../assets/recipe-images/web_sjokolademuffins.jpg"]
 ---
 
-# Sjokolademuffins
+# Sjokolademuffins sukrin
 
 - 4 store egg
 - 2 dl vann

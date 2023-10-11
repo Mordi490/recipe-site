@@ -2,7 +2,7 @@
 title: Gulrotkake 3
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage: ["../../assets/recipe-images/web_gulrotkake-3.jpg"]
 ---
 
 # Gulrotkake 3

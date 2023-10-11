@@ -2,7 +2,7 @@
 title: Ostekake med svisker
 tags: ["ostekake", "dessert", "kake"]
 ingredienser: ["sukrin", "egg", "rømme"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage: ["../../assets/recipe-images/web_wienerstenger.jpg"]
 ---
 
 # Ostekake med svisker

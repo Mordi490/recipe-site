@@ -3,7 +3,7 @@ title: Litt sunnere ostekake
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
 tattFra: https://www.melk.no/Oppskrifter/Kaker/Ostekaker/En-litt-sunnere-ostekake
-heroImage: "/et-sted-i-public.jpeg"
+heroImage: ["../../assets/recipe-images/web_en-litt-sunnere-ostekake.jpg"]
 ---
 
 # Litt sunnere ostekake

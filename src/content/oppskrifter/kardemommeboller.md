@@ -2,7 +2,7 @@
 title: Kardemommeboller
 tags: ["dessert", "småkake"]
 ingredienser: ["havregryn", "egg", "smør"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage: ["../../assets/recipe-images/web_kardemommeboller.jpg"]
 ---
 
 # Kardemommeboller

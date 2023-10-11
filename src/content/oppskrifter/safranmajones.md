@@ -3,7 +3,6 @@ title: Safranmajones
 tags: ["tilbehør", "saus", "dip"]
 ingredienser: ["safran", "majones", "hvitløk"]
 tattFra: https://www.nrk.no/mat/safranmajones-1.8026143
-heroImage: "/et-sted-i-public.jpeg"
 ---
 
 # Safranmajones

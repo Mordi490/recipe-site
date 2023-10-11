@@ -2,7 +2,6 @@
 title: Festruter
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: "/et-sted-i-public.jpeg"
 ---
 
 # Festruter

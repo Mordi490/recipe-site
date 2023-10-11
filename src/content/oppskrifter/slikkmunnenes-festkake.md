@@ -2,13 +2,12 @@
 title: Slikkmunnenes festkake
 tags: ["dessert", "småkake"]
 ingredienser: ["havregryn", "egg", "smør"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage: ["../../assets/recipe-images/web_slikkemunnenes-festkake.jpg"]
 ---
 
 # Slikkmunnenes festkake
 
 Denne kaken skal dekoreres til stjernetenget vekten
-
 
 ## Ingredienser
 

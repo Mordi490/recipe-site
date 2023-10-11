@@ -2,7 +2,7 @@
 title: Lindy's New York Cheesecake
 tags: ["ostekake", "dessert", "kake"]
 ingredienser: ["sukrin", "egg", "rømme"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage: ["../../assets/recipe-images/web_lindy's-new-york-cheesecake.jpg"]
 ---
 
 # Lindy's New York Cheesecake

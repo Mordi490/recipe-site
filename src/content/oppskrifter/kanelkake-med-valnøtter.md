@@ -1,11 +1,11 @@
 ---
-title: Kanelbolle med valnøtter
+title: Kanelkake med valnøtter
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage: ["../../assets/recipe-images/web_kanelkake-med-valnøtter.jpg"]
 ---
 
-# Kanelbolle med valnøtter
+# Kanelkake med valnøtter
 
 ## Ingredienser
 

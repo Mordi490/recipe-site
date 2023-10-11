@@ -11,7 +11,7 @@ ingredienser:
     "margarin",
     "sur melk",
   ]
-heroImage: "/et-sted-i-public"
+heroImage: ["../../assets/recipe-images/web_krydderkake-i-langpanne.jpg"]
 ---
 
 # Krydderkake i langpanne

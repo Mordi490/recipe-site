@@ -1,11 +1,11 @@
 ---
-title: fiskekaker-boler-pudding
+title: fiskekaker-boller-pudding
 tags: ["dessert", "småkake"]
 ingredienser: ["kylling", "pasta", "brokkoli"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage: ["../../assets/recipe-images/web_fiskekaker-boller-pudding.jpg"]
 ---
 
-# fiskekaker-boler-pudding
+# fiskekaker-boller-pudding
 
 ## Ingredienser
 

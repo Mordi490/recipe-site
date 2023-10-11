@@ -2,7 +2,13 @@
 title: Ostekake med hvit sjokolade og gelelokk
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage:
+  [
+    "../../assets/recipe-images/web_ostekake-med-hvit-sjokolade-en.jpg",
+    "../../assets/recipe-images/web_ostekake-noe-to.jpg",
+    "../../assets/recipe-images/web_ostekake-noe-3.jpg",
+    "../../assets/recipe-images/web_ostekake-med-hvit-sjokolade-fire.jpg",
+  ]
 ---
 
 # Ostekake med hvit sjokolade og gelelokk
@@ -12,7 +18,6 @@ heroImage: "/et-sted-i-public.jpeg"
 - 1 pk kornmo-kjeks eller annen fullkorn kjeks
 - 100 g smeltet smør
 - 2 ss sukker
--
 
 ### Fyll
 
@@ -32,4 +37,4 @@ heroImage: "/et-sted-i-public.jpeg"
 
 Bruk en 22-24 cm form
 
-Legg et bakepapir i bunne av formen og smør innsiden med smør. Knus kjeks i en food processor og tilsett smør og sukker. Ha smulene i formen og klem godt ned. Sett formen i kjøleskapet mens du lager fyllet i smeltet sjokolade forsiktig i en liten kjele. Rør sammen gelatin og kokende vann til pulveret er oppløst. Pisk fløte til krem, sett til side. pisk sammen kremost og sukker i en bolle til en jevn ostekrem. Tilsett oppløst gelatin og smeltet sjokolade og pisk til godt blandet. Vend inn den piskede kremen med en slikkepott og hellt alt over kjeksbunnen. Sett kaken kaldt i minimum 2 timer. Lag gele med halvpisket av pakken. Avkjøt, mne pass på at den fortsatt er rennede og hell over kaken. Sett kaldt til gelen er stivent helt. Pynt med friske brigebær.
+Legg et bakepapir i bunne av formen og smør innsiden med smør. Knus kjeks i en food processor og tilsett smør og sukker. Ha smulene i formen og klem godt ned. Sett formen i kjøleskapet mens du lager fyllet i smeltet sjokolade forsiktig i en liten kjele. Rør sammen gelatin og kokende vann til pulveret er oppløst. Pisk fløte til krem, sett til side. pisk sammen kremost og sukker i en bolle til en jevn ostekrem. Tilsett oppløst gelatin og smeltet sjokolade og pisk til godt blandet. Vend inn den piskede kremen med en slikkepott og hellt alt over kjeksbunnen. Sett kaken kaldt i minimum 2 timer. Lag gele med halvpisket av pakken. Avkjøl, men pass på at den fortsatt er rennede og hell over kaken. Sett kaldt til gelen er stivent helt. Pynt med friske brigebær.

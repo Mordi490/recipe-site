@@ -3,7 +3,6 @@ title: Yoghurt- og thainidipp
 tags: ["dessert", "småkake"]
 ingredienser: ["havregryn", "egg", "smør"]
 tattFra: https://www.nrk.no/mat/falafel-_-kikertboller-1.12152010
-heroImage: "/et-sted-i-public.jpeg"
 ---
 
 # Yoghurt- og thainidipp

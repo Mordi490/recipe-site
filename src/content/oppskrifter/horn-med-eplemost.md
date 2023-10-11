@@ -2,7 +2,7 @@
 title: Horn med eplemost
 tags: ["tilbehør", "saus", "dip"]
 ingredienser: ["safran", "majones", "hvitløk"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage: ["../../assets/recipe-images/web_horn-med-eplemost.jpg"]
 ---
 
 # Horn med eplemost

@@ -2,7 +2,6 @@
 title: Mazariner
 tags: ["dessert", "småkake"]
 ingredienser: ["havregryn", "egg", "smør"]
-heroImage: "/et-sted-i-public.jpeg"
 ---
 
 # Mazariner

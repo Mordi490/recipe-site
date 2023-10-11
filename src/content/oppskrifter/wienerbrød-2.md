@@ -1,12 +1,16 @@
 ---
-title: Wienerboller med eggekrem
+title: Wienerbrød 2
 tags: ["bakverk", "bolle", "rundstykke"]
 ingredienser:
   ["sukker", "sammalt hvetemel", "sukker", "bakepulver", "margarin", "sur melk"]
-heroImage: "/et-sted-i-public"
+heroImage:
+  [
+    "../../assets/recipe-images/web_wienerdeig-wienerknytter-wienerboller-med-eggekrem-wienerbrød.jpg",
+    "../../assets/recipe-images/web_wienerkrans-briocher-porsjonsbriocher.jpg",
+  ]
 ---
 
-# Wienerboller med eggekrem
+# Wienerbrød 2
 
 ## Ingredienser
 

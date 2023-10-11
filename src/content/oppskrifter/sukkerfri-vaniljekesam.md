@@ -2,7 +2,7 @@
 title: sukkerfri vaniljekesam
 tags: ["sukrin", "dessert", "kake"]
 ingredienser: ["sukrin", "egg", "rømme"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage: ["../../assets/recipe-images/web_sukrin-glasur-preview.jpg"]
 ---
 
 # sukkerfri vaniljekesam

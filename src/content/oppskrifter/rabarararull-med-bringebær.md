@@ -2,7 +2,7 @@
 title: Rabarabrarull med bringebær
 tags: ["dessert", "småkake"]
 ingredienser: ["kylling", "pasta", "brokkoli"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage: ["../../assets/recipe-images/web_rabarbrarull-fruktbakkels.jpg"]
 ---
 
 # Rabarabrarull med bringebær

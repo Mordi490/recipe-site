@@ -2,7 +2,7 @@
 title: kokosmakroner 2
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage: ["../../assets/recipe-images/web_kokosmakroner.jpg"]
 ---
 
 # kokosmakroner 2
@@ -16,7 +16,7 @@ heroImage: "/et-sted-i-public.jpeg"
 
 ## Instruksjoner
 
-Pisk hvitene sitve, dryss i sukker, kokosmasse og mel. Røres i en kjele over varmen til deigen er sammenhengende. Sett deigen med dessertskje på godt smurt plate og stek kakene i 15 minutter i ovn på 180 grader.
+Pisk hvitene stive, dryss i sukker, kokosmasse og mel. Røres i en kjele over varmen til deigen er sammenhengende. Sett deigen med dessertskje på godt smurt plate og stek kakene i 15 minutter i ovn på 180 grader.
 
 # kokosmakroner 3
 

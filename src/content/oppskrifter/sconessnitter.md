@@ -2,7 +2,7 @@
 title: Sconessnitter
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage: ["../../assets/recipe-images/web_sconessnitter.jpg"]
 ---
 
 # Sconessnitter

@@ -2,7 +2,11 @@
 title: Fru Møllers sjokoladekake
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage:
+  [
+    "../../assets/recipe-images/web_fru-møllers-sjokoladekake-en.jpg",
+    "../../assets/recipe-images/web_fru-møllers-sjokoladekake-to.jpg",
+  ]
 ---
 
 # Fru Møllers sjokoladekake

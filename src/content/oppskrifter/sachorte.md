@@ -2,7 +2,7 @@
 title: Sachorte
 tags: ["sukrin", "dessert", "kake"]
 ingredienser: ["sukrin", "egg", "rømme"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage: ["../../assets/recipe-images/web_myke-cookie-sachorte.jpg"]
 ---
 
 # Sachorte
@@ -13,7 +13,7 @@ heroImage: "/et-sted-i-public.jpeg"
 - 1 pl. kokesjokolade
 - 6 eggeplommer
 - 180 g sukker
-- 100 5 hvetemel
+- 100 g hvetemel
 - 2 ss kakako
 - 1/2 ts bakepulver
 - 1 ts vaniljesukker

@@ -14,7 +14,7 @@ ingredienser:
     "pepper",
     "grønnsaksbuljong",
   ]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage: ["../../assets/recipe-images/web_wienerstenger.jpg"]
 ---
 
 # Tomatsuppe med kylling, bønner og basilikum

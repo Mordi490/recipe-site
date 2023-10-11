@@ -3,7 +3,7 @@ title: Kokosmakroner
 tags: ["middag", "suppe"]
 ingredienser: ["kylling", "pasta", "brokkoli"]
 tattFra: https://www.detsoteliv.no/oppskrift/kokosmakroner
-heroImage: "/et-sted-i-public.jpeg"
+heroImage: ["../../assets/recipe-images/web_kokosmakroner-2.jpg"]
 ---
 
 # Kokosmakroner

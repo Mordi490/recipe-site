@@ -3,7 +3,7 @@ title: Krumkaker
 tags: ["middag", "suppe"]
 ingredienser: ["kylling", "pasta", "brokkoli"]
 tattFra: https://www.detsoteliv.no/oppskrift/flotekrumkaker
-heroImage: "/et-sted-i-public.jpeg"
+heroImage: ["../../assets/recipe-images/web_fløtekrumkaker-en.jpg"]
 ---
 
 # Krumkaker

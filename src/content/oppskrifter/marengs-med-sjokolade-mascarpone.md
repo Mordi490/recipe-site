@@ -2,7 +2,7 @@
 title: Marengs med sjokolade-mascarpone
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage: ["../../assets/recipe-images/web_marengs-med-sjokolade-mascarpone.jpg"]
 ---
 
 # Marengs med sjokolade-mascarpone

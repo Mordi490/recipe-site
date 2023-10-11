@@ -2,7 +2,7 @@
 title: Innpakket Sjokoladekake
 tags: ["kake", "dessert", "bakverk"]
 ingredienser: ["sukker", "kakao", "vann", "melk"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage: ["../../assets/recipe-images/web_innpakket-sjokoladekake.jpg"]
 ---
 
 # Innpakket Sjokoladekake

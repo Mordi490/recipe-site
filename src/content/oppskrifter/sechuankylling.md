@@ -3,7 +3,7 @@ title: Sechuankylling (kinesisk)
 tags: ["middag", "wok"]
 ingredienser: ["kylling", "pasta", "brokkoli"]
 tattFra: https://www.matprat.no
-heroImage: "/et-sted-i-public.jpeg"
+heroImage: ["../../assets/recipe-images/web_sechuankylling-en.jpg"]
 ---
 
 # Sechuankylling (kinesisk)

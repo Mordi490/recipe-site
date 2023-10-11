@@ -3,7 +3,7 @@ title: Kyllingsuppe med squash og bønner
 tags: ["middag", "suppe"]
 ingredienser: ["kylling", "pasta", "brokkoli"]
 tattFra: https://www.matprat.no/oppskrifter/sunn/kyllingsuppe-med-squash-og-bonner/
-heroImage: "/et-sted-i-public.jpeg"
+heroImage: ["../../assets/recipe-images/web_wienerstenger.jpg"]
 ---
 
 # Kyllingsuppe med squash og bønner

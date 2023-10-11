@@ -2,14 +2,14 @@
 title: Påskekake
 tags: ["middag", "suppe"]
 ingredienser: ["kylling", "pasta", "brokkoli"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage: ["../../assets/recipe-images/web_påskekake.jpg"]
 ---
 
 # Påskekake
 
 ## Ingredienser
 
-### bunn
+### Bunn
 
 - 4 egg
 - 125 g sukker
@@ -26,7 +26,7 @@ heroImage: "/et-sted-i-public.jpeg"
 - 3 eggeplommer
 - 4 dl kremfløte
 
-### Pytn
+### Pynt
 
 - 300 g marsipan
 - gul konditorfarge

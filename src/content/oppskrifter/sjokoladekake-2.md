@@ -2,7 +2,7 @@
 title: Sjokoladekake 2
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage: ["../../assets/recipe-images/web_sjokoladekake-2.jpg"]
 ---
 
 # Sjokoladekake 2
@@ -21,4 +21,4 @@ heroImage: "/et-sted-i-public.jpeg"
 
 Tilsett det øvrige.
 
-Stek i 200 gr i ca. 10 minutter
+Stekes ved 200 gr i ca. 10 minutter

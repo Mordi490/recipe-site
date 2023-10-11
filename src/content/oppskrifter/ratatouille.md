@@ -3,7 +3,11 @@ title: Ratatouille
 tags: ["tilbehør", "grønnsaker"]
 ingredienser: ["kylling", "pasta", "brokkoli"]
 tattFra: https://www.matprat.no/oppskrifter/sunn/ratatouille/
-heroImage: "/et-sted-i-public.jpeg"
+heroImage:
+  [
+    "../../assets/recipe-images/web_ratatouile-en.jpg",
+    "../../assets/recipe-images/web_ratatouille-to.jpg",
+  ]
 ---
 
 # Ratatouille

@@ -3,7 +3,11 @@ title: Kylling- og nudelssupe med grønnsaker
 tags: ["middag", "pizza"]
 ingredienser: ["kylling", "pita"]
 tattFra: https://www.matprat.no/oppskrifter/sunn/kylling--og-nudelsuppe-med-gronnsaker/
-heroImage: "/et-sted-i-public.jpeg"
+heroImage:
+  [
+    "../../assets/recipe-images/web_kylling-og-nudelsuppe-med-grønnsaker-en.jpg",
+    "../../assets/recipe-images/web_kyllingsuppe-og-nudelsuppe-med-grønnsaker-to.jpg",
+  ]
 ---
 
 # Kylling- og nudelssupe med grønnsaker
@@ -11,7 +15,7 @@ heroImage: "/et-sted-i-public.jpeg"
 ## Ingredienser
 
 - 2 kyllingfilet
-- 1/2 stk finhakked løk
+- 1/2 stk finhakket løk
 - 8 dl vann
 - 1 pk nudler med krydder (Anbefaler Indomie om du får tak i)
 - 2 stk gulrøt i skier

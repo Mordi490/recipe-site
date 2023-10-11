@@ -2,7 +2,7 @@
 title: Strimlet svinekjøtt i karri
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage: ["../../assets/recipe-images/web_strimlet-svinekjøtt-i-karri.jpg"]
 ---
 
 # Strimlet svinekjøtt i karri

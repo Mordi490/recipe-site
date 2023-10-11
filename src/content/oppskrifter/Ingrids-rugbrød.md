@@ -2,7 +2,7 @@
 title: Ingrids rugbrød
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage: ["../../assets/recipe-images/web_mandelbunn-ingrids-rugbrød.jpg"]
 ---
 
 # Ingrids rugbrød

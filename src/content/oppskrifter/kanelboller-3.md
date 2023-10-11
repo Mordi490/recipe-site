@@ -1,11 +1,11 @@
 ---
-title: Kanelboller 3
+title: Kanelboller 2
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage: ["../../assets/recipe-images/web_kanelboller.jpg"]
 ---
 
-# Kanelboller 3
+# Kanelboller 2
 
 ## Ingredienser
 

@@ -3,7 +3,8 @@ title: Linsesuppe med kylling og koriander
 tags: ["middag"]
 ingredienser: ["kylling", "kikerter", "tomat"]
 tattFra: https://www.matprat.no/oppskrifter/sunn/linsesuppe-med-kylling-og-koriander/
-heroImage: "/et-sted-i-public.jpeg"
+heroImage:
+  ["../../assets/recipe-images/web_linsesuppe-med-kylling-og-koriander.jpg"]
 ---
 
 # Linsesuppe med kylling og koriander

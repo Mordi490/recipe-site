@@ -2,8 +2,7 @@
 title: Pai
 tags: ["middag"]
 ingredienser: ["kylling", "kikerter", "tomat"]
-tattFra: https://www.matprat.no
-heroImage: "/et-sted-i-public.jpeg"
+heroImage: ["../../assets/recipe-images/web_pai.jpg"]
 ---
 
 # Pai
@@ -42,4 +41,4 @@ Ha 1 ts salt over squashen og la saltet ligge i 10 minutter. Sett ovenen på 225
 
 Smelt smøret i en medium-stor panne. Ha i løk, paprika, tomat, sopp, squash og pepper. Etter ca. 5 minutter tilsett resten av krydderet og legg dette i paiformen.
 
-Bland sammen egg, melk og ost i en bolle og hel dette over paiformen med innhold. Stek dette i 45-50 minutter. 
+Bland sammen egg, melk og ost i en bolle og hel dette over paiformen med innhold. Stek dette i 45-50 minutter.

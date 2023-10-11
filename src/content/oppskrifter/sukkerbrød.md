@@ -1,11 +1,16 @@
 ---
-title: Kanelsnurrer
+title: Sukkerbrød
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage:
+  [
+    "../../assets/recipe-images/web_sukkerbrød.jpg",
+    "../../assets/recipe-images/web_sukkerbrød-en.jpg",
+    "../../assets/recipe-images/web_sukkerbrød-to.jpg",
+  ]
 ---
 
-# Kanelsnurrer 1
+# Sukkerbrød
 
 ## Ingredienser
 

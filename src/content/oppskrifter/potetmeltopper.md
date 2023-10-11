@@ -2,7 +2,7 @@
 title: Potetmeltopper
 tags: ["dessert", "sukrin"]
 ingredienser: ["mandelmel", "sukrinmelis", "eggehviter"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage: ["../../assets/recipe-images/web_potetmeltopper.jpg"]
 ---
 
 # Potetmeltopper

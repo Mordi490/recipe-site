@@ -3,18 +3,24 @@ title: Serinakaker
 tags: ["middag", "suppe"]
 ingredienser: ["kylling", "pasta", "brokkoli"]
 tattFra: https://www.detsoteliv.no/oppskrift/serinakaker
-heroImage: "/et-sted-i-public.jpeg"
+heroImage: ["../../assets/recipe-images/web_serinakaker.jpg"]
 ---
 
 # Serinakaker
 
 ## Ingredienser
 
-- 200 g smør
+- 250 g hvetemel
+- 2 ts bakepulver
+- 2 ts vaniljesukker
+- 150 g smør
 - 100 g sukker
 - 1 egg
-- 100 g mandler
-- 250 g hvetemel
+
+### Pynt
+
+- 1 eggehvite
+- hakkede mandler
 
 ## Instruksjoner
 

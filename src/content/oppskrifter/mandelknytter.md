@@ -2,7 +2,10 @@
 title: Mandelknytter
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage:
+  [
+    "../../assets/recipe-images/web_kardemommehorn-lettvinte-wienerbrød-mandelknytter.jpg",
+  ]
 ---
 
 # Mandelknytter

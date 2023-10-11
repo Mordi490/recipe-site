@@ -3,7 +3,11 @@ title: Smørruter
 tags: ["bakverk", "bolle", "rundstykke"]
 ingredienser:
   ["sukker", "sammalt hvetemel", "sukker", "bakepulver", "margarin", "sur melk"]
-heroImage: "/et-sted-i-public"
+heroImage:
+  [
+    "../../assets/recipe-images/web_brriochekake-festkringle-smørruter-en.jpg",
+    "../../assets/recipe-images/web_wienerkrans-briocher-porsjonsbriocher.jpg",
+  ]
 ---
 
 # Smørruter

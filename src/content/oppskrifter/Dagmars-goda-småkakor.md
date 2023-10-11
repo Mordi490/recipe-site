@@ -3,7 +3,7 @@ title: Dagmars goda småkakor
 tags: ["dessert", "kake"]
 ingredienser: ["smør", "sukker", "eggeplommer", "havregryn"]
 tattFra: https://www.detsoteliv.no/oppskrift/dagmars-goda-smakakor
-heroImage: "/et-sted-i-public.jpeg"
+heroImage: ["../../assets/recipe-images/web_dagmars-gode-småkakor.jpg"]
 ---
 
 # Dagmars goda småkakor

@@ -2,7 +2,7 @@
 title: Virginia konfekt
 tags: ["dessert", "småkake"]
 ingredienser: ["kylling", "pasta", "brokkoli"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage: ["../../assets/recipe-images/web_krydderknekk-virginia-konfekt.jpg"]
 ---
 
 # Virginia konfekt

@@ -1,11 +1,11 @@
 ---
-title: Potetmeltopper
+title: Kokoskake
 tags: ["dessert", "sukrin"]
 ingredienser: ["mandelmel", "sukrinmelis", "eggehviter"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage: ["../../assets/recipe-images/web_kokoskake.jpg"]
 ---
 
-# Potetmeltopper
+# Kokoskake
 
 ## Ingredienser
 

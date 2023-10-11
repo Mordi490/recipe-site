@@ -1,11 +1,12 @@
 ---
-title: saftig langpannekake
+title: Saftig langpannekake
 tags: ["sukrin", "dessert", "kake"]
 ingredienser: ["sukrin", "egg", "rømme"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage:
+  ["../../assets/recipe-images/web_blomstersjokoladekake-saftig-langpannekake.jpg"]
 ---
 
-# saftig langpannekake
+# Saftig langpannekake
 
 ## Ingredienser
 

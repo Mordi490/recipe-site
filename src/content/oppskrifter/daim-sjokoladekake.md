@@ -2,7 +2,7 @@
 title: Daim-sjokoladekake
 tags: ["ostekake", "dessert", "kake"]
 ingredienser: ["sukrin", "egg", "rømme"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage: ["../../assets/recipe-images/web_daim-sjokoladekake.jpg"]
 ---
 
 # Daim-sjokoladekake

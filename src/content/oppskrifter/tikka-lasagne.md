@@ -3,7 +3,11 @@ title: Tikka lasagne
 tags: ["middag", "lasagne"]
 ingredienser: ["kjøttdeig", "pasta"]
 tattFra: https://www.matprat.no/oppskrifter/familien/tikka-lasagne/
-heroImage: "/et-sted-i-public.jpeg"
+heroImage:
+  [
+    "../../assets/recipe-images/web_tikka-lasagne.jpg",
+    "../../assets/recipe-images/web_tikka-lasange-to.jpg",
+  ]
 ---
 
 # Tikka lasagne

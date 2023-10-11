@@ -2,7 +2,11 @@
 title: Chop suey wok
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage:
+  [
+    "../../assets/recipe-images/web_kylling-chop-suey.jpg",
+    "../../assets/recipe-images/web_kylling-chop-suey-to.jpg",
+  ]
 ---
 
 # Chop suey wok

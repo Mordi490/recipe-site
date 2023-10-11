@@ -1,5 +1,5 @@
 ---
-title: Sjokolademuffins
+title: Sjokolademuffins 2
 tags: ["bakverk", "bolle", "rundstykke"]
 ingredienser:
   [
@@ -11,16 +11,16 @@ ingredienser:
     "margarin",
     "sur melk",
   ]
-heroImage: "/et-sted-i-public"
+heroImage: ["../../assets/recipe-images/web_sjokolademuffins-dronningens-drøm.jpg"]
 ---
 
-# Sjokolademuffins
+# Sjokolademuffins 2
 
 ## Ingredienser
 
 - 3 1/2 dl hvetemel
 - 1/2 dl kakaopulver
-- 1 ts bakpulver
+- 1 ts bakepulver
 - 1/2 ts salt
 - 1 ts vaniljesukker
 - 1 1/2 dl sukker

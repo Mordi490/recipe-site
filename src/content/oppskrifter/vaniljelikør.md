@@ -2,7 +2,8 @@
 title: Vaniljelikør
 tags: ["dessert", "småkake"]
 ingredienser: ["kylling", "pasta", "brokkoli"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage:
+  ["../../assets/recipe-images/web_vaniljelikør-anislikør-appelsinlikør.jpg"]
 ---
 
 # Vaniljelikør

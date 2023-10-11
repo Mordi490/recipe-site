@@ -2,7 +2,10 @@
 title: Nøttedipp
 tags: ["dessert", "småkake"]
 ingredienser: ["kylling", "pasta", "brokkoli"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage:
+  [
+    "../../assets/recipe-images/web_nøttedip-appelsindipp-ananasdipp-normannadipp.jpg",
+  ]
 ---
 
 # Nøttedipp

@@ -2,14 +2,14 @@
 title: Sjokoladekrem
 tags: ["dessert", "bakverk", "sukrin"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage: ["../../assets/recipe-images/web_sjokoladekrem-2.jpg"]
 ---
 
 # Sjokoladekrem
 
 ## Ingredienser
 
-- 3 stk sukring melkesjokolade (40 g)
+- 3 stk sukrin melkesjokolade (40 g)
 - 2 eggeplommer
 - 3 dl fløte
 

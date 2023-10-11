@@ -2,7 +2,11 @@
 title: Kanelsnurrer
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage:
+  [
+    "../../assets/recipe-images/web_kanelsnurrer-2.jpg",
+    "../../assets/recipe-images/web_kanelsnurrer.jpg",
+  ]
 ---
 
 # Kanelsnurrer 1

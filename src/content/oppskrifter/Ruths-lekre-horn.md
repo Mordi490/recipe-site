@@ -2,7 +2,7 @@
 title: Ruths lekre horn
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage: ["../../assets/recipe-images/web_ruths-lekre-horn.jpg"]
 ---
 
 # Ruths lekre horn

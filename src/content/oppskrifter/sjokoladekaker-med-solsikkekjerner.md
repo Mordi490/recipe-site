@@ -2,7 +2,10 @@
 title: Sjokoladekake med solsikkekjerner
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage:
+  [
+    "../../assets/recipe-images/web_sjokoladekake-med-solsikkekjerner-sjokoladekake-med-lime.jpg",
+  ]
 ---
 
 # Sjokoladekake med solsikkekjerner

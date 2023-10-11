@@ -2,7 +2,7 @@
 title: sjokoladekrem-sukrin
 tags: ["sukrin", "dessert", "glasur", "kake"]
 ingredienser: ["sukrin", "melis", "vaniljepuvler", "vaniljesukker", "smør"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage: ["../../assets/recipe-images/web_sukrin-glasur-preview.jpg"]
 ---
 
 # Sjokoladekrem-sukrin

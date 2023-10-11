@@ -2,7 +2,8 @@
 title: sjokoladekake med ostekrem
 tags: ["drikke", "dessert"]
 ingredienser: ["sukker", "vann", "melk"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage:
+  ["../../assets/recipe-images/web_snickers-kake-sjokoladekake-med-ostekrem.jpg"]
 ---
 
 # sjokoladekake med ostekrem

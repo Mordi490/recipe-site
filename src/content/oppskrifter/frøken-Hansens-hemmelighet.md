@@ -2,7 +2,11 @@
 title: Frøken Hansens hemmelighet
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage:
+  [
+    "../../assets/recipe-images/web_førken-hansens-hemmelighet-en.jpg",
+    "../../assets/recipe-images/web_førken-hansens-hemmelighet-to.jpg",
+  ]
 ---
 
 # Frøken Hansens hemmelighet

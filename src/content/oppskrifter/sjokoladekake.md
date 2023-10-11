@@ -2,7 +2,7 @@
 title: Sjokoladekake
 tags: ["dessert", "småkake"]
 ingredienser: ["kylling", "pasta", "brokkoli"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage: ["../../assets/recipe-images/web_sjokoladekake.jpg"]
 ---
 
 # Sjokoladekake
@@ -26,4 +26,3 @@ heroImage: "/et-sted-i-public.jpeg"
 ## Instruksjoner
 
 Pisk sammen egg og sukker til de blir stive. Vend så inn resten, og stek ved 175 gr. i ca. 1/2 time.
-

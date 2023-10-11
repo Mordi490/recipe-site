@@ -2,7 +2,11 @@
 title: Wienerlengder
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage:
+  [
+    "../../assets/recipe-images/web_hvetebrød-med-rosiner-klippekrans-mandelfylte-smørboller-eplegjemmer.jpg",
+    "../../assets/recipe-images/web_dansk-smørbake.jpg",
+  ]
 ---
 
 # Wienerlengder

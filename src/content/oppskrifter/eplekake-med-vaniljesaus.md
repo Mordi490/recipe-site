@@ -2,7 +2,7 @@
 title: Eplekake med vaniljesaus
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage: ["../../assets/recipe-images/web_eplekake-med-vaniljesaus.jpg"]
 ---
 
 # Eplekake med vaniljesaus

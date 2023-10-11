@@ -2,7 +2,11 @@
 title: Sjokoladehjerte 2
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage:
+  [
+    "../../assets/recipe-images/web_2-verdener-sjokoladehjerte.jpg",
+    "../../assets/recipe-images/web_sjokoladehjerte-preview.jpg",
+  ]
 ---
 
 # Sjokoladehjerte 2

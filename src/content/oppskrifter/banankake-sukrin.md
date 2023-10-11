@@ -2,7 +2,7 @@
 title: banankake-sukrin
 tags: ["sukrin", "dessert", "kake"]
 ingredienser: ["sukrin", "egg", "rømme"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage: ["../../assets/recipe-images/web_banankake.jpg"]
 ---
 
 # banankake-sukrin

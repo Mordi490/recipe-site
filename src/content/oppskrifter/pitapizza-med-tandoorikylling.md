@@ -3,14 +3,18 @@ title: Pitapizza med tandoorikylling
 tags: ["middag", "pizza"]
 ingredienser: ["kylling", "pita"]
 tattFra: https://www.matprat.no/oppskrifter/familien/pitapizza-med-tandoorikylling/
-heroImage: "/et-sted-i-public.jpeg"
+heroImage:
+  [
+    "../../assets/recipe-images/web_pitapizza-med-tandoorikylling-en.jpg",
+    "../../assets/recipe-images/web_pitapizza-med-tandoorikylling-to.jpg",
+  ]
 ---
 
 # Pitapizza med tandoorikylling
 
 ## Ingredienser
 
-- 1 ok kylling lårfilet (ca. 500 g)
+- 1 pk kylling lårfilet (ca. 500 g)
 - 2 ss margarin til steking
 - 1 ss tandoorikrydder
 - 1 ts salt

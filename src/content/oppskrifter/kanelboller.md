@@ -3,7 +3,7 @@ title: Kanelboller (skillingsboller)
 tags: ["bakverk", "dessert", "boller"]
 ingredienser:
   ["smør", "margarin", "gjær", "melk", "sukker", "kardemome", "hvetemel"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage: ["../../assets/recipe-images/web_kanelboller-3.jpg"]
 ---
 
 # Kanelboller (skillingsboller)
@@ -12,7 +12,7 @@ heroImage: "/et-sted-i-public.jpeg"
 
 ### Deig
 
-- 40 g gjær
+- 50 g gjær
 - 150 g smør/margarin
 - 5 dl melk
 - 1/2 ts salt

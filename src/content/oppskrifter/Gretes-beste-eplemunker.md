@@ -2,7 +2,7 @@
 title: Gretes beste eplemunker
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage: ["../../assets/recipe-images/web_gretes-beste-eplemunker.jpg"]
 ---
 
 # Gretes beste eplemunker

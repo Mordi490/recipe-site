@@ -2,7 +2,7 @@
 title: Firkløverkake
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage: ["../../assets/recipe-images/web_firkløverkake.jpg"]
 ---
 
 # Firkløverkake

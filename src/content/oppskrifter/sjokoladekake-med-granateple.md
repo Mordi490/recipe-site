@@ -2,7 +2,10 @@
 title: Sjokoladekake med granateple
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: "/et-sted-i-public.jpeg"
+heroImage:
+  [
+    "../../assets/recipe-images/web_amalies-sjokoladekake-sjokoladekake-med-granateple.jpg",
+  ]
 ---
 
 # Sjokoladekake med granateple
