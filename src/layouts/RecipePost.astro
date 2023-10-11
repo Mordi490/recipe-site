@@ -1,6 +1,7 @@
 ---
 import type { CollectionEntry } from "astro:content";
 import Layout from "./Layout.astro";
+import { Image } from "astro:assets";
 
 type Props = CollectionEntry<"oppskrifter">["data"];
 
@@ -21,16 +22,18 @@ const { title, tags, ingredienser, heroImage, tattFra } = Astro.props;
     }
     <slot />
   </section>
-  <hr class="w-full h-px my-4 bg-gray-300" />
-  {
-    heroImage && (
-      <img
-        class="mx-auto"
-        height={360}
-        width={720}
-        src={heroImage}
-        alt="bildet"
-      />
-    )
-  }
+  <div class="flex flex-col gap-4 justify-center">
+    {
+      heroImage &&
+        heroImage.map((img) => (
+          <Image
+            height={504}
+            width={896}
+            loading="lazy"
+            src={img}
+            alt="bildet"
+          />
+        ))
+    }
+  </div>
 </Layout>
