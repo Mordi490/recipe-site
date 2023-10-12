@@ -26,13 +26,7 @@ const { title, tags, ingredienser, heroImage, tattFra } = Astro.props;
     }
     <slot />
   </section>
-  <div class="flex flex-col gap-4 justify-center">
-    {
-      heroImage &&
-        heroImage.map((img) => (
-          <Image src={img} width={900} alt="bildet av oppskriften" />
-        ))
-    }
+  <div class="flex flex-col gap-4 justify-center max-w-4xl">
     {
       heroImage &&
         heroImage.map((img) => (
