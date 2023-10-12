@@ -2,8 +2,12 @@
 import type { CollectionEntry } from "astro:content";
 import Layout from "./Layout.astro";
 import { Image } from "astro:assets";
+import ResponsiveImage from "../components/ResponsiveImage.astro";
 
 type Props = CollectionEntry<"oppskrifter">["data"];
+
+// has to be enabled for dynamic image resizing
+//export const prerender = true;
 
 const { title, tags, ingredienser, heroImage, tattFra } = Astro.props;
 ---
@@ -26,12 +30,17 @@ const { title, tags, ingredienser, heroImage, tattFra } = Astro.props;
     {
       heroImage &&
         heroImage.map((img) => (
-          <Image
-            height={504}
-            width={896}
-            loading="lazy"
+          <Image src={img} width={900} alt="bildet av oppskriften" />
+        ))
+    }
+    {
+      heroImage &&
+        heroImage.map((img) => (
+          <ResponsiveImage
             src={img}
-            alt="bildet"
+            sizes={[400, 700, 900]}
+            alt="bildet av oppskriften"
+            format="avif"
           />
         ))
     }
