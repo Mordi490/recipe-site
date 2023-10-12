@@ -38,18 +38,25 @@ import ResponsiveImage from "../components/ResponsiveImage.astro";
       revet, osv er de vanligste skrammene de får.
     </p>
 
-    <div class="max-w-4xl grid grid-cols-2 gap-1">
-      <ResponsiveImage
-        src={ark1}
-        sizes={[400, 700, 900]}
-        alt="bildet av et slitt ark"
-        format="avif"
-      /><ResponsiveImage
-        src={ark2}
-        sizes={[400, 700, 900]}
-        alt="bildet av enda et slitt ark"
-        format="avif"
-      />
+    <div
+      class="max-w-4xl flex flex-col sm:flex-row items-center sm:justify-around pt-2 pb-4 gap-1"
+    >
+      <div class="sm:w-1/2">
+        <ResponsiveImage
+          src={ark1}
+          sizes={[300, 350, 400, 450, 500, 600]}
+          alt="bildet av et slitt ark"
+          format="avif"
+        />
+      </div>
+      <div class="sm:w-1/2">
+        <ResponsiveImage
+          src={ark2}
+          sizes={[300, 350, 400, 450, 500, 600]}
+          alt="bildet av enda et slitt ark"
+          format="avif"
+        />
+      </div>
     </div>
 
     <p>
