@@ -16,7 +16,9 @@ const { posts, page } = Astro.props;
   <ul class="flex flex-col gap-2 py-2 sm:grid sm:grid-cols-2 xl:grid-cols-3">
     {
       posts.map((post, index) => (
-        <Recipe post={post} aboveTheFold={index < 1} />
+        <li class="w-fit truncate">
+          <Recipe post={post} aboveTheFold={index < 1} />
+        </li>
       ))
     }
   </ul>
