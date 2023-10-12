@@ -1,10 +1,10 @@
 ---
 import Layout from "../layouts/Layout.astro";
 
-import tidsskriftkassett from "../assets/about-images/tidsskriftkassett.jpg";
+import tidsskriftkassett from "../assets/about-images/tidsskriftkassett.webp";
 import ark1 from "../assets/about-images/web_slitt-ark-1.jpg";
 import ark2 from "../assets/about-images/web_slitt-ark-2.jpg";
-import { Image } from "astro:assets";
+import ResponsiveImage from "../components/ResponsiveImage.astro";
 ---
 
 <Layout
@@ -22,8 +22,13 @@ import { Image } from "astro:assets";
       >. , eller så ligger de løst i en pose med tidsskriftkassetten.
     </p>
 
-    <div class="flex justify-center pt-2 pb-4">
-      <Image src={tidsskriftkassett} alt="Bildet av tidsskriftkassetten" />
+    <div class="flex justify-center pt-2 pb-4 max-w-lg mx-auto">
+      <ResponsiveImage
+        src={tidsskriftkassett}
+        sizes={[400, 700, 900]}
+        alt="bildet av tidsskriftkassetten"
+        format="avif"
+      />
     </div>
 
     <p>
@@ -33,11 +38,18 @@ import { Image } from "astro:assets";
       revet, osv er de vanligste skrammene de får.
     </p>
 
-    <div
-      class="flex flex-col sm:flex-row items-center sm:justify-around pt-2 pb-4 gap-1"
-    >
-      <Image src={ark1} alt="slitt ark" width={320} />
-      <Image src={ark2} alt="slitt ark" width={320} />
+    <div class="max-w-4xl grid grid-cols-2 gap-1">
+      <ResponsiveImage
+        src={ark1}
+        sizes={[400, 700, 900]}
+        alt="bildet av et slitt ark"
+        format="avif"
+      /><ResponsiveImage
+        src={ark2}
+        sizes={[400, 700, 900]}
+        alt="bildet av enda et slitt ark"
+        format="avif"
+      />
     </div>
 
     <p>
