@@ -3,7 +3,7 @@ title: Krydret stekte kikerter
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
 tattFra: https://www.matprat.no/oppskrifter/sunn/krydrede-stekte-kikerter/
-heroImage: ["../../assets/recipe-images/web_krydrede-stekte-kikerter.jpg"]
+images: ["../../assets/recipe-images/web_krydrede-stekte-kikerter.jpg"]
 ---
 
 # Krydret stekte kikerter

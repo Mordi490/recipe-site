@@ -2,7 +2,7 @@
 title: Kanelkake med valnøtter
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: ["../../assets/recipe-images/web_kanelkake-med-valnøtter.jpg"]
+images: ["../../assets/recipe-images/web_kanelkake-med-valnøtter.jpg"]
 ---
 
 # Kanelkake med valnøtter

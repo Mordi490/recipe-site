@@ -2,7 +2,7 @@
 title: Runde blingser
 tags: ["dessert", "småkake"]
 ingredienser: ["kylling", "pasta", "brokkoli"]
-heroImage: ["../../assets/recipe-images/web_runde-blingser.jpg"]
+images: ["../../assets/recipe-images/web_runde-blingser.jpg"]
 ---
 
 # Runde blingser

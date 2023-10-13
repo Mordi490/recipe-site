@@ -2,7 +2,7 @@
 title: Sjokoladepai
 tags: ["dessert", "småkake"]
 ingredienser: ["havregryn", "egg", "smør"]
-heroImage: ["../../assets/recipe-images/web_sjokoladepai.jpg"]
+images: ["../../assets/recipe-images/web_sjokoladepai.jpg"]
 ---
 
 # Sjokoladepai

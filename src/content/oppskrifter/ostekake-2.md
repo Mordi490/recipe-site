@@ -2,7 +2,7 @@
 title: Ostekake 2
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: ["../../assets/recipe-images/web_ostekake.jpg"]
+images: ["../../assets/recipe-images/web_ostekake.jpg"]
 ---
 
 # Ostekake 2

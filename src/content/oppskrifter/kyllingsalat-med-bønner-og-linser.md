@@ -3,7 +3,7 @@ title: Kyllingsalat med bønner og linser
 tags: ["middag"]
 ingredienser: ["kylling", "kikerter", "tomat"]
 tattFra: https://www.matprat.no/oppskrifter/sunn/kyllingsalat-med-bonner-og-linser/
-heroImage:
+images:
   [
     "../../assets/recipe-images/web_kyllingsalat-med-bønner-og-linser.jpg",
     "../../assets/recipe-images/web_kyllingsalat-med-bønner-og-linser-to.jpg",

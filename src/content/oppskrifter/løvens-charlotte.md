@@ -2,7 +2,7 @@
 title: Løvens charlotte
 tags: ["dessert", "småkake"]
 ingredienser: ["havregryn", "egg", "smør"]
-heroImage: ["../../assets/recipe-images/web_løvens-charlotte.jpg"]
+images: ["../../assets/recipe-images/web_løvens-charlotte.jpg"]
 ---
 
 # Løvens charlotte

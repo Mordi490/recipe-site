@@ -2,7 +2,7 @@
 title: Melisboller
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: ["../../assets/recipe-images/web_melisboller-små-kringler-en.jpg"]
+images: ["../../assets/recipe-images/web_melisboller-små-kringler-en.jpg"]
 ---
 
 # Melisboller

@@ -3,7 +3,7 @@ title: Gulrotkake
 tags: ["middag", "sukrin", "bakverk"]
 ingredienser:
   ["egg", "soyamel", "hvitløk", "olje", "oregano", "ost", "bakepulver"]
-heroImage: ["../../assets/recipe-images/web_gulrotkake.jpg"]
+images: ["../../assets/recipe-images/web_gulrotkake.jpg"]
 ---
 
 # Gulrotkake

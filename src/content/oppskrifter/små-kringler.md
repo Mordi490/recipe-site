@@ -2,7 +2,7 @@
 title: Små kringler
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage:
+images:
   [
     "../../assets/recipe-images/web_melisboller-små-kringler-en.jpg",
     "../../assets/recipe-images/web_tyttebær-boller.jpg",

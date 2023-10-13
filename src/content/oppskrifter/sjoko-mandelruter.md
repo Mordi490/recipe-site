@@ -2,7 +2,7 @@
 title: Sjoko-mandelruter
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte"]
-heroImage: ["../../assets/recipe-images/web_sjoko-mandelruter.jpg"]
+images: ["../../assets/recipe-images/web_sjoko-mandelruter.jpg"]
 ---
 
 # Sjoko-mandelruter

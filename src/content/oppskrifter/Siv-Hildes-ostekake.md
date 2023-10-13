@@ -2,7 +2,7 @@
 title: Siv Hildes ostekake
 tags: ["sukrin", "dessert", "kake"]
 ingredienser: ["sukrin", "egg", "rømme"]
-heroImage: ["../../assets/recipe-images/web_siv-hildes-ostekake.jpg"]
+images: ["../../assets/recipe-images/web_siv-hildes-ostekake.jpg"]
 ---
 
 # Siv Hildes ostekake

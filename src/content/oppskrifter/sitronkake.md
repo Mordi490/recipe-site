@@ -2,7 +2,7 @@
 title: Sitronkake
 tags: ["ostekake", "dessert", "kake"]
 ingredienser: ["sukrin", "egg", "rømme"]
-heroImage: ["../../assets/recipe-images/web_sitronkake.jpg"]
+images: ["../../assets/recipe-images/web_sitronkake.jpg"]
 ---
 
 # Sitronkake

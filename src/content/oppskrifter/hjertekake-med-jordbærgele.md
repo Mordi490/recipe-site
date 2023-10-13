@@ -2,7 +2,7 @@
 title: Hjertekake med jordbærgele
 tags: ["ostekake", "dessert", "kake"]
 ingredienser: ["sukrin", "egg", "rømme"]
-heroImage: ["../../assets/recipe-images/web_hjertekake-med-jordbærgele.jpg"]
+images: ["../../assets/recipe-images/web_hjertekake-med-jordbærgele.jpg"]
 ---
 
 # Hjertekake med jordbærgele

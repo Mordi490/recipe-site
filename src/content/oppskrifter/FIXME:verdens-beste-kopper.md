@@ -2,7 +2,7 @@
 title: Verdens beste kopper
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: ["../../assets/recipe-images/web_verdens-beste-kopper.jpg"]
+images: ["../../assets/recipe-images/web_verdens-beste-kopper.jpg"]
 ---
 
 # Verdens beste kopper

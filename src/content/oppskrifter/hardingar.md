@@ -2,7 +2,7 @@
 title: Hardingar
 tags: ["dessert", "småkake"]
 ingredienser: ["kylling", "pasta", "brokkoli"]
-heroImage: ["../../assets/recipe-images/web_hardingar-sveler.jpg"]
+images: ["../../assets/recipe-images/web_hardingar-sveler.jpg"]
 ---
 
 # Hardingar

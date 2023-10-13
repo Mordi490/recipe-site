@@ -3,7 +3,7 @@ title: Kylling- og couscoussalat med urter
 tags: ["dessert", "kake"]
 ingredienser: ["smør", "sukker", "eggeplommer", "havregryn"]
 tattFra: https://www.matprat.no
-heroImage:
+images:
   ["../../assets/recipe-images/web_kylling-og-couscoussalat-med-urter.jpg"]
 ---
 

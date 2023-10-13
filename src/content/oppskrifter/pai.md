@@ -2,7 +2,7 @@
 title: Pai
 tags: ["middag"]
 ingredienser: ["kylling", "kikerter", "tomat"]
-heroImage: ["../../assets/recipe-images/web_pai.jpg"]
+images: ["../../assets/recipe-images/web_pai.jpg"]
 ---
 
 # Pai

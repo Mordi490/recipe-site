@@ -2,7 +2,7 @@
 title: Eplekake
 tags: ["sukrin", "dessert", "kake", "eple"]
 ingredienser: ["sukrin", "egg", "rømme"]
-heroImage: ["../../assets/recipe-images/web_eplekake.jpg"]
+images: ["../../assets/recipe-images/web_eplekake.jpg"]
 ---
 
 # Eplekake

@@ -2,7 +2,7 @@
 title: Mandelsnitter
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: ["../../assets/recipe-images/web_fine-mandelsnitter.jpg"]
+images: ["../../assets/recipe-images/web_fine-mandelsnitter.jpg"]
 ---
 
 # Mandelsnitter

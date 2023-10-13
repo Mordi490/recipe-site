@@ -3,7 +3,7 @@ title: Kylling- og couscoussalat med urter
 tags: ["middag", "suppe"]
 ingredienser: ["kylling", "pasta", "brokkoli"]
 tattFra: https://www.matprat.no/oppskrifter/sunn/kyllingsuppe-med-pasta-og-brokkoli/
-heroImage: ["../../assets/recipe-images/web_wienerstenger.jpg"]
+images: ["../../assets/recipe-images/web_wienerstenger.jpg"]
 ---
 
 # Kylling- og couscoussalat med urter

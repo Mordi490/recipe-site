@@ -2,7 +2,7 @@
 title: Lørdagskos
 tags: ["dessert", "sukrin"]
 ingredienser: ["mandelmel", "sukrinmelis", "eggehviter"]
-heroImage: ["../../assets/recipe-images/web_muffins-lørdagskos.jpg"]
+images: ["../../assets/recipe-images/web_muffins-lørdagskos.jpg"]
 ---
 
 # Lørdagskos

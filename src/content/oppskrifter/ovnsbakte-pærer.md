@@ -2,7 +2,7 @@
 title: Ovnsbakte pærer
 tags: ["dessert", "småkake"]
 ingredienser: ["kylling", "pasta", "brokkoli"]
-heroImage: ["../../assets/recipe-images/web_ovnsbakte-pærer.jpg"]
+images: ["../../assets/recipe-images/web_ovnsbakte-pærer.jpg"]
 ---
 
 # Ovnsbakte pærer

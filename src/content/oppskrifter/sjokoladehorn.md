@@ -2,7 +2,7 @@
 title: Sjokoladehorn
 tags: ["dessert", "småkake"]
 ingredienser: ["havregryn", "egg", "smør"]
-heroImage: ["../../assets/recipe-images/web_sjokoladehorn.jpg"]
+images: ["../../assets/recipe-images/web_sjokoladehorn.jpg"]
 ---
 
 # Sjokoladehorn

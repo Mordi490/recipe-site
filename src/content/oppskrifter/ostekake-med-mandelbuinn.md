@@ -2,7 +2,7 @@
 title: Osetkake med mandelbunn
 tags: ["ostekake", "dessert", "kake"]
 ingredienser: ["sukrin", "egg", "rømme"]
-heroImage: ["../../assets/recipe-images/web_ostekake-med-mandelbunn.jpg"]
+images: ["../../assets/recipe-images/web_ostekake-med-mandelbunn.jpg"]
 ---
 
 # Osetkake med mandelbunn

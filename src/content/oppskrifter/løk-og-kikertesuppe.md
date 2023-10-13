@@ -3,7 +3,7 @@ title: Løk- og kikertesuppe
 tags: ["dessert", "sukrin"]
 ingredienser: ["mandelmel", "sukrinmelis", "eggehviter"]
 tattFra: https://www.rema.no/oppskrifter/gronnsaker/gronnsaksuppe-med-lok-og-kikerter/
-heroImage: ["../../assets/recipe-images/web_løk-og-kikertesuppe.jpg"]
+images: ["../../assets/recipe-images/web_løk-og-kikertesuppe.jpg"]
 ---
 
 # Løk- og kikertesuppe

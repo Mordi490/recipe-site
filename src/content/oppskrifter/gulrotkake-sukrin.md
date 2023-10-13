@@ -2,7 +2,7 @@
 title: gulrot sukrin
 tags: ["sukrin", "dessert", "kake"]
 ingredienser: ["sukrin", "egg", "rømme"]
-heroImage: ["../../assets/recipe-images/web_gulrotkake-sukrin.jpg"]
+images: ["../../assets/recipe-images/web_gulrotkake-sukrin.jpg"]
 ---
 
 # gulrot sukrin

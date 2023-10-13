@@ -2,7 +2,7 @@
 title: Lettvinte wienerbrød 3
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage:
+images:
   [
     "../../assets/recipe-images/web_lettvinte-wienerbrød-en.jpg",
     "../../assets/recipe-images/web_lettvinte-wienerbrød-to.jpg",

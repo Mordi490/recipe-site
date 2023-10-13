@@ -2,7 +2,7 @@
 title: Auds frokostbrød
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: ["../../assets/recipe-images/web_auds-frokostbrød.jpg"]
+images: ["../../assets/recipe-images/web_auds-frokostbrød.jpg"]
 ---
 
 # Auds frokostbrød

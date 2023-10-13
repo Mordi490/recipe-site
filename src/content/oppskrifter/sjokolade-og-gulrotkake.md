@@ -2,7 +2,7 @@
 title: Sjokolade- og gulrotkake
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte"]
-heroImage: ["../../assets/recipe-images/web_sjokolade-og-gulrotkake.jpg"]
+images: ["../../assets/recipe-images/web_sjokolade-og-gulrotkake.jpg"]
 ---
 
 # Sjokolade- og gulrotkake

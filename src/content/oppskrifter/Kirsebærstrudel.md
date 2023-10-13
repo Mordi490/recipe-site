@@ -2,7 +2,7 @@
 title: Kirsebærstrudel
 tags: ["dessert", "småkake"]
 ingredienser: ["kylling", "pasta", "brokkoli"]
-heroImage:
+images:
   [
     "../../assets/recipe-images/web_kirsebærlengde-kirsebærstrudel-kirsebærmuffins.jpg",
   ]

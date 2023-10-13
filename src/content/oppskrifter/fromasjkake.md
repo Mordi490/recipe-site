@@ -2,7 +2,7 @@
 title: fromasjkake
 tags: ["drikke", "dessert"]
 ingredienser: ["sukker", "vann", "melk"]
-heroImage: ["../../assets/recipe-images/web_fromasjkake.jpg"]
+images: ["../../assets/recipe-images/web_fromasjkake.jpg"]
 ---
 
 # fromasjkake

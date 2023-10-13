@@ -2,7 +2,7 @@
 title: Rundstykker med cottage cheese
 tags: ["dessert", "småkake"]
 ingredienser: ["havregryn", "egg", "smør"]
-heroImage:
+images:
   [
     "../../assets/recipe-images/web_rundstykker-med-cottage-cheese-rugboller-mammas-knuter-med-kli.jpg",
   ]

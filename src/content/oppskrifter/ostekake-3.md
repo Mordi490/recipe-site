@@ -2,7 +2,7 @@
 title: Ostekake 3
 tags: ["dessert", "bakverk", "sukrin"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: ["../../assets/recipe-images/web_ostekake-4.jpg"]
+images: ["../../assets/recipe-images/web_ostekake-4.jpg"]
 ---
 
 # Ostekake 3

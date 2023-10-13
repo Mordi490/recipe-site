@@ -2,7 +2,7 @@
 title: Frisk sommerkake
 tags: ["ostekake", "dessert", "kake"]
 ingredienser: ["sukrin", "egg", "rømme"]
-heroImage: ["../../assets/recipe-images/web_frisk-sommerkake.jpg"]
+images: ["../../assets/recipe-images/web_frisk-sommerkake.jpg"]
 ---
 
 # Friskp sommerkake

@@ -11,7 +11,7 @@ ingredienser:
     "margarin",
     "sur melk",
   ]
-heroImage: ["../../assets/recipe-images/web_hvetedeig-horn.jpg"]
+images: ["../../assets/recipe-images/web_hvetedeig-horn.jpg"]
 ---
 
 # Horn

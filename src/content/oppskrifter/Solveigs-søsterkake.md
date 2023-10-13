@@ -2,7 +2,7 @@
 title: Solveigs søsterkake
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: ["../../assets/recipe-images/web_solveigs-søsterkake-en.jpg"]
+images: ["../../assets/recipe-images/web_solveigs-søsterkake-en.jpg"]
 ---
 
 # Solveigs søsterkake

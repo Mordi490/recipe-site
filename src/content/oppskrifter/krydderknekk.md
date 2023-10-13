@@ -2,7 +2,7 @@
 title: Krydderknekk
 tags: ["dessert", "småkake"]
 ingredienser: ["kylling", "pasta", "brokkoli"]
-heroImage: ["../../assets/recipe-images/web_krydderknekk-virginia-konfekt.jpg"]
+images: ["../../assets/recipe-images/web_krydderknekk-virginia-konfekt.jpg"]
 ---
 
 # Krydderknekk

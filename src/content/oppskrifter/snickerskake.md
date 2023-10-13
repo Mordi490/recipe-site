@@ -2,7 +2,7 @@
 title: Snickerskake
 tags: ["drikke", "dessert"]
 ingredienser: ["sukker", "vann", "melk"]
-heroImage:
+images:
   [
     "../../assets/recipe-images/web_snickers-kake-sjokoladekake-med-ostekrem.jpg",
   ]

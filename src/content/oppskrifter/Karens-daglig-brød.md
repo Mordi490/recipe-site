@@ -2,7 +2,7 @@
 title: Karens daglige brød
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage:
+images:
   [
     "../../assets/recipe-images/web_mormors-havregrynsbørd-karens-daglige-brød.jpg",
   ]

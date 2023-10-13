@@ -11,7 +11,7 @@ ingredienser:
     "margarin",
     "sur melk",
   ]
-heroImage: ["../../assets/recipe-images/web_risotto-brytebrød.jpg"]
+images: ["../../assets/recipe-images/web_risotto-brytebrød.jpg"]
 ---
 
 # Risotto

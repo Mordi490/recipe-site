@@ -2,7 +2,7 @@
 title: Mandel-mokkakake
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte"]
-heroImage: ["../../assets/recipe-images/web_mandel-mokkakake.jpg"]
+images: ["../../assets/recipe-images/web_mandel-mokkakake.jpg"]
 ---
 
 # Mandel-mokkakake

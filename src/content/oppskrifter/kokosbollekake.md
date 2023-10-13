@@ -12,7 +12,7 @@ ingredienser:
     "mørk kokesjokolade",
     "kokosmasse",
   ]
-heroImage: ["../../assets/recipe-images/web_kokosbollekake-2.jpg"]
+images: ["../../assets/recipe-images/web_kokosbollekake-2.jpg"]
 ---
 
 # Kokosbollekake

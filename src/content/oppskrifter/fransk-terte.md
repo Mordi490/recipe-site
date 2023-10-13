@@ -2,7 +2,7 @@
 title: Fransk terte
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: ["../../assets/recipe-images/web_fransk-terte.jpg"]
+images: ["../../assets/recipe-images/web_fransk-terte.jpg"]
 ---
 
 # Fransk terte

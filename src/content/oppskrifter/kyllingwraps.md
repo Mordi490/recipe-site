@@ -3,7 +3,7 @@ title: Kyllingwraps
 tags: ["middag", "wok"]
 ingredienser: ["kylling", "pasta", "brokkoli"]
 tattFra: https://www.nrk.no/mat/kyllingwraps-1.12271835
-heroImage:
+images:
   [
     "../../assets/recipe-images/web_kyllingwraps-en.jpg",
     "../../assets/recipe-images/web_kyllingwraps-to.jpg",

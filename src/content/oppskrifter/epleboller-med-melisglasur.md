@@ -2,7 +2,7 @@
 title: Epleboller med melisglasur
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage:
+images:
   [
     "../../assets/recipe-images/web_hveteboller-epleboller-med-melisglasur-mandelboller-vaniljeboller.jpg",
   ]

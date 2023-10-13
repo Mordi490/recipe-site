@@ -2,7 +2,7 @@
 title: Yoghurtdressinger
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage:
+images:
   [
     "../../assets/recipe-images/web_yoghurtdressinger-to.jpg",
     "../../assets/recipe-images/web_yoghurt-dressinger-en.jpg",

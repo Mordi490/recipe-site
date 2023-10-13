@@ -2,7 +2,7 @@
 title: Julens ostekjeks
 tags: ["dessert", "småkake"]
 ingredienser: ["kylling", "pasta", "brokkoli"]
-heroImage: ["../../assets/recipe-images/web_julens-ostekjeks.jpg"]
+images: ["../../assets/recipe-images/web_julens-ostekjeks.jpg"]
 ---
 
 # Julens ostekjeks

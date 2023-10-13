@@ -2,7 +2,7 @@
 title: Kristins ostekake
 tags: ["ostekake", "dessert", "kake"]
 ingredienser: ["sukrin", "egg", "rømme"]
-heroImage: ["../../assets/recipe-images/web_wienerstenger.jpg"]
+images: ["../../assets/recipe-images/web_wienerstenger.jpg"]
 ---
 
 # Kristins ostekake

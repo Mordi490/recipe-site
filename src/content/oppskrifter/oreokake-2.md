@@ -2,7 +2,7 @@
 title: Oreokake 2
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: ["../../assets/recipe-images/web_oreokake.jpg"]
+images: ["../../assets/recipe-images/web_oreokake.jpg"]
 ---
 
 # Oreokake 2

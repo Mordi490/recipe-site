@@ -2,7 +2,7 @@
 title: Sjokoladekake 5
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: ["../../assets/recipe-images/web_sjokoladekake-3.jpg"]
+images: ["../../assets/recipe-images/web_sjokoladekake-3.jpg"]
 ---
 
 # Sjokoladekake 5

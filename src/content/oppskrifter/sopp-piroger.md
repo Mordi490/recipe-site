@@ -2,7 +2,7 @@
 title: Sopp-piroger
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: ["../../assets/recipe-images/web_sopp-piroger.jpg"]
+images: ["../../assets/recipe-images/web_sopp-piroger.jpg"]
 ---
 
 # Sopp-piroger

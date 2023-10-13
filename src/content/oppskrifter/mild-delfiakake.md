@@ -3,7 +3,7 @@ title: Mild delfiakake
 tags: ["dessert", "kake"]
 ingredienser: ["smør", "sukker", "eggeplommer", "havregryn"]
 tattFra: https://www.detsoteliv.no/oppskrift/mild-delfiakake
-heroImage: ["../../assets/recipe-images/web_mild-delfiakake.jpg"]
+images: ["../../assets/recipe-images/web_mild-delfiakake.jpg"]
 ---
 
 # Mild delfiakake

@@ -2,7 +2,7 @@
 title: Stekte epler med honning og valnøtter
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage:
+images:
   ["../../assets/recipe-images/web_stekte-epler-med-honninh-og-valnøtter.jpg"]
 ---
 

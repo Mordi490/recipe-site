@@ -2,7 +2,7 @@
 title: Janes brownies
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage:
+images:
   ["../../assets/recipe-images/web_sarah-bernard-to-janes-brownies.jpg"]
 ---
 

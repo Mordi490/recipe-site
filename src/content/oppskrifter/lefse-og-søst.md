@@ -2,7 +2,7 @@
 title: Lefse og søst
 tags: ["dessert", "småkake"]
 ingredienser: ["kylling", "pasta", "brokkoli"]
-heroImage: ["../../assets/recipe-images/web_lefse-og-søst.jpg"]
+images: ["../../assets/recipe-images/web_lefse-og-søst.jpg"]
 ---
 
 # Lefse og søst

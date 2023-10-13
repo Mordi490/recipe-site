@@ -2,7 +2,7 @@
 title: Lakseform med brokkoli
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: ["../../assets/recipe-images/web_lakseform-med-brokkoli.jpg"]
+images: ["../../assets/recipe-images/web_lakseform-med-brokkoli.jpg"]
 ---
 
 # Lakseform med brokkoli

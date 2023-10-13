@@ -2,7 +2,7 @@
 title: Marsipan
 tags: ["dessert", "sukrin"]
 ingredienser: ["mandelmel", "sukrinmelis", "eggehviter", "sukrin gold"]
-heroImage: ["../../assets/recipe-images/web_wienerstenger.jpg"]
+images: ["../../assets/recipe-images/web_wienerstenger.jpg"]
 ---
 
 # Marsipan

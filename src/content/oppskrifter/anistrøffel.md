@@ -2,7 +2,7 @@
 title: Anistrøffel
 tags: ["dessert", "småkake"]
 ingredienser: ["kylling", "pasta", "brokkoli"]
-heroImage: ["../../assets/recipe-images/web_anistrøffel.jpg"]
+images: ["../../assets/recipe-images/web_anistrøffel.jpg"]
 ---
 
 # Anistrøffel

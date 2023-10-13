@@ -2,7 +2,7 @@
 title: Kandiserte valnøtter
 tags: ["dessert", "småkake"]
 ingredienser: ["kylling", "pasta", "brokkoli"]
-heroImage: ["../../assets/recipe-images/web_kandiserte-valnøtter.jpg"]
+images: ["../../assets/recipe-images/web_kandiserte-valnøtter.jpg"]
 ---
 
 # Kandiserte valnøtter

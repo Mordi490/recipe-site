@@ -8,7 +8,7 @@ type Props = CollectionEntry<"oppskrifter">["data"];
 // has to be enabled for dynamic image resizing
 //export const prerender = true;
 
-const { title, tags, ingredienser, heroImage, tattFra } = Astro.props;
+const { title, tags, ingredienser, images, tattFra } = Astro.props;
 ---
 
 <Layout description={`Oppskrift for: ${title}`} tab_title={title}>
@@ -27,8 +27,8 @@ const { title, tags, ingredienser, heroImage, tattFra } = Astro.props;
   </section>
   <div class="flex max-w-4xl flex-col justify-center gap-4">
     {
-      heroImage &&
-        heroImage.map((img) => (
+      images &&
+        images.map((img) => (
           <ResponsiveImage
             src={img}
             sizes={[400, 700, 900]}

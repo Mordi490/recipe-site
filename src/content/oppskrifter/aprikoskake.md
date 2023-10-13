@@ -2,7 +2,7 @@
 title: Aprikoskake
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: ["../../assets/recipe-images/web_aprikoskake.jpg"]
+images: ["../../assets/recipe-images/web_aprikoskake.jpg"]
 ---
 
 # Aprikoskake

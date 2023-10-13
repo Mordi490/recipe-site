@@ -2,7 +2,7 @@
 title: Trekantet sjokoladekake
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: ["../../assets/recipe-images/web_trekantet-sjokoladekake.jpg"]
+images: ["../../assets/recipe-images/web_trekantet-sjokoladekake.jpg"]
 ---
 
 # Trekantet sjokoladekake

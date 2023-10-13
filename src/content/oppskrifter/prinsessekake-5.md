@@ -2,7 +2,7 @@
 title: Prinsessekake 5
 tags: ["dessert", "småkake"]
 ingredienser: ["havregryn", "egg", "smør"]
-heroImage:
+images:
   [
     "../../assets/recipe-images/web_jomfruens-kake(prinsessekake).jpg",
 

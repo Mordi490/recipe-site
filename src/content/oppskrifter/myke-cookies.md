@@ -2,7 +2,7 @@
 title: myke cookies
 tags: ["sukrin", "dessert", "kake"]
 ingredienser: ["sukrin", "egg", "rømme"]
-heroImage: ["../../assets/recipe-images/web_myke-cookie-sachorte.jpg"]
+images: ["../../assets/recipe-images/web_myke-cookie-sachorte.jpg"]
 ---
 
 # myke cookies

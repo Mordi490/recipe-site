@@ -2,7 +2,7 @@
 title: Eplekake med romkrem
 tags: ["dessert", "småkake"]
 ingredienser: ["havregryn", "egg", "smør"]
-heroImage:
+images:
   [
     "../../assets/recipe-images/web_eplekake-med-romkrem-en.jpg",
     "../../assets/recipe-images/web_eplekake-med-romkrem-to.jpg",

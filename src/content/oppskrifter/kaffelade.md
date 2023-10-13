@@ -2,7 +2,7 @@
 title: Kaffelade
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: ["../../assets/recipe-images/web_kaffelade.jpg"]
+images: ["../../assets/recipe-images/web_kaffelade.jpg"]
 ---
 
 # Kaffelade

@@ -2,7 +2,7 @@
 title: Sjokoladebombe
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte"]
-heroImage: ["../../assets/recipe-images/web_sjokoladebombe.jpg"]
+images: ["../../assets/recipe-images/web_sjokoladebombe.jpg"]
 ---
 
 # Sjokoladebombe

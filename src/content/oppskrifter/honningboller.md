@@ -2,7 +2,7 @@
 title: Honningboller
 tags: ["dessert", "småkake"]
 ingredienser: ["havregryn", "egg", "smør"]
-heroImage: ["../../assets/recipe-images/web_honningboller.jpg"]
+images: ["../../assets/recipe-images/web_honningboller.jpg"]
 ---
 
 # Honningboller

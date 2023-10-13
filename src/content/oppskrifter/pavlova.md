@@ -2,7 +2,7 @@
 title: Pavlova
 tags: ["dessert", "småkake"]
 ingredienser: ["kylling", "pasta", "brokkoli"]
-heroImage: ["../../assets/recipe-images/web_pavlova.jpg"]
+images: ["../../assets/recipe-images/web_pavlova.jpg"]
 ---
 
 # Pavlova

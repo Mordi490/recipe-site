@@ -3,7 +3,7 @@ title: Grove pannekaker
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
 tattFra: https://www.matprat.no/oppskrifter/rask/grove-pannekaker/
-heroImage: ["../../assets/recipe-images/web_grove-pannekaker.jpg"]
+images: ["../../assets/recipe-images/web_grove-pannekaker.jpg"]
 ---
 
 # Grove pannekaker

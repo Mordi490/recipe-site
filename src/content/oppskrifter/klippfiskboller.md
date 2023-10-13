@@ -3,7 +3,7 @@ title: Klippfiskboller
 tags: ["middag", "suppe"]
 ingredienser: ["kylling", "pasta", "brokkoli"]
 tattFra: https://www.nrk.no/mat/klippfiskboller-1.8026137
-heroImage:
+images:
   [
     "../../assets/recipe-images/web_klippfiskboller-en.jpg",
     "../../assets/recipe-images/web_klippfiskboller-to.jpg",

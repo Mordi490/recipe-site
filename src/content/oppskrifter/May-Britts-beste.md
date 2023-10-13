@@ -2,7 +2,7 @@
 title: May-Britts beste
 tags: ["ostekake", "dessert", "kake"]
 ingredienser: ["sukrin", "egg", "rømme"]
-heroImage: ["../../assets/recipe-images/web_may-britts-beste.jpg"]
+images: ["../../assets/recipe-images/web_may-britts-beste.jpg"]
 ---
 
 # May-Britts beste

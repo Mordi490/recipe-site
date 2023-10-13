@@ -2,7 +2,7 @@
 title: Sankthans-rulade
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage:
+images:
   [
     "../../assets/recipe-images/web_sankthans-rulade-en.jpg",
     "../../assets/recipe-images/web_sankthans-rulade-to.jpg",

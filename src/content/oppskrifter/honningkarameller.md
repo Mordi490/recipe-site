@@ -2,7 +2,7 @@
 title: Honningkarameller
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage:
+images:
   [
     "../../assets/recipe-images/web_honningkarameller-en.jpg",
     "../../assets/recipe-images/web_honningkarameller-to.jpg",

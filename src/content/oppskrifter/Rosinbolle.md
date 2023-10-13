@@ -2,7 +2,7 @@
 title: Rosinbolle
 tags: ["dessert", "småkake"]
 ingredienser: ["havregryn", "egg", "smør"]
-heroImage: ["../../assets/recipe-images/web_rosinboller.jpg"]
+images: ["../../assets/recipe-images/web_rosinboller.jpg"]
 ---
 
 # Rosinbolle

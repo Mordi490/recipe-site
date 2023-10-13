@@ -2,7 +2,7 @@
 title: Frokostrundstykker med hvete
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: ["../../assets/recipe-images/web_frokostrundstykker-med-hvete.jpg"]
+images: ["../../assets/recipe-images/web_frokostrundstykker-med-hvete.jpg"]
 ---
 
 # Frokostrundstykker med hvete

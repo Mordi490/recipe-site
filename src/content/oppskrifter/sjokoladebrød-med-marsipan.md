@@ -2,7 +2,7 @@
 title: Sjokoladebrød med marsipan
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte"]
-heroImage: ["../../assets/recipe-images/web_sjokoladebrød-med-marsipan.jpg"]
+images: ["../../assets/recipe-images/web_sjokoladebrød-med-marsipan.jpg"]
 ---
 
 # Sjokoladebrød med marsipan

@@ -2,7 +2,7 @@
 title: Anettes banankake
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: ["../../assets/recipe-images/web_anettes-banankake.jpg"]
+images: ["../../assets/recipe-images/web_anettes-banankake.jpg"]
 ---
 
 # Anettes banankake

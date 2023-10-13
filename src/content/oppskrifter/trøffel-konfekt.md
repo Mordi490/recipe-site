@@ -2,7 +2,7 @@
 title: Trøffel konfekt
 tags: ["dessert", "småkake"]
 ingredienser: ["kylling", "pasta", "brokkoli"]
-heroImage:
+images:
   [
     "../../assets/recipe-images/web_sjakkruter-sjokoladepletter-med-marsipan-trøffel-konfekt.jpg",
   ]

@@ -2,7 +2,7 @@
 title: Nøttekake med sjokolade og aprikos
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage:
+images:
   ["../../assets/recipe-images/web_nøttekake-med-sjokolade-og-aprikos.jpg"]
 ---
 

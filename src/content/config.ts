@@ -8,7 +8,7 @@ const oppskrifter = defineCollection({
       tags: z.array(z.string()),
       tattFra: z.string().optional(),
       ingredienser: z.array(z.string()),
-      heroImage: image().array().optional(),
+      images: image().array().optional(),
     }),
 });
 

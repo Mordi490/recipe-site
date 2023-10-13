@@ -11,7 +11,7 @@ ingredienser:
     "margarin",
     "sur melk",
   ]
-heroImage:
+images:
   [
     "../../assets/recipe-images/web_scones-kakao-2.jpg",
     "../../assets/recipe-images/web_scones-kakao.jpg",

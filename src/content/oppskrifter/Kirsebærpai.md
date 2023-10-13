@@ -2,7 +2,7 @@
 title: Kirsebærpai
 tags: ["dessert", "småkake"]
 ingredienser: ["kylling", "pasta", "brokkoli"]
-heroImage:
+images:
   ["../../assets/recipe-images/web_kirsebærpai-smuldrepai-med-kirsebær.jpg"]
 ---
 

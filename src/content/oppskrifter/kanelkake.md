@@ -2,7 +2,7 @@
 title: Kanelkake
 tags: ["dessert", "småkake"]
 ingredienser: ["havregryn", "egg", "smør"]
-heroImage: ["../../assets/recipe-images/web_kanelkake.jpg"]
+images: ["../../assets/recipe-images/web_kanelkake.jpg"]
 ---
 
 # Kanelkake

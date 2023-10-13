@@ -2,7 +2,7 @@
 title: Lettvint eplekake
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: ["../../assets/recipe-images/web_lettvint-eplekake.jpg"]
+images: ["../../assets/recipe-images/web_lettvint-eplekake.jpg"]
 ---
 
 # Lettvint eplekake

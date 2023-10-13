@@ -3,7 +3,7 @@ title: Banan split kake
 tags: ["kake", "iskake"]
 ingredienser: ["kylling", "pasta", "brokkoli"]
 tattFra: https://www.detsoteliv.no/oppskrift/banana-split-iskake
-heroImage:
+images:
   [
     "../../assets/recipe-images/web_banana-split-kake-en.jpg",
     "../../assets/recipe-images/web_banan-split-kake-to.jpg",

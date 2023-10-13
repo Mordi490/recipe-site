@@ -2,7 +2,7 @@
 title: smørkrem-sukrin
 tags: ["sukrin", "dessert", "glasur", "kake"]
 ingredienser: ["sukrin", "melis", "vaniljepuvler", "vaniljesukker", "smør"]
-heroImage: ["../../assets/recipe-images/web_sukrin-glasur-preview.jpg"]
+images: ["../../assets/recipe-images/web_sukrin-glasur-preview.jpg"]
 ---
 
 # smørkrem-sukrin

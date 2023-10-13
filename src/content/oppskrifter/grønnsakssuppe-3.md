@@ -2,7 +2,7 @@
 title: Grønnsakssuppe 3
 tags: ["suppe", "middag"]
 ingredienser: ["brokkoli", "gul paprika", "løk", "hodekål", "gulerøtter"]
-heroImage: ["../../assets/recipe-images/web_grønnsakssuppe-3.jpg"]
+images: ["../../assets/recipe-images/web_grønnsakssuppe-3.jpg"]
 ---
 
 # Grønnsaksuppe 3

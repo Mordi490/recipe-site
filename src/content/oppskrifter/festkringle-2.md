@@ -2,7 +2,7 @@
 title: Festkringle 2
 tags: ["dessert", "småkake"]
 ingredienser: ["havregryn", "egg", "smør"]
-heroImage: ["../../assets/recipe-images/web_festkringle.jpg"]
+images: ["../../assets/recipe-images/web_festkringle.jpg"]
 ---
 
 # Festkringle 2

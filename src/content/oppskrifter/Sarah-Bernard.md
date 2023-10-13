@@ -2,7 +2,7 @@
 title: Sarah Bernard
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage:
+images:
   [
     "../../assets/recipe-images/web_sarah-bernard-en.jpg",
     "../../assets/recipe-images/web_sarah-bernard-to-janes-brownies.jpg",

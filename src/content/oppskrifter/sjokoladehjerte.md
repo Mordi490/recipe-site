@@ -2,7 +2,7 @@
 title: sjokoladehjerte
 tags: ["sukrin", "dessert", "kake"]
 ingredienser: ["sukrin", "egg", "rømme"]
-heroImage:
+images:
   [
     "../../assets/recipe-images/web_2-verdener-sjokoladehjerte.jpg",
     "../../assets/recipe-images/web_sjokoladehjerte-preview.jpg",

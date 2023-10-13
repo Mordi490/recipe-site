@@ -2,7 +2,7 @@
 title: Sweet chili laks
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: ["../../assets/recipe-images/web_sweet-chili-laks.jpg"]
+images: ["../../assets/recipe-images/web_sweet-chili-laks.jpg"]
 ---
 
 # Sweet chili laks

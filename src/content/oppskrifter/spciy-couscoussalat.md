@@ -3,7 +3,7 @@ title: Spicy couscoussalat
 tags: ["dessert", "sukrin"]
 ingredienser: ["mandelmel", "sukrinmelis", "eggehviter"]
 tattFra: https://www.matprat.no/oppskrifter/sunn/spicy-couscoussalat/
-heroImage: ["../../assets/recipe-images/web_spicy-couscoussalat.jpg"]
+images: ["../../assets/recipe-images/web_spicy-couscoussalat.jpg"]
 ---
 
 # Spicy couscoussalat

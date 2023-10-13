@@ -3,7 +3,7 @@ title: Kyllingfilet med ratatouille
 tags: ["dessert", "sukrin"]
 ingredienser: ["mandelmel", "sukrinmelis", "eggehviter"]
 tattFra: https://www.matprat.no/oppskrifter/sunn/kyllingfilet-med-ratatouille/
-heroImage:
+images:
   [
     "../../assets/recipe-images/web_kyllingfilet-med-ratatouille-en.jpg",
     "../../assets/recipe-images/web_kyllingfilet-med-ratatouille-to.jpg",

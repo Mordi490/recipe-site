@@ -2,7 +2,7 @@
 title: Sild med frukt
 tags: ["dessert", "småkake"]
 ingredienser: ["havregryn", "egg", "smør"]
-heroImage: ["../../assets/recipe-images/web_sild-med-frukt-sildesalat.jpg"]
+images: ["../../assets/recipe-images/web_sild-med-frukt-sildesalat.jpg"]
 ---
 
 # Sild med frukt

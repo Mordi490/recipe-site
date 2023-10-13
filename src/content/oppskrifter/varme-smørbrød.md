@@ -2,7 +2,7 @@
 title: Varme smørbrød
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage:
+images:
   [
     "../../assets/recipe-images/web_varme-smørbrød-en.jpg",
     "../../assets/recipe-images/web_varme-smørbrød-to.jpg",

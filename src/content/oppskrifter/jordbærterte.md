@@ -2,7 +2,7 @@
 title: Jordbærterte
 tags: ["dessert", "småkake"]
 ingredienser: ["kylling", "pasta", "brokkoli"]
-heroImage: ["../../assets/recipe-images/web_saftig-plommekake-jordbærterte.jpg"]
+images: ["../../assets/recipe-images/web_saftig-plommekake-jordbærterte.jpg"]
 ---
 
 # Jordbærterte

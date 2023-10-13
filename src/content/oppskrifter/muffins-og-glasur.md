@@ -13,7 +13,7 @@ ingredienser:
     "smør",
     "vaniljesukker",
   ]
-heroImage: ["../../assets/recipe-images/web_muffins-lørdagskos.jpg"]
+images: ["../../assets/recipe-images/web_muffins-lørdagskos.jpg"]
 ---
 
 # Muffins

@@ -2,7 +2,7 @@
 title: Browniekake
 tags: ["dessert", "bakverk", "sukrin"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: ["../../assets/recipe-images/web_brownieskake.jpg"]
+images: ["../../assets/recipe-images/web_brownieskake.jpg"]
 ---
 
 # Browniekake

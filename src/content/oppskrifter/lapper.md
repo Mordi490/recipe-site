@@ -2,7 +2,7 @@
 title: Lapper
 tags: ["dessert", "småkake"]
 ingredienser: ["kylling", "pasta", "brokkoli"]
-heroImage: ["../../assets/recipe-images/web_lapper-blåbærsyltetøy.jpg"]
+images: ["../../assets/recipe-images/web_lapper-blåbærsyltetøy.jpg"]
 ---
 
 # Lapper

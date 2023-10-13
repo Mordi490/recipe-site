@@ -2,7 +2,7 @@
 title: Anislikør
 tags: ["dessert", "småkake"]
 ingredienser: ["kylling", "pasta", "brokkoli"]
-heroImage:
+images:
   ["../../assets/recipe-images/web_vaniljelikør-anislikør-appelsinlikør.jpg"]
 ---
 

@@ -2,7 +2,7 @@
 title: Bløt sjokoladekake med kirsebærsaus
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte"]
-heroImage:
+images:
   ["../../assets/recipe-images/web_bløt-sjokoladekake-med-kirsebærsaus.jpg"]
 ---
 

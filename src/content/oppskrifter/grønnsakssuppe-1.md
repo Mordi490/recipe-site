@@ -19,7 +19,7 @@ ingredienser:
     "hvitløksfedd",
     "tomater",
   ]
-heroImage:
+images:
   ["../../assets/recipe-images/web_grønnsaksuppe-1-grønnsaksuppe-2.jpg"]
 ---
 

@@ -2,7 +2,7 @@
 title: Syltetøykaker
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: ["../../assets/recipe-images/web_lekre-syltetøykaker.jpg"]
+images: ["../../assets/recipe-images/web_lekre-syltetøykaker.jpg"]
 ---
 
 # Syltetøykaker

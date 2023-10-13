@@ -2,7 +2,7 @@
 title: Sjokolade Appelsinkake
 tags: ["bakverk", "dessert", "kake"]
 ingredienser: ["sukker", "kakao", "vann", "melk"]
-heroImage: ["../../assets/recipe-images/web_sjokolade-appelsinkake.jpg"]
+images: ["../../assets/recipe-images/web_sjokolade-appelsinkake.jpg"]
 ---
 
 # Sjokolade Appelsinkake

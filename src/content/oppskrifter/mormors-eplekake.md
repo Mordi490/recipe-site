@@ -2,7 +2,7 @@
 title: Mormors eplekake
 tags: ["dessert", "småkake"]
 ingredienser: ["havregryn", "egg", "smør"]
-heroImage:
+images:
   [
     "../../assets/recipe-images/web_mormors-eplekake-nøttekake-med-krem.jpg",
     "../../assets/recipe-images/web_mormors-eplekake-nøttekake-med-krem-to.jpg",

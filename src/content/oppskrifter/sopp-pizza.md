@@ -2,7 +2,7 @@
 title: Calzone
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: ["../../assets/recipe-images/web_wienerstenger.jpg"]
+images: ["../../assets/recipe-images/web_wienerstenger.jpg"]
 ---
 
 # Calzone

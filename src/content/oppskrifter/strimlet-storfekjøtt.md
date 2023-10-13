@@ -2,7 +2,7 @@
 title: Strimlet storfekjøtt
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: ["../../assets/recipe-images/web_strimlet-storfekjøtt.jpg"]
+images: ["../../assets/recipe-images/web_strimlet-storfekjøtt.jpg"]
 ---
 
 # Strimlet storfekjøtt

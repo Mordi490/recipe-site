@@ -3,7 +3,7 @@ title: Kyllingform med kikerter og tomat
 tags: ["middag"]
 ingredienser: ["kylling", "kikerter", "tomat"]
 tattFra: https://www.matprat.no
-heroImage:
+images:
   [
     "../../assets/recipe-images/web_kyllingform-med-kikerter-og-tomat.jpg",
     "../../assets/recipe-images/web_kyllingform-med-kikerter-og-tomat-en.jpg",

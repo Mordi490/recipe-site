@@ -2,7 +2,7 @@
 title: Kongelig iskake
 tags: ["dessert", "småkake"]
 ingredienser: ["havregryn", "egg", "smør"]
-heroImage: ["../../assets/recipe-images/web_kongelig-iskake.jpg"]
+images: ["../../assets/recipe-images/web_kongelig-iskake.jpg"]
 ---
 
 # Kongelig iskake

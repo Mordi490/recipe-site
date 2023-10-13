@@ -15,7 +15,7 @@ ingredienser:
     "hvetemel",
   ]
 tattFra: https://www.detsoteliv.no/oppskrift/pepperkaker
-heroImage: ["../../assets/recipe-images/web_pepperkaker-3.jpg"]
+images: ["../../assets/recipe-images/web_pepperkaker-3.jpg"]
 ---
 
 # Pepperkaker

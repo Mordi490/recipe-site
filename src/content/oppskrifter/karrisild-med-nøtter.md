@@ -2,7 +2,7 @@
 title: Karrisild med nøtter
 tags: ["dessert", "småkake"]
 ingredienser: ["havregryn", "egg", "smør"]
-heroImage:
+images:
   [
     "../../assets/recipe-images/web_pepperrotsild-med-purre-karrisild-med-nøtter.jpg",
   ]

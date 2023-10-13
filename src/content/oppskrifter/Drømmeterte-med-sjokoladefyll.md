@@ -2,7 +2,7 @@
 title: Drømmeterte med sjokoladefyll
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: ["../../assets/recipe-images/web_drømmeterte-med-sjokoladefyll.jpg"]
+images: ["../../assets/recipe-images/web_drømmeterte-med-sjokoladefyll.jpg"]
 ---
 
 # Drømmeterte med sjokoladefyll

@@ -2,7 +2,7 @@
 title: Mokka-suksess
 tags: ["dessert", "småkake"]
 ingredienser: ["havregryn", "egg", "smør"]
-heroImage: ["../../assets/recipe-images/web_mokka-suksess.jpg"]
+images: ["../../assets/recipe-images/web_mokka-suksess.jpg"]
 ---
 
 # Mokka-suksess

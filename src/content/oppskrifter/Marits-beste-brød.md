@@ -2,7 +2,7 @@
 title: Marits beste brød
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: ["../../assets/recipe-images/web_marits-beste-brød.jpg"]
+images: ["../../assets/recipe-images/web_marits-beste-brød.jpg"]
 ---
 
 # Marits beste brød

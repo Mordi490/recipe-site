@@ -2,7 +2,7 @@
 title: Sjokoladekrem
 tags: ["dessert", "bakverk", "sukrin"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: ["../../assets/recipe-images/web_sjokoladekrem-2.jpg"]
+images: ["../../assets/recipe-images/web_sjokoladekrem-2.jpg"]
 ---
 
 # Sjokoladekrem

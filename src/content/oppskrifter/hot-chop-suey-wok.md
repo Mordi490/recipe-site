@@ -2,7 +2,7 @@
 title: Hot chop suey wok
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: ["../../assets/recipe-images/web_hot-chop-suey-wok.jpg"]
+images: ["../../assets/recipe-images/web_hot-chop-suey-wok.jpg"]
 ---
 
 # Hot chop suey wok

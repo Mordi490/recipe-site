@@ -12,7 +12,7 @@ ingredienser:
     "gulerøtter",
     "buljong",
   ]
-heroImage: ["../../assets/recipe-images/web_blomkålsuppe-nudelsuppe.jpg"]
+images: ["../../assets/recipe-images/web_blomkålsuppe-nudelsuppe.jpg"]
 ---
 
 # Nudelsuppe

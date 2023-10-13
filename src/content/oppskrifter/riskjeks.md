@@ -2,7 +2,7 @@
 title: Riskjeks
 tags: ["dessert", "bakverk", "sukrin"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: ["../../assets/recipe-images/web_riskjeks.jpg"]
+images: ["../../assets/recipe-images/web_riskjeks.jpg"]
 ---
 
 # Riskjeks

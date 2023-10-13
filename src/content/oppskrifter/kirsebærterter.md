@@ -2,7 +2,7 @@
 title: kirsebærterter
 tags: ["dessert", "småkake"]
 ingredienser: ["kylling", "pasta", "brokkoli"]
-heroImage:
+images:
   [
     "../../assets/recipe-images/web_mandelbunner-med-kirsebær-kirsebærterter.jpg",
   ]

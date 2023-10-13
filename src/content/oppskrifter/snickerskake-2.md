@@ -11,7 +11,7 @@ ingredienser:
     "margarin",
     "sur melk",
   ]
-heroImage: ["../../assets/recipe-images/web_snickerskake.jpg"]
+images: ["../../assets/recipe-images/web_snickerskake.jpg"]
 ---
 
 # Snickerskake 2

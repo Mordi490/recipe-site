@@ -2,7 +2,7 @@
 title: Verdens beste skonroker
 tags: ["dessert", "småkake"]
 ingredienser: ["havregryn", "egg", "smør"]
-heroImage:
+images:
   ["../../assets/recipe-images/web_kjeltringer-verdens-beste-skonroker.jpg"]
 ---
 

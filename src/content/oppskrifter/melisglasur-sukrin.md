@@ -2,7 +2,7 @@
 title: melisglasur-sukrin
 tags: ["sukrin", "dessert", "glasur", "kake"]
 ingredienser: ["sukrin", "melis", "eggehvite"]
-heroImage: ["../../assets/recipe-images/web_sukrin-glasur-preview.jpg"]
+images: ["../../assets/recipe-images/web_sukrin-glasur-preview.jpg"]
 ---
 
 # melisglasur-sukrin

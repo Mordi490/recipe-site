@@ -2,7 +2,7 @@
 title: Isostekake med Nonstop
 tags: ["ostekake", "dessert", "kake"]
 ingredienser: ["sukrin", "egg", "rømme"]
-heroImage: ["../../assets/recipe-images/web_isostekake-med-nonstop.jpg"]
+images: ["../../assets/recipe-images/web_isostekake-med-nonstop.jpg"]
 ---
 
 # Isostekake med Nonstop

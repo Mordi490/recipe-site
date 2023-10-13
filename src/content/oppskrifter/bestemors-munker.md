@@ -2,7 +2,7 @@
 title: Bestemors munker
 tags: ["dessert", "småkake"]
 ingredienser: ["havregryn", "egg", "smør"]
-heroImage: ["../../assets/recipe-images/web_bestemors-munker.jpg"]
+images: ["../../assets/recipe-images/web_bestemors-munker.jpg"]
 ---
 
 # Bestemors munker

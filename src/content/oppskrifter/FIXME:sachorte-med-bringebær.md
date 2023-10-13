@@ -2,7 +2,7 @@
 title: Sachorte med bringebær
 tags: ["sukrin", "dessert", "kake"]
 ingredienser: ["sukrin", "egg", "rømme"]
-heroImage:
+images:
   [
     "../../assets/recipe-images/web_sachorte-med-bringebær-en.jpg",
     "../../assets/recipe-images/web_sachorte-med-bringebær-to.jpg",

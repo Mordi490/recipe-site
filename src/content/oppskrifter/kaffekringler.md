@@ -2,7 +2,7 @@
 title: Kaffekringler
 tags: ["dessert", "småkake"]
 ingredienser: ["havregryn", "egg", "smør"]
-heroImage: ["../../assets/recipe-images/web_kaffekringler.jpg"]
+images: ["../../assets/recipe-images/web_kaffekringler.jpg"]
 ---
 
 # Kaffekringler

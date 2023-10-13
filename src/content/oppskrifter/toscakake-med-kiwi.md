@@ -2,7 +2,7 @@
 title: Toscakake med kiwi
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: ["../../assets/recipe-images/web_toscakake-med-kiwi.jpg"]
+images: ["../../assets/recipe-images/web_toscakake-med-kiwi.jpg"]
 ---
 
 # Toscakake med kiwi

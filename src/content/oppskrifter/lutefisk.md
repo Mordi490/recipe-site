@@ -3,7 +3,7 @@ title: Lutefisk
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
 tattFra: https://www.aperitif.no/oppskrifter/oppskrift/lutefisk-med-klassisk-tilbehor,62073
-heroImage: ["../../assets/recipe-images/web_lutefisk-på-tradisjonelt-vis.jpg"]
+images: ["../../assets/recipe-images/web_lutefisk-på-tradisjonelt-vis.jpg"]
 ---
 
 # Lutefisk

@@ -3,7 +3,7 @@ title: Kanelpinner
 tags: ["middag", "suppe"]
 ingredienser: ["kylling", "pasta", "brokkoli"]
 tattFra: https://www.detsoteliv.no/oppskrift/kanelpinner
-heroImage: ["../../assets/recipe-images/web_kanelpinner.jpg"]
+images: ["../../assets/recipe-images/web_kanelpinner.jpg"]
 ---
 
 # Kanelpinner

@@ -2,7 +2,7 @@
 title: Solbærkake
 tags: ["dessert", "småkake"]
 ingredienser: ["kylling", "pasta", "brokkoli"]
-heroImage: ["../../assets/recipe-images/web_solbærkake.jpg"]
+images: ["../../assets/recipe-images/web_solbærkake.jpg"]
 ---
 
 # Solbærkake

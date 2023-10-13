@@ -2,7 +2,7 @@
 title: Konditor-drømmer
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: ["../../assets/recipe-images/web_konditor-drømmer.jpg"]
+images: ["../../assets/recipe-images/web_konditor-drømmer.jpg"]
 ---
 
 # Konditor-drømmer

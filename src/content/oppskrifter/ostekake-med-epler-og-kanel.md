@@ -2,7 +2,7 @@
 title: Ostekake med epler og kanel
 tags: ["ostekake", "dessert", "kake"]
 ingredienser: ["sukrin", "egg", "rømme"]
-heroImage: ["../../assets/recipe-images/web_ostekake-med-epler-og-kanel.jpg"]
+images: ["../../assets/recipe-images/web_ostekake-med-epler-og-kanel.jpg"]
 ---
 
 # Ostekake med epler og kanel

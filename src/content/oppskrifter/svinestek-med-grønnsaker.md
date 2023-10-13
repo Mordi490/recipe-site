@@ -2,7 +2,7 @@
 title: Svinestek med grønnsaker
 tags: ["dessert", "småkake"]
 ingredienser: ["kylling", "pasta", "brokkoli"]
-heroImage:
+images:
   [
     "../../assets/recipe-images/web_svinestek-med-grønnsaker-en.jpg",
     "../../assets/recipe-images/web_svinestek-med-grønnsaker-to.jpg",

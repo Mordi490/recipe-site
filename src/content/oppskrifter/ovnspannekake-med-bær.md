@@ -2,7 +2,7 @@
 title: Ovnspannekake med bær
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: ["../../assets/recipe-images/web_ovnspannekake-med-bær-en.jpg",
+images: ["../../assets/recipe-images/web_ovnspannekake-med-bær-en.jpg",
 "../../assets/recipe-images/web_ovnspannekake-med-bær-to.jpg"]
 ---
 

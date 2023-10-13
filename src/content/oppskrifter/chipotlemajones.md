@@ -3,7 +3,7 @@ title: Chipotlemajones
 tags: ["tilbehør", "saus", "dip"]
 ingredienser: ["safran", "majones", "hvitløk"]
 tattFra: https://www.nrk.no/mat/chipotlemajones-1.15173783
-heroImage: ["../../assets/recipe-images/web_wienerstenger.jpg"]
+images: ["../../assets/recipe-images/web_wienerstenger.jpg"]
 ---
 
 # Chipotlemajones

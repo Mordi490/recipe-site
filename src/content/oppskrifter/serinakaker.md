@@ -3,7 +3,7 @@ title: Serinakaker
 tags: ["middag", "suppe"]
 ingredienser: ["kylling", "pasta", "brokkoli"]
 tattFra: https://www.detsoteliv.no/oppskrift/serinakaker
-heroImage: ["../../assets/recipe-images/web_serinakaker.jpg"]
+images: ["../../assets/recipe-images/web_serinakaker.jpg"]
 ---
 
 # Serinakaker

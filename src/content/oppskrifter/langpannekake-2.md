@@ -2,7 +2,7 @@
 title: Langpannekake 2
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: ["../../assets/recipe-images/web_langpannekake.jpg"]
+images: ["../../assets/recipe-images/web_langpannekake.jpg"]
 ---
 
 # Langpannekake 2

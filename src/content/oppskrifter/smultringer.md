@@ -2,7 +2,7 @@
 title: Smultringer
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage:
+images:
   [
     "../../assets/recipe-images/web_smultringer-en.jpg",
     "../../assets/recipe-images/web_smultringer-to.jpg",

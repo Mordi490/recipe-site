@@ -2,7 +2,7 @@
 title: Melkekak
 tags: ["dessert", "bakverk", "sukrin"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: ["../../assets/recipe-images/web_melkkake.jpg"]
+images: ["../../assets/recipe-images/web_melkkake.jpg"]
 ---
 
 # Melkekak

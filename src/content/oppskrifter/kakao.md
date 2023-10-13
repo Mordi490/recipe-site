@@ -2,7 +2,7 @@
 title: kakao
 tags: ["drikke", "dessert"]
 ingredienser: ["sukker", "kakao", "vann", "melk"]
-heroImage: ["../../assets/recipe-images/web_scones-kakao-2.jpg"]
+images: ["../../assets/recipe-images/web_scones-kakao-2.jpg"]
 ---
 
 # Kakao

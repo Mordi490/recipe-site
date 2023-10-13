@@ -3,7 +3,7 @@ title: Kyllingramen
 tags: ["middag", "pizza"]
 ingredienser: ["kylling", "pita"]
 tattFra: https://www.matprat.no/oppskrifter/sunn/kylling--og-nudelsuppe-med-gronnsaker/
-heroImage: ["../../assets/recipe-images/web_wienerstenger.jpg"]
+images: ["../../assets/recipe-images/web_wienerstenger.jpg"]
 ---
 
 # Kyllingramen

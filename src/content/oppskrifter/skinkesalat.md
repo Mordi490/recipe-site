@@ -2,7 +2,7 @@
 title: Skinkesalat
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: ["../../assets/recipe-images/web_skinkesalat.jpg"]
+images: ["../../assets/recipe-images/web_skinkesalat.jpg"]
 ---
 
 # Skinkesalat

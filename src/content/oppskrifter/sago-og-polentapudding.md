@@ -2,7 +2,7 @@
 title: sago-og polentapudding
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: ["../../assets/recipe-images/web_sago-og-polentapudding.jpg"]
+images: ["../../assets/recipe-images/web_sago-og-polentapudding.jpg"]
 ---
 
 # sago-og polentapudding

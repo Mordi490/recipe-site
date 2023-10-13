@@ -2,7 +2,7 @@
 title: Lettvinte wienerbrød
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker"]
-heroImage:
+images:
   [
     "../../assets/recipe-images/web_kardemommehorn-lettvinte-wienerbrød-mandelknytter.jpg",
   ]

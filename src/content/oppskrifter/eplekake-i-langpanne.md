@@ -2,7 +2,7 @@
 title: Eplekake i langpanne
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: ["../../assets/recipe-images/web_eplekake-i-langpanne.jpg"]
+images: ["../../assets/recipe-images/web_eplekake-i-langpanne.jpg"]
 ---
 
 # Eplekake i langpanne

@@ -2,7 +2,7 @@
 title: Sirupspinner
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: ["../../assets/recipe-images/web_sirupspinner.jpg"]
+images: ["../../assets/recipe-images/web_sirupspinner.jpg"]
 ---
 
 # Sirupspinner

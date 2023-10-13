@@ -2,7 +2,7 @@
 title: Sjokoladedessert
 tags: ["dessert", "småkake"]
 ingredienser: ["havregryn", "egg", "smør"]
-heroImage:
+images:
   [
     "../../assets/recipe-images/web_sjokolade-dessert-sitronkake-med-glasur-en.jpg",
     "../../assets/recipe-images/web_sitronkake-med-glasur-sjokolade-dessert-to.jpg",

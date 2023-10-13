@@ -3,7 +3,7 @@ title: Gaffelkaker
 tags: ["middag", "suppe"]
 ingredienser: ["kylling", "pasta", "brokkoli"]
 tattFra: https://www.detsoteliv.no/oppskrift/gaffelkaker
-heroImage: ["../../assets/recipe-images/web_gaffelkaker.jpg"]
+images: ["../../assets/recipe-images/web_gaffelkaker.jpg"]
 ---
 
 # Gaffelkaker

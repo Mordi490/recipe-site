@@ -2,7 +2,7 @@
 title: Epleruter
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: ["../../assets/recipe-images/web_enkle-epleruter.jpg"]
+images: ["../../assets/recipe-images/web_enkle-epleruter.jpg"]
 ---
 
 # Epleruter

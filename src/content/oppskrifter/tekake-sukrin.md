@@ -2,7 +2,7 @@
 title: tekake-sukrin
 tags: ["sukrin", "dessert", "kake"]
 ingredienser: ["sukrin", "egg", "rømme"]
-heroImage: ["../../assets/recipe-images/web_tekake.jpg"]
+images: ["../../assets/recipe-images/web_tekake.jpg"]
 ---
 
 # tekake-sukrin

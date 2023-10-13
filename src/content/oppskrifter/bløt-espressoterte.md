@@ -2,7 +2,7 @@
 title: Bløt espressoterte
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: ["../../assets/recipe-images/web_bløt-espressoterte.jpg"]
+images: ["../../assets/recipe-images/web_bløt-espressoterte.jpg"]
 ---
 
 # Bløt espressoterte

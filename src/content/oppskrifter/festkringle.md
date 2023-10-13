@@ -3,7 +3,7 @@ title: Festkringle
 tags: ["bakverk", "bolle", "rundstykke"]
 ingredienser:
   ["sukker", "sammalt hvetemel", "sukker", "bakepulver", "margarin", "sur melk"]
-heroImage:
+images:
   ["../../assets/recipe-images/web_brriochekake-festkringle-smørruter-en.jpg"]
 ---
 

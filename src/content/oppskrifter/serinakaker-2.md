@@ -2,7 +2,7 @@
 title: Serinakaker 2
 tags: ["middag", "suppe"]
 ingredienser: ["kylling", "pasta", "brokkoli"]
-heroImage:
+images:
   [
     "../../assets/recipe-images/web_serinakaker-2-en.jpg",
     "../../assets/recipe-images/web_serinakaker-to.jpg",

@@ -2,7 +2,7 @@
 title: Fylte boller
 tags: ["dessert", "småkake"]
 ingredienser: ["havregryn", "egg", "smør"]
-heroImage: ["../../assets/recipe-images/web_fylte-boller.jpg"]
+images: ["../../assets/recipe-images/web_fylte-boller.jpg"]
 ---
 
 # Fylte boller

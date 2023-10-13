@@ -2,7 +2,7 @@
 title: Påsketerte
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage:
+images:
   [
     "../../assets/recipe-images/web_påsketerte-en.jpg",
     "../../assets/recipe-images/web_påsketerte-to.jpg",

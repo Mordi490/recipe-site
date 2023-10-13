@@ -3,7 +3,7 @@ title: Lutefisk med ertestuing
 tags: ["middag", "suppe"]
 ingredienser: ["kylling", "pasta", "brokkoli"]
 tattFra: https://oppskrift.klikk.no/lutefisk-med-ertestuing/1020/
-heroImage:
+images:
   [
     "../../assets/recipe-images/web_lutefisk-med-ertestuing-en.jpg",
     "../../assets/recipe-images/web_lutefisk-med-ertestuing-to.jpg",

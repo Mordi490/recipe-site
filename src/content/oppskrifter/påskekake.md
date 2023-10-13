@@ -2,7 +2,7 @@
 title: Påskekake
 tags: ["middag", "suppe"]
 ingredienser: ["kylling", "pasta", "brokkoli"]
-heroImage: ["../../assets/recipe-images/web_påskekake.jpg"]
+images: ["../../assets/recipe-images/web_påskekake.jpg"]
 ---
 
 # Påskekake

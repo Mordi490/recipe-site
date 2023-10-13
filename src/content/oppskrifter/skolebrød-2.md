@@ -2,7 +2,7 @@
 title: Skolebrød 2
 tags: ["dessert", "småkake"]
 ingredienser: ["havregryn", "egg", "smør"]
-heroImage: ["../../assets/recipe-images/web_skolebrød.jpg"]
+images: ["../../assets/recipe-images/web_skolebrød.jpg"]
 ---
 
 # Skolebrød 2

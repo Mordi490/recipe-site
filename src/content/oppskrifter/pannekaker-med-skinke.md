@@ -2,7 +2,7 @@
 title: Pannekaker med skinke
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage:
+images:
   [
     "../../assets/recipe-images/web_pannekaker-med-skinke-en.jpg",
     "../../assets/recipe-images/web_pannekaker-med-skinke.jpg",

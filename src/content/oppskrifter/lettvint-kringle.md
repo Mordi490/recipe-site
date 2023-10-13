@@ -2,7 +2,7 @@
 title: Lettvint kringle
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: ["../../assets/recipe-images/web_lettvinte-kringle.jpg"]
+images: ["../../assets/recipe-images/web_lettvinte-kringle.jpg"]
 ---
 
 # Lettvint kringle

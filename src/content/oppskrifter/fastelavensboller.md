@@ -2,7 +2,7 @@
 title: Fastelavensboller
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: ["../../assets/recipe-images/web_fastelavensboller.jpg"]
+images: ["../../assets/recipe-images/web_fastelavensboller.jpg"]
 ---
 
 # Fastelavensboller

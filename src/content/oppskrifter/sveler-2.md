@@ -2,7 +2,7 @@
 title: Sveler 2
 tags: ["dessert", "småkake"]
 ingredienser: ["kylling", "pasta", "brokkoli"]
-heroImage: ["../../assets/recipe-images/web_svele.jpg"]
+images: ["../../assets/recipe-images/web_svele.jpg"]
 ---
 
 # Sveler 2

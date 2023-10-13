@@ -2,7 +2,7 @@
 title: Tvilling-kaken
 tags: ["dessert", "småkake"]
 ingredienser: ["havregryn", "egg", "smør"]
-heroImage: ["../../assets/recipe-images/web_tvillingenes-kake.jpg"]
+images: ["../../assets/recipe-images/web_tvillingenes-kake.jpg"]
 ---
 
 # Tvilling-kaken

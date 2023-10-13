@@ -11,7 +11,7 @@ ingredienser:
     "margarin",
     "sur melk",
   ]
-heroImage: ["../../assets/recipe-images/web_kulturkake-med-krydder.jpg"]
+images: ["../../assets/recipe-images/web_kulturkake-med-krydder.jpg"]
 ---
 
 # Kulturkake med krydder

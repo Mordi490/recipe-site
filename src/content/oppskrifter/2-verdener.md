@@ -2,7 +2,7 @@
 title: 2 verdener
 tags: ["sukrin", "dessert", "kake"]
 ingredienser: ["sukrin", "egg", "rømme"]
-heroImage: ["../../assets/recipe-images/web_2-verdener-sjokoladehjerte.jpg"]
+images: ["../../assets/recipe-images/web_2-verdener-sjokoladehjerte.jpg"]
 ---
 
 # 2 verdener

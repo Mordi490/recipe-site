@@ -3,7 +3,7 @@ title: Pizzabunn
 tags: ["middag", "sukrin", "bakverk"]
 ingredienser:
   ["egg", "soyamel", "hvitløk", "olje", "oregano", "ost", "bakepulver"]
-heroImage: ["../../assets/recipe-images/web_pizzabunn-2.jpg"]
+images: ["../../assets/recipe-images/web_pizzabunn-2.jpg"]
 ---
 
 # Pizzabunn

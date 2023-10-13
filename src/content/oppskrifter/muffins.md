@@ -2,7 +2,7 @@
 title: Muffins
 tags: ["dessert", "sukrin"]
 ingredienser: ["mandelmel", "sukrinmelis", "eggehviter"]
-heroImage: ["../../assets/recipe-images/web_muffins.jpg"]
+images: ["../../assets/recipe-images/web_muffins.jpg"]
 ---
 
 # Muffins

@@ -2,7 +2,7 @@
 title: Dansk smørkake
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: ["../../assets/recipe-images/web_dansk-smørbake.jpg"]
+images: ["../../assets/recipe-images/web_dansk-smørbake.jpg"]
 ---
 
 # Dansk smørkake

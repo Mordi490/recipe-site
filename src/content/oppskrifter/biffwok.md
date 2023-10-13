@@ -2,7 +2,7 @@
 title: Biffwok
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: ["../../assets/recipe-images/web_biffwok.jpg"]
+images: ["../../assets/recipe-images/web_biffwok.jpg"]
 ---
 
 # Biffwok

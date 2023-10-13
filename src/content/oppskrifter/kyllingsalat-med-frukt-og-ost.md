@@ -2,7 +2,7 @@
 title: Kyllingsalat med frukt og ost
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: ["../../assets/recipe-images/web_kyllingsalat-med-frukt-og-ost.jpg"]
+images: ["../../assets/recipe-images/web_kyllingsalat-med-frukt-og-ost.jpg"]
 ---
 
 # Kyllingsalat med frukt og ost

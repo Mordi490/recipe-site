@@ -2,7 +2,7 @@
 title: Tirimasu
 tags: ["dessert", "kake"]
 ingredienser: ["sukrin", "egg", "rømme"]
-heroImage: ["../../assets/recipe-images/web_tirimasu.jpg"]
+images: ["../../assets/recipe-images/web_tirimasu.jpg"]
 ---
 
 # Tirimasu

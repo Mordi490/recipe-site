@@ -3,7 +3,7 @@ title: Kimchi
 tags: ["dessert", "sukrin"]
 ingredienser: ["mandelmel", "sukrinmelis", "eggehviter"]
 tattFra: https://www.matprat.no/oppskrifter/sunn/kimchi/
-heroImage: ["../../assets/recipe-images/web_kimchi.jpg"]
+images: ["../../assets/recipe-images/web_kimchi.jpg"]
 ---
 
 # Kimchi

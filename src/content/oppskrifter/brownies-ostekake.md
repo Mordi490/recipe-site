@@ -2,7 +2,7 @@
 title: brownies ostekake
 tags: ["ostekake", "dessert", "kake"]
 ingredienser: ["sukrin", "egg", "rømme"]
-heroImage: ["../../assets/recipe-images/web_brownies-ostekake.jpg"]
+images: ["../../assets/recipe-images/web_brownies-ostekake.jpg"]
 ---
 
 # brownies ostekake

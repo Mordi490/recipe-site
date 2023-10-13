@@ -2,7 +2,7 @@
 title: Hjertegod sjokoladekake
 tags: ["dessert", "småkake"]
 ingredienser: ["havregryn", "egg", "smør"]
-heroImage: ["../../assets/recipe-images/web_hjertegod-sjokoladekake.jpg"]
+images: ["../../assets/recipe-images/web_hjertegod-sjokoladekake.jpg"]
 ---
 
 # Hjertegod sjokoladekake

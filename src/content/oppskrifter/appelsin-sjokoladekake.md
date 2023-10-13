@@ -2,7 +2,7 @@
 title: Appelsin-sjokoladekake
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte"]
-heroImage: ["../../assets/recipe-images/web_appelsin-sjokoladekake.jpg"]
+images: ["../../assets/recipe-images/web_appelsin-sjokoladekake.jpg"]
 ---
 
 # Appelsin-sjokoladekake

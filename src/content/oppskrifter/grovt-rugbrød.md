@@ -2,7 +2,7 @@
 title: Grovt rugbrød
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: ["../../assets/recipe-images/web_grovt-rugbrød.jpg"]
+images: ["../../assets/recipe-images/web_grovt-rugbrød.jpg"]
 ---
 
 # Grovt rugbrød

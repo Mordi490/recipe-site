@@ -2,7 +2,7 @@
 title: Kokoskake
 tags: ["sukrin", "dessert", "kake", "eple"]
 ingredienser: ["sukrin", "egg", "rømme"]
-heroImage: ["../../assets/recipe-images/web_kokoskake-sukrin.jpg"]
+images: ["../../assets/recipe-images/web_kokoskake-sukrin.jpg"]
 ---
 
 # Kokoskake

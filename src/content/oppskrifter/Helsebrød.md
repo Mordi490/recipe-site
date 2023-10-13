@@ -2,7 +2,7 @@
 title: Helsebrød
 tags: ["dessert", "småkake"]
 ingredienser: ["havregryn", "egg", "smør"]
-heroImage: ["../../assets/recipe-images/web_reyjavikbrød-helsebrød.jpg"]
+images: ["../../assets/recipe-images/web_reyjavikbrød-helsebrød.jpg"]
 ---
 
 # Helsebrød

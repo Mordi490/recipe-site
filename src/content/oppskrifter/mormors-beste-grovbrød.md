@@ -2,7 +2,7 @@
 title: Mormors beste grovbrød
 tags: ["dessert", "småkake"]
 ingredienser: ["havregryn", "egg", "smør"]
-heroImage:
+images:
   [
     "../../assets/recipe-images/web_spennende-fiberbrød-mormors-beste-grovbrød.jpg",
   ]

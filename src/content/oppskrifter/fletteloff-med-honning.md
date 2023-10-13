@@ -2,7 +2,7 @@
 title: Fletteloff med honning
 tags: ["dessert", "småkake"]
 ingredienser: ["havregryn", "egg", "smør"]
-heroImage:
+images:
   [
     "../../assets/recipe-images/web_fletteloff-med-honning-bonde-med-valnøtter.jpg",
   ]

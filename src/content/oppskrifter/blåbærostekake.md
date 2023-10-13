@@ -2,7 +2,7 @@
 title: Blåbærostekake
 tags: ["ostekake", "dessert", "kake"]
 ingredienser: ["sukrin", "egg", "rømme"]
-heroImage: ["../../assets/recipe-images/web_blåbærostekake.jpg"]
+images: ["../../assets/recipe-images/web_blåbærostekake.jpg"]
 ---
 
 # Blåbærostekake

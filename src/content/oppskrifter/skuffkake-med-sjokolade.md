@@ -2,7 +2,7 @@
 title: skuffkake med sjokolade
 tags: ["bakverk", "dessert", "kake", "sjokolade"]
 ingredienser: ["sukker", "kakao", "vann", "melk"]
-heroImage: ["../../assets/recipe-images/web_skuffkake-med-sjokolade.jpg"]
+images: ["../../assets/recipe-images/web_skuffkake-med-sjokolade.jpg"]
 ---
 
 # skuffkake med sjokolade

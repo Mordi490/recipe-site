@@ -2,7 +2,7 @@
 title: Ostekake med kransekakemasse
 tags: ["ostekake", "dessert", "kake"]
 ingredienser: ["sukrin", "egg", "rømme"]
-heroImage: ["../../assets/recipe-images/web_ostekake-med-kransekakemasse.jpg"]
+images: ["../../assets/recipe-images/web_ostekake-med-kransekakemasse.jpg"]
 ---
 
 # Ostekake med kransekakemasse

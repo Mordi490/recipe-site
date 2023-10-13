@@ -3,7 +3,7 @@ title: Finske pepperkaker
 tags: ["dessert", "sukrin"]
 ingredienser: ["mandelmel", "sukrinmelis", "eggehviter"]
 tattFra: https://www.detsoteliv.no/
-heroImage: ["../../assets/recipe-images/web_finske-pepperkaker.jpg"]
+images: ["../../assets/recipe-images/web_finske-pepperkaker.jpg"]
 ---
 
 # Finske pepperkaker

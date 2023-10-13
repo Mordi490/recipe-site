@@ -2,7 +2,7 @@
 title: Kremuret
 tags: ["dessert", "småkake"]
 ingredienser: ["havregryn", "egg", "smør"]
-heroImage: ["../../assets/recipe-images/web_kremuret.jpg"]
+images: ["../../assets/recipe-images/web_kremuret.jpg"]
 ---
 
 # Kremuret

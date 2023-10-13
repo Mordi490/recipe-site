@@ -2,7 +2,7 @@
 title: Kokoskake
 tags: ["dessert", "sukrin"]
 ingredienser: ["mandelmel", "sukrinmelis", "eggehviter"]
-heroImage: ["../../assets/recipe-images/web_kokoskake.jpg"]
+images: ["../../assets/recipe-images/web_kokoskake.jpg"]
 ---
 
 # Kokoskake

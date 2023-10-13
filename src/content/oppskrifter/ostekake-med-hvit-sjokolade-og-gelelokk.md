@@ -2,7 +2,7 @@
 title: Ostekake med hvit sjokolade og gelelokk
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage:
+images:
   [
     "../../assets/recipe-images/web_ostekake-med-hvit-sjokolade-en.jpg",
     "../../assets/recipe-images/web_ostekake-noe-to.jpg",

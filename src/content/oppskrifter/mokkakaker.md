@@ -2,7 +2,7 @@
 title: Mokkakaker i langpanne
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: ["../../assets/recipe-images/web_mokkakaker-i-langpanne.jpg"]
+images: ["../../assets/recipe-images/web_mokkakaker-i-langpanne.jpg"]
 ---
 
 # Mokkakaker i langpanne

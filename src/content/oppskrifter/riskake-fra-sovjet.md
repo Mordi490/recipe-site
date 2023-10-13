@@ -2,7 +2,7 @@
 title: Riskake fra Sovjet
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: ["../../assets/recipe-images/web_riskake-fra-sovjet.jpg"]
+images: ["../../assets/recipe-images/web_riskake-fra-sovjet.jpg"]
 ---
 
 # Riskake fra Sovjet
