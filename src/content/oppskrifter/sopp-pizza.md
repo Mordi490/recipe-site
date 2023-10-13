@@ -1,11 +1,11 @@
 ---
-title: Calzone
+title: Sopp pizza
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
 images: ["../../assets/recipe-images/web_wienerstenger.jpg"]
 ---
 
-# Calzone
+# Sopp pizza
 
 ## Ingredienser
 

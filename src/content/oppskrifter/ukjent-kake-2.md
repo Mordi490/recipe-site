@@ -1,11 +1,12 @@
 ---
-title: Random kake
+title: Ukjent kake
 tags: ["dessert", "bakverk", "sukrin"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
 images: ["../../assets/recipe-images/web_random-kake.jpg"]
+draft: true
 ---
 
-# Random kake
+# Ukjent kake
 
 ## Ingredienser
 
@@ -19,4 +20,4 @@ images: ["../../assets/recipe-images/web_random-kake.jpg"]
 
 ## Instruksjoner
 
-Knus ritz, valnøtter, pianøtter. Pisk egg og sukker til marengs og vend inn bakepulver og vaniljesukker. Stek ved 180 gr. i ca. 15-20 minutter i en langpanne.
+Knus ritz, valnøtter, peanøtter. Pisk egg og sukker til marengs og vend inn bakepulver og vaniljesukker. Stek ved 180 gr. i ca. 15-20 minutter i en langpanne.
