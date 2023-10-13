@@ -3,7 +3,9 @@ title: Mormors havregrynsbrød
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
 heroImage:
-  ["../../assets/recipe-images/web_mormors-havregrynsbørd-karens-daglige-brød.jpg"]
+  [
+    "../../assets/recipe-images/web_mormors-havregrynsbørd-karens-daglige-brød.jpg",
+  ]
 ---
 
 # Mormors havregrynsbrød

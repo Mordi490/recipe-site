@@ -3,7 +3,9 @@ title: Bondebrød med valnøtter
 tags: ["dessert", "småkake"]
 ingredienser: ["havregryn", "egg", "smør"]
 heroImage:
-  ["../../assets/recipe-images/web_fletteloff-med-honning-bonde-med-valnøtter.jpg"]
+  [
+    "../../assets/recipe-images/web_fletteloff-med-honning-bonde-med-valnøtter.jpg",
+  ]
 ---
 
 # Bondebrød med valnøtter

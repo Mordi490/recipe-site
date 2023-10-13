@@ -12,10 +12,7 @@ const isActive = href === pathname || href === pathname.replace(/\/$/, "");
 
 <a
   href={href}
-  class={twMerge(
-    "inline-block no-underline",
-    isActive && "underline font-bold"
-  )}
+  class={twMerge("inline-block no-underline", isActive && "underline font-bold")}
   {...props}
 >
   <slot />

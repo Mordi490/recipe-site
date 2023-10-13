@@ -2,7 +2,8 @@
 title: Smørbar juleost
 tags: ["dessert", "småkake"]
 ingredienser: ["kylling", "pasta", "brokkoli"]
-heroImage: ["../../assets/recipe-images/web_smørbar-juleost-bodils-havrekjeks.jpg"]
+heroImage:
+  ["../../assets/recipe-images/web_smørbar-juleost-bodils-havrekjeks.jpg"]
 ---
 
 # Smørbar juleost

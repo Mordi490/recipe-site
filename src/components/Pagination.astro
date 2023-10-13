@@ -7,7 +7,7 @@ const { prevUrl, nextUrl } = Astro.props;
     {
       prevUrl && (
         <a
-          class="bg-green-700 hover:bg-green-800 hover:shadow text-white font-semibold py-2 px-4 rounded border-2 border-gray-700"
+          class="rounded border-2 border-gray-700 bg-green-700 px-4 py-2 font-semibold text-white hover:bg-green-800 hover:shadow"
           href={prevUrl}
         >
           Forrige Side
@@ -20,7 +20,7 @@ const { prevUrl, nextUrl } = Astro.props;
     {
       nextUrl && (
         <a
-          class="bg-green-700 hover:bg-green-800 hover:shadow text-white font-semibold py-2 px-4 rounded border-2 border-gray-700"
+          class="rounded border-2 border-gray-700 bg-green-700 px-4 py-2 font-semibold text-white hover:bg-green-800 hover:shadow"
           href={nextUrl}
         >
           Neste Side

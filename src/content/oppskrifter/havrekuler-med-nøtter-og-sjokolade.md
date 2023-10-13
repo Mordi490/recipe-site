@@ -2,7 +2,8 @@
 title: Havrekuler med nøtter og sjokolade
 tags: ["sukrin", "dessert", "kake"]
 ingredienser: ["sukrin", "egg", "rømme"]
-heroImage: ["../../assets/recipe-images/web_havrekuler-med-nøtter-og-sjokolade.jpg"]
+heroImage:
+  ["../../assets/recipe-images/web_havrekuler-med-nøtter-og-sjokolade.jpg"]
 ---
 
 # Havrekuler med nøtter og sjokolade

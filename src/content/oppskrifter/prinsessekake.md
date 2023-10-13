@@ -2,10 +2,7 @@
 title: prinsessekake
 tags: ["bakverk", "dessert", "kake"]
 ingredienser: ["sukker", "kakao", "vann", "melk"]
-heroImage:
-  [
-    "../../assets/recipe-images/web_prinsessekake-skolebrød.jpg",
-  ]
+heroImage: ["../../assets/recipe-images/web_prinsessekake-skolebrød.jpg"]
 ---
 
 # prinsessekake

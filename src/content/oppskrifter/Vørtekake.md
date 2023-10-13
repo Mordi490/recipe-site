@@ -2,7 +2,8 @@
 title: Vørtekake
 tags: ["dessert", "småkake"]
 ingredienser: ["havregryn", "egg", "smør"]
-heroImage: ["../../assets/recipe-images/web_langstekt-brød-med-kavre-vørtekake.jpg"]
+heroImage:
+  ["../../assets/recipe-images/web_langstekt-brød-med-kavre-vørtekake.jpg"]
 ---
 
 # Vørtekake

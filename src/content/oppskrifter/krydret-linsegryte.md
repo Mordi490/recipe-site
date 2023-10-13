@@ -2,7 +2,8 @@
 title: Krydret linsegryte med grønnsaker
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: ["../../assets/recipe-images/web_krydret-linsegryte-med-grønnsaker.jpg"]
+heroImage:
+  ["../../assets/recipe-images/web_krydret-linsegryte-med-grønnsaker.jpg"]
 ---
 
 # Krydret linsegryte med grønnsaker

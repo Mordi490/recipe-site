@@ -2,7 +2,8 @@
 title: Mikrokarameller
 tags: ["dessert", "småkake"]
 ingredienser: ["kylling", "pasta", "brokkoli"]
-heroImage: ["../../assets/recipe-images/web_mikrokarameller-appelsin-sjokolade.jpg"]
+heroImage:
+  ["../../assets/recipe-images/web_mikrokarameller-appelsin-sjokolade.jpg"]
 ---
 
 # Mikrokarameller

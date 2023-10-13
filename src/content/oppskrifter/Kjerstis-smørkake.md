@@ -2,7 +2,8 @@
 title: Kjerstis smørkake
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-heroImage: ["../../assets/recipe-images/web_sjokoladekake-kjerstis-smørkake.jpg"]
+heroImage:
+  ["../../assets/recipe-images/web_sjokoladekake-kjerstis-smørkake.jpg"]
 ---
 
 # Kjerstis smørkake
