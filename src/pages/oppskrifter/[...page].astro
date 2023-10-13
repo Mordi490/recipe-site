@@ -8,7 +8,12 @@ import { PER_PAGE } from "../../const";
 
 export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
   const oppskrifter = await getCollection("oppskrifter");
-  return paginate(oppskrifter, { pageSize: PER_PAGE });
+
+  const oppskrifterFiltered = oppskrifter.filter(
+    (opp) => opp.data.draft !== true,
+  );
+
+  return paginate(oppskrifterFiltered, { pageSize: PER_PAGE });
 }
 
 interface Post {
