@@ -5,6 +5,7 @@ ingredienser: ["havregryn", "egg", "smør"]
 images:
   [
     "../../assets/recipe-images/web_fletteloff-med-honning-bonde-med-valnøtter.jpg",
+    "../../assets/recipe-images/fletteloff-bondebrød-preview.jpg",
   ]
 ---
 

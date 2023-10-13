@@ -5,6 +5,7 @@ ingredienser: ["kylling", "pasta", "brokkoli"]
 images:
   [
     "../../assets/recipe-images/web_nøttedip-appelsindipp-ananasdipp-normannadipp.jpg",
+    "../../assets/recipe-images/ananasmuffins-preview.jpg",
   ]
 ---
 

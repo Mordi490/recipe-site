@@ -11,8 +11,7 @@ ingredienser:
     "margarin",
     "sur melk",
   ]
-images:
-  ["../../assets/recipe-images/web_sjokolademuffins-dronningens-drøm.jpg"]
+images: ["../../assets/recipe-images/web_sjokolademuffins-dronningens-drøm.jpg"]
 ---
 
 # Sjokolademuffins 2

@@ -2,7 +2,8 @@
 title: skolebrød
 tags: ["bakverk", "bolle"]
 ingredienser: ["sukker", "kakao", "vann", "melk"]
-images: ["../../assets/recipe-images/web_prinsessekake-skolebrød.jpg"]
+images: ["../../assets/recipe-images/web_prinsessekake-skolebrød.jpg",
+"../../assets/recipe-images/skolebrød-preview.jpg"]
 ---
 
 # skolebrød

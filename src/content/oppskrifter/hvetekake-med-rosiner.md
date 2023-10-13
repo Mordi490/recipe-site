@@ -2,7 +2,8 @@
 title: Hvetekaker med rosiner
 tags: ["dessert", "småkake"]
 ingredienser: ["havregryn", "egg", "smør"]
-images: ["../../assets/recipe-images/web_hvetekake-med-rosiner.jpg"]
+images: ["../../assets/recipe-images/web_hvetekake-med-rosiner.jpg",
+"../../assets/recipe-images/hvetekake-med-rosiner-preview.jpg"]
 ---
 
 # Hvetekaker med rosiner

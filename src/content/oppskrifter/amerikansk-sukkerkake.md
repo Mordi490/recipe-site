@@ -2,7 +2,11 @@
 title: Amerikansk sukkerkake
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-images: ["../../assets/recipe-images/web_amerikansk-sukkerkake.jpg"]
+images:
+  [
+    "../../assets/recipe-images/web_amerikansk-sukkerkake.jpg",
+    "../../assets/recipe-images/amerikansk-sukkerkake-preview.jpg",
+  ]
 ---
 
 # Amerikansk sukkerkake

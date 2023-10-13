@@ -2,8 +2,7 @@
 title: Kake med cottage cheese og sitron
 tags: ["ostekake", "dessert", "kake"]
 ingredienser: ["sukrin", "egg", "rømme"]
-images:
-  ["../../assets/recipe-images/web_kake-med-cottage-cheese-og-sitron.jpg"]
+images: ["../../assets/recipe-images/web_kake-med-cottage-cheese-og-sitron.jpg"]
 ---
 
 # Kake med cottage cheese og sitron

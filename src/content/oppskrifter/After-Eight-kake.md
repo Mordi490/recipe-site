@@ -2,7 +2,11 @@
 title: After Eight-kake
 tags: ["sukrin", "dessert", "kake"]
 ingredienser: ["sukrin", "egg", "rømme"]
-images: ["../../assets/recipe-images/web_after-eight-nougatsnitter.jpg"]
+images:
+  [
+    "../../assets/recipe-images/web_after-eight-nougatsnitter.jpg",
+    "../../assets/recipe-images/after-eight-kake-preview.jpg",
+  ]
 ---
 
 # After Eight-kake

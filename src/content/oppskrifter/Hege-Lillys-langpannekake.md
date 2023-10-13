@@ -3,7 +3,10 @@ title: Hege Lillys langpannekake
 tags: ["sukrin", "dessert", "kake"]
 ingredienser: ["sukrin", "egg", "rømme"]
 images:
-  ["../../assets/recipe-images/web_rullekubbe-hege-lillys-langpanne.jpg"]
+  [
+    "../../assets/recipe-images/web_rullekubbe-hege-lillys-langpanne.jpg",
+    "../../assets/recipe-images/hege-lillys-langpannekake-preview.jpg",
+  ]
 ---
 
 # Hege Lillys langpannekake

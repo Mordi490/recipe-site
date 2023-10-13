@@ -2,7 +2,11 @@
 title: Engelsk fruktkake
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-images: ["../../assets/recipe-images/web_engelsk-fruktkake.jpg"]
+images:
+  [
+    "../../assets/recipe-images/web_engelsk-fruktkake.jpg",
+    "../../assets/recipe-images/engelsk-fruktkake-preview.jpg",
+  ]
 ---
 
 # Engelsk fruktkake

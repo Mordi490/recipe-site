@@ -2,7 +2,11 @@
 title: Fødselsdagskrans
 tags: ["dessert", "småkake"]
 ingredienser: ["havregryn", "egg", "smør"]
-images: ["../../assets/recipe-images/web_fødseldagskringle.jpg"]
+images:
+  [
+    "../../assets/recipe-images/web_hvetekake-med-sjokolade-fødselsdagskrans.jpg",
+    "../../assets/recipe-images/hvetekake-med-sjokolade-fødselkrans-preview.jpg",
+  ]
 ---
 
 # Fødselsdagskrans

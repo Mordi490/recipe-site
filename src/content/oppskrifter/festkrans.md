@@ -2,7 +2,11 @@
 title: Festkrans
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-images: ["../../assets/recipe-images/web_lettvinte-wienerbrød.jpg"]
+images:
+  [
+    "../../assets/recipe-images/web_lettvinte-wienerbrød.jpg",
+    "../../assets/recipe-images/festkrans-lettvinte-wienerbrød-preview.jpg",
+  ]
 ---
 
 # Festkrans

@@ -2,7 +2,8 @@
 title: Sachorte
 tags: ["sukrin", "dessert", "kake"]
 ingredienser: ["sukrin", "egg", "rømme"]
-images: ["../../assets/recipe-images/web_myke-cookie-sachorte.jpg"]
+images: ["../../assets/recipe-images/web_myke-cookie-sachorte.jpg",
+"../../assets/recipe-images/sachorte-preview.jpg"]
 ---
 
 # Sachorte

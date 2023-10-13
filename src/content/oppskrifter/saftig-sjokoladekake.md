@@ -3,7 +3,10 @@ title: Saftig Sjokoladekake
 tags: ["sukrin", "dessert", "kake"]
 ingredienser: ["sukrin", "egg", "rømme"]
 images:
-  ["../../assets/recipe-images/web_saftig-sjokoladekake-sjoko-banankake.jpg"]
+  [
+    "../../assets/recipe-images/web_saftig-sjokoladekake-sjoko-banankake.jpg",
+    "../../assets/recipe-images/saftig-sjokoladekake-preview.jpg",
+  ]
 ---
 
 # Saftig Sjokoladekake

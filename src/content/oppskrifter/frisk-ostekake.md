@@ -2,7 +2,8 @@
 title: Frisk ostekake
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-images: ["../../assets/recipe-images/web_friskt-ostekake.jpg"]
+images: ["../../assets/recipe-images/web_friskt-ostekake.jpg",
+"../../assets/recipe-images/frisk-ostekake-preview.jpg"]
 ---
 
 # Frisk ostekake

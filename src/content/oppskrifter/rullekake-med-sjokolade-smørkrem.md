@@ -2,8 +2,7 @@
 title: Rullekake med sjokoladekrem
 tags: ["dessert", "småkake"]
 ingredienser: ["kylling", "pasta", "brokkoli"]
-images:
-  ["../../assets/recipe-images/web_rullekake-med-sjokolade-smørkrem.jpg"]
+images: ["../../assets/recipe-images/web_rullekake-med-sjokolade-smørkrem.jpg"]
 ---
 
 # Rullekake med sjokoladekrem

@@ -1,11 +1,10 @@
 ---
-title: Prinsessekake 5
+title: Prinsessekake 4
 tags: ["dessert", "småkake"]
 ingredienser: ["havregryn", "egg", "smør"]
 images:
   [
     "../../assets/recipe-images/web_jomfruens-kake(prinsessekake).jpg",
-
     "../../assets/recipe-images/web_jomfru-kake-preview.jpg",
   ]
 ---

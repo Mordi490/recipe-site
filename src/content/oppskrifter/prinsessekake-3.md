@@ -2,7 +2,8 @@
 title: Prinsessekake 3
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-images: ["../../assets/recipe-images/web_prinsessekake-3.jpg"]
+images: ["../../assets/recipe-images/web_prinsessekake-3.jpg",
+"../../assets/recipe-images/prinsessekake-preview.jpg"]
 ---
 
 # Prinsessekake 3

@@ -5,6 +5,7 @@ ingredienser: ["havregryn", "egg", "smør"]
 images:
   [
     "../../assets/recipe-images/web_rundstykker-med-cottage-cheese-rugboller-mammas-knuter-med-kli.jpg",
+    "../../assets/recipe-images/cottagecheeserundstykker-knuter-rugboller-preview.jpg",
   ]
 ---
 

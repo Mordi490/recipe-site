@@ -5,6 +5,7 @@ ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
 images:
   [
     "../../assets/recipe-images/web_havreringer-gode-kringler-lenes-sjokoladebrød.jpg",
+    "../../assets/recipe-images/havreringer-sjokoladebrød-kringler-preview.jpg",
   ]
 ---
 

@@ -12,7 +12,10 @@ ingredienser:
     "sur melk",
   ]
 images:
-  ["../../assets/recipe-images/web_sjokoladekake-med-flettemønster.jpg"]
+  [
+    "../../assets/recipe-images/web_sjokoladekake-med-flettemønster.jpg",
+    "../../assets/recipe-images/sjokoladekake-med-flettemønster-preview.jpg",
+  ]
 ---
 
 # Sjokoladekake med flettemønster
