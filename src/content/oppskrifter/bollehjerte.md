@@ -38,13 +38,13 @@ images: ["../../assets/recipe-images/web_bollehjerte.jpg"]
 
 4. Dekk til, og la deigen heve ca. 30 minutter.
 
-5. Rør smør, sukker og korinter proøst og hvitt. Bland det med den hevede deigen, og arbeid deigen glatt og blank.
+5. Rør smør, sukker og korinter porøst og hvitt. Bland det med den hevede deigen, og arbeid deigen glatt og blank.
 
 6. Del deigen i to deler. Kjevle hver del ut til leiver, ca. 20x50 cm.
 
 7. Bland aprikossyltetøy og revet kransekakemasse.
 
-8. Fordel fyllet på deigleivene. Rull sammen. Skjær hver rull i 15 biter. Marker hjertemønster, ca. 30 cm bredt og 20 cm høyt, op to bakepaprikledde stekeplater.
+8. Fordel fyllet på deigleivene. Rull sammen. Skjær hver rull i 15 biter. Marker hjertemønster, ca. 30 cm bredt og 20 cm høyt, på to bakepapirkledde stekeplater.
 
 9. Legg bollene med litt avstand på mønsteret på bakepapiret. Dekk til og etterhev, 20-30 minutter.
 

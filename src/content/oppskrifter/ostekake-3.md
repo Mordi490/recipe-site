@@ -16,11 +16,11 @@ images: ["../../assets/recipe-images/web_ostekake-4.jpg"]
 - 110 g melis
 - 1 ts vaniljesukker
 - 1/4 l fløte
-- 1 pk. appelsingele
-- 1 pk. bringebærgele
+- 1 pk. appelsingelè
+- 1 pk. bringebærgelè
 
 ## Instruksjoner
 
-Bland sammen kjeks og margarin. Plasser i en kakeform 26 cm. Settes i kjølesakp i ca. 1 1/2 time
+Bland sammen kjeks og margarin. Plasser i en kakeform 26 cm. Settes i kjøleskap i ca. 1 1/2 time
 
-Pisk sammen kremost, rømme, melis, fløte og vaniljesukker. 1 pk. appelsingele løses i 2 1/2 dl vann avkjøles og blandes i kremen. 1 pk. bringebærgele Has oppå kaken når den har stivnet.
+Pisk sammen kremost, rømme, melis, fløte og vaniljesukker. 1 pk. appelsingelè løses i 2 1/2 dl vann avkjøles og blandes i kremen. 1 pk. bringebærgelè has oppå kaken når den har stivnet.

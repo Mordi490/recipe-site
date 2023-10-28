@@ -33,13 +33,13 @@ images: ["../../assets/recipe-images/web_fruktkake.jpg"]
 
 ## Instruksjon
 
-1. Smelt smøret, og la det avkjøles
+1. Smelt smøret, og la det avkjøles.
 
-2. Pisk egg og sukker til eggedosis, gjerne med misker
+2. Pisk egg og sukker til eggedosis, gjerne med mikser.
 
 3. Bland hvetemel, potetmel og bakepulver. Vend det ned i røren. Tilsett smør og vann.
 
-4. Hell røren i en smurt og strødd form, ca. 28 cm i diameter
+4. Hell røren i en smurt og strødd form, ca. 28 cm i diameter.
 
 5. Stek bunnen på rist i nedre del av ovnen ved 175 gr, 20-30 minutter. La avkjøles noen minutter. Legg den over på rist, og la den avkjøles under formen.
 

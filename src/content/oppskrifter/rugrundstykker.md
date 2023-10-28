@@ -30,7 +30,7 @@ images: ["../../assets/recipe-images/web_valnøttrundstykker-rugrundstykker.jpg"
 
 6. Ta deigen over på melet bakebord. Elt inn resten av melet. Form deigen til en tykk pølse.
 
-7. Del i 15 biter. Vend hver bit i litt mel, og legg på smurt eller bakepaprikledd stekeplate. Dekk til, og etterhev ca. 30 minutter.
+7. Del i 15 biter. Vend hver bit i litt mel, og legg på smurt eller bakepapirkledd stekeplate. Dekk til, og etterhev ca. 30 minutter.
 
 8. Stek midt i ovnen ved 250 gr, 8-10 minutter. I varmluftsovn ved 225 gr, 8-10 minutter.
 

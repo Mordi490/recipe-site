@@ -20,4 +20,4 @@ images:
 
 ## Instruksjoner
 
-Bland smør, sirup, sukker, kakao og marshmallows i en bolle egnet for mikrobølgeovn. Settes i ovnen ved full effekt i 5 minutter. Rør i massen 2-3 ganger i løpet av koketiden. Ta bollen ut og rør inn kokos og mandelflak. Fylles i konfektformer av papri eller settes med teskje på bakepapir. Det stivner fort, slik at du må handle raskt. Karamellen kan også kokes på komfyren, men da tar det selvfølgelig mye lengre tid. Oppbevares i tet boks på et kjølig sted.
+Bland smør, sirup, sukker, kakao og marshmellows i en bolle egnet for mikrobølgeovn. Settes i ovnen ved full effekt i 5 minutter. Rør i massen 2-3 ganger i løpet av koketiden. Ta bollen ut og rør inn kokos og mandelflak. Fylles i konfektformer av papir eller settes med teskje på bakepapir. Det stivner fort, slik at du må handle raskt. Karamellen kan også kokes på komfyren, men da tar det selvfølgelig mye lengre tid. Oppbevares i tett boks på et kjølig sted.

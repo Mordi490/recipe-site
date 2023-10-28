@@ -2,14 +2,14 @@
 title: Julens brunostfantasi
 tags: ["dessert", "småkake"]
 ingredienser: ["kylling", "pasta", "brokkoli"]
-images: ["../../assets/recipe-images/web_wienerstenger.jpg"]
+images: ["../../assets/recipe-images/web_julens-brunostfantasi.jpg"]
 ---
 
 # Julens brunostfantasi
 
 ## Ingredienser
 
-- 200 g brunost, revet, gjerne ekete geitost setertype
+- 200 g brunost, revet, gjerne ekte geitost setertype
 - 2 ss maisennamel
 - 3 dl appelsinjuice
 

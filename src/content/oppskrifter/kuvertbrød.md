@@ -22,11 +22,11 @@ images: ["../../assets/recipe-images/web_kuvertbrød.jpg"]
 
 2. Rør ut potetmel, salt og sukeker i litt av melken i en kjele. Hell på resten av melken, varm opp under kraftig omrøring
 
-3. Sett kjelen i kaldt vann. Vips til blandingen er lunken, 37 gr. Hell litt over gjæren, rør godt til den er oppløst. Ha i resten av blandingen. Arbeid inn ca. 1 liter av melet. Deigen skal være ganske løs. Arbeid den smidig i masking eller for hånd.
+3. Sett kjelen i kaldt vann. Visp til blandingen er lunken, 37 gr. Hell litt over gjæren, rør godt til den er oppløst. Ha i resten av blandingen. Arbeid inn ca. 1 liter av melet. Deigen skal være ganske løs. Arbeid den smidig i maskin eller for hånd.
 
 4. Dryss litt mel over, dekk med håndkle eller plast og sett til hevning 40-45 minutter.
 
-5. Elt inn resten av melet på bakebordet. From til 2 eller 3 slags kuvertbrød.
+5. Elt inn resten av melet på bakebordet. Form til 2 eller 3 slags kuvertbrød.
 
 6. **Rosebrød:** Del deigen i like store emner. Form dem til runde boller. Klem dem litt flat. Skjær snitt i sirkel med en skarp kniv. Start fra midten.
 

@@ -33,7 +33,7 @@ images: ["../../assets/recipe-images/web_sitronboller-eplehorn.jpg"]
 
 1. Smuldre gjæren i en bollen.
 
-2. Smelt smør, hell i melk og avkjøl til 37 gr. Hell litt over gjæren. Rlr godt. Ha i resten av væsken, saltet, sukkeret og det meste av melet.
+2. Smelt smør, hell i melk og avkjøl til 37 gr. Hell litt over gjæren. Rør godt. Ha i resten av væsken, saltet, sukkeret og det meste av melet.
 
 3. Arbeid deigen med maskin eller for hånd til den slipper kanten på bollen. Dryss litt mel over, dekk til og sett til heving ca. 20 minutter.
 
@@ -41,7 +41,7 @@ images: ["../../assets/recipe-images/web_sitronboller-eplehorn.jpg"]
 
 5. Elt inn resten av melet på melet bakebord. Kjevle deigen ut til en ganske tynn leiv. Stikk ut rundinger med f.eks. et glass. Legg ca. 1 ts sitronkrem midt i hver runding. Brett i to til halvmåner.
 
-6. Legg bollene på bakepaprikledd stekeplate. Trykk kantene godt til, f.eks. med en gaffel. Dekk til, og etterhev ca. 40 minutter.
+6. Legg bollene på bakepapirkledd stekeplate. Trykk kantene godt til, f.eks. med en gaffel. Dekk til, og etterhev ca. 40 minutter.
 
 7. Stek bollene ved 200 gr, ca. 10 minutter.
 

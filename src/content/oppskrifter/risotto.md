@@ -25,7 +25,7 @@ images: ["../../assets/recipe-images/web_risotto-brytebrød.jpg"]
 - 2 ts buljongpulver
 - 1 ss margarin
 - 200 g kjøttdeig
-- 2 ts tomatpure
+- 2 ts tomatpurè
 - salt & pepper
 
 ## Instruksjoner
@@ -34,6 +34,6 @@ images: ["../../assets/recipe-images/web_risotto-brytebrød.jpg"]
 2. Ha i risen, og surr videre i 5 minutter.
 3. Ha så i vann m/buljong og kok videre ca. 20 minutter.
 4. Brun kjøttdeigen på pannen.
-5. Bland alt i kasserollen, samk tel med krydder
+5. Bland alt i kasserollen, smak til med krydder.
 
-Server gjerne med [brytebrød](./brytebrød)
+Server gjerne med [brytebrød](./brytebrød).

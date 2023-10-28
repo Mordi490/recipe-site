@@ -46,8 +46,8 @@ images:
 
 ## Instruksjoner
 
-Rør smør og sukker hvit og kremaktig. Del hvite og plomme ør rør eggeplommene i smør-/sukkerblandingen. Ha i melk blanded med kaffe vekselvis med alt det tørre. vend til slut inn stiv piskede eggehviter. Fyll røren i en godt smurt form og stek kaken på nederste rille ved 175 gr. i ca 40 min, eller til den slipper kanten og er gjennomstekt. Avkjøl kaken på rist og del i to lag.
+Rør smør og sukker hvit og kremaktig. Del hvite og plomme og rør eggeplommene i smør-/sukkerblandingen. Ha i melk blandet med kaffe vekselvis med alt det tørre. vend til slutt inn stiv piskede eggehviter. Fyll røren i en godt smurt form og stek kaken på nederste rille ved 175 gr. i ca 40 min, eller til den slipper kanten og er gjennomstekt. Avkjøl kaken på rist og del i to lag.
 
-**FYLL:** Kok opp fløten og la sjokoladen smelte i. Avkjøl, gjerne natten over. Når det er kadlt, kan det vispes til stiv krem. Fordel kremen på lagene.
+**FYLL:** Kok opp fløten og la sjokoladen smelte i. Avkjøl, gjerne natten over. Når det er kaldt, kan det vispes til stiv krem. Fordel kremen på lagene.
 
-**PYNT:** Rør sammen smør, kaffe, kakao og melis. Juster melismengden sli at massen blir passe tykt. Sprøyt flettemønster runt kaken og pynt med sjokoladehjerter, rips og jordbær, eller bruk annen frukt eller bær.
+**PYNT:** Rør sammen smør, kaffe, kakao og melis. Juster melismengden slik at massen blir passe tykt. Sprøyt flettemønster rundt kaken og pynt med sjokoladehjerter, rips og jordbær, eller bruk annen frukt eller bær.

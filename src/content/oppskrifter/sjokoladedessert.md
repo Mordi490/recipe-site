@@ -31,4 +31,4 @@ images:
 
 Mal nøttene. Pisk eggehvite stive. Bland sukker med malte nøtter i eggehvitene med lett hånd. Ha deigen i en smurt springform på 22 cm i diameter. Stek bunnen ved 175 gr. op nederste rille i ovnen, ca. 20 minutter. Avkjøl bunnen.
 
-Smelt sjokladen. Pisk fløten stiv og bland eggeplommer. Rør kremen i sjokoalden, litt av gangen sammen med kaffe. Ha sjokoladeblandingen over bunnen i formen og sett desserten i fryseren misnt 24 timer. Ta desserten ut og pynt den med krem før servering.
+Smelt sjokladen. Pisk fløten stiv og bland eggeplommer. Rør kremen i sjokoladen, litt av gangen sammen med kaffe. Ha sjokoladeblandingen over bunnen i formen og sett desserten i fryseren minst 24 timer. Ta desserten ut og pynt den med krem før servering.

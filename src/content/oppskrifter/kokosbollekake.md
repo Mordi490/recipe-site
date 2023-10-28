@@ -38,7 +38,7 @@ images: ["../../assets/recipe-images/web_kokosbollekake-2.jpg"]
 
 ### kake
 
-Kle en rundt bolle innvendig med plastfolje. Legg gelatin i bløt (kaldt) i 5 min. Pisk eggehvitene stive, tilsett sukker og vaniljesukker litt etter litt mens du pisker. Kok opp vann og trekk kjlen til side, rør inn gelatin en etter en. Hell flytende gelatin marengsmassen, pisk hardt i 5 min
+Kle en rund bolle innvendig med plastfolie. Legg gelatin i bløt (kaldt) i 5 min. Pisk eggehvitene stive, tilsett sukker og vaniljesukker litt etter litt mens du pisker. Kok opp vann og trekk kjelen til side, rør inn gelatin en etter en. Hell flytende gelatin marengsmassen, pisk hardt i 5 min
 
 Fyll marengsmassen i bollen og glatt utover. Sett i kjøleskapet ca. 3-4 timer til den har stivnet og kan snus på et fat
 

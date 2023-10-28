@@ -41,13 +41,13 @@ Varm stekeovnen til 200 gr.
 
 Vellykket lutefisk skal være lys og sammenhengende, uten for mye lutsmak. Velg lutefisk med god kvalitet.
 
-Leg lutefiskskivenemed skinnsiden ned i langpanne, dryyss med salt, 1 ss per kg fisk, og la fisken ligge med saltet 30-40 min før langpannen dekkes med aluminiumsfolie og settes i setekeovnen. (saltet skal ikke skylles av)
+Legg lutefiskskivenemed skinnsiden ned i langpanne, dryss med salt, 1 ss per kg fisk, og la fisken ligge med saltet 30-40 min før langpannen dekkes med aluminiumsfolie og settes i setekeovnen. (saltet skal ikke skylles av)
 
 Bak/stek i varm stekeovn 200 gr. på nederste rille i 30-40 min. Tips: Lutefisken avgir så mye væske under trekkingen at det ikke er nødvendig å koke den i vann. Koking i langpanne i stekeovn gir et meget godt resultat.
 
-Lutefisk skal servers rykende varm på tallerkener. I gammel norsk tradisjon var smeltet smør med tørr sennep, evt. pepper og flatbrød vanlig å server til lutefisken. Også lefse ble mye brukt til lutefisken.
+Lutefisk skal serveres rykende varm på tallerkener. I gammel norsk tradisjon var smeltet smør med tørr sennep, evt. pepper og flatbrød vanlig å servere til lutefisken. Også lefse ble mye brukt til lutefisken.
 
-Tradisjonen er mange og gode, vi nenver noen. Den vanligste er hvit saus smakt til med sennep, grønn ertestung og ribbefett eller sprøstekt bacon. (På vestlandet blir det ofte fett fra pinnekjøtt/fåreribbe). I midtnorge blir det ofte servert sirup eller terninger av geitost til lutefisken. En viktig del av måltidet er nykokte gode poteter, gjerne mandel- eller ringerikspoteter
+Tradisjonen er mange og gode, vi nevner noen. Den vanligste er hvit saus smakt til med sennep, grønn ertestuing og ribbefett eller sprøstekt bacon. (På vestlandet blir det ofte fett fra pinnekjøtt/fåreribbe). I midtnorge blir det ofte servert sirup eller terninger av geitost til lutefisken. En viktig del av måltidet er nykokte gode poteter, gjerne mandel- eller ringerikspoteter
 
 #### Grønn ertestuing til lutefisk
 

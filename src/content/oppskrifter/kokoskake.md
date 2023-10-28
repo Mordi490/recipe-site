@@ -25,12 +25,12 @@ images: ["../../assets/recipe-images/web_kokoskake.jpg"]
 
 ### Sviskefyll
 
-- 1 pose steinfrie svikser
+- 1 pose steinfrie svisker
 - 2 1/2 dl vann
 
 ## Instrukjsoner
 
-**Bunn:** pisk stiv eggehviter og sukkeret i litt etter litt. Bland lett inn kokos, bakepulver og hvetemel.
+**Bunn:** pisk stiv eggehviter og sukkeret, tilsett sukkeret vekselvis. Bland lett inn kokos, bakepulver og hvetemel.
 
 **Eggekrem:** Eggeplommer, fløte og sukker kokes på svak varme til det tykner. Rør jevnt i kasserollen.
 

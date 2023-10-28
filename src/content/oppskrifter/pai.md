@@ -17,7 +17,7 @@ images: ["../../assets/recipe-images/web_pai.jpg"]
 - 113,44 g smør
 - ca. 4-5 ss vann
 
-Bland sammen mel, sukker og salt. Skjær smøret opp i små biter og bland sammen i en bolle. Tilsett vann til slutt, få degein i en paiform og la den ligge i kjøleskapet i 30 min
+Bland sammen mel, sukker og salt. Skjær smøret opp i små biter og bland sammen i en bolle. Tilsett vann til slutt, få deigen i en paiform og la den ligge i kjøleskapet i 30 min
 
 ### Fyll
 
@@ -37,7 +37,7 @@ Bland sammen mel, sukker og salt. Skjær smøret opp i små biter og bland samme
 - 25 g parmesan
 - 25 g cheddar
 
-Ha 1 ts salt over squashen og la saltet ligge i 10 minutter. Sett ovenen på 225 gra og la paiformen ligge der i 5 minutter med aluminiumsfolie rundt. Etter 5 minutter tar du folien av og lar den ligge 5 minutter til. Etter dette skal ovenen stå på 175 gr. Ikke bruk varmluft, bruk over- og undervarme.
+Ha 1 ts salt over squashen og la saltet ligge i 10 minutter. Sett ovnen på 225 gr. og la paiformen ligge der i 5 minutter med aluminiumsfolie rundt. Etter 5 minutter tar du folien av og lar den ligge 5 minutter til. Etter dette skal ovnen stå på 175 gr. Ikke bruk varmluft, bruk over- og undervarme.
 
 Smelt smøret i en medium-stor panne. Ha i løk, paprika, tomat, sopp, squash og pepper. Etter ca. 5 minutter tilsett resten av krydderet og legg dette i paiformen.
 

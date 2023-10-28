@@ -21,4 +21,4 @@ images: ["../../assets/recipe-images/web_julens-beste-grovbrød.jpg",
 
 ## Instruksjoner
 
-Lunke væsken og rør gjæren ut i litt av den. Bland alt til en vanlig gjærdeig. Hev til dobbelt størrelse. Bak ut 3-4 brød. Etterhev ca. 20 minutter. Pensle med vann og strø på havregryn. Stek brødene ved 200 gr. i ca. 45 minutter. Avkjøl på rist.
+Lunk væsken og rør gjæren ut i litt av den. Bland alt til en vanlig gjærdeig. Hev til dobbelt størrelse. Bak ut 3-4 brød. Etterhev ca. 20 minutter. Pensle med vann og strø på havregryn. Stek brødene ved 200 gr. i ca. 45 minutter. Avkjøl på rist.

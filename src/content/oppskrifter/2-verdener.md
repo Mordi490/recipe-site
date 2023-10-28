@@ -32,6 +32,6 @@ images: ["../../assets/recipe-images/web_2-verdener-sjokoladehjerte.jpg"]
 
 ## Instruksjoner
 
-Pisk egg og sukker til eggedosis. Bland inn hvetemel, natron, kanel, salt, vaniljesuker og bakepulver. Press ut overflødig saft av gulrøttene. Hakk kokesjokoladen. Rør inn olje, gulrøtter og sjokolade. Fyll røren o muffinsformer. Stek kaken på nederste rille ved 175 gr. i ca. 10 min. Avkjøles på rist.
+Pisk egg og sukker til eggedosis. Bland inn hvetemel, natron, kanel, salt, vaniljesukker og bakepulver. Press ut overflødig saft av gulrøttene. Hakk kokesjokoladen. Rør inn olje, gulrøtter og sjokolade. Fyll røren og muffinsformer. Stek kaken på nederste rille ved 175 gr. i ca. 10 min. Avkjøles på rist.
 
 Rør sammen glasuren, del kaken i to og legg fyll mellom lagene. Pynt med glasur på toppen og strø litt hjertestrøssel over.

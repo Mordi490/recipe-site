@@ -20,4 +20,4 @@ images:
 
 ## Instruksjoner
 
-Kjør alt i food processor. Smak til med sukker.
+Kjør alt i food prosessor. Smak til med sukker.

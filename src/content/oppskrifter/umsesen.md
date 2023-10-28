@@ -22,7 +22,7 @@ gir 2 stk.
 - 2 dl sur melk
 - 2 egg
 - 1-2 pakker fruktblanding
-- 100 g finnhakkede valnøtter
+- 100 g finhakkede valnøtter
 
 ## Instruksjon
 

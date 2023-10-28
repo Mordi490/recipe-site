@@ -28,7 +28,7 @@ images: ["../../assets/recipe-images/web_sjokoladesuksess.jpg"]
 ### Pynt
 
 - 50 g smeltet sjokolade
-- karamellpyt
+- karamellpynt
 
 ## Instruksjon
 

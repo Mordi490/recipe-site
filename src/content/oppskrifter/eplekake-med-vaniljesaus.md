@@ -22,4 +22,4 @@ images: ["../../assets/recipe-images/web_eplekake-med-vaniljesaus.jpg"]
 
 ## Instruksjon
 
-Skrell eplene og del dem i skiver. Legg dem i litt vann med noen dråper sitronsaft. Da blir de ikke så fort brune. Pisk eggedosis av egg og sukker. Bland sammen smeltet smør og mel. Ha det i eggedosis av og bland godt. Sikt sammen hvetemel og bakepulver og rør det inn i kakerøren. Smør en springform, ca. 24 cm og hell i kakerøren. Legg over epleskiver og dryss på sukker og kanel. Stek kaken i ovn ved 200 gr. i midterste rille, ca. 40 minutter. Dryss melis over kaken før servering og server gjerne med vaniljesaus.
+Skrell eplene og del dem i skiver. Legg dem i litt vann med noen dråper sitronsaft. Da blir de ikke så fort brune. Pisk eggedosis av egg og sukker. Bland sammen smeltet smør og mel. Ha det i eggedosisen og bland godt. Sikt sammen hvetemel og bakepulver og rør det inn i kakerøren. Smør en springform, ca. 24 cm og hell i kakerøren. Legg over epleskiver og dryss på sukker og kanel. Stek kaken i ovn ved 200 gr. i midterste rille, ca. 40 minutter. Dryss melis over kaken før servering og server gjerne med vaniljesaus.

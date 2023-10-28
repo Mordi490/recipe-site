@@ -37,16 +37,16 @@ images: ["../../assets/recipe-images/web_pepperkaker-3.jpg"]
 
 1. Bland smør, sirup og sukker i en kjele. Varm opp til sukkeret er helt smeltet.
 
-2. Ta kjelen av platen og avkjøl blandigens noe.
+2. Ta kjelen av platen og avkjøl blandigen noe.
 
 3. Rør i fløten
 
 4. Sikt i krydder, bakepulver og det meste av melet. Rør alt sammen til en jevn deig. La deigen stå kaldt lengst mulig.
 
-5. Elt deigen i litt mel på border og kjevle den ca. 3 mm tykk.
+5. Elt deigen i litt mel på bordet og kjevle den ca. 3 mm tykk.
 
-6. Stikk ut forskjellige figurkaker, legg dem på bakepapirkledd stekebrett og stem dem på miderste rille i stekeovnen ved 175 grader i ca. 10 minutter.
+6. Stikk ut forskjellige figurkaker, legg dem på bakepapirkledd stekebrett og stem dem på midterste rille i stekeovnen ved 175 grader i ca. 10 minutter.
 
-7. Avkjø kakene på rist.
+7. Avkjøl kakene på rist.
 
 8. Pynt dem eventuelt med melisglasur eller lignende.

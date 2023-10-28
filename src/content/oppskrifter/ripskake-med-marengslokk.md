@@ -36,7 +36,7 @@ images:
 
 2. Visp smør og sukker lyst og porøst. Visp inn en eggeplomme om gangen. Tilsett mel iblandet bakepulver, og rør det forsiktig inn vekselvis med melken.
 
-3. Fordel røren utover i ovenpannen og dryss bærene jevnt oppå. Stek kaken på nederste rille. Først i 20-25 minutter.
+3. Fordel røren utover i ovnpannen og dryss bærene jevnt oppå. Stek kaken på nederste rille. Først i 20-25 minutter.
 
 4. Pisk marengs mens kaken står i oven. Bruk helt ren visp og bolle, og stivpisk eggehvitene. Visp inn sukkeret litt etter litt, til en seig og blank marengs.
 

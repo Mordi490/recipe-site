@@ -36,8 +36,8 @@ images:
 
 ### Bunner
 
-Rist nøttene i ovnen ved 175 gr. i 5-10 minutter og gni mesteparten av skallet forsviner. Hakk nøttene fint og bland med sukkeret. Stivpisk eggehvitene og vend inn nøtte- og sukkerblandingen. Bre røren ut på smurt og melet bakepapir til tre runde bunner, diameter ca. 22 cm. Du kan også bruke tre like store runde kakeformer. Stek bunnene ved 150 gr. i 20-25 minutter. Løsne bunnene med en gang og la dem avkjøles på flatt underlag.
+Rist nøttene i ovnen ved 175 gr. i 5-10 minutter og gni mesteparten av skallet forsvinner. Hakk nøttene fint og bland med sukkeret. Stivpisk eggehvitene og vend inn nøtte- og sukkerblandingen. Bre røren ut på smurt og melet bakepapir til tre runde bunner, diameter ca. 22 cm. Du kan også bruke tre like store runde kakeformer. Stek bunnene ved 150 gr. i 20-25 minutter. Løsne bunnene med en gang og la dem avkjøles på flatt underlag.
 
 ### Sjokoladekrem
 
-Bland eggeplommer, husholdningsfløte, potetmel og sukker i en kjele. Kok opp dette mens du rører hele tiden til det blir en fyldig krem. Ta kjelen fra varmen og rør inn kokesjokolade i biter og smøret i klatter. Rør til atl er smeltet. Sett kremen kaldt, slik at den tykner. Bre kremen mellom bunnene og oppå kaken. Sprøyt gjerne litt av kremen ut som pynt. Ekstra søtt blir det om du pynter med marsipankyllinger.
+Bland eggeplommer, husholdningsfløte, potetmel og sukker i en kjele. Kok opp dette mens du rører hele tiden til det blir en fyldig krem. Ta kjelen fra varmen og rør inn kokesjokolade i biter og smøret i klatter. Rør til alt er smeltet. Sett kremen kaldt, slik at den tykner. Bre kremen mellom bunnene og oppå kaken. Sprøyt gjerne litt av kremen ut som pynt. Ekstra søtt blir det om du pynter med marsipankyllinger.

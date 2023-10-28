@@ -9,7 +9,7 @@ images: ["../../assets/recipe-images/web_elins-beste-punsjboller.jpg"]
 
 ## Ingredienser
 
-- 250 g myke kakerester (gjerne avskjær fra [klovnesjokoladekaken](./Klovnekake))
+- 250 g myke kakerester (gjerne avskjær fra [klovnesjokoladekaken](./klovnekake))
 - 1 1/2 dl melis
 - 2 ss bringebærsyltetøy
 - 2 ss kakao

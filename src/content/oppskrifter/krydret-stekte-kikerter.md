@@ -25,7 +25,7 @@ images: ["../../assets/recipe-images/web_krydrede-stekte-kikerter.jpg"]
 
 1. Forvarm ovnen til 175 grader.
 
-2. Ha kikertene i et dørslag og skyll dem godt. La dem renne godt av seg. Tørk dem med tørkepapri for å få vekk så mye fuktighet som mulig. Ha dem over i en bolle.
+2. Ha kikertene i et dørslag og skyll dem godt. La dem renne godt av seg. Tørk dem med tørkepapir for å få vekk så mye fuktighet som mulig. Ha dem over i en bolle.
 
 3. Bland inn olivenolje, hvitløk, sitronskall, krydder og salt. Bland godt.
 

@@ -23,6 +23,6 @@ Sesamfrø, revet ost, karve eller valmuefrø.
 
 Stekeovnen ved 200 gr i ca. 7 minutter.
 
-SMuldre sammen smør og mel og bland inn osten. La deigen hvile et par timer, og kjevle så tynt ut. Stikk ut rundringer og stek dem "naturell" eller pensle med egg og dryss på ett av dryssene. Stek kjeksene, avkjøl på rist og oppbevar i tett boks på et kjølig sted. Kjeksene er fine å fryse ned. Legg gjerne en herlig ostekrem mellom to og to ostekjeks like før servering.
+Smuldre sammen smør og mel og bland inn osten. La deigen hvile et par timer, og kjevle så tynt ut. Stikk ut rundinger og stek dem "naturell" eller pensle med egg og dryss på ett av dryssene. Stek kjeksene, avkjøl på rist og oppbevar i tett boks på et kjølig sted. Kjeksene er fine å fryse ned. Legg gjerne en herlig ostekrem mellom to og to ostekjeks like før servering.
 
-**Ostekrem:** rør sammen 1/2 beger snørfrisketkost naturell med 0 g revet cheddarost.
+**Ostekrem:** rør sammen 1/2 beger snørfriskost naturell med 50 g revet cheddarost.

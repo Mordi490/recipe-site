@@ -16,4 +16,4 @@ images: ["../../assets/recipe-images/web_scones-kakao-2.jpg"]
 
 ## Instruksjoner
 
-Rør sukker, kakao og halvaparten av melken i en kjelle. Visp alt godt for å unngå at sukker og kakao klumper seg sammen og brennes. Tilsett så resten av melken og varm opptill ønskettemp.
+Rør sukker, kakao og halvparten av melken i en kjelle. Visp alt godt for å unngå at sukker og kakao klumper seg sammen og brennes. Tilsett så resten av melken og varm opptill ønsket temp.

@@ -1,17 +1,17 @@
 ---
-title: Marsipan
+title: Marsipan sukrin
 tags: ["dessert", "sukrin"]
 ingredienser: ["mandelmel", "sukrinmelis", "eggehviter", "sukrin gold"]
-images: ["../../assets/recipe-images/web_wienerstenger.jpg"]
+images: ["../../assets/recipe-images/web_marsipan.jpg"]
 ---
 
-# Marsipan
+# Marsipan sukrin
 
 ## Ingredienser
 
 - 100 g mandelmel
-- 70 g sukrinmelis
-- 1 ts sukrin gold
+- 70 g Sukrin melis
+- 1 ts Sukrin gold
 - 2 eggehviter
 
 ## Instruksjoner

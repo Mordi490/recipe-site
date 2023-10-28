@@ -36,6 +36,6 @@ images: ["../../assets/recipe-images/web_drømmeterte-med-sjokoladefyll.jpg"]
 
 ## Instruksjon
 
-Ha smør, mel og sukker i en food processor og la det gå noen sekunder, eller bland det raskt sammen for hånd. Tilsett eggeplommen og arbeid deigen sammen. Trykk deigen ut i en paiform med løs kant, ca. 22 cm. Settes kaldt ca. 15 minutter. Mal mandlene og bland i melis, smør og kakao. Tilsett deretter et sammenpisket egg og eggehviten og ha det oppi paiformen og stek ved 175 gr. ca. 15 minutter. Avkjøl.
+Ha smør, mel og sukker i en food prosessor og la det gå noen sekunder, eller bland det raskt sammen for hånd. Tilsett eggeplommen og arbeid deigen sammen. Trykk deigen ut i en paiform med løs kant, ca. 22 cm. Settes kaldt ca. 15 minutter. Mal mandlene og bland i melis, smør og kakao. Tilsett deretter et sammenpisket egg og eggehviten og ha det oppi paiformen og stek ved 175 gr. ca. 15 minutter. Avkjøl.
 
-Bland alle ingrediensen til sjokoladefyllet i en kasserolle og varm det opp til det tykner, 5-6 minutter. Hell fyllet i paiformen og glatt det til. Hvis du har tilgang på hvit sjokolade, kan du rive det over til pynt, eller bruke annen sjokolade og kakaodryss.
+Bland alle ingrediensene til sjokoladefyllet i en kasserolle og varm det opp til det tykner, 5-6 minutter. Hell fyllet i paiformen og glatt det til. Hvis du har tilgang på hvit sjokolade, kan du rive det over til pynt, eller bruke annen sjokolade og kakaodryss.

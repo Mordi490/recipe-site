@@ -18,7 +18,7 @@ images: ["../../assets/recipe-images/web_siv-hildes-ostekake.jpg"]
 - 2 dl appelsinjuice
 - 8 pl. gelatin
 - 250 g kremost naturell
-- 1 beger creme fraiche
+- 1 beger crème fraîche
 - 1 dl aprikoskompott
 
 ## Topping
@@ -35,4 +35,4 @@ images: ["../../assets/recipe-images/web_siv-hildes-ostekake.jpg"]
 
 ## Instruksjoner
 
-Mal nøtten og knus kjeksen. Smelt smøret og bland det samme nemd nøtter og kjeks. Fordel massen i bunnen av en form, 24 cm, kledd med bakepapir. Varm opp appelsinjuicen. Legg gelatinplaten i kaldt vann ca. 10 min. Klem ut vannet og rør den ut i den varme appelsinjuicen. Rør ost og creme fraiche sammen ti len glatt røre go bland i aprikoskompotten. tilstt deretter appelsinjuicn. Hell blandingen over kakebunen, ha plast over og sett i kjøleskapet noen timer slik at den stivner. Bløt gelatinplaten i kaldt vann i ca. 10 min. carm opp appelsinjicen og brus. Klem deretter ut vannet av gelatinen og smelt dem i appelsinjuicen og brus. avkjøl. Hell den kalde blandingen forsiktig over kaken og sett kaken kjølig til geleen har stivnet. Punt med appelskinskiver, live og sjokoladeblonder på toppen
+Mal nøttene og knus kjeksen. Smelt smøret og bland det samme med nøtter og kjeks. Fordel massen i bunnen av en form, 24 cm, kledd med bakepapir. Varm opp appelsinjuicen. Legg gelatinplaten i kaldt vann ca. 10 min. Klem ut vannet og rør den ut i den varme appelsinjuicen. Rør ost og crème fraîche sammen til en glatt røre og bland i aprikoskompotten. tilsett deretter appelsinjuicen. Hell blandingen over kakebunen, ha plast over og sett i kjøleskapet noen timer slik at den stivner. Bløt gelatinplaten i kaldt vann i ca. 10 min. varm opp appelsinjuicen og brus. Klem deretter ut vannet av gelatinen og smelt dem i appelsinjuicen og brus. Avkjøl. Hell den kalde blandingen forsiktig over kaken og sett kaken kjølig til gelèen har stivnet. Pynt med appelinskiver, lime og sjokoladeblonder på toppen

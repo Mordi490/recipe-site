@@ -11,8 +11,8 @@ images: ["../../assets/recipe-images/web_smørbar-juleost-bodils-havrekjeks.jpg"
 
 - 150 g sveitserost (gjerne rester)
 - 150 normannaost
-- 2ss creme fraiche
+- 2 ss cremè fraîche
 
 ## Instruksjoner
 
-Finriv osten og bland sammen med creme fraiche til en jevn masse
+Finriv osten og bland sammen med cremè fraîche til en jevn masse.

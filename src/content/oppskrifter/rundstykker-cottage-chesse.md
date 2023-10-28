@@ -26,4 +26,4 @@ images:
 
 ## Instruksjoner
 
-Mos gjerne cottage cheesen i food processor for å få den som en jevn masse. Løs gjæren opp i juicen. Slå egget lett sammen og ha det med ost, sukker, løk, salt, natron, revet appelsinskall og mesteparten av melet. La deigen heve godt opp og del den i 12 emner. Trill til boller og legg disse i muffinsformer. La dem få en god etterhev. Pensle dem med sammenpisket egg og stek dem ved 225 gr. i ca. 15 min. Server rundtsykkene lunkne.
+Mos gjerne cottage cheesen i food prosessor for å få den som en jevn masse. Løs gjæren opp i juicen. Slå egget lett sammen og ha det med ost, sukker, løk, salt, natron, revet appelsinskall og mesteparten av melet. La deigen heve godt opp og del den i 12 emner. Trill til boller og legg disse i muffinsformer. La dem få en god etterhev. Pensle dem med sammenpisket egg og stek dem ved 225 gr. i ca. 15 min. Server rundtsykkene lunkne.

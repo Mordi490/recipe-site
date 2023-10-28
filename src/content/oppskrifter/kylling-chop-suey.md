@@ -28,16 +28,14 @@ images:
 
 ## Instruksjoner
 
-1. Skjær kyllingfilet i strimler.
+1. Skjær kyllingfilet i strimler. Del løk i tynne båter, gulrot og vårløk i tynne skiver. Ha ingrediensene til sausen klar.
 
-2. Del løk i tynne båter, gulrot og vårløk i tynne skiver. Ha ingrediensene til sausen klar.
+2. Vend  kyllingstrimlene i maisstivelse og stek dem raskt i olije til de er gjennomstekt.
 
-3. Varm en wok eller dyp stekepanne med litt olje. Vend kyllingstrimlene i maisstivelse og stek dem raskt til de er gjennomstekt.
+3. Ta kjøttet ut og fortsett med løk, gulrot og ingefær.
 
-4. Ha kjøttet over på en tallerken og varm woken med resten av oljen. Stek løk, gulrot og ingefær raskt.
+4. Ha kjøttet tilbake i pannen når grønnsakene er omtrent møre og tilsett de hermetiske wokgrønnsakene sammen med vårløk. Hell over hønsebuljong og kok opp.
 
-5. Ha kjøttet tilbake i pannen og tilsett wokgrønnsakene sammen med vårløk. Hell over hønsebuljong og la det hele bli gjennomvarmt.
-
-6. Smak til med soyasaus, østerssaus og eventuelt salt og pepper.
+5. Smak til med soyasaus, østerssaus og eventuelt salt og pepper.
 
 Server gjerne med jasminris.

@@ -32,4 +32,4 @@ images:
 
 Stekes ved 210 gr. på nest øverste rille i ca. 15 minutter.
 
-Lag en porsjon klippekrans. Del deigen i to. Hver leiv kjevles til et rektangel, ca. 25 cm langt og 15 cm bredt. Rør sammen smør og sukker. Tilsett finnhakkete rosiner og sukat. Smak til med kardemomme. Bre en stripe fyll langs midten av hver langde. Brett deigen over fyllet fra begge kanter. Dekkes med et klede og heves i ca. 2 timer på et lunt sted. Stek wienerlengdene gyllenbrune og avkjøl dem på rist. Like før servering glasseres lengdene med melis utrørt i litt vann. Skjær lengdene i ca. 3 cm brede stykker.
+Lag en porsjon klippekrans. Del deigen i to. Hver leiv kjevles til et rektangel, ca. 25 cm langt og 15 cm bredt. Rør sammen smør og sukker. Tilsett finhakkete rosiner og sukat. Smak til med kardemomme. Bre en stripe fyll langs midten av hver langde. Brett deigen over fyllet fra begge kanter. Dekkes med et klede og heves i ca. 2 timer på et lunt sted. Stek wienerlengdene gyllenbrune og avkjøl dem på rist. Like før servering glasseres lengdene med melis utrørt i litt vann. Skjær lengdene i ca. 3 cm brede stykker.

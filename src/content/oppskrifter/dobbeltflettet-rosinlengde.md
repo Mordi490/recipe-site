@@ -39,9 +39,9 @@ images: ["../../assets/recipe-images/web_dobbeltflettet-rosinlengde.jpg"]
 
 5. Dekk til deigen og la den heve ca. 30 minutter.
 
-6. Arbeid deigen på nytt op bakebordet. Skjær av 1/3 av deigen. Del den store deigbiten i tre like store emner. Trill ut til lengder på ca. 30 cm. Flett dem sammen.
+6. Arbeid deigen på nytt på bakebordet. Skjær av 1/3 av deigen. Del den store deigbiten i tre like store emner. Trill ut til lengder på ca. 30 cm. Flett dem sammen.
 
-7. Legg flaten på en smurt eller bakepaprikledd stekeplate.
+7. Legg flaten på en smurt eller bakepapirkledd stekeplate.
 
 8. Del den andre deigbiten i tre biter. Trill ut og flett dem i samme lengde som den andre. Legg den tynne fletten opp den andre.
 

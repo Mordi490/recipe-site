@@ -10,7 +10,7 @@ images: ["../../assets/recipe-images/web_sweet-chili-laks.jpg"]
 ## Ingredienser
 
 - 2 laksefilet
-- 2 ss vegtabilsk olje
+- 2 ss vegetabilsk olje
 - 2 ts sesamolje
 - 1 purreløk
 - 1/2 squash
@@ -25,12 +25,12 @@ images: ["../../assets/recipe-images/web_sweet-chili-laks.jpg"]
 
 2. Smør en ildfast form med sesamfrø
 
-3. Legg laksen i formen og stek den i ovn på 140 gr i 15 minutter
+3. Legg laksen i formen og stek den i ovn på 140 gr. i 15 minutter
 
 4. Tilbered nudlene etter anvisning på pakken
 
 5. Varm olje i wokpannen og stek purreløk, gulrot og squash på høy varme i et par minutter
 
-6. Tilset sweet chili woksaus og bønnespirene, og wok vider i 30 sekunder
+6. Tilsett sweet chili woksaus og bønnespirene, og wok videre i 30 sekunder
 
 7. Server laksen med nudler og wokede grønnsaker

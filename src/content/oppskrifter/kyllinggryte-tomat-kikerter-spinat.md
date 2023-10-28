@@ -15,13 +15,13 @@ images:
 ## Ingredienser
 
 - 4 stk kyllingfilet
-- 1 stk finhakked løk
-- 1 ts finhakked rød chili
+- 1 stk finhakket løk
+- 1 ts finhakket rød chili
 - 1/2 ts spisskumin
 - 1 ss olje
 - 2 boks hermetiske tomater med hvitløk
 - 1 boks hermetiske kikerter
-- 250 g spnat
+- 250 g spinat
 - 1 ts salt
 - 1/2 ts pepper
 - 1 ts sukker
@@ -29,7 +29,7 @@ images:
 
 ## Instruksjoner
 
-1. Skjær kyllingfilet i biter. Brun dem i flere omganger i en gryte med olje. Fres finhakked løk og chili sammen med spisskumin et par minutter, og ha kyllingbitene tilbake i gryta.
+1. Skjær kyllingfilet i biter. Brun dem i flere omganger i en gryte med olje. Fres finhakket løk og chili sammen med spisskumin et par minutter, og ha kyllingbitene tilbake i gryta.
 
 2. Ha i hermetisk tomat og skylte kikerter, la det små koke i 5 minutter.
 

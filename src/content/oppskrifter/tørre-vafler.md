@@ -24,4 +24,4 @@ images:
 
 ## Instruksjon
 
-Pisk egg, eggeplomer, sukker og vaniljesukker til eggedosis. Tilset smeltet smør, og sikt i hvete-, potetmel og bakepulver og sett dette i mikrobølgeovnen i 1 minutt. Stek vaflene i vaffelkern.
+Pisk egg, eggeplomer, sukker og vaniljesukker til eggedosis. Tilsett smeltet smør og sikt i hvete-, potetmel og bakepulver og sett dette i mikrobølgeovnen i 1 minutt. Stek vaflene i vaffeljern.

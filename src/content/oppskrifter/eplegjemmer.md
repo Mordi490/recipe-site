@@ -12,7 +12,7 @@ images:
 
 ## Ingredienser
 
-- 1 porsjon [hveteboler](./hveteboler)
+- 1 porsjon [hveteboller](./hveteboller)
 
 ### Fyll
 

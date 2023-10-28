@@ -1,11 +1,11 @@
 ---
-title: Saftig plommekake
+title: Saftig Plommekake
 tags: ["dessert", "småkake"]
 ingredienser: ["kylling", "pasta", "brokkoli"]
 images: ["../../assets/recipe-images/web_saftig-plommekake-jordbærterte.jpg"]
 ---
 
-# Saftig plommekake
+# Saftig Plommekake
 
 ## Ingredienser
 
@@ -22,4 +22,4 @@ images: ["../../assets/recipe-images/web_saftig-plommekake-jordbærterte.jpg"]
 
 Stekes ved 180 på nederste rille i ca. 50 minutter i en 24 cm rund form.
 
-Rør margarin og sukker til en lys og porøs krem. Tilsett eggene, et om gangen og rør godt mellom hver gang. Tilsett mel og bakepulver vekselvis med melk. Rør deigen godt sammen og hell den i en smurt form. Del plommene i to og fjern kjernene. Legg dem tett i tett på deigen. Trykk dem ned i deigen og dryss på sukker. Sett kaken i varm ovn og stek den til den slipper kanten av formen. Kaken avkjøles i formen.
+Rør margarin og sukker til en lys og porøs krem. Tilsett eggene, ett om gangen og rør godt mellom hver gang. Tilsett mel og bakepulver vekselvis med melk. Rør deigen godt sammen og hell den i en smurt form. Del plommene i to og fjern kjernene. Legg dem tett i tett på deigen. Trykk dem ned i deigen og dryss på sukker. Sett kaken i varm ovn og stek den til den slipper kanten av formen. Kaken avkjøles i formen.

@@ -1,11 +1,14 @@
 ---
-title: Kakao med marshmallows
+title: Svinefilet fra karibien
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-images: ["../../assets/recipe-images/web_wienerstenger.jpg"]
+images: [
+  "../../assets/recipe-images/web_svinefilet-fra-karibien-en.jpg", 
+  "../../assets/recipe-images/web_svinefilet-fra-kariben-to.jpg"
+  ]
 ---
 
-# Kakao med marshmallows
+# Svinefilet fra karibien
 
 ## Ingredienser
 
@@ -30,7 +33,7 @@ images: ["../../assets/recipe-images/web_wienerstenger.jpg"]
 
 4. Kok risen etter oppskriften på pakken, men uten å bruke salt.
 
-5. Ha risen på et serveringsfat. Fordel kjørrgryten over. Strø gressløk over, og server straks.
+5. Ha risen på et serveringsfat. Fordel kjøttgryten over. Strø gressløk over, og server straks.
 
 ### Variasjon
 

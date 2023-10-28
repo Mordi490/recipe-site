@@ -26,4 +26,4 @@ images:
 
 ## Instruksjoner
 
-Lag en løs deig av litt under halvparten av rugmelet, lunken melk og gjær. Dryss på mel og la deigen heve seg godt. Bland så i lunken sirup og øl vekselvis med det tørre ti len ganske fast deig. Sett den til heving igjen ca. 1 time. Bak ut 2 eller 4 runde kaker. Etterhev. Prikk kakene god og stek ved 200 gr. i ca. 40 minutter.
+Lag en løs deig av litt under halvparten av rugmelet, lunken melk og gjær. Dryss på mel og la deigen heve seg godt. Bland så i lunken sirup og øl vekselvis med det tørre til en ganske fast deig. Sett den til heving igjen ca. 1 time. Bak ut 2 eller 4 runde kaker. Etterhev. Prikk kakene god og stek ved 200 gr. i ca. 40 minutter.

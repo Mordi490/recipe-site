@@ -10,11 +10,11 @@ images:
 
 ## Ingredienser
 
-- 1 presset appelsing og vann, tilsammen 4 dl, eller appelsinjuice
+- 1 presset appelsin og vann, tilsammen 4 dl, eller appelsinjuice
 - 50 g gjær
 - 1 ss olje
 - 1 1/2 ts salt
-- 1 ss honninh eller sirup
+- 1 ss honning eller sirup
 - 1 1/2 dl solsikkefrø
 - 3 ss havregryn
 - 1 dl sammalt rug, grov

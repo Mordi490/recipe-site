@@ -16,7 +16,7 @@ images:
 ## Ingredienser
 
 - 500 g bløtlagte kikerter eller kikerter på boks (to bokser tilsvarer 400 g)
-- 1 løk, fingakket
+- 1 løk, finhakket
 - 4 fedd hvitløk
 - 2 ts malt spisskummen
 - 2 ts ristede korianderfrø, knust i morter
@@ -26,7 +26,7 @@ images:
 - 0,5 dl hakket persille
 - 0,5 dl hakket, frisk koriander
 - 1,5 ts salt
-- kvernet peppe
+- kvernet pepper
 - olje til steking
 
 ### Til servering
@@ -35,14 +35,14 @@ images:
 - 2 plommetomater, i små biter
 - 1 liten slangeagurk, i små biter
 - 1 rødløk, finhakket
-- hakket bladpersille og/eller frisk korainder
+- hakket bladpersille og/eller frisk koriander
 - syltet chili/jalapeno eller banana peppers
 
 ## Instruksjoner
 
-Hell laken av kikertene, skyll dem i kaldt van og la vannet renne godt av ertene. Klapp dem gjerne tørre på et kjøkkenklede.
+Hell laken av kikertene, skyll dem i kaldt vann og la vannet renne godt av ertene. Klapp dem gjerne tørre på et kjøkkenklede.
 
-Kjør kikertene i en kjøkkenbaskin sammen med løk og hvitløk. Tilsett mel, spisskummen, korianderfrø, cili og kardemomme. Kjør til atl er godt blandet. Tilsett urter, og kjør blandingen litt til. Smak til med salt og kvernet pepper.
+Kjør kikertene i en kjøkkenmaskin sammen med løk og hvitløk. Tilsett mel, spisskummen, korianderfrø, chili og kardemomme. Kjør til alt er godt blandet. Tilsett urter, og kjør blandingen litt til. Smak til med salt og kvernet pepper.
 
 Form "fasrsen" til valnøttstore boller og oppbevar bollene i kjøleskapet. Stek bollene gylne i stekepannen i en god klunk olje før servering. Server de gjerne med [yoghurt- og tahinidipp](yoghurt-tahinidipp)
 

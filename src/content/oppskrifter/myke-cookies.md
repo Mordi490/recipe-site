@@ -22,4 +22,4 @@ images: ["../../assets/recipe-images/web_myke-cookie-sachorte.jpg"]
 
 ## Instruksjoner
 
-Rør smør og sukker hvitt. Tilsett eggene og bland til en jevn masse. Tilsett resten av det tørre, og vend til slut inn hakkede mandler og sjokolade. Stekes midt i ovnen på midterste rille ved 175 gr. i ca. 5-10 min, avhengig av størrelse på kjeksene og hvor myke du vil ha dem.
+Rør smør og sukker hvitt. Tilsett eggene og bland til en jevn masse. Tilsett resten av det tørre, og vend til slutt inn hakkede mandler og sjokolade. Stekes midt i ovnen på midterste rille ved 175 gr. i ca. 5-10 min, avhengig av størrelse på kjeksene og hvor myke du vil ha dem.

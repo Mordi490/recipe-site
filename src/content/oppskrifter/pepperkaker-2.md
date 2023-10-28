@@ -35,7 +35,7 @@ images: ["../../assets/recipe-images/web_pepperkaker.jpg"]
 
 3. Ha i natron, og sikt inn mel. Rør godt sammen til en jevn deig. Juster evt. tykkelsen på deigen med mer mel.
 
-4. Dek til deigen med litt plastfolie og la den stå kaldt noen timer, gjerne over natten.
+4. Dekk til deigen med litt plastfolie og la den stå kaldt noen timer, gjerne over natten.
 
 5. Elt deigen med litt mel på bordet og kjevle den ca. 3 mm tykk. Stikk ut pepperkakefigurer og legg dem på et bakepapirkledd stekebrett. Stek kaken midt i stekeovnen på 175 gr. i ca. 10 minutter. Avkjøl kakene på rist.
 

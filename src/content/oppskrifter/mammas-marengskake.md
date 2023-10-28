@@ -29,7 +29,7 @@ images: ["../../assets/recipe-images/web_mammas-marengskake.jpg"]
 
 3. Rør inn mel blandet med bakepulver og til slutt melken.
 
-4. Bre røren ut i en langpanne, 30x40 cm, com er kledd med bakepapri.
+4. Bre røren ut i en langpanne, 30x40 cm, som er kledd med bakepapir.
 
 5. Visp eggehvitene stive. Tilsett sukker, og visp noen minutter til.
 
@@ -37,7 +37,7 @@ images: ["../../assets/recipe-images/web_mammas-marengskake.jpg"]
 
 7. Stek kaken midt i ovnen ved 150 gr, ca. 20 minutter. La den avkjøles før den løsnes fra papiret.
 
-8. Del kaken på midten, Legg kakebunne sammen med pisket krem, eventuelt smakt til med vaniljesukker, i midten.
+8. Del kaken på midten, Legg kakebunnen sammen med pisket krem, eventuelt smakt til med vaniljesukker, i midten.
 
 9. Oppbevar gjerne kaken kaldt til den skal servers.
 

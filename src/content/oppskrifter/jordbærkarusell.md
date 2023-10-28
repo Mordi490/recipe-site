@@ -1,11 +1,11 @@
 ---
-title: Jordbørkarusell
+title: Jordbærkarusell
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
 images: ["../../assets/recipe-images/web_jordbærkarusell.jpg"]
 ---
 
-# Jordbørkarusell
+# Jordbærkarusell
 
 ## Ingredienser
 
@@ -29,7 +29,7 @@ images: ["../../assets/recipe-images/web_jordbærkarusell.jpg"]
 
 1. Kle en langpanne, 30x40 cm, med bakepapir
 
-2. Pisk egg og sukker til eggedosis, gjern med mikser.
+2. Pisk egg og sukker til eggedosis, gjerne med mikser.
 
 3. Bland mel og bakepulver vend det i røren. Tilsett melken.
 

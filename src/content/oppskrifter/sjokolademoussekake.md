@@ -59,11 +59,11 @@ Kake med nøttebunn med sjokolademousse med glasur
 
 ### Bunn
 
-Pisk eggehviter nesten stivt, tilsett farin og siktet mel. Finhakk hasselnøtter i en hurtighakker og bland dem sammen. Ha røren i en springform (24 cm). Stek bunen ved 180 gr i ca. 15 minutter. Avkjøl formen før sjokolademoussen legges på.
+Pisk eggehviter nesten stivt, tilsett sukker og siktet mel. Finhakk hasselnøtter i en hurtighakker og bland dem sammen. Ha røren i en springform (24 cm). Stek bunen ved 180 gr i ca. 15 minutter. Avkjøl formen før sjokolademoussen legges på.
 
 ### Mørk sjokolademousse
 
-Kok opp eggeplommer, sukker og 1 dl fløte. La det småkoke til det tykner, rør hele tiden. Smelt sjokoladen i vannbad, bland den i den varme massen og rør godt. avkjøl massen litt. I mellomtiden bløter og smelter du gelatin og cognac. Hell massen over nøttebunnen (som fortsatt står i formen). La kaken stå et døgn i kjøleskapet
+Kok opp eggeplommer, sukker og 1 dl fløte. La det småkoke til det tykner, rør hele tiden. Smelt sjokoladen i vannbad, bland den i den varme massen og rør godt. avkjøl massen litt. I mellomtiden bløter og smelter du gelatin og konjakk. Hell massen over nøttebunnen (som fortsatt står i formen). La kaken stå et døgn i kjøleskapet
 
 ### Aprikooser
 

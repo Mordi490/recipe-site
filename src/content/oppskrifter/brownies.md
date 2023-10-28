@@ -21,4 +21,4 @@ images: ["../../assets/recipe-images/web_brownies.jpg"]
 
 ## Instruksjoner
 
-Smelt sjokolade og smør sammen med kaffe på svak varme. Ta kjelen av varmen, rør inn vanilje og sukring inn i sjokoladerøra og la det avkjøle. Visp egene inn i røra. bland mandelmelet, bakepulver og evt. nøtter. Hell røra i en springfrom kledd med bakepapir. Stekes på 170 gr i ca. 25 min (skal være fuktig i midten)
+Smelt sjokolade og smør sammen med kaffe på svak varme. Ta kjelen av varmen, rør inn vanilje og sukrin inn i sjokoladerøra og la det avkjøle. Visp eggene inn i røra. bland mandelmelet, bakepulver og evt. nøtter. Hell røra i en springfrom kledd med bakepapir. Stekes på 170 gr. i ca. 25 min (skal være fuktig i midten).

@@ -25,4 +25,4 @@ images:
 
 Server gjerne med ris eller potet.
 
-SKjær gulrotter, purre og selleri i tynne skiver. Del løk i fire. Legg grønnsaker og knust hvitløk i en liten langpanne. Gni kjøttet inn med salt og pepper, sett inn et steketermometer og legg på grønnsakene. Hell vpå vannet. Sett fatet i ovnen 1 time ved 180 gr. Snu kjøttet og stek vider ca. 1 1/2 time ved 180 gr eller til steketermometeret viser ca 77 gr. La kjøttet hvile ca. 15 minutter innpakket i folie før det skjæres opp og servers med grønnsakene.
+Skjær gulrotter, purre og selleri i tynne skiver. Del løk i fire. Legg grønnsaker og knust hvitløk i en liten langpanne. Gni kjøttet inn med salt og pepper, sett inn et steketermometer og legg på grønnsakene. Hell på vannet. Sett fatet i ovnen 1 time ved 180 gr. Snu kjøttet og stek videre ca. 1 1/2 time ved 180 gr. eller til steketermometeret viser ca 77 gr. La kjøttet hvile ca. 15 minutter innpakket i folie før det skjæres opp og servers med grønnsakene.

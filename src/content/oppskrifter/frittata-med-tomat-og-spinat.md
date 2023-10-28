@@ -11,13 +11,13 @@ images: ["../../assets/recipe-images/web_frittata-med-tomat-og-spinat.jpg"]
 ## Ingredienser
 
 - 1 båt hakket hvitløk
-- 1 stk. rødløk , i tynne skiver
+- 1 stk. rødløk, i tynne skiver
 - 250 g frisk spinat
-- 1 ss nøytral olje , til steking
+- 1 ss nøytral olje, til steking
 - 8 stk. egg
 - 1 ts salt
 - 0,5 ts kvernet pepper
-- 12 stk. rød cherrytomat ,delt i to
+- 12 stk. rød cherrytomat, delt i to
 - 25 g parmesan
 
 ## Instruksjoner

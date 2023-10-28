@@ -7,7 +7,7 @@ images: ["../../assets/recipe-images/web_slikkemunnenes-festkake.jpg"]
 
 # Slikkmunnenes festkake
 
-Denne kaken skal dekoreres til stjernetenget vekten
+Denne kaken skal dekoreres til stjernetegnet vekten
 
 ## Ingredienser
 
@@ -40,4 +40,4 @@ Denne kaken skal dekoreres til stjernetenget vekten
 
 I stekeovnen ved 175 gr. i ca. 30 minutter. Rund kakeform, 24-26 cm i diameter.
 
-Visp eggedosis av egg og sukker. Sikt i mel og bakepulver, tilsett mandlene ig vend alt forsiktig inn. Hell røren i smurt form og stek kaken. Avkjøl den på rist. Kok opp 2 dl kremfløte. Brun sukkeret i en stekepanne og spe med varm fløte. La sausen koke i ca. 5 minutter. Tilsett vaniljesukker og grov hakkede mandler. Avkjøl sausen. Stivpisk 2 dl kremfløte og bland karamellsausen og pærebiter i kremen. Del bunneni tre lag. Dynk med saften fra pæreboksen. Full kaken med kremen. Legg toppen på. Visp resten av kremen med sukker og sprøyt krem rundt. Marker stjernetegnet (Vektens).
+Visp eggedosis av egg og sukker. Sikt i mel og bakepulver, tilsett mandlene og vend alt forsiktig inn. Hell røren i smurt form og stek kaken. Avkjøl den på rist. Kok opp 2 dl kremfløte. Brun sukkeret i en stekepanne og spe med varm fløte. La sausen koke i ca. 5 minutter. Tilsett vaniljesukker og grov hakkede mandler. Avkjøl sausen. Stivpisk 2 dl kremfløte og bland karamellsausen og pærebiter i kremen. Del bunnene i tre lag. Dynk med saften fra pæreboksen. Fyll kaken med kremen. Legg toppen på. Visp resten av kremen med sukker og sprøyt krem rundt. Marker stjernetegnet (Vektens).

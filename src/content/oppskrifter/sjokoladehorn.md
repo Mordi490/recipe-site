@@ -22,11 +22,12 @@ images: ["../../assets/recipe-images/web_sjokoladehorn.jpg"]
 
 - 1 plate kokesjokolade
 - litt sukker
-  eller
+
+  **eller**
 - 2 dl kakao
 - 1 dl sukker
 - ca. 4 ss vann
 
 ## Instruksjoner
 
-Rør gjæren ut i lunkent vann 37 gr. Ha i 1/2 av melet og saltet. Elt deigen godt og la den heve til dobbel størrelse. Rør smøret med sukkeret. Pisk eggene sammen. Elt smør og egg inn i deigen. Kna i mer mel. Bruk gjerne en husholdningsmaskin. Ta deigen på bakebordet og elt den videre til den er smidig. Del deigen i tre. Kjevle ut til store flate kaker. Skjær hver kake i 8-1 spisser. Legg en bit sjokolade pluss 1/2 ts sukker på hver trekant, eller rør sammen kakao, sukker og vann og legg på i klatter. Rull sammen til horn. Begynn i den brede enden. Legg dem på smurt plate eller på bakepapir. Hev godt, gjerne ca. 30 minutter. Pensle med sammenpisket egg og strø på perlesukker. Stek hornene ved 225 gr. ca. 10 minutter. Avkjøl på rist og server sjokoladehornene lunkne og nystekte. Egner seg til frysing.
+Rør gjæren ut i lunkent vann 37 gr. Ha i 1/2 av melet og saltet. Elt deigen godt og la den heve til dobbel størrelse. Rør smøret med sukkeret. Pisk eggene sammen. Elt smør og egg inn i deigen. Kna i mer mel. Bruk gjerne en husholdningsmaskin. Ta deigen på bakebordet og elt den videre til den er smidig. Del deigen i tre. Kjevle ut til store flate kaker. Skjær hver kake i 8-10 spisser. Legg en bit sjokolade pluss 1/2 ts sukker på hver trekant, eller rør sammen kakao, sukker og vann og legg på i klatter. Rull sammen til horn. Begynn i den brede enden. Legg dem på smurt plate eller på bakepapir. Hev godt, gjerne ca. 30 minutter. Pensle med sammenpisket egg og strø på perlesukker. Stek hornene ved 225 gr. ca. 10 minutter. Avkjøl på rist og server sjokoladehornene lunkne og nystekte. Egner seg til frysing.

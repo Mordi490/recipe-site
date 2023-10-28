@@ -23,6 +23,6 @@ images: ["../../assets/recipe-images/web_langpannebunn-rullekakebunn.jpg"]
 
 3. Bland mel og bakepulver. Rør blandingen forsiktig inn.
 
-4. Hell røren i en smurt og strødd eller bakepaprikledd langpanne, 30x40 cm.
+4. Hell røren i en smurt og strødd eller bakepapirkledd langpanne, 30x40 cm.
 
 5. Stek bunnen i nedre del av ovnen ved 175 gr, ca. 35 minutter.

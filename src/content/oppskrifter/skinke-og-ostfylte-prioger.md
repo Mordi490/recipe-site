@@ -31,7 +31,7 @@ images: ["../../assets/recipe-images/web_skinke-og-ostefylte-piroger.jpg"]
 
 1. Smuldre gjæren i en bolle.
 
-2. Smelt smøret og bland melk. Varm til 37 cm.
+2. Smelt smøret og bland melk. Varm til 37 gr.
 
 3. Hell litt av blandingen over gjæren og rør til den er oppløst. Bland inn resten av melken.
 

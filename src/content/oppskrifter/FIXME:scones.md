@@ -22,8 +22,6 @@ images:
 
 ## Ingredienser
 
-TODO: WHAT IS THIS
-
 - 4 ss sukker
 - 4 ss kakao
 - 2 dl vann
@@ -31,4 +29,4 @@ TODO: WHAT IS THIS
 
 ## Instruksjoner
 
-Vet ikke. Bland sammen tørre ingredienser, smelt margarin, tilsett margaring og surmelk, bland det sammen. Form til passelige biter, varm i ovnen på 200 grader til de ser ferdige ut.
+Bland sammen tørre ingredienser, smelt margarin, tilsett margarin og sur melk, bland det sammen. Form til passelige biter, varm i ovnen på 200 grader til de ser ferdige ut.

@@ -25,6 +25,6 @@ images: ["../../assets/recipe-images/web_kokosbollekake.jpg"]
 
 ## Instruksjon
 
-Legg gelatinplatene i bløt i kaldt vann i ca. 5 minutter. Pisk eggehvitene stive. Tilsett sukker og vaniljesuker litt etter litt mens du hele tiden pisker. Kok opp vann og trekk kjelen til side. Rør inn en og en gelatinplate til atl er oppløst. Hell den flytende gelatinen i marengsmassen. Fortsett å piske i 5 minutter til. Dryss kokosmassen på fatet. Legg ringen fra en springform, ca. 24 cm i diameter, i midten. Eller kle en arbeidsbolle med plastfolie. Fyll formen med marengsmassen og sett fatet kjølig til den har stivnet.
+Legg gelatinplatene i bløt i kaldt vann i ca. 5 minutter. Pisk eggehvitene stive. Tilsett sukker og vaniljesuker litt etter litt mens du hele tiden pisker. Kok opp vann og trekk kjelen til side. Rør inn en og en gelatinplate til alt er oppløst. Hell den flytende gelatinen i marengsmassen. Fortsett å piske i 5 minutter til. Dryss kokosmassen på fatet. Legg ringen fra en springform, ca. 24 cm i diameter, i midten. Eller kle en arbeidsbolle med plastfolie. Fyll formen med marengsmassen og sett fatet kjølig til den har stivnet.
 
 **Sjokoladeglasur:** Smelt sjokolade og kokosfett og rør det glatt. Avkjøl noe og rør inn eggeplommene. Fjern kakeringen rundt kaken eller løft den opp av bollen og fjern plasten. Bre over glasur og dryss kokosmasse over til slutt.

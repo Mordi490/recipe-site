@@ -15,7 +15,7 @@ images:
 
 - 200 g kylling uten ben
 - 50 g kokt skinke eller hamburgerrygg
-- 125 g sjampinjoinger
+- 125 g sjampinjonger
 - 2 stilker selleri
 - 1/2 bunt dill
 

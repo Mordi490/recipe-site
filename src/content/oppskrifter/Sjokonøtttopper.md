@@ -13,9 +13,9 @@ images:
 
 ## Ingredienser
 
-- 120 g Sjoknøtt
+- 120 g Sjokonøtt
 - 250 g Delfiafett
-- 1 prosjonpose Nescafe Espresso
+- 1 porsjonpose Nescafe Espresso
 - 1 l Nestle Risnøtter
 
 ## Instruksjon

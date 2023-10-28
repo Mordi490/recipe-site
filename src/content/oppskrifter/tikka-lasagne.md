@@ -24,7 +24,7 @@ images:
 
 ## Ingredienser
 
-Forvarm ovene til 200 gr.
+Forvarm ovnen til 200 gr.
 
 1. Stek kjøttdeig i to omganger i en stekepanne med margarin eller olje. Tilsett tikka masala saus.
 

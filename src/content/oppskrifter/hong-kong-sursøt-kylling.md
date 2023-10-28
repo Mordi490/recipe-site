@@ -10,7 +10,7 @@ images: ["../../assets/recipe-images/web_hong-kong-style-sursøt-kylling.jpg"]
 ## Ingredienser
 
 - 300 g strimlet kyllingfilet
-- 2ss vegetbilks olje
+- 2 ss vegetabilsk olje
 - 100 g ananas
 - 1 rød paprika
 - 1 løk
@@ -29,7 +29,7 @@ images: ["../../assets/recipe-images/web_hong-kong-style-sursøt-kylling.jpg"]
 
 4. Varm opp olje i wokpannen og stek kyllingkjøttet på høy varme i et par minutter
 
-5. Ha i grønnsakene (med unnta av ananas)
+5. Ha i grønnsakene (med unntak av ananas)
 
 6. Skru ned varmen. Tilsett woksaus og ananas og rør om i 1-2 minutter
 

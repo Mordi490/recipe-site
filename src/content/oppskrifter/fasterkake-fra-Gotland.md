@@ -25,4 +25,4 @@ images:
 
 ## Instruksjon
 
-Kok opp melken og tilsett risengryn og salt La grøten koke langsomt over svak varme 30-40 minutter. Rør i kjelen nå og da. Ta grøten av varmen og la den avkjøles. (Dette kan du godt gjøre dagen før selve bakingen). Bland i sukker, hvetemel, rosiner, gurkemeie og mandler i grøten. Rør i ett egg om gangen. Hell røren i en godt smurt form eller stekepane. Sett kaken inn i 200 gr. varm ovn og la den steke ca. 30 minutter. Servers gjerne lunken med iskald pisket krem og bær til.
+Kok opp melken og tilsett risengryn og salt. La grøten koke langsomt over svak varme 30-40 minutter. Rør i kjelen nå og da. Ta grøten av varmen og la den avkjøles. (Dette kan du godt gjøre dagen før selve bakingen). Bland i sukker, hvetemel, rosiner, gurkemeie og mandler i grøten. Rør i ett egg om gangen. Hell røren i en godt smurt form eller stekepane. Sett kaken inn i 200 gr. varm ovn og la den steke ca. 30 minutter. Serveres gjerne lunken med iskald pisket krem og bær til.

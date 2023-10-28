@@ -35,5 +35,5 @@ images:
 
 ## Instruksjoner
 
-Stekes ved 18+ på nederste rille irund form 24 cm i diameter ca. 30 minutter.
+Stekes ved 180 gr. på nederste rille i rund form 24 cm i diameter ca. 30 minutter.
 Pisk egg og sukker til tykk eggedosis. Tilsett malte mandler og bakepulver og rør røren lett sammen. Hell røren i en smurt form og stek kaken til den er gyllen og slipper kaken i formen på rist. Like før servering piskes kremen stiv med kaker og tilsett fin hakket daim og bre det over kaken.

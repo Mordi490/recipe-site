@@ -27,9 +27,9 @@ images: ["../../assets/recipe-images/web_pizzaruller.jpg"]
 
 2. Varm vannet og olje til 37 gr, og hell det over gjæren. Rør til den er oppløst.
 
-3. Tilsett salt og mel. Arbeid deigen sammen med masking eller for hånd. Det beste resultatet får du med maskin.
+3. Tilsett salt og mel. Arbeid deigen sammen med maskin eller for hånd. Det beste resultatet får du med maskin.
 
-4. Kjevle deigen ut til fire runde leiver, ca. 18 cm i diameter. La dem heve ca. 30 minuuter på kett melet bakebord.
+4. Kjevle deigen ut til fire runde leiver, ca. 18 cm i diameter. La dem heve ca. 30 minutter på lett melet bakebord.
 
 5. Skjær paprika og kjøtt i små terninger. Bland med revet ost.
 

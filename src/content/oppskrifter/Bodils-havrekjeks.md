@@ -13,7 +13,7 @@ images: ["../../assets/recipe-images/web_smørbar-juleost-bodils-havrekjeks.jpg"
 - 150 g sukker
 - 5 dl melk
 - 50 g grove havregryn
-- 300 g hvetemel (TODO: DOUBLE CHECK RECIPE)
+- 300 g hvetemel
 - 5 ts bakepulver
 
 ## Instruksjoner

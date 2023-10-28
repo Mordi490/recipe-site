@@ -1,11 +1,11 @@
 ---
-title: Kanelboller 2
+title: Kanelboller 3
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
 images: ["../../assets/recipe-images/web_kanelboller.jpg"]
 ---
 
-# Kanelboller 2
+# Kanelboller 3
 
 ## Ingredienser
 
@@ -27,4 +27,4 @@ images: ["../../assets/recipe-images/web_kanelboller.jpg"]
 
 ## Instruksjon
 
-Varm vannet til 37 gr. Smuldre gjæren i en deigbolle og rør den ut med vannet. Ha i salt og 4 dl hvetemel. Elt deigen lett og glatt. Dekk den til og la den hev til dobbel størrelse. Rør sammen smør og sukker. Pisk inn ett egg om gangen. Bland røren i den hevede deigen og elt resten av hvetemelt i. Bruk gjerne en husholdningsmaskin. Del deigen i jevne emner og trill til glatte boller. Trykk dem litt flate med hånden og lag et dypt hull midt i hvert emne. Bland sammen smør med sukker og kanel. Fordel fyllet i hullene. La bollene heve til de er nesten dobbelt så store. Pensle med sammenpisket egg. Stek bollene ca. 8 minutter ved 225 gr. midt i ovnen. Avkjøl på rist. Server kanelbollene nystekte. De egner seg godt til frysing.
+Varm vannet til 37 gr. Smuldre gjæren i en deigbolle og rør den ut med vannet. Ha i salt og 4 dl hvetemel. Elt deigen lett og glatt. Dekk den til og la den heve til dobbel størrelse. Rør sammen smør og sukker. Pisk inn ett egg om gangen. Bland røren i den hevede deigen og elt resten av hvetemelt i. Bruk gjerne en husholdningsmaskin. Del deigen i jevne emner og trill til glatte boller. Trykk dem litt flate med hånden og lag et dypt hull midt i hvert emne. Bland sammen smør med sukker og kanel. Fordel fyllet i hullene. La bollene heve til de er nesten dobbelt så store. Pensle med sammenpisket egg. Stek bollene ca. 8 minutter ved 225 gr. midt i ovnen. Avkjøl på rist. Server kanelbollene nystekte. De egner seg godt til frysing.

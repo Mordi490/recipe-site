@@ -36,6 +36,6 @@ images: ["../../assets/recipe-images/web_valmuehorn.jpg"]
 
 5. Del hver leiv i 6 snipper. Pensle med smeltet smør, og rull sammen fra den bredeste siden. Bøy dem noe, og legg dem på smurt eller bakepapirkledd stekeplate. Dekk til. Etterhev 20-30 minutter. Pensle med sammenpisket egg. Strø på valmuefrø.
 
-6. Stek hornene midt i ovnen ved 250 gr, ca. 10-12 minutter. I varmluftsovn ved 225 gr, ca. 12 minutter.
+6. Stek hornene midt i ovnen ved 250 gr. ca. 10-12 minutter. I varmluftsovn ved 225 gr. ca. 12 minutter.
 
 7. Avkjøl hornene på rist, tildekket eller ikke, alt etter om du ønsker en myk eller sprø skorpe.

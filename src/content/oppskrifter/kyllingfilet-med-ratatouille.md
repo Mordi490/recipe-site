@@ -24,7 +24,7 @@ images:
 - 1 stk. grønn paprika
 - 1 stk. rød paprika
 - 1 stk. løk
-- 1 ss nøytral olje , til steking
+- 1 ss nøytral olje, til steking
 - 1 boks tomatpuré à 140 g
 - 1 boks hermetiske tomater med hvitløk
 - 2 ts tørket oregano

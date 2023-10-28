@@ -31,4 +31,4 @@ images: ["../../assets/recipe-images/web_fine-mandelsnitter.jpg"]
 
 ## Instruksjon
 
-Arbeid sammen alle ingrediensen til deigen og la den hvile kaldt. Kjevle den ut på bakepapir til en kake ca. 30x38 cm og legg denne i en stor langpanne. Bland sammen alle ingrediensene til glasuren og la det så vidt koke opp. Bre den litt avkjølte glasuren over kaken, men ikke helt ut i kantene. Stek den ved 175-200 gr. til kaken har fått gyllen farge, ca. 20 minutter på nest nederste rille. Skjær den avkjølte kaken i firkanter og del disse igjen i trekanter. Dypp spissene i smeltet kokesjokolade og avkjøl helt.
+Arbeid sammen alle ingrediensene til deigen og la den hvile kaldt. Kjevle den ut på bakepapir til en kake ca. 30x38 cm og legg denne i en stor langpanne. Bland sammen alle ingrediensene til glasuren og la det så vidt koke opp. Bre den litt avkjølte glasuren over kaken, men ikke helt ut i kantene. Stek den ved 175-200 gr. til kaken har fått gyllen farge, ca. 20 minutter på nest nederste rille. Skjær den avkjølte kaken i firkanter og del disse igjen i trekanter. Dypp spissene i smeltet kokesjokolade og avkjøl helt.

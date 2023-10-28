@@ -29,10 +29,10 @@ images: ["../../assets/recipe-images/web_gulrotkake.jpg"]
 
 ## Instruksjoner
 
-For å få best mulig kake er det viktig å røre egg og sukker til hevemiddelet i egene blir aktivt - bruk mix master. Du vil se at røra vokser i bollen.
+For å få best mulig kake er det viktig å røre egg og sukker til hevemiddelet i egene blir aktivt - bruk mikser. Du vil se at røra vokser i bollen.
 
 Ha i mel, natron, kanel, vann, sukker og bakepulver. Rør godt og ha i olje. Tilsett gulrot og bland det sammen.
 
-Legg bakepapri i bunnen på kakeformen og hell oppi røra. Stekes på rist midt i ovnen i ca. 45 minutter. Husk at kaken må avkjøles før glasuren kan tas på.
+Legg bakepapir i bunnen på kakeformen og hell oppi røra. Stekes på rist midt i ovnen i ca. 45 minutter. Husk at kaken må avkjøles før glasuren kan tas på.
 
 **Glasur:** Ha alt i en bolle og bland sammen godt. Bruk kniv eller slikkepott til å smøre den over den avkjølte kaken.

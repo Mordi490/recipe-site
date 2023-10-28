@@ -23,7 +23,7 @@ tattFra: https://www.nrk.no/mat/safranmajones-1.8026143
 
 Bland sammen safran og varmt vann
 
-Mos sammen hvitløk og salt med en gaffel. Hvitløken skal bli som en pure
+Mos sammen hvitløk og salt med en gaffel. Hvitløken skal bli som en purè
 
 Visp sammen eggeplommer og hvitløksmosen i en bolle. Rør inn safranvannet. Tilsett oljen i en tynn stråle, litt etter litt, under kraftig pisking. Konsistensen skal bli som en majones. Juster smaken med sitronsaft og mer salt om nødvendig.
 

@@ -25,7 +25,7 @@ images:
 
 ### Pynt
 
-- 2 dl creme fraiche
+- 2 dl cremè fraîche
 - skall av 1/2 sitron
 - 1-2 ts honning
 - 2-3 ss ristede sesamfrø
@@ -34,4 +34,4 @@ images:
 
 Stekes ved 175 på nederste rille i ca. 55 minutter i en 1 1/2-2 l avlang form.
 
-Rør margarin og sukker til en lys og proøs krem. Tilsett eggen, ett om gangen, rør godt mellom hver gang. Tilsett melk vekselvis med de tørre ingrediensene. Rør det hele lett sammen. Hell røren i en godt smurt from. Legg gjerne en strimmel bakepapri i bunnen av formen, da løsner kaken lettere etter steking. Stek kaken gyllen til den slipper kantene av formen. Avkjøl kaken på rist. Rør forsiktig sammen creme fraiche, honning og revet sitronskall. Bre kremen over den kalde kaken. Sesamfrøene ristes i tørr stekepanne ved middels sterk varme, rør i frøene til de får en gyllen frage. Avkjøl frøene og dryss dem over kaken ved servering.
+Rør margarin og sukker til en lys og porøs krem. Tilsett eggene, ett om gangen, rør godt mellom hver gang. Tilsett melk vekselvis med de tørre ingrediensene. Rør det hele lett sammen. Hell røren i en godt smurt from. Legg gjerne en strimmel bakepapir i bunnen av formen, da løsner kaken lettere etter steking. Stek kaken gyllen til den slipper kantene av formen. Avkjøl kaken på rist. Rør forsiktig sammen cremè fraîche, honning og revet sitronskall. Bre kremen over den kalde kaken. Sesamfrøene ristes i tørr stekepanne ved middels sterk varme, rør i frøene til de får en gyllen farge. Avkjøl frøene og dryss dem over kaken ved servering.

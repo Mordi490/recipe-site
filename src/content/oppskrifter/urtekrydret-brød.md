@@ -31,7 +31,7 @@ images: ["../../assets/recipe-images/web_urtekrydret-brød.jpg"]
 
 5. Legg brødet på smurt eller bakepapirkledd stekeplate. Dekk til og etterhev ca. 30 minutter. Pensle med resten av egget.
 
-6. Stek brødet midt i ovnen ved 200 gr, 15-20 minutter. I varmluftsovn ved 175 gr ca. 20 minutter.
+6. Stek brødet midt i ovnen ved 200 gr. 15-20 minutter. I varmluftsovn ved 175 gr. ca. 20 minutter.
 
 7. Avkjøles tildekket på rist.
 

@@ -19,4 +19,4 @@ images: ["../../assets/recipe-images/web_lapper-blåbærsyltetøy.jpg"]
 
 ## Instruksjoner
 
-Visp sammen alle ingrediensene til en jevn deig som får svell ca. 30 minutter på kjøkkenbenken. Stek små lapper, 3-4 omgangen i en varm stekepanne penslet med lit margarin. Lappen skal være gylebbrunne på beggesder. Serveres nystekte med blåbærsyltetøy.
+Visp sammen alle ingrediensene til en jevn deig som får svelle ca. 30 minutter på kjøkkenbenken. Stek små lapper, 3-4 omgangen i en varm stekepanne penslet med lit margarin. Lappen skal være gyllenbrune på begge sider. Serveres nystekte med blåbærsyltetøy.

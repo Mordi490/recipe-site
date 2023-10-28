@@ -32,4 +32,4 @@ images:
 
 Stekes ved 200 gr på nederste rille i ca. 10+30 minutter i en 22-24 cm rund paiform.
 
-Mel, muskat og margarin smuldres til en grynet masse. Tilsett vann og elt deigen raskt sammen. Dekk deigen med plast og sett den kaldt ca. 1 t. Kjevle deigen slikden dekker bunn og sider i en paiform. Prikk deigen med en gaffel og forstek paiskallet ca. 10 minutter. Fyll kirsebærene i paiskallet. Rør sammen margarin, sukker, mandler, muskat og egg til en lys krem. Bre kremen over kirsebærene og stek paien til den er gyllen. Avkjøles i formen på rist. Før servering glasseres paien med melisglasur og pyntes med kirsebær.
+Mel, muskat og margarin smuldres til en grynet masse. Tilsett vann og elt deigen raskt sammen. Dekk deigen med plast og sett den kaldt ca. 1 t. Kjevle deigen slik den dekker bunn og sider i en paiform. Prikk deigen med en gaffel og forstek paiskallet ca. 10 minutter. Fyll kirsebærene i paiskallet. Rør sammen margarin, sukker, mandler, muskat og egg til en lys krem. Bre kremen over kirsebærene og stek paien til den er gyllen. Avkjøles i formen på rist. Før servering glasseres paien med melisglasur og pyntes med kirsebær.

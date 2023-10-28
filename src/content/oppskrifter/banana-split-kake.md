@@ -36,9 +36,9 @@ images:
 
 Pisk eggehvitene stive. Pisk inn sukkeret litt og litt og pisk videre til du får en stiv marengs (ca. 10 min med elektrisk mikser). Tilsett littegran salt og pisk videre til marengsen blir helt stiv (ca. 10 min til med elektrisk mikser).
 
-Ha et stykke bakepapir på en stekeplate. Ha marengsmassen i en stor kakesprøyte (se tips) og sprøyt ut marengsen til en rund sirkel. Begynn i midten og sprøyt sirkler uten på hverandre, til du fpr en bunn på ca. 24 cm i diameter. Sprøyt resten av marengsen som en kant på yttersiden.
+Ha et stykke bakepapir på en stekeplate. Ha marengsmassen i en stor kakesprøyte (se tips) og sprøyt ut marengsen til en rund sirkel. Begynn i midten og sprøyt sirkler uten på hverandre, til du får en bunn på ca. 24 cm i diameter. Sprøyt resten av marengsen som en kant på yttersiden.
 
-Stek marengsbunne på midterste rille ved 125 gr. i ca. 2 timer. Slå av varmen og la marengsbunne stå ettervarmen i 1 time til. Marengsbunne skal kjennes lett og helt tørr når den er ferdigstekt.
+Stek marengsbunnen på midterste rille ved 125 gr. i ca. 2 timer. Slå av varmen og la marengsbunne stå i ettervarmen i 1 time til. Marengsbunnen skal kjennes lett og helt tørr når den er ferdigstekt.
 
 Marengsbunnen kan lages flere dager i forveien (oppbevares tørt frem til servering).
 

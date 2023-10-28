@@ -2,7 +2,7 @@
 title: Kjeltringer
 tags: ["dessert", "småkake"]
 ingredienser: ["havregryn", "egg", "smør"]
-images: ["../../assets/recipe-images/web_wienerstenger.jpg"]
+images: ["../../assets/recipe-images/web_kjeltringer-verdens-beste-skonroker.jpg"]
 ---
 
 # Kjeltringer

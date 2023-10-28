@@ -20,4 +20,4 @@ form, ca. 20x20 cm
 
 Kok opp fløte og anis og ta kjelen av platen. La fløten trekke ca. 1 time ved siden av kokeplaten slik at anissmaken får satt seg. Brekk sjokoladen i biter og la den smelte i fløten, rør til en jevn masse. Hell sjokolademassen i form kledd med plastfolie. La stivne på kaldt sted.
 
-Skjær så firkanter og dryss over siktet kakaopulver. Oppbevar sjokoladetroflene kaldt, gjerne i fryseboksen til like før de servers.
+Skjær så firkanter og dryss over siktet kakaopulver. Oppbevar sjokoladetrøflene kaldt, gjerne i fryseboksen til like før de skal servers.

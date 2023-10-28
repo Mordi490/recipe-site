@@ -30,6 +30,6 @@ images:
 
 ## Instruksjoner
 
-Rør gjæren ut i lunkent vann. Ha i smeltet smør. Pisk eggen lett sammen og ha dem sammen med væsken. Tilsett øverige og nesten alt melet. Bland sammen til en deig og ha i mer mel hvis nødvendig. La deigen heve til dobbel størrelse.
+Rør gjæren ut i lunkent vann. Ha i smeltet smør. Pisk eggene lett sammen og ha dem sammen med væsken. Tilsett øverige og nesten alt melet. Bland sammen til en deig og ha i mer mel hvis nødvendig. La deigen heve til dobbel størrelse.
 
 Kjevle deigen ut til en avlang leiv, ca. 60x45 cm. Smør over mykt smør og dryss på kanel og revet sjokolade. Rull sammen som en rullekake. Skjær den opp i 2 1/2 cm tykke skiver og sett disse med snittflaten opp i en form. La kaken få en god etterhev. Pensle med egg og dryss på hakkede nøtter. Stek ved 210 gr. i ca. 40 minnuter. Dryss melis over ved servering.

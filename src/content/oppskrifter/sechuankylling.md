@@ -25,7 +25,7 @@ images: ["../../assets/recipe-images/web_sechuankylling-en.jpg"]
 
 - 3 dl hønsebuljong
 - 1/2 dl soyasaus
-- 2 ss søt soyasuas (kecap manis)
+- 2 ss søt soyasaus (kecap manis)
 - 1 ss chilipasta (sambal olek)
 - 1 ss revet frisk ingefær
 - 1 båt presset hvitløk
@@ -37,8 +37,8 @@ images: ["../../assets/recipe-images/web_sechuankylling-en.jpg"]
 
 2. Gjør alt klart til woksausen
 
-3. Varm olje i en wok eller egnet panne. Stek kjøttet mens det stadig vendes rundt. Når kjøttet er hvitt tilsettes grøbbsakene. Fres alt sammen et par minutter.
+3. Varm olje i en wok eller egnet panne. Stek kjøttet mens det stadig vendes rundt. Når kjøttet er hvitt tilsettes grønnsakene. Fres alt sammen et par minutter.
 
-4. Hell over hønsebuljong. Tilsett soyasaus, kecap manis, revet ingefær, hvitløk og chilipasta. Jevn med potetmel urørt i litt kaldt vann. Smal evt. til med salt og sukker. Dryss cashewnøtter over retten før servering.
+4. Hell over hønsebuljong. Tilsett soyasaus, kecap manis, revet ingefær, hvitløk og chilipasta. Jevn med potetmel urørt i litt kaldt vann. Smak evt. til med salt og sukker. Dryss cashewnøtter over retten før servering.
 
 Server den kinesiskte kyllingwoken med ris.

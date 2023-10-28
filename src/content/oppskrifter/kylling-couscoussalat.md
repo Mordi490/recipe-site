@@ -20,7 +20,7 @@ images:
 - 1 ss flytenede margarin
 - 1 beger rød cherrytomat
 - 50 g frisk spinat
-- 2 ss friskt mynte
+- 2 ss frisk mynte
 - 2 ss frisk koriander
 - 2 ss kapers med stilk
 - saft og skall av 1 stiron

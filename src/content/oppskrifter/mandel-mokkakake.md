@@ -26,4 +26,4 @@ images: ["../../assets/recipe-images/web_mandel-mokkakake.jpg"]
 
 ## Instruksjon
 
-Bland malte mandlerog revet kokesjokolade med melis. Visp eggehvitene stive og bland dem i mandelmassen. Smør en springform på 24 cm i diameter og dekk bunnen med bakepapir. Fordel røren i formen og stek kaken ved 200 gr. på nederste rille, ca. 30 minutter. Rør smør og melis hvitt og kremaktig. Tilsett en og en eggeplomme. Rør inn vaniljefrø og kaffe. Ha mokkakrem over kaken og pynt med mokkabønner.
+Bland malte mandler og revet kokesjokolade med melis. Visp eggehvitene stive og bland dem i mandelmassen. Smør en springform på 24 cm i diameter og dekk bunnen med bakepapir. Fordel røren i formen og stek kaken ved 200 gr. på nederste rille, ca. 30 minutter. Rør smør og melis hvitt og kremaktig. Tilsett en og en eggeplomme. Rør inn vaniljefrø og kaffe. Ha mokkakrem over kaken og pynt med mokkabønner.

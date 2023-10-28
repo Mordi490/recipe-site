@@ -10,7 +10,7 @@ images: ["../../assets/recipe-images/web_kyllingsalat-med-frukt-og-ost.jpg"]
 ## Ingredienser
 
 - 1 grillet kylling
-- 1 liten boks hermetiske mandariner
+- 1 liten boks hermetisk mandariner
 - 1 boks hermetisk ananas
 - 1 rød paprika
 - 1 grønn paprika
@@ -23,7 +23,7 @@ images: ["../../assets/recipe-images/web_kyllingsalat-med-frukt-og-ost.jpg"]
 
 ## Dressing
 
-- 1 pose masjones
+- 1 pose mjones
 - litt saft fra ananas
 
 Server med loff eller baguetter som tilbehør.

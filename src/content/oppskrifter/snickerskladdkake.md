@@ -47,7 +47,7 @@ Smelt smøret til sjokoladekaken.
 
 Visp sammen egg og sukker med en stålvips (du trenger ikke å piske eggedosis, bare røre dette lett sammen). Bland i det smeltede smøret og deretter de øvrige ingrediensene. Rør deigen glatt.
 
-Ha deigen i en rund fomr (24 cm i diameter) med bakepapir i bunnen. Stek kaken midt i ovnen ved 175°C i ca. 25 minutter. Ikke stek kaken for lenge, den skal fortsatt være bløt når den er ferdigstekt. Sett kaken i kjøleksapet og avkjøl kaken i formen til den er helt kald.
+Ha deigen i en rund form (24 cm i diameter) med bakepapir i bunnen. Stek kaken midt i ovnen ved 175°C i ca. 25 minutter. Ikke stek kaken for lenge, den skal fortsatt være bløt når den er ferdigstekt. Sett kaken i kjøleksapet og avkjøl kaken i formen til den er helt kald.
 
 ### Peanøttkaramell
 
@@ -79,4 +79,4 @@ Kaken smaker aller best romtemperert synes jeg, slik at laget med peanøttkarame
 
 Kaken er holdbar i kjøleskapet i flere dager og er også kjempefin å fryse.
 
-Pisket krem eller vaniljeis er sikkert ikke dumt tilbehør til denne kaken. Smile
+Pisket krem eller vaniljeis er sikkert ikke dumt tilbehør til denne kaken.

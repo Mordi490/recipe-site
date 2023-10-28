@@ -24,4 +24,4 @@ images: ["../../assets/recipe-images/web_reyjavikbrød-helsebrød.jpg",
 
 ## Instruksjoner
 
-Løs gjæren opp i lunkent vann. Ha i det øverige og hvetemel til deigen blir passe fast. La den heve til dobbel størrelse. From deigen til et rundt brød. La det få en etterhev. Pensle med sammenpisket egg og lag noen lange snitt i overflaten. Stek ved 200 gr. i 30-40 minutter.
+Løs gjæren opp i lunkent vann. Ha i det øverige og hvetemel til deigen blir passe fast. La den heve til dobbel størrelse. Form deigen til et rundt brød. La det få en etterhev. Pensle med sammenpisket egg og lag noen lange snitt i overflaten. Stek ved 200 gr. i 30-40 minutter.

@@ -12,7 +12,7 @@ images:
 
 ## Ingredienser
 
-- 1 porjson paideg, se [ferskenpai](./ferskenpai)
+- 1 porsjon paideg, se [ferskenpai](./ferskenpai)
 
 ### Fyll
 

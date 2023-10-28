@@ -9,7 +9,7 @@ images: ["../../assets/recipe-images/web_valnøttrundstykker-rugrundstykker.jpg"
 
 ## Ingredienser
 
-- 4 dl helkor av hvete
+- 4 dl helkorn av hvete
 - 1 liter vann
 - 75 g gjær
 - 2 ts salt
@@ -22,11 +22,11 @@ images: ["../../assets/recipe-images/web_valnøttrundstykker-rugrundstykker.jpg"
 
 2. Varm resten av væsken til 37 gr. Hell den over gjæren, og rør til den er oppløst. Hakk valnøttene og bland dem samt helkornene og saltet i væsken.
 
-3. Arbeid inn det meste av melet med maskin eller for hånd. Arbeid til deigen er smidig og slipper bollekanten. Dryss litt mel over deigen, dekk den til og sett den til hevning ca. 1 time.
+3. Arbeid inn det meste av melet med maskin eller for hånd. Arbeid til deigen er smidig og slipper bollekanten. Dryss litt mel over deigen, dekk den til og sett den til heving ca. 1 time.
 
 4. Ta deigen over på et melet bakebord, og elt den godt med resten av melet.
 
-5. Del deigen i 24 biter, og trill til runde boller. Legg dem på en smurt eller bakepaprikledd stekeplate. Dekk til, og etterhev ca. 30 minutter.
+5. Del deigen i 24 biter, og trill til runde boller. Legg dem på en smurt eller bakepapirkledd stekeplate. Dekk til, og etterhev ca. 30 minutter.
 
 6. Stek rundtstykkene midt i ovnen ved 200 gr, ca. 15 minutter. Varmluftsovn ved 175 gr, ca. 18 minutter.
 

@@ -21,7 +21,7 @@ images: ["../../assets/recipe-images/web_muffins.jpg"]
 
 1. Pisk egg og sukker til egedosis.
 
-2. Smelt margarinen i smøresmelter og tilsett melk.
+2. Smelt margarinen i smørsmelter og tilsett melk.
 
 3. Ha mel i blandet med kakao og bakepulver i eggedosisen og rør det inn sammen med margarinen og melk.
 
@@ -29,6 +29,6 @@ images: ["../../assets/recipe-images/web_muffins.jpg"]
 
 5. Når all røra er brukt, sett inn stekebrettet midt i ovnen.
 
-6. Steketemperaturen: 175 gr i 15-20 min.
+6. Steketemperatur: 175 gr i 15-20 min.
 
 7. La kakene avkjøles litt på rist før de spises.

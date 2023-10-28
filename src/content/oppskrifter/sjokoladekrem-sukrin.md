@@ -15,7 +15,7 @@ images: ["../../assets/recipe-images/web_sukrin-glasur-preview.jpg"]
 - 3 ss sterk kaffe
 - (evt. annen søtning om ønskelig)
 
-Bland ingrendiensene sammen til en jevn glatt røre
+Bland ingrediensene sammen til en jevn glatt røre
 
 # Alternativ Sjokoladekrem
 

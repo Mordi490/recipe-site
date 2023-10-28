@@ -39,9 +39,9 @@ images:
 
 2. Smelt smøret, tilsett melken og varm deigvæsken til 37 gr.
 
-3. Hell deivæsken over gjæren. Rør til dn er oppløst.
+3. Hell deigvæsken over gjæren. Rør til den er oppløst.
 
-4. Tilset kesam, salt, sukker og egg. Bland hornsalt med litt mel. Rør det inn.
+4. Tilsett kesam, salt, sukker og egg. Bland hornsalt med litt mel. Rør det inn.
 
 5. Tilsett det meste av melet. Arbeid det inn med maskin eller for hånd til deigen slipper bollekanten.
 
@@ -55,7 +55,7 @@ images:
 
 10. Stek bollene midt i ovnen ved 225 gr, ca. 8 minutter. I varmluftsovn ved 200 gr, ca. 10 minutter.
 
-11. Avkjøl bollene tildekket på rist. De kan oppbevares noen dager i tet boks eller plastpose. I fryseren holder de seg ca. 3 måneder.
+11. Avkjøl bollene tildekket på rist. De kan oppbevares noen dager i tett boks eller plastpose. I fryseren holder de seg ca. 3 måneder.
 
 ## Fyll og pynt
 
@@ -76,9 +76,9 @@ Skjær lokket av bollene. Legg på en bit marsipan. Ha på pisket krem. Legg lok
 - 2 dl kremfløte
 - melis
 
-1. skjær logget av bollene. Ta ut "innmaten" ved hjelp av en gaffel eller teskje. Bruk 1/3-1/4 av "innmaten" til fyllet. Resten kan du tørke og bruke som strøkavring.
+1. skjær lokket av bollene. Ta ut "innmaten" ved hjelp av en gaffel eller teskje. Bruk 1/3-1/4 av "innmaten" til fyllet. Resten kan du tørke og bruke som strøkavring.
 
-2. Skåld og mal mandlene. Du kan også finhakke dem i food processor.
+2. Skåld og mal mandlene. Du kan også finhakke dem i food prosessor.
 
 3. Varm melken. Hell litt av den over "innmaten". Tilsett mandler og sukker. Spe med melk til du får en sammenhengende masse. Ha fyllet i bollene. Pynt med pisket krem og lokk, se fyllet over.
 

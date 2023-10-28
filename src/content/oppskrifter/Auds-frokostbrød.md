@@ -10,7 +10,7 @@ images: ["../../assets/recipe-images/web_auds-frokostbrød.jpg"]
 ## Ingredienser
 
 - 1 kg fiberbakst
-- 1 kg grlvbakst
+- 1 kg grovbakst
 - 100 g havregryn
 - 100 g linfrø
 - 100 g sesamfrø

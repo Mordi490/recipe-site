@@ -23,15 +23,15 @@ images:
 
 ### Fyll
 
-- 2 stk Kvikk Lunsj XXL
-- 2 stk Kvikk Lunsj (vanlig type)
+- 2 stk Kvikklunsj XXL
+- 2 stk Kvikklunsj (vanlig type)
 - 100 g marsipan (se tips)
 - 70 g gelétopper (2 pakker)
 - 60 g cocktailbær (1 pakke)
 
 ### Pynt
 
-- 1 stk Kvikk Lunsj (vanlig type)
+- 1 stk Kvikklunsj (vanlig type)
 - gelétopper
 
 ## Instruksjoner
@@ -53,5 +53,3 @@ Bruk god kokesjokolade, for eksempel Freias Dronningsjokolade.
 Marsipanen formes til en smal rull. Du kan eventuelt bruke ferdigkjøpt rull med marsipan som er farget rød eller grønn.
 
 "Delfiakake" oppbevares i kjøleskapet. Ved servering skjæres kaken i tynne skiver.
-
-Se også oppskrift på den vanlige varianten av "Delfiakake" og "Mild Delfiakake". En tysk type finner du ved navn "Kalter Hund".

@@ -26,7 +26,7 @@ Rund form, 22-24 cm i diameter eller avlang form, 1 1/2 liter. I stekeovn i 175 
 
 2. Pisk stiv eggedosis av egg og sukker.
 
-3. Hell i smeltet margarin og melk
+3. Hell i smeltet margarin og melk.
 
 4. Sikt på hvetemel med bakepulver og kanel. Bruk slikkepott og bland alt lett slik at røren blir klumpfri.
 

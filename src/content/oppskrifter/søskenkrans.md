@@ -38,11 +38,11 @@ images: ["../../assets/recipe-images/web_søskenskrans.jpg"]
 
 2. Varm melken til 37 gr. Hell den over gjæren og rør til den er oppløst.
 
-3. Bland i sukker og omtrent halvparten av melet. Ha i smøret og arbeid det inn i deigen. Tilsett mer mel og arbeid deigen til den slipper bollekanten. Dryss litt mel over, dekk til og sett til geving, ca. 30 minutter.
+3. Bland i sukker og omtrent halvparten av melet. Ha i smøret og arbeid det inn i deigen. Tilsett mer mel og arbeid deigen til den slipper bollekanten. Dryss litt mel over, dekk til og sett til heving, ca. 30 minutter.
 
 4. Lag fyllet. Rør smøret mykt med sukker og kanel
 
-5. Elt inn resten av melet i deigen. Deigen kjevles ut til en rektangulær leiv, ca. 30x45 cm. Bre fyllet utover, dryss på nøtter og rull deigen smamen fra langsiden til en fast pølse.
+5. Elt inn resten av melet i deigen. Deigen kjevles ut til en rektangulær leiv, ca. 30x45 cm. Bre fyllet utover, dryss på nøtter og rull deigen sammen fra langsiden til en fast pølse.
 
 6. Skjær pølsen i ni like store biter. Legg dem med snittflaten opp i en smurt randform, ca. 24 cm i diameter.
 

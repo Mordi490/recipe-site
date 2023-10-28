@@ -21,4 +21,4 @@ images:
 
 ## Instruksjon
 
-Bland alt i en kjele, men vent med mandlene. Kok alt ganske kraftig. Rør bare noen ganger. Massen skal ike sukre seg. Hell en dråpe i kaldt vann. Når den kan formes til en seig kule, røres mandlene i. Hell karamelrøren i små former eller i en langpanne. Når karamellen er stivnet, kan den skjæres i firkanter og pakkes i aluminiumsfolie eller plastfolie.
+Bland alt i en kjele, men vent med mandlene. Kok alt ganske kraftig. Rør bare noen ganger. Massen skal ikke sukre seg. Hell en dråpe i kaldt vann. Når den kan formes til en seig kule, røres mandlene i. Hell karamelrøren i små former eller i en langpanne. Når karamellen er stivnet, kan den skjæres i firkanter og pakkes i aluminiumsfolie eller plastfolie.

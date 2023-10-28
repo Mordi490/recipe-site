@@ -35,11 +35,11 @@ images: ["../../assets/recipe-images/web_marias-boller.jpg"]
 
 1. Smuldre gjæren i en bolle.
 
-2. Smelt smøret, tilset melk og avkjøl til 37 gr. Hell det over gjæren, og rør godt.
+2. Smelt smøret, tilsett melk og avkjøl til 37 gr. Hell det over gjæren, og rør godt.
 
 3. Tilsett salt, kardemomme, sukker og det meste av melet. Arbeid deigen blank og smidig med maskin eller for hånd. Dekk den til, og hev 30-40 minutter. Rør sammen ingrediensene til fyllet.
 
-4. Ta deigen opp på bakebordet. Elt inn resten av det glutenfire melet.
+4. Ta deigen opp på bakebordet. Elt inn resten av det glutenfrie melet.
 
 5. Del deigen i to. Kjevle hver del ut til et rektangel på 10x20 cm. Fordel fyllet på leivene. Rull dem sammen, og skjær dem i ca. 2 cm tykke skiver. Legg dem i muffinsformer eller på bakepapirkledd stekeplate. Dekk til, og etterhev til dobbel størrelse, og 30 minutter.
 

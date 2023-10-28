@@ -22,4 +22,4 @@ images:
 
 ## Instruksjon
 
-Rør smør og sukker godt og tilsett det øverige. Rull ut till to fingertykke lengder og legg dem på bakepapirkledd stekeovnsplate. Trykk lengdene litt ut, til ca. 1 cm tykkelse. Stek dem på midterste rille ved 175 gr. i 10-12 minutter. Avkjøl kaken litt, før du skjærer opp i skrå skiver.
+Rør smør og sukker godt og tilsett det øverige. Rull ut til to fingertykke lengder og legg dem på bakepapirkledd stekeovnsplate. Trykk lengdene litt ut, til ca. 1 cm tykkelse. Stek dem på midterste rille ved 175 gr. i 10-12 minutter. Avkjøl kaken litt, før du skjærer opp i skrå skiver.

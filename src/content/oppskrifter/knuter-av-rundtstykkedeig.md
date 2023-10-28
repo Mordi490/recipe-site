@@ -18,4 +18,4 @@ images:
 
 ## Instruksjon
 
-Smelt smøret og ha i melken, la dette bli lunkent. Rør ut gjæren i litt av melken og bland alt sammen til en litt fast deig. La deigen heve i 40 minutter eller til dobbel størrelse. Trill ut rundtstykker og form disse som en drueklase. Trill ut til små pølser og knyt til dobbel størrelse. Pensle dem med sammenvispet egg og stek dem på midterste rille ved 230 gr. i ca. 13 minutter. Drueklasen er laget av 15 små boller som legges på platen med 1/2 cm mellomrom. Bladene formes lettest ved å klippe med saks på lett utkjevlet deig.
+Smelt smøret og ha i melken, la dette bli lunkent. Rør ut gjæren i litt av melken og bland alt sammen til en litt fast deig. La deigen heve i 40 minutter eller til dobbel størrelse. Trill ut rundstykker og form disse som en drueklase. Trill ut til små pølser og knytt til dobbel størrelse. Pensle dem med sammenvispet egg og stek dem på midterste rille ved 230 gr. i ca. 13 minutter. Drueklasen er laget av 15 små boller som legges på platen med 1/2 cm mellomrom. Bladene formes lettest ved å klippe med saks på lett utkjevlet deig.

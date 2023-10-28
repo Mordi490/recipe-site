@@ -35,6 +35,6 @@ images: ["../../assets/recipe-images/web_frokostrundstykker-med-hvete.jpg"]
 
 7 Dekk dem til, og la dem etterheve ca. 30 minutter.
 
-8. stek rundstykkene midt i ovnen ved 225 gr, 12-15 minutter. I varluftsovn, 18-20 minutter.
+8. stek rundstykkene midt i ovnen ved 225 gr, 12-15 minutter. I varmluftsovn, 18-20 minutter.
 
 9. La rundstykkene avkjøles tildekket på rist.

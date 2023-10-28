@@ -19,4 +19,4 @@ images: ["../../assets/recipe-images/web_sjoko-mandelruter.jpg"]
 
 ## Instruksjon
 
-Skjær kransekakemassen i mindre biter og ha den i en food processor. Skill eggene og ha eggeplommen i food processor sammen med saft og revet skall av appelsinen. Kjør alt til en jevn masse. Stivpisk eggehvitene og bland dem forsiktig inn. Stek kaken i en bakepapirkledd langpanne 20x30 cm, ved 175 gr. i ca. 30 minutter. Avkjøl kaken. Brekk sjokoladen i biter og smelt sammen med kaffe i en kjele over svak varme. Bre sjokoladeglasuren over kaken og skjær den i ruter før servering.
+Skjær kransekakemassen i mindre biter og ha den i en food prosessor. Skill eggene og ha eggeplommene i food prosessor sammen med saft og revet skall av appelsinen. Kjør alt til en jevn masse. Stivpisk eggehvitene og bland dem forsiktig inn. Stek kaken i en bakepapirkledd langpanne 20x30 cm, ved 175 gr. i ca. 30 minutter. Avkjøl kaken. Brekk sjokoladen i biter og smelt sammen med kaffe i en kjele over svak varme. Bre sjokoladeglasuren over kaken og skjær den i ruter før servering.

@@ -12,13 +12,13 @@ images: ["../../assets/recipe-images/web_reyjavikbrød-helsebrød.jpg",
 
 - 100 g gjær
 - 5 dl lunkent vann
-- 3 dl cottage cheese og kesam
+- 3 dl cottage cheese eller kesam
 - 1/2 dl honning
 - 2 ss olje
 - 1 ts salt
 - 1 dl hvetekim
 - 2 dl havregryn
-- 6 dl sammalg hvete, fin
+- 6 dl sammalt hvete, fin
 - 2 dl rosiner
 - ca. 8 dl hvetemel
 

@@ -18,7 +18,7 @@ images:
 
 ## Instruksjon
 
-1. Marker formen på bunne på bakepapir.
+1. Marker formen på bunnene på bakepapir.
 
 2. Skåld mandlene og mal dem fint.
 

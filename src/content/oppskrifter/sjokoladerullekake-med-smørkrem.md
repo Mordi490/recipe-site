@@ -1,11 +1,11 @@
 ---
-title: Rullekake med syltetøy
+title: Rullekake med smørkrem
 tags: ["dessert", "småkake"]
 ingredienser: ["kylling", "pasta", "brokkoli"]
-images: ["../../assets/recipe-images/web_wienerstenger.jpg"]
+images: ["../../assets/recipe-images/web_sjokolade-rullekake-med-smørkrem-rullekake-med-syltetøy.jpg"]
 ---
 
-# Rullekake med syltetøy
+# Rullekake med smørkrem
 
 ## Ingredienser
 
@@ -28,4 +28,4 @@ images: ["../../assets/recipe-images/web_wienerstenger.jpg"]
 
 I ovn ved 240 gr. i 5 minutter på midterste rille i langpanne 30x40 cm.
 
-Lag kaken som nevnt i [rullekake med syltetøy](./rullekake-med-syltetøy), men ta potetmel og kakao i røren. Stek kaken ferdig .Da det er potetmel i deigen, kan det være lurt å avkjøle kaken før fyllet has på, da den ellers kan bli litt deigete.
+Lag kaken som nevnt i [rullekake med syltetøy](./rullekake-med-syltetøy), men ta potetmel og kakao i røren. Stek kaken ferdig. Da det er potetmel i deigen, kan det være lurt å avkjøle kaken før fyllet has på, da den ellers kan bli litt deigete.

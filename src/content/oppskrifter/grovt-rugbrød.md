@@ -16,7 +16,7 @@ images: ["../../assets/recipe-images/web_grovt-rugbrød.jpg"]
 - 1 ss salt
 - 1/2 dl mørk sirup
 - 5 dl hvetemel
-- 1,4-1,5 smamalt, grovt rugmel
+- 1,4-1,5 sammalt, grovt rugmel
 
 ## Instruksjon
 

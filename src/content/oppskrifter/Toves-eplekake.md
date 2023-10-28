@@ -27,4 +27,4 @@ images: ["../../assets/recipe-images/web_toves-eplekake.jpg"]
 
 ## Instruksjon
 
-Lag først vaniljesausen etter anvisning på pakken, men med 3 dl melk. Rør smør og sukker lyst og lett, ha i eggeplommen. Tilsett mel med bakepulver. Kle en rund kakefrom, 24 cm i diameter, med 2/3 av deigen. Skrell eplene og skjær med litt sukker. Hell til slutt vaniljekremen over. Trill tynne pølser av resten av deigen og legg i rutemønster over kaken. Pensle med eggehvite og strø sukker og hakkede mandler over. Stek kaken ved 150 gr. i 40 minutter.
+Lag først vaniljesausen etter anvisning på pakken, men med 3 dl melk. Rør smør og sukker lyst og lett, ha i eggeplommen. Tilsett mel med bakepulver. Kle en rund kakeform, 24 cm i diameter, med 2/3 av deigen. Skrell eplene og skjær med litt sukker. Hell til slutt vaniljekremen over. Trill tynne pølser av resten av deigen og legg i rutemønster over kaken. Pensle med eggehvite og strø sukker og hakkede mandler over. Stek kaken ved 150 gr. i 40 minutter.

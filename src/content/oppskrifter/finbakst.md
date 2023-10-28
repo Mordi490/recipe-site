@@ -21,7 +21,7 @@ ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
 
 - 100 g kransekakemasse
 - 1 eggehvite
-- 55 g sukkat
+- 55 g sukat
 
 ### Pensling
 
@@ -38,7 +38,7 @@ ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
 
 2. Smelt smøret. Hell melken over og varm til 37 gr.
 
-3. Hell deigvæsken over gjæren, og rør til den er oppløst. Tilsett sukker, salt, kardemomme og eggelomme.
+3. Hell deigvæsken over gjæren, og rør til den er oppløst. Tilsett sukker, salt, kardemomme og eggeplomme.
 
 4. Bland inn det meste av melet. Arbeid deigen smidig med maskin eller for hånd.
 
@@ -52,8 +52,8 @@ ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
 
 9. Rull sammen fra langsiden som en rullekake.
 
-10. Ha rullen over på en smurt eller bakepaprikledd stekeplate. Form den til en kringle. Dekk til og etterhev ca. 30 minutter.
+10. Ha rullen over på en smurt eller bakepapirkledd stekeplate. Form den til en kringle. Dekk til og etterhev ca. 30 minutter.
 
-11. Pensle med egg. Strø mandlerspon og perlsukker over.
+11. Pensle med egg. Strø mandlerspon og perlesukker over.
 
 12. Stek kringlen i nedre del av ovnen ved 200 gr, ca. 25 minutter. I varmluftsovn ved 175 gr, ca. 30 minutter.

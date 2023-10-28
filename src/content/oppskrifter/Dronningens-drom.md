@@ -39,4 +39,4 @@ images: ["../../assets/recipe-images/web_sjokolademuffins-dronningens-drøm.jpg"
 
 Egg og sukker piskes til eggedosis, det tørre siktes i og røres inn vekselvis med melk og smeltet smør. Ha alt i en smurt og melet springform, 24 cm. Stekes på nederste rille ved 180 gr. i 30-40 min. Del kaken i to eller tre lag og bre vaniljekrem på lagene.
 
-**Glasur:** Gi fløten et oppkok og sett den til side, ha i sjokoladen. Npr sjokoladen har smeltet, røres blandinged sammen slik at den setter seg. Rør i mykt smør til slutt. Smør på sjokoladeglasuren og pynt med sjokoladeblonder.
+**Glasur:** Gi fløten et oppkok og sett den til side, ha i sjokoladen. Når sjokoladen har smeltet, røres blandingen sammen slik at den setter seg. Rør i mykt smør til slutt. Smør på sjokoladeglasuren og pynt med sjokoladeblonder.

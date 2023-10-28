@@ -28,4 +28,4 @@ images:
 
 Stekes ved 225 gr. på midterste rille i ca. 12 minutter.
 
-Lag en porsjon hveteboller. Slå ned den ferdighevete deigen og trill en ut til en lang pølse. Del deigen i ca. 40 like store emner. Hvert emne trykkes flatt. Legg en klatt eplemos på midten og brett deigen godt rundt fyllet. Legg bollene med skjøten ned i muffinsformer. Sett bollene på stekeplater, dek demm med et klede og la dem etterheve på et lunt sted i ca. 30 minutter. Pensle dem gjerne med egg før de stekes gylne og avkjøles på rist. Like før servering glasseres bollene med melis utrørt i eplejuice.
+Lag en porsjon hveteboller. Slå ned den ferdighevete deigen og trill en ut til en lang pølse. Del deigen i ca. 40 like store emner. Hvert emne trykkes flat. Legg en klatt eplemos på midten og brett deigen godt rundt fyllet. Legg bollene med skjøten ned i muffinsformer. Sett bollene på stekeplater, dekk dem med et klede og la dem etterheve på et lunt sted i ca. 30 minutter. Pensle dem gjerne med egg før de stekes gylne og avkjøles på rist. Like før servering glasseres bollene med melis utrørt i eplejuice.

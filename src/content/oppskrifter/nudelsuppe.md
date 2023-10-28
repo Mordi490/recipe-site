@@ -28,7 +28,7 @@ Masse vitaminer og smak, minimalt med kalorier. Denne suppen kan du spise så my
 - 2 bokser grønne bønner, f.eks. brekkbønner
 - 2 grønne paprika
 - 4 gulrøtter
-- 21 ferdig kylling- eller kjøttbuljong
+- 2 l ferdig kylling- eller kjøttbuljong
 
 ## Instruksjoner
 

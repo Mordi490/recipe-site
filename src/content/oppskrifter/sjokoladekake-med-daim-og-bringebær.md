@@ -34,7 +34,7 @@ images:
 
 ## Instruksjoner
 
-Smelt smør. Pisk egg og sukker til eggedosis. Bland mel, bakepulver, vaniljesukker og kakao, og vend det forsiktig inn i eggedosisen. Tilsett smør i en tunn stråle og rør forsiktig inn. Hell røren i en kakeform, ca. 24 cm. Stekes på nederste rille ved 175 gr. i ca. 40 min, eller til den er gjennomstekt. Avkjøl kaken i formen før den tas ut og deles i to tre lag.
+Smelt smør. Pisk egg og sukker til eggedosis. Bland mel, bakepulver, vaniljesukker og kakao, og vend det forsiktig inn i eggedosisen. Tilsett smør i en tynn stråle og rør forsiktig inn. Hell røren i en kakeform, ca. 24 cm. Stekes på nederste rille ved 175 gr. i ca. 40 min, eller til den er gjennomstekt. Avkjøl kaken i formen før den tas ut og deles i to tre lag.
 
 **Fyll:** Bland sammen syltetøy, friske bringebær og pisket krem og legg fyllet mellom lagene.
 

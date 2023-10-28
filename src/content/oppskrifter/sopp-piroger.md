@@ -29,7 +29,7 @@ images: ["../../assets/recipe-images/web_sopp-piroger.jpg"]
 
 1. Bland rugmel, salt og vann i en bolle. Tilsett hvetemel og elt deigen til den kjennes fast.
 
-2. Form deigen til en lengde. Del den i åtte biter. Rull disse til boller. Klem dem noe flate. Dekk dem til med et håndkle til de ska kjevles ut.
+2. Form deigen til en lengde. Del den i åtte biter. Rull disse til boller. Klem dem noe flate. Dekk dem til med et håndkle til de skal kjevles ut.
 
 3. La evt. kraft fra soppen renne av. Spar på den. Hakk soppen.
 

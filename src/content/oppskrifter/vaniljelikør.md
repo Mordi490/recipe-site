@@ -16,4 +16,4 @@ images:
 
 ## Instruksjoner
 
-Kjør vaniljesaus og vaniljekrem glatt i food processor. Rør inn spriten. Dette er en herlig vaniljelikør som kan oppbevares i flere måneder. Super presang og nydelig å server til gjester. Av deen grunnlikøren kan vi eksperimentere vider med andre smaker. Vi brukte denne likørbasisen for to andre likører: [anislikør](./anislikør) og [appelsinlikør](./appelsinlikør)
+Kjør vaniljesaus og vaniljekrem glatt i food prosessor. Rør inn spriten. Dette er en herlig vaniljelikør som kan oppbevares i flere måneder. Super presang og nydelig å server til gjester. Av denne grunnlikøren kan vi eksperimentere videre med andre smaker. Vi brukte denne likørbasisen for to andre likører: [anislikør](./anislikør) og [appelsinlikør](./appelsinlikør)

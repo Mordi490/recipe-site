@@ -33,8 +33,8 @@ images: ["../../assets/recipe-images/web_kake-med-cottage-cheese-og-sitron.jpg"]
 
 ## Instruksjoner
 
-Knus kjeksen fint og bland den med smeltet smør og kanel, gjerne i en food processor. La maskinen gp til atl er finknust og blandet. Sett formen, ca 22 cm, uten bunn på et serveringsfat og ha kjeksmassen opp. Press den godt sammen ut til kanten. Legg gelatinen i bløt i kaldt vann i 5-10 minutter.
+Knus kjeksen fint og bland den med smeltet smør og kanel, gjerne i en food prosessor. La maskinen gå til alt er finknust og blandet. Sett formen, ca 22 cm, uten bunn på et serveringsfat og ha kjeksmassen opp. Press den godt sammen ut til kanten. Legg gelatinen i bløt i kaldt vann i 5-10 minutter.
 
-Visp egg, sukker og vaniljesukker til eggedosis. Tilsett sitronskall. Hell cottage cheese i en food processor og kjør den jevn. Pisk fløten stiv. Kyst vannet av gelatinoppløsningen i stironsaften og rør blandingen sammen med cottage cheese.
+Visp egg, sukker og vaniljesukker til eggedosis. Tilsett sitronskall. Hell cottage cheese i en food prosessor og kjør den jevn. Pisk fløten stiv. Kyst vannet av gelatinoppløsningen i stironsaften og rør blandingen sammen med cottage cheese.
 
 Vend den stivpiskede kremen forsiktig i. Fordel fyllet over kjeksbunnen og sett kaken kjølig noen timer. Fjern kakeringen før du pynter med bringebær, valnøtter og sitronmelisse på toppen.

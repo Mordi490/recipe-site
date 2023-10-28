@@ -11,7 +11,7 @@ ingredienser:
     "margarin",
     "sur melk",
   ]
-images: ["../../assets/recipe-images/web_wienerstenger.jpg"]
+images: ["../../assets/recipe-images/web_hvetedeig-horn.jpg"]
 ---
 
 # Hvetedeig
@@ -32,4 +32,4 @@ Smelt smøret i en kjele, tilsett melk og la blandingen bli lunken, ca. 37 gr. S
 
 ### Tips
 
-De fleste gjæroppskriftene kan bli gode selv med mindre fett. Men da kan det vøre nødvendig å øke væskemengden litt.
+De fleste gjæroppskriftene kan bli gode selv med mindre fett. Men da kan det være nødvendig å øke væskemengden litt.

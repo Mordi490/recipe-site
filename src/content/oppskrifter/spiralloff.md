@@ -20,4 +20,4 @@ images: ["../../assets/recipe-images/web_spiralloff.jpg"]
 
 ## Instruksjon
 
-Mel, sukker og salt røres sammen. Smøret smeltes i melk og vann og haes i vekselvis med utrørt gjær og pisket egg. Husk å smøre begge formen. Etter heving i 20 minutter. Settes den adre formen på. Stekes i ovnen ved 220 gr. i ca. 45 minutter.
+Mel, sukker og salt røres sammen. Smøret smeltes i melk og vann og haes i vekselvis med utrørt gjær og pisket egg. Husk å smøre begge formene. Etter heving i 20 minutter. Settes den andre formen på. Stekes i ovnen ved 220 gr. i ca. 45 minutter.

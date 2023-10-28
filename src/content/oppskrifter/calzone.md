@@ -43,18 +43,18 @@ images: ["../../assets/recipe-images/web_calzone.jpg"]
 
 3. Skrell og finhakk løk og hvitløk.
 
-4. Fres løken myk i olje. Tilsett tomater, salt, krydder og pure. Rør om og la alt smmen småkoke uten lokk til blandingen er passe tykk, 15-20 minutter.
+4. Fres løken myk i olje. Tilsett tomater, salt, krydder og pure. Rør om og la alt sammen småkoke uten lokk til blandingen er passe tykk, 15-20 minutter.
 
-5. Ta ut laurbærbladet og visp gjeren blandingen glatt med stålvisp. Avkjøl.
+5. Ta ut laurbærbladet og visp gjerne blandingen glatt med stålvisp. Avkjøl.
 
 6. Strimle skinken.
 
-7. Ta deigen opp og elt den smidig på lettmelt bord. Del den i fire delet og arbeid hver del på melet underlag. Trill dem ut til runde boller, klapp dem ut til runde boller, klapp dem ut med håndflaten og strekk deigen. Kjevle dem tynt til sirkler ca. 20 cm i diameter.
+7. Ta deigen opp og elt den smidig på lettmelt bord. Del den i fire deler og arbeid hver del på melet underlag. Trill dem ut til runde boller, klapp dem ut til runde boller, klapp dem ut med håndflaten og strekk deigen. Kjevle dem tynt til sirkler ca. 20 cm i diameter.
 
 8. Fordel tomatrøren i midten av hver bunn. Ha på skinke og ost.
 
 9. Løft opp deigen som omgir fyllet og klem deigende sammen slik at fyllt ikke renner ut.
 
-10. Løft opp deigen som omgir fyllet og klem deigene smmane slik at fyllet ikke renner ut.
+10. Løft opp deigen som omgir fyllet og klem deigene sammen slik at fyllet ikke renner ut.
 
-11. Stek pizzaen i nedre del av ovnen ved 250 gr, 15-20 minutter. I varmluftsovn ved 225 gr, 20-25 minutter.
+11. Stek pizzaen i nedre del av ovnen ved 250 gr. i 15-20 minutter. I varmluftsovn ved 225 gr. i 20-25 minutter.

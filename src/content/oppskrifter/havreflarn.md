@@ -7,7 +7,7 @@ images: ["../../assets/recipe-images/web_nøtteflarn-havreflarn.jpg"]
 
 # Havreflarn
 
-36 stk.
+Oppskriften skal gi omkring 36 stk.
 
 ## Ingredienser
 
@@ -26,10 +26,10 @@ Legg havregryn i en bolle.
 
 Smelt smøret. Hell det over grynene og la dem stå en stund og svelle.
 
-Pisk egg og sukker til eggedosis. Rlrø det i grynblandingen sammen med siktet mel og bakepulver.
+Pisk egg og sukker til eggedosis. Rør det i grynblandingen sammen med siktet mel og bakepulver.
 
-Leg deigen i klatter med godt mellomrom, på smurt og melet plate.
+Legg deigen i klatter med godt mellomrom, på smurt og melet plate.
 
 Stek kakene
 
-Løsne kaken med tyn of skarp kniv når de litt avkjøletm og bøy dem over en pinne e.l.
+Løsne kaken med tynn og skarp kniv når de litt avkjølet, og bøy dem over en pinne e.l.

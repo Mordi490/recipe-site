@@ -31,7 +31,7 @@ images:
 
 Bunnen stekes ved 210 gr. i ca. 7 min på midterste rille
 
-**Trøffelkrem dag 1:** Kok opp fløte og tilsett grovhakket sjokolad. Trekk kjelen til side og rør i blandingen til sjokoladen er smeltet. Sett sjokoladefløten i kjølesakp none timer, helst til dagen etter.
+**Trøffelkrem dag 1:** Kok opp fløte og tilsett grovhakket sjokolade. Trekk kjelen til side og rør i blandingen til sjokoladen er smeltet. Sett sjokoladefløten i kjøleskap noen timer, helst til dagen etter.
 
 **Bunn:** Kjevle ut kransekakemassen til den er ca. 1 cm tykk. Stikk ut små rundinger (bruk et hvitvinsglass) og legg dem på stekebrett. Kransekakebitene skal bare være så vidt stekt. Avkjøles på rist.
 

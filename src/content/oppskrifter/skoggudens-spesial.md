@@ -8,7 +8,7 @@ images: ["../../assets/recipe-images/web_skoggudens-spesial.jpg",
 
 # Skoggudens spesial
 
-Denne kaken skal dekoreres til stjernetenget skytten
+Denne kaken skal dekoreres til stjernetegnet skytten
 
 ## Ingredienser
 
@@ -17,7 +17,7 @@ Denne kaken skal dekoreres til stjernetenget skytten
 - 5 egg
 - 125 g sukker
 - 100 g hvetemel
-- 50 g grov sammalt hvet
+- 50 g grov sammalt hvete
 - 1t ts bakepulver
 
 ### Fyll
@@ -39,4 +39,4 @@ Denne kaken skal dekoreres til stjernetenget skytten
 
 I stekeovnen ved 175 gr. i ca. 30 minutter. Rund kakeform, 24 cm i diameter.
 
-Visp eggedosis av egg og sukker. Bland forsiktig i mel og bakepulver. Hell røren i en smurt form og stek kaken. Avkjøl den på rist. La multene trekke i likør et par timer. Visp rømmen stiv og bland i likørmarinerte multer. Del kakebunnen i to eller tre lag. Dynk med multesaft eller melk. Fyll kaken med multekremen. Visp resten av rømmen stiv og dekk kaken med rømmekremen. Skjær ut stjernetegnet i marsipan og pynt med lakrislisser, multer og munteblader.
+Visp eggedosis av egg og sukker. Bland forsiktig i mel og bakepulver. Hell røren i en smurt form og stek kaken. Avkjøl den på rist. La multene trekke i likør et par timer. Visp rømmen stiv og bland i likørmarinerte multer. Del kakebunnen i to eller tre lag. Dynk med multesaft eller melk. Fyll kaken med multekremen. Visp resten av rømmen stiv og dekk kaken med rømmekremen. Skjær ut stjernetegnet i marsipan og pynt med lakrislisser, multer og mynteblader.

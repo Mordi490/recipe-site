@@ -19,4 +19,4 @@ images: ["../../assets/recipe-images/web_gomme.jpg"]
 
 ## Instruksjon
 
-Kok ris og vann i ca. 10 minutter. Tilsett så resten av ingrediensene og la det hele småkooe i ca. 45-60 minutter.
+Kok ris og vann i ca. 10 minutter. Tilsett så resten av ingrediensene og la det hele småkoke i ca. 45-60 minutter.

@@ -21,4 +21,4 @@ images: ["../../assets/recipe-images/web_eplekake-i-langpanne.jpg"]
 
 ## Instruksjon
 
-Bland sammen mel, sukker og bakepulber. Smuldre inn romtemperet smør, eller ha alt i food processor og la maiskine gå til alt er blandet. Rør i kokos og egg. Bruk en langpanne som er ca. 30x40 cm. Legg bakepapir i bunnen av langpannen og fordel bakerøren jevnt utover. Trykk skrelte eplebiter tett sammen i røren. Dryss over sukker og kanel. Stek kaken ved 200 gr. i ca. 40 minutter.
+Bland sammen mel, sukker og bakepulver. Smuldre inn romtemperet smør, eller ha alt i food prosessor og la maskinen gå til alt er blandet. Rør i kokos og egg. Bruk en langpanne som er ca. 30x40 cm. Legg bakepapir i bunnen av langpannen og fordel bakerøren jevnt utover. Trykk skrelte eplebiter tett sammen i røren. Dryss over sukker og kanel. Stek kaken ved 200 gr. i ca. 40 minutter.

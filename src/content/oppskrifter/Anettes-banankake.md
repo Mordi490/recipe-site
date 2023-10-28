@@ -15,9 +15,9 @@ images: ["../../assets/recipe-images/web_anettes-banankake.jpg"]
 - 4 bananer
 - 8 ss melk
 - 4 1/2 dl hvetemel
-- 2 ts vanljepulver
+- 2 ts vaniljesukker
 - 2 ss bakepulver
 
 ## Instruksjon
 
-Sett stekeovnen på 170 gr. Pisk egg og sukker til eggedosis. Tilsett smeltet smør, mosede bananer, melk og det tørre blandet. Balnd glatt forsiktig, men godt med slikkepott. Hell deigen over i en smurt og strødd springform. Stek kaken i nedre del av ovnen i ca. 45 minutter. Avkjøl kaken litt i formen før den avkjøles helt på rist.
+Sett stekeovnen på 170 gr. Pisk egg og sukker til eggedosis. Tilsett smeltet smør, mosede bananer, melk og det tørre blandet. Bland glatt forsiktig, men godt med slikkepott. Hell deigen over i en smurt og strødd springform. Stek kaken i nedre del av ovnen i ca. 45 minutter. Avkjøl kaken litt i formen før den avkjøles helt på rist.

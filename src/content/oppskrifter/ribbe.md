@@ -31,7 +31,7 @@ images:
 
 ### Portvinssvisker
 
-- 1 pk. svikser
+- 1 pk. svisker
 - 1 dl portvin
 - 1/2 ts kanel
 - 1/2 ts nellik
@@ -41,9 +41,9 @@ images:
 
 ### Ribbe
 
-Start dagen i forveien, eller i alle fall tidlig om morgenen juleaften eller samme dag som ribben skal nytes, med å gni inn ribbesvoren med salt og legge den påå ned i en langpanne med vann. Det bidrar til å bløte opp svoren og forberede den på å bli sprø.
+Start dagen i forveien, eller i alle fall tidlig om morgenen juleaften eller samme dag som ribben skal nytes, med å gni inn ribbesvoren med salt og legge den på ned i en langpanne med vann. Det bidrar til å bløte opp svoren og forberede den på å bli sprø.
 
-Hvis ribben ike er rutet eller ribbenna saget over på forhånd, bør du be om at det gjøres av kjøttdiskperonalet.
+Hvis ribben ikke er rutet eller ribbenna saget over på forhånd, bør du be om at det gjøres av kjøttdiskperonalet.
 
 Kjøper du frossen ribbe er det lettest å rute svoren mens ribben fremdeles er halvfrossen. Tin ribba i kjøleskapet, da får du minst væsketap. Svoren rutes med en skarp og spiss kniv ca. 1/2 cm ned i spekket. Prøv å få rutene parallelt med ribbena, da blir det lettere å skjære opp senere.
 
@@ -55,12 +55,12 @@ Hvis ikke ribba har fått sprø svor etter endt steketid, kan du sette den øver
 
 Ta ribben ut av ovnen og la stå på kjøkkenbenken i minst 30 minutter. Slik beholdes saftigheten i ribben, også når du skjærer den opp. Fettet bidrar til at den beholder seg god og varm gjennom hele hviletiden.
 
-Hell stekesjyen og fette fra ribben til en liten kjele. Skum av fettet og ta vare på det til neste lutefiskmiddag. Varm opp stekesjyen og server til ribben sammen med rød surkål og portvinssvisker samt gode poteter. For full pakke tar du også med medisterkaker eller -pølser.
+Hell stekesjyen og fette fra ribben til en liten kjele. Skum av fettet og ta vare på det til neste lutefiskmiddag. Varm opp stekesjyen og server til ribben sammen med rød surkål og portvinssvisker samt gode poteter. For full pakke tar du også med medisterkaker eller pølser.
 
 ### Rød surkål
 
-Snit kålen fint opp og legg den lagvis med salt og karve og epler skåret i båter i en kjele. Tilsett vin eller vann, eddik og sukker. Kok opp og la alt trekke i ca. 45 minutter. Rør godt innimellom. Rør inn smør eller fett fra ribben i surkålen før servering.
+Snitt kålen fint opp og legg den lagvis med salt og karve og epler skåret i båter i en kjele. Tilsett vin eller vann, eddik og sukker. Kok opp og la alt trekke i ca. 45 minutter. Rør godt innimellom. Rør inn smør eller fett fra ribben i surkålen før servering.
 
 ### Portvinssviker
 
-Varm opp - ikke kok - portvin, krydder, klementinskall og svisker. Avkjøl. Hell av lken før servering eller ta opp sviskene du skal bruke og la resten ligge i laken. De holder seg lenge i kjøleskap. Dette er for øvrig et godt julegavetips til den som elsker ribbe og den som foretrekker kalkun.
+Varm opp - ikke kok - portvin, krydder, klementinskall og svisker. Avkjøl. Hell av like før servering eller ta opp sviskene du skal bruke og la resten ligge i laken. De holder seg lenge i kjøleskap. Dette er for øvrig et godt julegavetips til den som elsker ribbe og den som foretrekker kalkun.

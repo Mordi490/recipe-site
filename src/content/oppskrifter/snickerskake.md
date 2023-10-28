@@ -32,8 +32,8 @@ images:
 
 ## Instruksjoner
 
-Skill eggeplommer og hvite. Pisk egehviter og sukker til stiv marengs. Knus Ritz-kjeks og peanøtter grovt og bland det med marengsen sammen med bakepuvler og vaniljesukker. Hell det over i en bakepaprikledd langpanne. Stekes på nederste rille ved 170 gr. i ca. 20 min.
+Skill eggeplommer og hvite. Pisk eggehviter og sukker til stiv marengs. Knus Ritz-kjeks og peanøtter grovt og bland det med marengsen sammen med bakepulver og vaniljesukker. Hell det over i en bakepapirkledd langpanne. Stekes på nederste rille ved 170 gr. i ca. 20 min.
 Del kaken i to mens den er varm. Avkjøles på rist.
 
 **Krem:** Pisk eggeplommer og melis til eggedosis. Smelt og avkjøl kokesjokoladen. Pisk fløten stiv og bland alt forsiktig.
-Når kaken er kald, bres halvparten av krem på den ene halvdelen. Legg kakelokket og smør resten av kremen på toppen. Pynt med peanøtter. Kaken skal stå ett døgn i kjøleskap. Kan fryses
+Når kaken er kald, bres halvparten av kremen på den ene halvdelen. Legg på kakelokket og smør resten av kremen på toppen. Pynt med peanøtter. Kaken skal stå ett døgn i kjøleskap. Kan fryses.

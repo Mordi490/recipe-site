@@ -19,9 +19,9 @@ images: ["../../assets/recipe-images/web_overraskelseskaker.jpg"]
 
 ### Fyll
 
-- 100 g kransekakemasse
-- 1 eggehvite
-- 55 g sukkat
+- 3-4 syrlige epler
+- 1 dl brunt sukker
+- 2 ts malt kanel
 
 ### Pensling
 
@@ -45,15 +45,15 @@ images: ["../../assets/recipe-images/web_overraskelseskaker.jpg"]
 
 6. Ta deigen opp på lettmelet arbeidsbord, og elt den smidig med resten av melet.
 
-7. Del deigen i to emner. Form dem til sprekkfire boller. Kjevle eller trykk dem ut til ca. 1 cm tykkelse.
+7. Del deigen i to emner. Form dem til sprekkfrie boller. Kjevle eller trykk dem ut til ca. 1 cm tykkelse.
 
-8. Fordel fyllet i en topp på midten av hvert deigemne. Samle sammen deigkantene rundt fyllet, og klem godt sammen slik at fyllet ikke renner ut.
+8. Fordel fyllet i en topp på midten av hvert deig emne. Samle sammen deigkantene rundt fyllet, og klem godt sammen slik at fyllet ikke renner ut.
 
 9. Legg kaken på smurt eller bakepapirkledd stekeplate.
 
 10. Klipp blader rundt kanten og vend annethvert blad opp og annethvert blad ned. La kakene heve tildekket, ca. 30 minutter.
 
-11. Pensle dem med sammenpisket egg, og dryss perlesukker.
+11. Pensle dem med sammenpisket egg, og dryss med perlesukker.
 
 12. Stek kakene midt i ovnen ved 200 gr, ca. 25 minutter. I varmluftsovn ved 175 gr, ca. 30 minutter.
 

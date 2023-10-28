@@ -28,7 +28,7 @@ images: ["../../assets/recipe-images/web_bursdagskatt.jpg"]
 - 250 g melis
 - 2 eggeplommer
 - litt pisket kremfløte til "snute" og "poter"
-- smeltet sjokolade til å tenge øyne, værhår o.l.
+- smeltet sjokolade til å tegne øyne, værhår o.l.
 
 ## Instruksjon
 

@@ -27,4 +27,4 @@ lager ca. 12-14 stk
 
 Stekes ved 200 gr på midterste rille i ca. 15 minutter i sandkakeformer eller små aluminiumsformer.
 
-Mel sukker, vaniljesukker og margarin smuldres til en grynet masse. Tilsett egg og elt deigen raskt sammen. Dekk den med plast og legg den i kjøleskap minst 1 time. Kjevle deigen til 2-3 mm tykkelse og kle godt smurt former med deig. Stek kakene gylne og avkjøl dem i formene på rist. Når kakene er kalde hvelves de forsiktig ut av formene. Like før servering fylles kakene med vaniljekrem og pyntes med bær tilsatt litt sukker.
+Mel, sukker, vaniljesukker og margarin smuldres til en grynet masse. Tilsett egg og elt deigen raskt sammen. Dekk den med plast og legg den i kjøleskap minst 1 time. Kjevle deigen til 2-3 mm tykkelse og kle godt smurt former med deig. Stek kakene gylne og avkjøl dem i formene på rist. Når kakene er kalde hvelves de forsiktig ut av formene. Like før servering fylles kakene med vaniljekrem og pyntes med bær tilsatt litt sukker.

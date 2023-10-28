@@ -19,7 +19,7 @@ images: ["../../assets/recipe-images/web_wienerstenger.jpg"]
 
 ## Instruksjon
 
-Smelt smøret uten at det tar farge, og rør raskt sammen alle ingrediensen, evt. med en mikser til en jevn deig. Smør en paiform, 20 cm, og hell i deigen. Stek den i forvarmet ovn, 175 gr. i ca. 30 minutter, på rist midt i ovnen.
+Smelt smøret uten at det tar farge, og rør raskt sammen alle ingrediensene, evt. med en mikser til en jevn deig. Smør en paiform, 20 cm, og hell i deigen. Stek den i forvarmet ovn, 175 gr. i ca. 30 minutter, på rist midt i ovnen.
 
 ### Tips for å smelte sjokolade
 

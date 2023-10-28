@@ -7,7 +7,7 @@ images: ["../../assets/recipe-images/web_ostefromasj-kake.jpg"]
 
 # Ostefromasj-kake
 
-Denne kaken skal dekoreres til stjernetenget vannmannen
+Denne kaken skal dekoreres til stjernetegnet vannmannen
 
 ## Ingredienser
 

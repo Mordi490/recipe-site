@@ -33,7 +33,7 @@ images: ["../../assets/recipe-images/web_grønnsaksuppe-1-grønnsaksuppe-2.jpg"]
 - 125 g spinat eller 1/2 kålhode
 - 1 stor paprika
 - 6-8 selleristilker
-- 2-4 store gulerøtter
+- 2-4 store gulrøtter
 - 1-2 ts spisskummin og koriander
 - 1 sitron eller lime
 - 1 håndful hakket korianderblader eller persille

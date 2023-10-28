@@ -24,9 +24,9 @@ images: ["../../assets/recipe-images/web_finske-pepperkaker.jpg"]
 
 ## Instruksjoner
 
-Ha brunt sukker og krydder i en nokså stor, tykkbunnet kjele. Varm opp under omrøring til sukkeret har smeltet og blir sirupaktig. Tilsett smøre og rør til også dette har løst seg opp. Ta kjelen av platen og tilsett kremfløten. Bland så i ett sammenpsiket egg og deretter natron. Rør til slutt inn hvetemelet. La deigen stå kaldt til neste dag.
+Ha brunt sukker og krydder i en nokså stor, tykkbunnet kjele. Varm opp under omrøring til sukkeret har smeltet og blir sirupaktig. Tilsett smøre og rør til også dette har løst seg opp. Ta kjelen av platen og tilsett kremfløten. Bland så i ett sammenpisket egg og deretter natron. Rør til slutt inn hvetemelet. La deigen stå kaldt til neste dag.
 
-Kjevle ut deigen og stikk ut pepperkaker med ønsket fasong (se tips). Legg kaken på bakepapirdekkede stekeplater. Stek pepperkaken midti ovnen ved 200 gr i ca. 5 min. Avkjøles på rist.
+Kjevle ut deigen og stikk ut pepperkaker med ønsket fasong (se tips). Legg kaken på bakepapirdekkede stekeplater. Stek pepperkakene midt i ovnen ved 200 gr i ca. 5 min. Avkjøles på rist.
 
 ### Tips
 

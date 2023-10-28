@@ -3,7 +3,7 @@ title: Kyllingsuppe med squash og bønner
 tags: ["middag", "suppe"]
 ingredienser: ["kylling", "pasta", "brokkoli"]
 tattFra: https://www.matprat.no/oppskrifter/sunn/kyllingsuppe-med-squash-og-bonner/
-images: ["../../assets/recipe-images/web_wienerstenger.jpg"]
+images: ["../../assets/recipe-images/web_kyllingsuppe-med-squash-og-bønner.jpg"]
 ---
 
 # Kyllingsuppe med squash og bønner
@@ -14,7 +14,7 @@ images: ["../../assets/recipe-images/web_wienerstenger.jpg"]
 - 2 båter presset hvitløk
 - 1 ss nøytral olje
 - 1 l kyllingkraft eller hønsebuljong
-- 5 dl tomatjuice , evt. hermetiske tomater
+- 5 dl tomatjuice, evt. hermetiske tomater
 - 0,5 stk. rød paprika i terninger
 - 1 stk. grønn squash i terninger
 - 1 boks hermetiske røde bønner
@@ -29,4 +29,4 @@ images: ["../../assets/recipe-images/web_wienerstenger.jpg"]
 
 2. Hell på kyllingkraft og tomatjuice og kok opp. Tilsett paprika og squash. Kok ca. 5 minutter.
 
-3. Tilsett bønner, maiskorn og kyllingkjøtt. Kok opp suppen på nytt og la det trekke i 5-10 minutter anhengig av størrelsen på kylligstrimlene til kjøttet er gjennomkokt. Smak til med salt og pepper.
+3. Tilsett bønner, maiskorn og kyllingkjøtt. Kok opp suppen på nytt og la det trekke i 5-10 minutter avhengig av størrelsen på kylligstrimlene til kjøttet er gjennomkokt. Smak til med salt og pepper.

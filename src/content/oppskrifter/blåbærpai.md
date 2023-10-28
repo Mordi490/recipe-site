@@ -28,4 +28,4 @@ images:
 
 Stekes ved 200 gr. på midterste rille i 25-30 minntuer i en 22-24 cm rund paiform.
 
-Mel, sukker og margarin smuldres til en grynes masse. Ha i eggeplomme og elt deigen lett sammen. Dekk deigen med plast og sett den kaldt ca. 1 t. Kjelve deigen til den dekker bunn og sider i en godt smurt paiform. Prikk deigen med en gaffel of forstek paiskallet ca. 10 minutter. Bland sukker, blåbær og potet mel og hell det i skallet. Diegrester skjæres i strimler og legges som gitter over fyllet. Pensle paien med eggehvite og stek med eggehvite og stek den gyllen. Servers lunken med pisket krem.
+Mel, sukker og margarin smuldres til en grynet masse. Ha i eggeplomme og elt deigen lett sammen. Dekk deigen med plast og sett den kaldt ca. 1 t. Kjelve deigen til den dekker bunn og sider i en godt smurt paiform. Prikk deigen med en gaffel og forstek paiskallet ca. 10 minutter. Bland sukker, blåbær og potet mel og hell det i skallet. Deigrester skjæres i strimler og legges som glitter over fyllet. Pensle paien med eggehvite og stek med eggehvite og stek den gyllen. Servers lunken med pisket krem.

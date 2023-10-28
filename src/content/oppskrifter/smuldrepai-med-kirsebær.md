@@ -10,7 +10,7 @@ images:
 
 ## Ingredienser
 
-- 150 g (3 dl) sammalt hvet grov
+- 150 g (3 dl) sammalt hvete grov
 - 180 g (3 dl) hvetemel
 - 180 g (2 dl) sukker
 - 250 g margarin

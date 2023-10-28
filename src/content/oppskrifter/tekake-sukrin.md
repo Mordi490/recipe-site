@@ -16,4 +16,4 @@ images: ["../../assets/recipe-images/web_tekake.jpg"]
 
 ## Instruksjoner
 
-Bland ingrendiensene tilsett posens innhold og visp til en glat, jevn røre. Topping: Høvle 6-7 skiver kldt smør og fordel over kaken. Strø over godt med Sukrin eller Sukrin+, kanel og evt. hakkede nøtter. Stekes midt i ovnen på 175 gr. i ca. 30 minutter
+Bland ingrediensene tilsett posens innhold og visp til en glatt, jevn røre. Topping: Høvle 6-7 skiver kaldt smør og fordel over kaken. Strø over godt med Sukrin eller Sukrin+, kanel og evt. hakkede nøtter. Stekes midt i ovnen på 175 gr. i ca. 30 minutter

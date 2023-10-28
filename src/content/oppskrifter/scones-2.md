@@ -36,8 +36,8 @@ images: ["../../assets/recipe-images/web_scones.jpg"]
 
 4. Tilsett melken og rør.
 
-5. Del deigen i to og form hver del til en rundt kake. Legg kakene på en smurt plate eller plate med bakepapir på.
+5. Del deigen i to og form hver del til en rund kake. Legg kakene på en smurt plate eller plate med bakepapir på.
 
 6. Dypp en kniv i mel og skjær et kryss oppå kaken. Prikk kakene med en gaffel.
 
-7. Stek i 10-12 minutter. Midt i ovnen
+7. Stek i 10-12 minutter. Midt i ovnen.

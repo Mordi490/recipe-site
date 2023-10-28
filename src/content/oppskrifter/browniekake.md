@@ -29,8 +29,8 @@ images: ["../../assets/recipe-images/web_brownieskake.jpg"]
 
 ## Instruksjoner
 
-Smelt smøret. Brekk opp sjokoladen og ha i kjelen med smøret. La sjokoladen smelte på svak varme og rør blandingen jevn. Avkjøl. Rør sammen egg og sukker i en bakebolle med en stålvips (ikke visp til eggedosis!). Bland i den avkjøte smør- og sjokoladeblandingen. Sikt i bakepulver, kakao og vaniljepulver, sikt i hvetemel etterpå, og rør deigen jevn.
+Smelt smøret. Brekk opp sjokoladen og ha i kjelen med smøret. La sjokoladen smelte på svak varme og rør blandingen jevn. Avkjøl. Rør sammen egg og sukker i en bakebolle med en stålvips (ikke visp til eggedosis!). Bland i den avkjølte smør- og sjokoladeblandingen. Sikt i bakepulver, kakao og vaniljepulver, sikt i hvetemel etterpå, og rør deigen jevn.
 
-Hell deigen i en liten bakepapirkledd (ca. 20x30 cm), evt. rundform på ca. 26 cm. Stek kaken på nederste rille i ovnen ved 175 gr i ca. 35-40 minutter (kaken skal bare såvidt være gjennomstekt). Avkjøl kaken helt i formen.
+Hell deigen i en liten bakepapirkledd (ca. 20x30 cm), evt. rundform på ca. 26 cm. Stek kaken på nederste rille i ovnen ved 175 gr. i ca. 35-40 minutter (kaken skal bare såvidt være gjennomstekt). Avkjøl kaken helt i formen.
 
 Til sjokoladekremen smeltes kokesjokolade sammen med kaffe i en liten kjele. Rør blandingen jevn og avkjøl. Pisk romtemperert smør sammen med melis og vaniljesukker. Pisk inn egget. Bland så inn den smeltede sjokoladen. Rør godt, helt til sjokoladekremen er blank og jevn.

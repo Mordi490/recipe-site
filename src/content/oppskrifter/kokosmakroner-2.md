@@ -31,4 +31,4 @@ Pisk hvitene stive, dryss i sukker, kokosmasse og mel. Røres i en kjele over va
 
 ## Instruksjoner
 
-Egg og sukker piskes til stiv eggedosis tilsettes det smeltede smør, kokosmaasse, melet og bakepulveret. Deigen setter med stor teskje på godt smurt plate og stekes 10 minutter i ovn på 200 grader.
+Egg og sukker piskes til stiv eggedosis tilsettes det smeltede smør, kokosmasse, melet og bakepulveret. Deigen setter med stor teskje på godt smurt plate og stekes 10 minutter i ovn på 200 grader.

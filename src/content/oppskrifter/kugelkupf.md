@@ -17,13 +17,13 @@ Dette er et gammelt tysk bakverk. Kaken smaker friskt av sitron. Serveres lunken
 
 - 1/2 porsjon [hvetedeig](./hvetedeig)
 - 1 egg
-- revet sakll av 1 sitron
+- revet skall av 1 sitron
 
 ### Pynt
 
 - 2 dl melis
 - 1-2 ts vann
-- 1-2 ss sitrongsaft
+- 1-2 ss sitronsaft
 - 1 ss grovhakkede pistasienøtter eller 1 ss grovhakkete mandler
 
 ## Instruksjoner

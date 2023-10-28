@@ -29,7 +29,7 @@ images: ["../../assets/recipe-images/web_tante-bjørgs-kake-budapestrull-en.jpg"
 
 ## Instruksjon
 
-Stekes ved 175 gr. i ca. 40 minutter i en 24 cm springfrom på nederste rille.
+Stekes ved 175 gr. i ca. 40 minutter i en 24 cm springform på nederste rille.
 
 **Sjokoladekake:** Smelt smør og sjokolade i vannbad og la det avkjøle noe. Pisk egg og sukker til eggedosis og ha i sjokoladeblandingen. Sikt hvetemel, kakao og bakepulver og vend det i blandingen. Hell røren i en form og stek som angitt.
 

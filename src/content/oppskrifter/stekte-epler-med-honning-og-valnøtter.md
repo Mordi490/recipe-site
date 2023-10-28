@@ -13,13 +13,13 @@ images:
 - 4 syrlige epler
 - 1 ss olje
 - 1 ss honning
-- 6 valnøttkjernerm hakket
+- 6 valnøttkjerner hakket
 - kanel
 - mager vaniljekesam
 
 ## Instruksjon
 
-- Skyll eplene og del dem i to, midt på. Hul ut ofr kjernehuset
+- Skyll eplene og del dem i to, midt på. Hul ut for kjernehuset
 - Settes i smurt ildfastform
 - Bland sammen nøtter, honning og resten av margarinen. Fordel blandingen på eplene. Dryss på kanel.
 - Stekes til de er myke, ca. 10-15 min

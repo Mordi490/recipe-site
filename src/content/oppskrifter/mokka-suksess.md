@@ -7,7 +7,7 @@ images: ["../../assets/recipe-images/web_mokka-suksess.jpg"]
 
 # Mokka-suksess
 
-Denne kaken skal dekoreres til stjernetenget væren
+Denne kaken skal dekoreres til stjernetegnet væren
 
 ## Ingredienser
 

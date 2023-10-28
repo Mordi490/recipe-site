@@ -31,4 +31,4 @@ images:
 
 Stekes ved 200 på midterste rille i ca. 15 minutter i muffinsformer i papir eller aluminiumsfolie.
 
-Margarin smeltes og avkjøles. Egg og sukker piskes til en tykk eggedosis. Tilsett smeltet margarin, vaniljesukker, mel og bakepulver. Ha i kirsebær og melkog rør det hele raskt sammen. Fyll muffinsformene 2/3 fulle med røre og stek muffinsen gyllen. Avkjøles på rist. Før servering glasseres muffinsen med melisglasur og pyntes med kirskebær.
+Margarin smeltes og avkjøles. Egg og sukker piskes til en tykk eggedosis. Tilsett smeltet margarin, vaniljesukker, mel og bakepulver. Ha i kirsebær og melk og rør det hele raskt sammen. Fyll muffinsformene 2/3 fulle med røre og stek muffinsen gyllen. Avkjøles på rist. Før servering glasseres muffinsen med melisglasur og pyntes med kirsebær.

@@ -17,4 +17,4 @@ images: ["../../assets/recipe-images/web_banankake.jpg"]
 
 ## Instruksjoner
 
-Bland ingrendiensene tilsett posens innhold og visp til en glat, jevn røre. Stekes midt i ovnen på 175 gr. i ca. 30 minutter. Glasurforslag: [Melisglasur](./melisglasur-sukrin)
+Bland ingrediensene tilsett posens innhold og visp til en glatt, jevn røre. Stekes midt i ovnen på 175 gr. i ca. 30 minutter. Glasurforslag: [Melisglasur](./melisglasur-sukrin)

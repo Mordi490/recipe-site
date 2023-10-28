@@ -26,4 +26,4 @@ images:
 
 ## Instruksjoner
 
-Rør kakao ut i kokende vann. Smelt sjokolade i en liten kjele. Tilsett kakaoen samme nemd sirup og sukker. Rør det hele godt sammen. Skill eggeplommer og hvite. Pisk eggeplommene i røren og vend i mel og nøtter. Pisk eggeghvitende stive og vend dem i røren. Legg bakepapir i en kakeform, 20x30 cm, og hell i formen. Steks på miderste rille ved 175 gr. i ca. 30 min. Avkjøl kaken helt og skjær i små firkanter. Pynt med siktet melis og valnøtter på toppen.
+Rør kakao ut i kokende vann. Smelt sjokolade i en liten kjele. Tilsett kakaoen samme med sirup og sukker. Rør det hele godt sammen. Skill eggeplommer og hvite. Pisk eggeplommene i røren og vend i mel og nøtter. Pisk eggehvitende stive og vend dem i røren. Legg bakepapir i en kakeform, 20x30 cm, og hell i formen. Steks på miderste rille ved 175 gr. i ca. 30 min. Avkjøl kaken helt og skjær i små firkanter. Pynt med siktet melis og valnøtter på toppen.

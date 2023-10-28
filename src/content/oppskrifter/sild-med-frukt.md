@@ -26,4 +26,4 @@ images: ["../../assets/recipe-images/web_sild-med-frukt-sildesalat.jpg"]
 
 ## Instruksjoner
 
-Vann filetene ut til passe salt. Del dem i 1-2 cm store biter. Del frukten i små nette biter. Lag sausen. Hakk valnøttene grovt. Bland lett sammen og fordel på glass
+Vann filetene ut til passe salt. Del dem i 1-2 cm store biter. Del frukten i små nette biter. Lag sausen. Hakk valnøttene grovt. Bland lett sammen og fordel på glass.

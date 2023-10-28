@@ -2,7 +2,7 @@
 title: Kjøttdeigpai
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-images: ["../../assets/recipe-images/web_wienerstenger.jpg"]
+images: ["../../assets/recipe-images/web_kjøttdeigpai.jpg"]
 ---
 
 # Kjøttdeigpai
@@ -13,7 +13,7 @@ images: ["../../assets/recipe-images/web_wienerstenger.jpg"]
 
 - 3 dl hvetemel
 - 125 g smør eller margarin
-- 3 ss van
+- 3 ss vann
 
 ### Fyll
 
@@ -26,7 +26,7 @@ images: ["../../assets/recipe-images/web_wienerstenger.jpg"]
 - 2 ts bailikum
 - 2 ss rødvinseddik
 - 2 dl vann
-- 1 1/2 dl creme fraiche
+- 1 1/2 dl cremè fraîche
 
 ### Pensling
 
@@ -34,7 +34,7 @@ images: ["../../assets/recipe-images/web_wienerstenger.jpg"]
 
 ## Instruksjon
 
-1. Mål opp melet til paideigen i en bolle eller i foodprocessoren. Tilsett smlr i små biter og vann.
+1. Mål opp melet til paideigen i en bolle eller i food prosessoren. Tilsett smør i små biter og vann.
 
 2. Arbeid raskt sammen til en deig. Klem den ut til en rund kake. Pakk i plastfolie og legg kjølig, ca. 30 minutter
 
@@ -42,7 +42,7 @@ images: ["../../assets/recipe-images/web_wienerstenger.jpg"]
 
 4. Skrell og hakk løken. Bland inn og fres med noen minutter.
 
-5. Ta ut kjernen, og skjær paprikaen i terninger. Bland med resten av fyllet. Tilsett salt, merian, basilikum, eddik og vann. Småkok forsiktig ca. 5 minutter. Bland inn creme fraiche.
+5. Ta ut kjernen, og skjær paprikaen i terninger. Bland med resten av fyllet. Tilsett salt, merian, basilikum, eddik og vann. Småkok forsiktig ca. 5 minutter. Bland inn cremè fraîche.
 
 6. Hell fyllet i en paifrom eller ildfast form med lav kant, ca. 25 cm i diameter.
 

@@ -18,7 +18,7 @@ images:
 - 9 dl hvetemel
 - 4 ts bakepulver
 - 6 ss kakao
-- 4 ts vaniljesukke
+- 4 ts vaniljesukker
 - 1 1/2 dl kaffefløte
 - 3 1/2 dl melk
 - 300 g smør
@@ -34,6 +34,6 @@ images:
 
 ## Instruksjoner
 
-Smelt smør og avkjøl den litt. Vips eggedosis av egg og sukker. Sikt sammen alt det tørre og bland det i eggedosisen sammen med fløte og melk. Blnd deretter inn smør. Kle den i langpanne, ca. 40x36 cm, med bakepapir og hell i røren. Stekes på miderste rille ved 200 gr. i 20-25 min. Stikk en trepinne i kaken for å se om den er ferdig.
+Smelt smør og avkjøl den litt. Visp eggedosis av egg og sukker. Sikt sammen alt det tørre og bland det i eggedosisen sammen med fløte og melk. Bland deretter inn smør. Kle den i langpanne, ca. 40x36 cm, med bakepapir og hell i røren. Stekes på miderste rille ved 200 gr. i 20-25 min. Stikk en trepinne i kaken for å se om den er ferdig.
 
-**Glasur:** Smelt smør og ha hakket hvit sjokolade. Tilsett vann og melis og rør glasuren glatt før du smører den på kaken. Riv sjokolade med en ostehøvel, strø det op glasuren og pynt med noen røde cocktailbær.
+**Glasur:** Smelt smør og ha hakket hvit sjokolade. Tilsett vann og melis og rør glasuren glatt før du smører den på kaken. Riv sjokolade med en ostehøvel, strø det på glasuren og pynt med noen røde cocktailbær.

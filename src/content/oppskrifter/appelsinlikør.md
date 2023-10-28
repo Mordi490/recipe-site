@@ -16,8 +16,8 @@ images:
 
 ## Instruksjoner
 
-Rør sammen likør, appelsinskalpulver og sukker. La likøren trekke minst en uke. sil likøren og oppbevar på pen flaske.
+Rør sammen likør, appelsinskallpulver og sukker. La likøren trekke minst en uke. sil likøren og oppbevar på pen flaske.
 
 ## Tørking av appelsinskall
 
-skjær appelsinskallet i tynne strimler. Legg strimlene på kjøkkenpapir i mikrobølgeovn. La torke ved middel effekt. Pass på hele tiden så det ikke blir brent. Når appelsinskalled er ferdige, legges de flatt på kjøkkenhåndkle på benken til de er kalde og kjennes sprø. Det er fint at de ettertlrker slik, gjerne noen dager. Kjør så til pulber i food processor. Fylles på glass og oppbevares i fryseboksen. Dette er herlig appelsinsmak å tilsette iskremsauser, som dryss på salat, i formkaker og likør som dette. Du kan også tørke appelsinskall i stekeovnen på ca. 50 gr, men det går selvgølgelig ikke så fort.
+Skjær appelsinskallet i tynne strimler. Legg strimlene på kjøkkenpapir i mikrobølgeovn. La tørke ved middels effekt. Pass på hele tiden så det ikke blir brent. Når appelsinskallene er ferdige, legges de flatt på kjøkkenhåndkle på benken til de er kalde og kjennes sprø. Det er fint at de ettertørker slik, gjerne noen dager. Kjør så til pulver i food prosessor. Fylles på glass og oppbevares i fryseboksen. Dette er herlig appelsinsmak å tilsette iskremsauser, som dryss på salat, i formkaker og likør som dette. Du kan også tørke appelsinskall i stekeovnen på ca. 50 gr, men det går selvgølgelig ikke så fort.

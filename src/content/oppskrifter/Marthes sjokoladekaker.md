@@ -20,4 +20,4 @@ images: ["../../assets/recipe-images/web_marthas-sjokoladekaker.jpg"]
 
 ## Instruksjon
 
-Pisk egg og sukker riktig porøst. Smelt sjokolade og smøret i vannbad og bland dette i eggblandingen. Rør til "sleet"??? i melet blandet med bakepulver og vaniljesukker. Frodel røren i små papirformer ved hjelp av to teskjeer. Fyll formene 3/4 fulle. Strø over mandelflak. stek kakene ved 200-225 gr. i 10-12 minutter midt i ovnen. Avkjøl på rist.
+Pisk egg og sukker riktig porøst. Smelt sjokolade og smøret i vannbad og bland dette i eggblandingen. Rør til slutt i melet blandet med bakepulver og vaniljesukker. Fordel røren i små papirformer ved hjelp av to teskjeer. Fyll formene 3/4 fulle. Strø over mandelflak. Stek kakene ved 200-225 gr. i 10-12 minutter midt i ovnen. Avkjøl på sist.

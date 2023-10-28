@@ -1,11 +1,11 @@
 ---
-title: Langpannebunn
+title: Rullekakebunn
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-images: ["../../assets/recipe-images/web_wienerstenger.jpg"]
+images: ["../../assets/recipe-images/web_langpannebunn-rullekakebunn.jpg"]
 ---
 
-# Langpannebunn
+# Rullekakebunn
 
 ## Ingredienser
 
@@ -21,8 +21,8 @@ images: ["../../assets/recipe-images/web_wienerstenger.jpg"]
 
 2. Bland mel og bakepulver. Vend det inn i røren vekselvis med væsken.
 
-3. Bre røren ut i en bakepaprikledd langpanne, 30x40 cm.
+3. Bre røren ut i en bakepapirkledd langpanne, 30x40 cm.
 
-4. Stek bunnen midt i ovnen ved 250 gr, ca. 5 minutter. I varmluftsovn ved 225 gr, c. 8 minutter.
+4. Stek bunnen midt i ovnen ved 250 gr, ca. 5 minutter. I varmluftsovn ved 225 gr. i ca. 8 minutter.
 
 5. Ha bunnen over på en rist som er kledd med et oppvridd håndkle drysset med sukker.

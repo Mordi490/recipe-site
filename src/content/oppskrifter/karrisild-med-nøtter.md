@@ -15,7 +15,7 @@ images:
 - 2 kryddersildfileter
 - 1 eple
 - 75 g hasselnøtter
-- 2 dl creme fraiche
+- 2 dl cremè fraîche
 - 1/2 dl lettrømme eller kefir
 - 2 ts karri
 - sukker og sitronsaft

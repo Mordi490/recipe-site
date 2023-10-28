@@ -14,7 +14,7 @@ images:
 ## Ingredienser
 
 - 300 g strimlet svinekjøtt
-- 2 ss vegtabilsk olje
+- 2 ss vegetabilsk olje
 - 1 rød paprika
 - 1/2 kinakål
 - 100 g bønnespirer
@@ -26,7 +26,7 @@ images:
 
 1. Rens og grovhakk paprika og kinakål (tenk at de skal kunne spises med spisepinner)
 
-2. Tilbred nudlene som anvist på pakken
+2. Tilbered nudelene som anvist på pakken
 
 3. Varm opp oljen i wokpannen og stek kjøttet på høy varme
 

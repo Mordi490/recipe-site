@@ -26,6 +26,6 @@ images: ["../../assets/recipe-images/web_ostekake-med-epler-og-kanel.jpg"]
 
 ## Instruksjoner
 
-Bland sammen hvetemel, sukker, romtemperert smør og rom til en glat deig. Legg deigen kaldt i kjøleskapet et par timer. Kle en form med bakepapri i bunnen og klem deigen ut og litt oppover sidene. Stek bunnen i ovene på miderste rille ved 220 gr. i ca. 10 min. Avkjøl i formen
+Bland sammen hvetemel, sukker, romtemperert smør og rom til en glatt deig. Legg deigen kaldt i kjøleskapet et par timer. Kle en form med bakepapir i bunnen og klem deigen ut og litt oppover sidene. Stek bunnen i ovnene på miderste rille ved 220 gr. i ca. 10 min. Avkjøl i formen
 
-Skrell og skjær eplene i tynne båter og strø på kanel. Del vaniljestangen i to, skrap ut frøene og hell over rom (rom og vaniljestank kan droppes). La blandingen stå kjølig et par timer. Rør sammen ost, egg og gløte til en glatt røre. Sil av marinaden og bland den i røren. Hell marinaden over bunnen og legg på eplesikvene, ønsker du mer kanel, strø på litt ekstra. Stekes i ovnen på miderste rille ved 175 gr. i ca. 1 1/2 t. Server kaken lunken eller kald sammen med frisk frukt eller sorbe, eller bare som den er.
+Skrell og skjær eplene i tynne båter og strø på kanel. Del vaniljestangen i to, skrap ut frøene og hell over rom (rom og vaniljestang kan droppes). La blandingen stå kjølig et par timer. Rør sammen ost, egg og fløte til en glatt røre. Sil av marinaden og bland den i røren. Hell marinaden over bunnen og legg på epleskivene, ønsker du mer kanel, strø på litt ekstra. Stekes i ovnen på miderste rille ved 175 gr. i ca. 1 1/2 t. Server kaken lunken eller kald sammen med frisk frukt eller sorbe, eller bare som den er.

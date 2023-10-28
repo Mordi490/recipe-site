@@ -20,4 +20,4 @@ images:
 
 ## Instruksjoner
 
-Smelt nougaten forsiktig i vannbad. Vend inn hakkede nøtter og sjokolade. Fordel massen i en form på ca. 15x15 cm foret med aluminiumsfolie, og sett den i kjøleskapet i minimum 3 t. Rett før servering skjæres nougaten i biter og legges på fat.
+Smelt nougaten forsiktig i vannbad. Vend inn hakkede nøtter og sjokolade. Fordel massen i en form på ca. 15x15 cm fôret med aluminiumsfolie, og sett den i kjøleskapet i minimum 3 timer. Rett før servering skjæres nougaten i biter og legges på fat.

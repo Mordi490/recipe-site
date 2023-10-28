@@ -7,7 +7,7 @@ images: ["../../assets/recipe-images/web_løvens-charlotte.jpg"]
 
 # Løvens charlotte
 
-Denne kaken skal dekoreres til stjernetenget løven
+Denne kaken skal dekoreres til stjernetegnet løven
 
 ## Ingredienser
 
@@ -45,4 +45,4 @@ Denne kaken skal dekoreres til stjernetenget løven
 
 Stekes ved 175 gr. i ca. 15 minutter. Liten langpanne, 25x35 eller rund kakeform, 26 cm i diameter
 
-Visp eggedosis av egg og sukker. Sikt mel og bakepulver og vend det forsiktig inn. Legg bakepapir i en smurt liten langpanne og hell i røren. Stek kaken. Hvelv kaken på sukkerstrødd matpapir og la formen ligge over til kaken er kald. Smelt sjokoladen i vannbad. Rør smør og melis til en luftig smørkrem. Rør i eggeplommer og sjokoladen. Bre sjokoladekremen ut over kaken og rull den sammen fra langsiden. Bløt gelatinen i kladt vann i ca. 5 minutter. Visp fløten med sukkeret. Stivpisk eggehviten. Finhakk jordbærene og rør dem med sukkeret. Bland jordbør og yoghurt. Klem vannet av gelatinen og smelt den i 1/2 dl kokende vann, avkjøl litt før det røres i yoghurtblandingen. Vend forsiktig inn kremen og stivpisket eggehvite. Sett ringen til kakefromen på et kakefat. Skjær ruladen i skiver og kle fromen innvendig med skivene. Hell i halvstivnet fromasj og la kaken stå i kjøleskapet til den er helt stiv. Fjern ringen og legg på Løven utskåret i marsipan rett før servering.
+Visp eggedosis av egg og sukker. Sikt mel og bakepulver og vend det forsiktig inn. Legg bakepapir i en smurt liten langpanne og hell i røren. Stek kaken. Hvelv kaken på sukkerstrødd matpapir og la formen ligge over til kaken er kald. Smelt sjokoladen i vannbad. Rør smør og melis til en luftig smørkrem. Rør i eggeplommer og sjokoladen. Bre sjokoladekremen ut over kaken og rull den sammen fra langsiden. Bløt gelatinen i kaldt vann i ca. 5 minutter. Visp fløten med sukkeret. Stivpisk eggehviten. Finhakk jordbærene og rør dem med sukkeret. Bland jordbør og yoghurt. Klem vannet av gelatinen og smelt den i 1/2 dl kokende vann, avkjøl litt før det røres i yoghurtblandingen. Vend forsiktig inn kremen og stivpisket eggehvite. Sett ringen til kakeformen på et kakefat. Skjær ruladen i skiver og kle formen innvendig med skivene. Hell i halvstivnet fromasj og la kaken stå i kjøleskapet til den er helt stiv. Fjern ringen og legg på Løven utskåret i marsipan rett før servering.

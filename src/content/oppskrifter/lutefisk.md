@@ -30,7 +30,7 @@ Sett stekeovnen på 200 gr.
 
 Legg fisken i en ovnspanne eller ildfast fat med skinnsiden ned.
 
-Dryss salt over lutefisken. Dekk med lokk eller aluminiumsfolie. Settes i ovn ca. 40 minutter ved 200 grader. Skjær baconet i terninger og stek det på svak varme så fettet får smalte og baconet blir sprøtt. La ertene ligge i vann natten over. Kok dem møre i nytt vann så mye at det dekker ertene. LAg jevning av melk og hvetemel. Rør inn jevning av melk og hvetemel. Rør inn jevningen og la stuingen koke 5-6 minutter. Smakt til med salt.
+Dryss salt over lutefisken. Dekk med lokk eller aluminiumsfolie. Settes i ovn ca. 40 minutter ved 200 grader. Skjær baconet i terninger og stek det på svak varme så fettet får smalte og baconet blir sprøtt. La ertene ligge i vann natten over. Kok dem møre i nytt vann så mye at det dekker ertene. Lag jevning av melk og hvetemel. Rør inn jevning av melk og hvetemel. Rør inn jevningen og la stuingen koke 5-6 minutter. Smakt til med salt.
 
 ### Ertestuingen
 
@@ -40,10 +40,10 @@ Lag jevning av melk og hvetemel. Rør inn jevningen og la stuingen koke 5-6 minu
 
 ### Servering av lutefisk
 
-Server lutefisken rykende avarm på varm tallerkener med grønn ertestuing, nykokte poteter og baconfett med sprøstekte baconterninger. Grovt salt, pepperkvern og sennep på bordet.
+Server lutefisken rykende varm på varm tallerkener med grønn ertestuing, nykokte poteter og baconfett med sprøstekte baconterninger. Grovt salt, pepperkvern og sennep på bordet.
 
 ### Alternativ tilbehør
 
 Baconterninger/-fett kan erstattes med ribbefett, smeltet smør, eggesmør, kaldt smør eller hvit saus.
 
-Noen vil ha lefste, flatbrød, sennep/sennepspulver, brunost og/eller sirupen til lutefisken.
+Noen vil ha lefse, flatbrød, sennep/sennepspulver, brunost og/eller sirup til lutefisken.

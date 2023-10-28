@@ -1,11 +1,11 @@
 ---
-title: Konfekt med karamellkrem
+title: Konfekt med karamellkrem 2
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
 images: ["../../assets/recipe-images/web_konfektkake-med-karamellkrem-2.jpg"]
 ---
 
-# Konfekt med karamellkrem
+# Konfekt med karamellkrem 2
 
 ## Ingredienser
 
@@ -27,8 +27,8 @@ images: ["../../assets/recipe-images/web_konfektkake-med-karamellkrem-2.jpg"]
 
 ## Instruksjon
 
-Stekes vd 180 gr. i ca. 25 minutter i springfrom ca. 24 cm i diameter på nederste rille.
+Stekes ved 180 gr. i ca. 25 minutter i springfrom ca. 24 cm i diameter på nederste rille.
 
 **Konfektkake:** Smelt smør og sjokolade i en kjele ved svak varme. Røres sammen når sjokoladen er blitt myk. Pisk egg og melis til stiv eggedosis. Vend forsiktig inn siktet hvetemel og vaniljesukker og rør inn smeltet sjokolade og smør. Helles i en godt smurt form og stekes som angitt. Kaken vil være litt rå i midten, noe den skal være! Om du vil ha den fastere, stekes den bare noen minutter ekstra. Avkjøl kaken i formen på rist.
 
-**Karamellkrem:** Ha ingrediensene i en kjele. Kok opp under omrøring til det tykner, ca. 15-20 minutter. Avkjøles til den er romtemperert. Hell kremen over konfektkaken og pynt med halve [punsjboller](./Elins-punsjboller), vaniljetopper eller twist biter.
+**Karamellkrem:** Ha ingrediensene i en kjele. Kok opp under omrøring til det tykner, ca. 15-20 minutter. Avkjøles til den er romtemperert. Hell kremen over konfektkaken og pynt med halve [punsjboller](./elins-punsjboller), vaniljetopper eller twist biter.

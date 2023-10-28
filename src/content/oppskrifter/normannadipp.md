@@ -18,4 +18,4 @@ images:
 
 ## Instruksjoner
 
-Kjør yoghurt og ost i foodprocessor. Smak til med sukker.
+Kjør yoghurt og ost i food prosessor. Smak til med sukker.

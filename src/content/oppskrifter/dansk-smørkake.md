@@ -33,7 +33,7 @@ images: ["../../assets/recipe-images/web_dansk-smørbake.jpg"]
 
 Stekes ved 190 gr. på midterste rille i ca. 40 minutter. Bruk rund kakeform, ca. 24 cm i diameter.
 
-Lag en porsjon klippekrans. Kjevle deigen til et rektangel, 20x60 cm. Rør sammen alle ingrediensen til fyllet og smør det over deigen. Rull deigen sammen og skjær den i ca. 3 cm tykke skiver. Legg skivene sammen i en godt smurt form. Dekk kaken med et klede og la den heve på et lunt sted i ca. 2 timer. Mens kaken hever lager du eggekrem. Rør sammen alle ingrediensene i en kjele og varm kremen til kokepunktet under stadig omrøring. Avkjøl kremen i kaldt vann. Når kaken er godt hevet settes den i varm stekeovn og stekes i ca. 15 minutter, før eggekrem bres over kaken og den stekes videre til den er gyllen og gjennomstekt. Avkjøl kaken i formen på rist. Like før servering glasseres kaken med melis utrørt i litt vann.
+Lag en porsjon klippekrans. Kjevle deigen til et rektangel, 20x60 cm. Rør sammen alle ingrediensene til fyllet og smør det over deigen. Rull deigen sammen og skjær den i ca. 3 cm tykke skiver. Legg skivene sammen i en godt smurt form. Dekk kaken med et klede og la den heve på et lunt sted i ca. 2 timer. Mens kaken hever lager du eggekrem. Rør sammen alle ingrediensene i en kjele og varm kremen til kokepunktet under stadig omrøring. Avkjøl kremen i kaldt vann. Når kaken er godt hevet settes den i varm stekeovn og stekes i ca. 15 minutter, før eggekrem bres over kaken og den stekes videre til den er gyllen og gjennomstekt. Avkjøl kaken i formen på rist. Like før servering glasseres kaken med melis utrørt i litt vann.
 
 ## Forslag til fyll
 

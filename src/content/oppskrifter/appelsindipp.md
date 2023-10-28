@@ -15,8 +15,8 @@ images:
 - 1 1/2 dl cottage cheese
 - ca. 2 dl fruktyoghurt, f.eks. melon e.l.
 - 1/2 appelsin
-- 1 sssukker
+- 1 sukker
 
 ## Instruksjoner
 
-Kjør cottage cheese, yoghurt og appelsin i food processor. Smak til med sukker.
+Kjør cottage cheese, yoghurt og appelsin i food prosessor. Smak til med sukker.

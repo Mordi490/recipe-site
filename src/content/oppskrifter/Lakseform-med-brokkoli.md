@@ -11,7 +11,7 @@ images: ["../../assets/recipe-images/web_lakseform-med-brokkoli.jpg"]
 
 - 1 pk brokkolitopper
 - 4-500 g laksefilet
-- 1 ss flytene bremykt
+- 1 ss flytende bremykt
 - salt & pepper
 
 ### Ostesaus
@@ -30,4 +30,4 @@ images: ["../../assets/recipe-images/web_lakseform-med-brokkoli.jpg"]
 - Dryss revet ost over det hele
 - Sett formen i varm ovn, stek ca. 12-15 min.
 
-Servers med byggris.
+Server med byggris.

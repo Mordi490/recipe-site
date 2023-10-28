@@ -20,13 +20,13 @@ images: ["../../assets/recipe-images/web_valmueflette.jpg"]
 ### Pensling
 
 - lunken melk
-- 2 ts mørke eller luse valmuefrø
+- 2 ts mørke eller lyse valmuefrø
 
 ## Instruksjon
 
 1. Ha melet i en bolle. Lag en fordypning i midten.
 
-2. Smuldre gjæren i hullet, dryss på sukker og hell i vann. Rør rundt i fordypningen. Ta med endel av melet fra kanten. Bland alt til en jevn "fordegi" i fordypningen.
+2. Smuldre gjæren i hullet, dryss på sukker og hell i vann. Rør rundt i fordypningen. Ta med endel av melet fra kanten. Bland alt til en jevn "fordeig" i fordypningen.
 
 3. Dekk bollen og hev deigen i 20-30 minutter.
 
@@ -40,7 +40,7 @@ images: ["../../assets/recipe-images/web_valmueflette.jpg"]
 
 8. Pensle fletten med melk. Dryss over valmuefrø.
 
-9. Stek fletten midt i ovnen ved 200 gr, 30-40 minutter. I varmluftsovn ved 17 gr, ca. 45 minutter.
+9. Stek fletten midt i ovnen ved 200 gr. 30-40 minutter. I varmluftsovn ved 17 gr. ca. 45 minutter.
 
 10. Avkjøl valmuefletten på rist.
 

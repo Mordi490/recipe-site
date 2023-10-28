@@ -19,4 +19,4 @@ images: ["../../assets/recipe-images/web_krumkaker.jpg"]
 
 ## Instruksjon
 
-Smør og sukker røres hvitt, tilsett de piskede egg vekselvis med det siktet mell og bakepulver, tilsett kardemomme. Deigen settes med skje i smurt krumkakejern og kakene stkes lysebrune, rulles straks sammen.
+Smør og sukker røres hvitt, tilsett de piskede egg vekselvis med det siktet mel og bakepulver, tilsett kardemomme. Deigen settes med skje i smurt krumkakejern og kakene stekes lysebrune, rulles straks sammen.

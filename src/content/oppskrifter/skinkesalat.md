@@ -12,12 +12,12 @@ images: ["../../assets/recipe-images/web_skinkesalat.jpg"]
 - 1 boks bogskinke
 - litt sjampinjong
 - litt kinakål
-- litt erevet goudaost
+- litt revet goudaost
 - kokt ris til 3 porsjoner
 - 5-6 kokte egg i båter
 - litt agurk i terninger
 - litt tomat i båter
-- litt paprika i stirmler
+- litt paprika i strimler
 - litt hakket purreløk
 
 Rømmedresing med litt sukker.

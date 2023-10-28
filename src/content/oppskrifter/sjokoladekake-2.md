@@ -16,9 +16,9 @@ images: ["../../assets/recipe-images/web_sjokoladekake-2.jpg"]
 - 2 egg
 - 275 g mel
 - 1 ts bakepulver
-- 50 g hakked mandler
+- 50 g hakkede mandler
 - 1 plate kokesjokolade, hakket
 
 Tilsett det øvrige.
 
-Stekes ved 200 gr i ca. 10 minutter
+Stekes ved 200 gr. i ca. 10 minutter

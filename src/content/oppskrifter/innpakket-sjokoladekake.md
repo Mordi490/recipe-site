@@ -34,7 +34,7 @@ images: ["../../assets/recipe-images/web_innpakket-sjokoladekake.jpg"]
 
 - 1 pk. sjokoladeblonder
 - hvit silkebånd
-- geletopper
+- gelètopper
 
 Pisk egg og sukker til eggedosis. Tilsett det tørre vekselvis med melk og smeltet smør. Hell røren over i en smurt langpanneform. Stekes på nederste rille ved 180 gr i 35-45 minutter, eller til den er gjennomstekt. Avkjøles.
 
@@ -44,4 +44,4 @@ Stans ut runde, små kaker.
 
 Del de små kakene i to eller tre lag og fyll med sjokoladekremen
 
-**Sjokoladepasta:** Smelt sjokolade til pasta i vannbad. Tilsett sirup og rør kraftig til blandingen er jevn og slipper langs kanten av bollen. Ha massen i en plastpose og legg den til avkjøling i kjøleskapet i ca. 30 minutter. Sjekk gjerne konsistensen ofte, så den ikke blir for kald, for da vil den bare smuldre. Ta ut sjokoladepastaen og kan den forsiktig jevn i posens til den blir glatt og fin. Den er når klar til å formes etter ønske. Kjevle sjokoladepastaen i tynne leiver. Bruk plastfolie så pastaen ikke setter seg fast i underlaget. Litt melis eller hvetemel kan brukes. Dander pastaen som på bildet og pynt med silkebånd og geletopp. Server gjerne litt rips og rød saus ved siden av.
+**Sjokoladepasta:** Smelt sjokolade til pasta i vannbad. Tilsett sirup og rør kraftig til blandingen er jevn og slipper langs kanten av bollen. Ha massen i en plastpose og legg den til avkjøling i kjøleskapet i ca. 30 minutter. Sjekk gjerne konsistensen ofte, så den ikke blir for kald, for da vil den bare smuldre. Ta ut sjokoladepastaen og kna den forsiktig jevn i posens til den blir glatt og fin. Den er nå klar til å formes etter ønske. Kjevle sjokoladepastaen i tynne leiver. Bruk plastfolie så pastaen ikke setter seg fast i underlaget. Litt melis eller hvetemel kan brukes. Dander pastaen som på bildet og pynt med silkebånd og gelètopp. Server gjerne litt rips og rød saus ved siden av.

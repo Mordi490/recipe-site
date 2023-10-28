@@ -11,7 +11,7 @@ images:
 
 # Prinsessekake 5
 
-Denne kaken skal dekoreres til stjernetenget jomfruen
+Denne kaken skal dekoreres til stjernetegnet jomfruen
 
 ## Ingredienser
 

@@ -11,7 +11,7 @@ images: ["../../assets/recipe-images/web_marits-beste-brød.jpg"]
 
 - 1,5 dl linfrø
 - 1,5 dl hvetekli
-- 1,5 dl 4 korn
+- 1,5 dl 4-korn
 - 1 dl solsikkefrø
 - 1 l vann
 - 1/2 l skummet sur melk

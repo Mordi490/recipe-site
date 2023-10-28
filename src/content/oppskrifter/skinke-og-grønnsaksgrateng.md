@@ -31,7 +31,7 @@ images:
 
 2. Skyll brokkolien. Fjern blader og noe av stilken, og del i små buketter. Rens hakk sopp og purre. Skjær evt bort synlig fett fra skinken. Del den i terninger.
 
-3. Varm oljen i en stekepanne. Ha i grønnsaker og skinke. Rørefres blandingen i ca. 5 min. La retten småpute vider på svak varme under lokk i ca. 10 min. Forvarm stekeovnen til 225 gr.
+3. Varm oljen i en stekepanne. Ha i grønnsaker og skinke. Rørefres blandingen i ca. 5 min. La retten småputre videre på svak varme under lokk i ca. 10 min. Forvarm stekeovnen til 225 gr.
 
 4. Visp egg og melk lett sammen. Rør inn salt, pepper og muskatnøtt. Ha grønnsakene i en ildfast form. Hell eggeblandingen over.
 
@@ -43,6 +43,6 @@ Gratengen passer utmerket til stekt kjøtt. Sløyf da skinken. Servert med salat
 
 ### Tips og råd: Tilberedeningen av fennikelen
 
-Skyll fennikelen, og skjær bort evt små røtter og stygge balader. Fjern også evt. tørre deler. Nå ser du de ulike lagene fennikelen er bygget opp av.
+Skyll fennikelen, og skjær bort evt små røtter og stygge blader. Fjern også evt. tørre deler. Nå ser du de ulike lagene fennikelen er bygget opp av.
 
 Del fennikelen i to, og skjær bort en kile av det harde rotfestet - men ikke mer enn at de ulike lagene fortsatt henger sammen.

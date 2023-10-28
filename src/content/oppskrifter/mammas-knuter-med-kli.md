@@ -25,4 +25,4 @@ images:
 
 ## Instruksjoner
 
-Løs gjæren opp i lunkent vann. Smelt smøret og lunk melken i det. Bland sammen med gjæren, saltet, sukkeret og halvpiskede egg. Rør inn kli og ha i så mye mel at du får en ikke for fast deig. La den heve godt opp. Ta deigen på bake bordet og del opp i like store emner, ca. 40 stk. Trill hvert emen til en avlang pølse og knyt "knuter", enkle eller dobbelte. La dem få en god etterhev. Pensle med egg og dryss gjerne med valmuefrø. Stek ved 225 gr. i ca. 6 minutter.
+Løs gjæren opp i lunkent vann. Smelt smøret og lunk melken i det. Bland sammen med gjæren, saltet, sukkeret og halvpiskede egg. Rør inn kli og ha i så mye mel at du får en ikke for fast deig. La den heve godt opp. Ta deigen på bake bordet og del opp i like store emner, ca. 40 stk. Trill hvert emne til en avlang pølse og knyt "knuter", enkle eller dobbelte. La dem få en god etterhev. Pensle med egg og dryss gjerne med valmuefrø. Stek ved 225 gr. i ca. 6 minutter.

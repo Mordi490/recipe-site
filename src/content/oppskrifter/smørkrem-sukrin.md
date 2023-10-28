@@ -13,4 +13,4 @@ images: ["../../assets/recipe-images/web_sukrin-glasur-preview.jpg"]
 - 2 ts vaniljesukker/vaniljepulver
 - 1-2 ss melk
 
-Bland ingrendiensene sammen til en jevn glatt røre
+Bland ingrediensene sammen til en jevn glatt røre

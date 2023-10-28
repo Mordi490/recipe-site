@@ -22,4 +22,4 @@ images: ["../../assets/recipe-images/web_krydderknekk-virginia-konfekt.jpg"]
 
 ## Instruksjoner
 
-Smelt kokosfett, sjokolade og kaffe i vannbad. Rør inn 2 egg. Rørr in oppskårede kandiserte frukter, nøtter, rosiner osv, så sjokoladen blir helt "mettet". Hell dette i en papirkledd lav form. Avkjøl. Skjær i terninger. Kan evt. pakkes inn i sølvpapir e.l.
+Smelt kokosfett, sjokolade og kaffe i vannbad. Rør inn 2 egg. Rør in oppskårede kandiserte frukter, nøtter, rosiner osv, så sjokoladen blir helt "mettet". Hell dette i en papirkledd lav form. Avkjøl. Skjær i terninger. Kan evt. pakkes inn i sølvpapir e.l.

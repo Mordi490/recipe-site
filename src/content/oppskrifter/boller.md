@@ -18,4 +18,4 @@ images: ["../../assets/recipe-images/web_boller.jpg"]
 
 ## Instruksjon
 
-Smuldre margarin og hvetemel i det andre melk og gjær
+Smuldre margarin og hvetemel i det andre melk og gjær.

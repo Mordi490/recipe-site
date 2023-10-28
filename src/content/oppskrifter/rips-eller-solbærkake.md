@@ -13,7 +13,7 @@ images: ["../../assets/recipe-images/web_rips-eller-solbærkake.jpg"]
 - 3 egg
 - 2 dl sukker
 - 2 1/2 dl hvetemel
-- 1 1/2-2 dl friske eller dypfryste rensee rips eller solbær.
+- 1 1/2-2 dl friske eller dypfryste rips eller solbær.
 
 ### Pynt
 
@@ -26,7 +26,7 @@ images: ["../../assets/recipe-images/web_rips-eller-solbærkake.jpg"]
 
 2. rør sammen egg, sukker, hvetemel og det smeltede smøret. Obs! Ikke visp.
 
-3. Ha røren i en godt smurt og strødd form, ca. 22 cm i diameter. Ha i bærene. Fryste bær behøver ikketines.
+3. Ha røren i en godt smurt og strødd form, ca. 22 cm i diameter. Ha i bærene. Fryste bær behøver ikke tines.
 
 4. Stek kaken på rist i nedre del av ovnen ved 200 gr, 25-30 minutter. I varmluftsovn ved 175 gr, ca. 30 minutter. La den avkjøles noe før den løsnes fra formen.
 

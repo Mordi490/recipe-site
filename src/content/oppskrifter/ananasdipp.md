@@ -19,4 +19,4 @@ images:
 
 ## Instruksjoner
 
-Kjør alt jevnt i food processor
+Kjør alt jevnt i food prosessor

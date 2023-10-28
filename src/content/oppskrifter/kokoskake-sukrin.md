@@ -1,11 +1,11 @@
 ---
-title: Kokoskake
+title: Kokoskake Sukrin
 tags: ["sukrin", "dessert", "kake", "eple"]
 ingredienser: ["sukrin", "egg", "rømme"]
 images: ["../../assets/recipe-images/web_kokoskake-sukrin.jpg"]
 ---
 
-# Kokoskake
+# Kokoskake Sukrin
 
 - 4 store egg
 - 1 pose sukrin kakemiks
@@ -14,8 +14,8 @@ images: ["../../assets/recipe-images/web_kokoskake-sukrin.jpg"]
 - 1,5 ts kanel
 - 50 g kokosmasse
 
-Bland ingrediensen, tilsett posens innhold og visp til en glatt, jevn røre. Stekes midt i ovnen på 175 gr. i ca. 30 minutter.
+Bland ingrediensene, tilsett posens innhold og visp til en glatt, jevn røre. Stekes midt i ovnen på 175 gr. i ca. 30 minutter.
 
 Glasurforslag: [smørkrem](./smørkrem-sukrin)
 
-pynt: 1 dl kokosmasse. Tips: bland inn ca. 8 dråper konditorfarge i kokosmassen fo et fargerikt innslag.
+**pynt:** 1 dl kokosmasse. Tips: bland inn ca. 8 dråper konditorfarge i kokosmassen for et fargerikt innslag.

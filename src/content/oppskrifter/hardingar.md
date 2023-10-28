@@ -26,4 +26,4 @@ images: ["../../assets/recipe-images/web_hardingar-sveler.jpg"]
 
 ## Instruksjoner
 
-Rør smøret hvitt. Pisk eggedosis av egg og sukker. Bland alt i en stor bakebolle og tilsett mel til en passe fast deig. Bruk minst mulig mel, men så pass at deigen henger sammen når den kjevles ut. Kjevle ut til lefser som stekes på takke eller i tørr stekepanne. Rør smør og sukker hvitt og bland i kanel til fyllet. Smør dette på lefsene. Legg dem sammen to og to og del i snipper når "gardingane" er avkjølt.
+Rør smøret hvitt. Pisk eggedosis av egg og sukker. Bland alt i en stor bakebolle og tilsett mel til en passe fast deig. Bruk minst mulig mel, men så pass at deigen henger sammen når den kjevles ut. Kjevle ut til lefser som stekes på takke eller i tørr stekepanne. Rør smør og sukker hvitt og bland i kanel til fyllet. Smør dette på lefsene. Legg dem sammen to og to og del i snipper når "hardingane" er avkjølt.

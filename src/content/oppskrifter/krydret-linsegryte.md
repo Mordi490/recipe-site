@@ -18,7 +18,7 @@ images: ["../../assets/recipe-images/web_krydret-linsegryte-med-grønnsaker.jpg"
 - 1 1/2 paprika, hakkes
 - 1 stk sellerirot, hakkes
 - 2 buljong terninger
-- 2 ss tomatpure
+- 2 ss tomatpurè
 - 1 cm fersk ingefær, revet
 - 1 ts chilipulver
 
@@ -28,6 +28,6 @@ images: ["../../assets/recipe-images/web_krydret-linsegryte-med-grønnsaker.jpg"
 - Varm oljen i en gryte
 - Tilsett løk og surr den blank
 - Tilsett grønnsakene og linsene og la alt surre ca. 1 minutt
-- Hell på vann og bland buljong, tomatpurre, ingefær og krydder
+- Hell på vann og bland buljong, tomatpurè, ingefær og krydder
 - småkok ca. 20 min
-- Serves med brød
+- Serveres med brød

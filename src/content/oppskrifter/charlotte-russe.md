@@ -24,4 +24,4 @@ images: ["../../assets/recipe-images/web_charlotte-russe-bløtkakelengde.jpg"]
 
 Lag rullekake som forklart under [rullekake](./rullekake-med-syltetøy).
 
-Legg gelatinplatene i bløt i kaldt vann i 1 minutter. Pisk eggeplommer og sukker godt sammen. Det er vankelig å piske så liten porsjon til sikkelig eggedosis. Bland sitronsaft og revet sitronskall i. Klem vannet ut av gelatinen. SMelt den i litt kokende vann. Pisk den oppløste gelatinen i "eggedosisen". Stivpisk kremen og bland den i. Eggehvitene stivpiskes og brettes forsiktig i til slutt.
+Legg gelatinplatene i bløt i kaldt vann i 10 minutter. Pisk eggeplommer og sukker godt sammen. Det er vankelig å piske så liten porsjon til sikkelig eggedosis. Bland sitronsaft og revet sitronskall i. Klem vannet ut av gelatinen. Smelt den i litt kokende vann. Pisk den oppløste gelatinen i "eggedosisen". Stivpisk kremen og bland den i. Eggehvitene stivpiskes og brettes forsiktig i til slutt.

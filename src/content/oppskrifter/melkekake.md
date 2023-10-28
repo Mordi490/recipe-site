@@ -1,11 +1,11 @@
 ---
-title: Melkekak
+title: Melkekake
 tags: ["dessert", "bakverk", "sukrin"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
 images: ["../../assets/recipe-images/web_melkkake.jpg"]
 ---
 
-# Melkekak
+# Melkekake
 
 - skummet melk
 - en kopp hvetemel

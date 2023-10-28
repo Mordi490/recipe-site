@@ -18,7 +18,7 @@ images: ["../../assets/recipe-images/web_gulrotkake-3.jpg"]
 - 1 ts natron
 - 1/2 ts salt
 - 1 ts kanel
-- 375 g finrasa gulrot
+- 375 g finraspet gulrot
 - 1 dl hakkede mandler, målt før de hakkes.
 
 ## Instruksjoner

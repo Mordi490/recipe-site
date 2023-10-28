@@ -19,7 +19,7 @@ images: ["../../assets/recipe-images/web_skuffkake-med-sjokolade.jpg"]
 
 ## Intruksjoner
 
-Pisk eggedosis av egg og sukker, smelt margarinen. Bland det tørre, melk og margarin vekselvis i eggedosisen. Hell røren i en smurt eller papirkledd langpanne. Stek kaken på nederste rille i ovnen ved 200 gr i 20-30 minutter.
+Pisk eggedosis av egg og sukker, smelt margarinen. Bland det tørre, melk og margarin vekselvis i eggedosisen. Hell røren i en smurt eller papirkledd langpanne. Stek kaken på nederste rille i ovnen ved 200 gr. i 20-30 minutter.
 
 ## Glasur
 
@@ -29,4 +29,4 @@ Pisk eggedosis av egg og sukker, smelt margarinen. Bland det tørre, melk og mar
 - 3 ts romessens
 - litt varm vann
 
-Bland ingrediensen til glasuren og glaser kaken mens den er lunken.
+Bland ingrediensene til glasuren og glaser kaken mens den er lunken.

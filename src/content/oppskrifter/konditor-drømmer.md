@@ -7,7 +7,7 @@ images: ["../../assets/recipe-images/web_konditor-drømmer.jpg"]
 
 # Konditor-drømmer
 
-Dette er en grunnopskrift som blir brukt i andre oppskrifter. Mørdeigen trykker du ut i sandkakefromer eller litt strre og flatere former.
+Dette er en grunnoppskrift som blir brukt i andre oppskrifter. Mørdeigen trykker du ut i sandkakefromer eller litt større og flatere former.
 
 ## Ingredienser
 
@@ -52,4 +52,4 @@ Dette er en grunnopskrift som blir brukt i andre oppskrifter. Mørdeigen trykker
 
 ### kakebunn
 
-Hakk mel og smør til en kornet masse og ha salt og sukker i. Rør deigen sammen med kefir, elt den lett og hurtig igjennom og legg den kaldt i minst en time. Smør og strø sandkakeformer eller linseformer og dryss dem med mel. Trykk deigen ut i formene. Sett formene på en stekeovnsplate og stek dem ved 200 gr. i ca. 10 minutter. Ta kakene ut av formen og la em avkjøles på kakerist.
+Hakk mel og smør til en kornet masse og ha salt og sukker i. Rør deigen sammen med kefir, elt den lett og hurtig igjennom og legg den kaldt i minst en time. Smør og strø sandkakeformer eller linseformer og dryss dem med mel. Trykk deigen ut i formene. Sett formene på en stekeovnsplate og stek dem ved 200 gr. i ca. 10 minutter. Ta kakene ut av formen og la dem avkjøles på kakerist.

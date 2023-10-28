@@ -1,11 +1,11 @@
 ---
-title: Minikaker med kremfyll
+title: Punsjboller
 tags: ["dessert", "småkake"]
 ingredienser: ["havregryn", "egg", "smør"]
-images: ["../../assets/recipe-images/web_wienerstenger.jpg"]
+images: ["../../assets/recipe-images/web_punsjboller.jpg"]
 ---
 
-# Minikaker med kremfyll
+# Punsjboller
 
 ## Ingredienser
 

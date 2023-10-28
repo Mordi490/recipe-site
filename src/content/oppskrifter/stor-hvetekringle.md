@@ -41,7 +41,7 @@ images: ["../../assets/recipe-images/web_stor-hvetekringle.jpg"]
 
 3. Hell deigvæsken over gjæren, og rør til den er oppløst. Tilsett sukker, salt, kardemomme og eggeplomme.
 
-4. Bland inn det meste av melet. Arveid deigen smidig med masking eller for hånd.
+4. Bland inn det meste av melet. Arbeid deigen smidig med maskin eller for hånd.
 
 5. La deigen heve tildekket, ca. 30 minutter.
 
@@ -53,7 +53,7 @@ images: ["../../assets/recipe-images/web_stor-hvetekringle.jpg"]
 
 9. Rull sammen fra langsiden som en rullekake.
 
-10. Flytt rullen forsiktig over på en smurt eller bakepaprikledd stekeplate. Form den til en kringle. Dekk til og etterhev i 30 minutter.
+10. Flytt rullen forsiktig over på en smurt eller bakepapirkledd stekeplate. Form den til en kringle. Dekk til og etterhev i 30 minutter.
 
 11. Pensle med sammenpisket egg. Dryss mandelspon og perlesukker over.
 
@@ -61,4 +61,4 @@ images: ["../../assets/recipe-images/web_stor-hvetekringle.jpg"]
 
 13. Avkjøl kringelen tildekket.
 
-14. Oppbevar i boks ellr frys den. Holdbarhey er ca. 6 måneder.
+14. Oppbevar i boks eller frys den. Holdbarhet er ca. 6 måneder.

@@ -41,4 +41,4 @@ images:
 
 4. Smørbrød med mozzarella: bre et tynt lag smør på hver loffskive. Del mozzarellaen i skiver.
 
-5. Legg en skive med skine på en loffskive. Legg litt mozzarella og 2 soltørkede tomater oppå skinken. Smør 1 ts pesto over. Strø litt basilikum på toppen. Legg en loffskive oppå, og trykk lett sammen. Grill smørbrødet i grillen til det er gyllent, 1-2 minutter. Gjør d et sammen med de andre smørbrødene. Skjær dem diagonalt i treknater. Server smørbrødene straks.
+5. Legg en skive med skine på en loffskive. Legg litt mozzarella og 2 soltørkede tomater oppå skinken. Smør 1 ts pesto over. Strø litt basilikum på toppen. Legg en loffskive oppå, og trykk lett sammen. Grill smørbrødet i grillen til det er gyllent, 1-2 minutter. Gjør det samme med de andre smørbrødene. Skjær dem diagonalt i treknater. Server smørbrødene straks.

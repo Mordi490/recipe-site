@@ -33,4 +33,4 @@ images: ["../../assets/recipe-images/web_sjokolademuffins-dronningens-drøm.jpg"
 
 ## Instruksjoner
 
-Bland sammen mel, kakaopulver, bakepulver, salt og vaniljesukker i en bolle. Rør inn sukker og hakket sjokolade. Visp sammen egg og avkjølt smør og tilset melk. Tilsett det våte i melbladningen. Fyll formen 3/4 fulle. Stekes på nederste rill ved 200 gr. i 15-20 min. Pynt med melis og Opera Mints på toppen.
+Bland sammen mel, kakaopulver, bakepulver, salt og vaniljesukker i en bolle. Rør inn sukker og hakket sjokolade. Visp sammen egg og avkjølt smør og tilsett melk. Tilsett det våte i melbladningen. Fyll formen 3/4 fulle. Stekes på nederste rille ved 200 gr. i 15-20 min. Pynt med melis og Opera Mints på toppen.

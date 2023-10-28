@@ -29,6 +29,5 @@ Skåld mandlene og mal dem i mandelkvern. Bland med hvetemel. Pisk mykt smør og
 Del deigen opp i 40 like store biter. Smør sandkakeformer eller spray dem med formfett. Trykk deigen jevnt ut i formene.
 
 Stek kakene på stekeplate midt i ovnen ved 180°C i 10-12 min. Snu formene opp ned straks kakene tas ut av formene. Avkjøl litt. Løsne så kakene fra formene ved å klemme lett med fingrene til kakene detter ut. Avkjøles på rist til de er helt kalde.
-Tips
 
 "Sandkaker" oppbevares i tettsluttet kakeboks.

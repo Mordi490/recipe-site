@@ -15,7 +15,7 @@ images: ["../../assets/recipe-images/web_ovnsbakte-pærer.jpg"]
 
 - 75 g tørkede fiken
 - 90 g (1 1/2 dl) hasselnøtter
-- 20 g (1/2 dl) solsikkekjerne
+- 20 g (1/2 dl) solsikkekjerner
 - 2-3 ss smeltet margarin
 - sitronmelisse
 
@@ -23,4 +23,4 @@ images: ["../../assets/recipe-images/web_ovnsbakte-pærer.jpg"]
 
 Bakes ved 200 gr på nederste rille i ca. 30 minutter.
 
-Skjær lokket av pærene og hul dem litt ut, ta ut kjernene. Finhakk fiken, nøtter, solsikkekjerner og bland det med margarin. Fyll blandingen i pærene og legg på pærelokk med stilk. Pensle pærene med litt smeltet margarin og sett dem i varm ovn til pærene er gjennomstekt. Serveres varme pyntet med lit sitronmelisse. Vaniljesaus er godt tilbehør.
+Skjær lokket av pærene og hul dem litt ut, ta ut kjernene. Finhakk fiken, nøtter, solsikkekjerner og bland det med margarin. Fyll blandingen i pærene og legg på pærelokk med stilk. Pensle pærene med litt smeltet margarin og sett dem i varm ovn til pærene er gjennomstekt. Serveres varme pyntet med litt sitronmelisse. Vaniljesaus er godt tilbehør.

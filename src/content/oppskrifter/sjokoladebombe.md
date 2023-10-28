@@ -18,7 +18,7 @@ images: ["../../assets/recipe-images/web_sjokoladebombe.jpg"]
 
 ### Krem 1
 
-- 8 dl creme fraiche
+- 8 dl cremè fraîche
 - 25 g melis
 - 1/2 kg bringebær
 - 1/2 dl Baileys-likør
@@ -46,10 +46,10 @@ images: ["../../assets/recipe-images/web_sjokoladebombe.jpg"]
 
 ## Instruksjon
 
-Pisk eggedosis av egg og sukker. Siktet potemel hakkede valnøttkjernerløftes forsiktig inn i røren. Hell halvparten av kakerøren over i en langpanne kledd med bakepapir og stek kaken ved 200 gr. på midterste rille, 8-10 minutter. Den andre halvdelen stekes på samme måtte etter at den første er stekt. Legg bunnen i plat.
+Pisk eggedosis av egg og sukker. Siktet potemel hakkede valnøttkjerner løftes forsiktig inn i røren. Hell halvparten av kakerøren over i en langpanne kledd med bakepapir og stek kaken ved 200 gr. på midterste rille, 8-10 minutter. Den andre halvdelen stekes på samme måtte etter at den første er stekt. Legg bunnene i plast.
 
-**Krem 1:** Stivpisk creme fraihce og emlis. Rør inn bringebær og likør. Tilsett grovhakket nougatt og marengs. Hell i oppløst gelatin under omrøring. La kremen stå kaldt ca. 1/2 time.
+**Krem 1:** Stivpisk cremè fraîche og melis. Rør inn bringebær og likør. Tilsett grovhakket nougatt og marengs. Hell i oppløst gelatin under omrøring. La kremen stå kaldt ca. 1/2 time.
 
 **Krem 2:** Stivpisk fløte og melis. Smelt kokesjokolade i litt kaffe, avkjøl noe og rør det inn i kremen. Grovhakk nøttene og resten av sjokoladen og hell det over i kremen sammen med konjakk. Tilsett oppløst gelatin i en tynn stråle under omrøring. Sett kremen kaldt ca. 1/2 time.
 
-Form kaken som en kuppel. Det gjøres ved å dekke en stor, vid og rund bolle med plastfolie innvendig. Dekk den så innvendig med kakebunnene. Fyll først med krem 1 og deretter med krem 2. Legg det som er igjen av kakebunen på toppen av bollen. Kaken bør stå i minst 4 timer før den hvelves. Lag sjokoladeglasur av smeltet sjokolade, smør og fløte. Dekk kaken med sjokoladeglasuren og pynt med friske jordbær og annen konfekt.
+Form kaken som en kuppel. Det gjøres ved å dekke en stor, vid og rund bolle med plastfolie innvendig. Dekk den så innvendig med kakebunnene. Fyll først med krem 1 og deretter med krem 2. Legg det som er igjen av kakebunnen på toppen av bollen. Kaken bør stå i minst 4 timer før den hvelves. Lag sjokoladeglasur av smeltet sjokolade, smør og fløte. Dekk kaken med sjokoladeglasuren og pynt med friske jordbær og annen konfekt.

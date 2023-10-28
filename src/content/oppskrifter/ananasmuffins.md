@@ -19,4 +19,4 @@ images: ["../../assets/recipe-images/web_ananasmuffins.jpg"]
 
 ## Instruksjon
 
-Sett ovnen på 200 gr. Ha sukkeret i en skål. Hell over det smeltede smøret. Rør eller pisk smør og sukker noen minutter. Tilsett eggene, ett og gangen, og pisk kraftig mellom hvert egg. Tilsett hvetemel blandet med bakepulver og fløte. Rør til atl er godt blandet. Legg papirformene på en bakeplate. Fyll dem ca. 1/3 fulle. Legg anans i hver form. Stek muffinsene ca. 15 minutter til de er gylne på farve. Avkjøl på rist.
+Sett ovnen på 200 gr. Ha sukkeret i en skål. Hell over det smeltede smøret. Rør eller pisk smør og sukker noen minutter. Tilsett eggene, ett og gangen, og pisk kraftig mellom hvert egg. Tilsett hvetemel blandet med bakepulver og fløte. Rør til alt er godt blandet. Legg papirformene på en bakeplate. Fyll dem ca. 1/3 fulle. Legg ananas i hver form. Stek muffinsene ca. 15 minutter til de er gylne på farve. Avkjøl på rist.

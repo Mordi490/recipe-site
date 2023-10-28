@@ -25,4 +25,4 @@ images:
 
 ## Instruksjon
 
-Sikt sammen mel, kakaopulver, bakepulver, salt og vaniljesukker i en bolle. Rør i sukker og grovhakket sjokolade, samt chili og evt. hakkede nøtter. Visp sammen egg og avkjølt smeltet smør og tilsett melk. Rør denne blandingen i det tørre. Fyll muffinsformene 3/4 fulle. Stek i ovn ved 200 gr. på nederste rille, 15-20 minutter. Pynt gjerne med lit vispet krem og bær.
+Sikt sammen mel, kakaopulver, bakepulver, salt og vaniljesukker i en bolle. Rør i sukker og grovhakket sjokolade, samt chili og evt. hakkede nøtter. Visp sammen egg og avkjølt smeltet smør og tilsett melk. Rør denne blandingen i det tørre. Fyll muffinsformene 3/4 fulle. Stek i ovn ved 200 gr. på nederste rille, 15-20 minutter. Pynt gjerne med litt vispet krem og bær.

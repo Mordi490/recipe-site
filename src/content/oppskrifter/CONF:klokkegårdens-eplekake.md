@@ -25,4 +25,4 @@ images: ["../../assets/recipe-images/web_klokkegårdens-eplekake.jpg"]
 
 ## Instruksjon
 
-Bruk en 24 cm form. Rør margarin og sukker hvitt. pisk i ett og ett egg om gangen. Bland så resten av ingrediensene og bland godt. Legg på formen og sett på fyllet. Stekes på 175 gr i ca. 40-50 minutter.
+Bruk en 24 cm form. Rør margarin og sukker hvitt. Pisk i ett og ett egg om gangen. Bland så resten av ingrediensene og bland godt. Legg på formen og sett på fyllet. Stekes på 175 gr i ca. 40-50 minutter.

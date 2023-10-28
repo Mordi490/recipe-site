@@ -26,4 +26,4 @@ Opskirften gir ca. 2 brød
 
 ## Instruksjoner
 
-Ha vann, havregryn, solsikkekjerner, sesamfrø, gresskarkjerner, linfrø, chia frø og salt i en bolle og la det ligge over natten. Bland inn så resten av ingrediensene. Stekes på 210 gr i ca. 1 time 20 minutter i to bakepapirkledde former.
+Ha vann, havregryn, solsikkekjerner, sesamfrø, gresskarkjerner, linfrø, chia frø og salt i en bolle og la det ligge over natten. Bland inn så resten av ingrediensene. Stekes på 210 gr. i ca. 1 time 20 minutter i to bakepapirkledde former.

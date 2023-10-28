@@ -20,4 +20,4 @@ images: ["../../assets/recipe-images/web_fiskekaker-boller-pudding.jpg"]
 
 ## Instruksjoner
 
-Bland alt sammen i en food processor.
+Bland alt sammen i en food prosessor.

@@ -31,7 +31,7 @@ Stek kyllingen i olje sammen med løk og hvitløk til kyllingen er hvit. Hell ov
 
 Smak til med salt, pepper og kjøtt- og grillkrydder.
 
-Leg kyllingfilet i midten av hver lefse (skal være gode skjeer) slik at det blir en stripe. Brett lefsa og legg den i ildfast form med bakepapir.
+Legg kyllingfilet i midten av hver lefse (skal være gode to skjeer) slik at det blir en stripe. Brett lefsa og legg den i ildfast form med bakepapir.
 
 Strø over ost og sett formen på midterste rille i stekeovnen på 220 gr. i ca 10-15 minutter. Dette kan variere fra ovn til ovn. Osten skal smelte og bli gyllen, da er retten ferdig.
 

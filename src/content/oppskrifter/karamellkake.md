@@ -28,4 +28,4 @@ images: ["../../assets/recipe-images/web_karamellkake.jpg"]
 
 ## Instruksjon
 
-Pisk egg og sukker godt og ha i smør, karamellsasus, melk + alle tørre ingredienser. Hell røren i en godt smurt bakepaprikledd langpanne. Stek kokte ved 180 på nederste rille i ca. 25 minutter. Bland ingrediensene til glasuren og smør den over kaken mens den er lunken.
+Pisk egg og sukker godt og ha i smør, karamellsaus, melk + alle tørre ingredienser. Hell røren i en godt smurt bakepapirkledd langpanne. Stek kaken ved 180 på nederste rille i ca. 25 minutter. Bland ingrediensene til glasuren og smør den over kaken mens den er lunken.

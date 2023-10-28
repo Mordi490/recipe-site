@@ -22,10 +22,10 @@ images: ["../../assets/recipe-images/web_horn-med-eplemost.jpg"]
 
 2. La deigen heve i 25-30 minutter på et lunt sted.
 
-3. Del degein i 2 og kna delene godt.
+3. Del deigen i 2 og kna delene godt.
 
 4. Kjevle hver del i store sirkler. Del hver sirkel i 8 ulike deler.
 
-5. Ha eplemost på ytterste del. Rullt sammen.
+5. Ha eplemost på ytterste del. Rull sammen.
 
 6. La heve i 10-15 minutter, pensle med vann og stek i 5 minutter på 250 gr.

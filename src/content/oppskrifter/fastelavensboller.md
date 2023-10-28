@@ -20,4 +20,4 @@ images: ["../../assets/recipe-images/web_fastelavensboller.jpg"]
 
 ## Instruksjon
 
-Smulder sammen hvetemel og smør. Tilsett så sukker og kardemomme og bland godt sammen. Bland ut gjæren i lunken melk. Bland sammen blandingene og la dem etter heve litt. Om du ønkser rosiner settes de på etter hevingen. Pensle evt. bollen før de stekes på 250 gr. i ca. 10 minutter. Etter avkjøling deles bollene o to og fylles med krem tilsatt 1 ts sukker. Dryss melis over bollene.
+Smulder sammen hvetemel og smør. Tilsett så sukker og kardemomme og bland godt sammen. Bland ut gjæren i lunken melk. Bland sammen blandingene og la dem etterheve litt. Om du ønsker rosiner settes de på etter hevingen. Pensle evt. bollen før de stekes på 250 gr. i ca. 10 minutter. Etter avkjøling deles bollene i to og fylles med krem tilsatt 1 ts sukker. Dryss melis over bollene.

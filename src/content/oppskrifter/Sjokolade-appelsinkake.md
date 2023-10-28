@@ -26,6 +26,6 @@ images: ["../../assets/recipe-images/web_sjokolade-appelsinkake.jpg"]
 
 ## Instruksjoner
 
-Pisk egg og sukker til eggedosis. SMel smør og avkjøl. Bland mel, bakepulver, appelsinskall og hakket sjokolade. Rør det inn i eggedosisen. Tilsett smeltet smør og appelsinjuice. Rør røren jevn og hell den over i en smurt randform, 1,5 l. Stekes på nederste rille ved 175 gr. i 30-35 minutter.
+Pisk egg og sukker til eggedosis. Smelt smør og avkjøl. Bland mel, bakepulver, appelsinskall og hakket sjokolade. Rør det inn i eggedosisen. Tilsett smeltet smør og appelsinjuice. Rør røren jevn og hell den over i en smurt randform, 1,5 l. Stekes på nederste rille ved 175 gr. i 30-35 minutter.
 
 Hvelv kaken og la den avkjøle under formen. Pynt med melisglasur iblandet litt kakao, noen sjokoladebiter og litt revet appelsinskall på toppen.

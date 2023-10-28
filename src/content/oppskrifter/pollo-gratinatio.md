@@ -25,7 +25,7 @@ Skjær squashen i 1 cm tykke skiver på langs, dryss over litt salt. Del paprika
 
 ### Dressing
 
-- saften av 1 stiron
-- 1 fedd finhakked hvitløk
+- saften av 1 sitron
+- 1 fedd finhakket hvitløk
 - 4 ss olivenolje
 - salt og pepper

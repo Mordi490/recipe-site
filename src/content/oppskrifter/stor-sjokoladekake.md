@@ -41,6 +41,6 @@ images: ["../../assets/recipe-images/web_idk-1.jpg"]
 
 7. Hell røra i langpannen og jevn den utover med f.eks. en slikkepott.
 
-8. Sett langpannen på den midterste rillen og stek den i 30-40 minutter. Prøv med en fyrstikk eller en strikkepinne på midten av kaken for å se om den er ferdig. Hvis det ikke siter noe igjen på pinnen er kaken ferdig.
+8. Sett langpannen på den midterste rillen og stek den i 30-40 minutter. Prøv med en fyrstikk eller en strikkepinne på midten av kaken for å se om den er ferdig. Hvis det ikke sitter noe igjen på pinnen er kaken ferdig.
 
-9. Glasur: Smelt margarin, kokesjokolade og smør, rør i egget, og ha så i melisen. Rør kraftig, og smør det på toppen. Strø pyntem oppå før glasuren har størknet.
+9. Glasur: Smelt margarin, kokesjokolade og smør, rør i egget, og ha så i melisen. Rør kraftig, og smør det på toppen. Strø pynten oppå før glasuren har størknet.

@@ -23,4 +23,4 @@ images:
 
 ## Instruksjoner
 
-Løs gjæren opp i lunken melk. Tilsett salt, sirup, olje, frø og det grove melet. Rør deigen godt og ha i fint mel til du får en passe fast og god deig. Dekk den til og la den heve godt opp. Ta deigen på bakebordet og del den i to emner. Kna dem godt og form til to brød. Legg dem i 2 liters brødformer og la dem få en etterhev. klipp lit i hvert brød og stek dem ved 200 gr. på nederste rille i ca. 45 minutter.
+Løs gjæren opp i lunken melk. Tilsett salt, sirup, olje, frø og det grove melet. Rør deigen godt og ha i fint mel til du får en passe fast og god deig. Dekk den til og la den heve godt opp. Ta deigen på bakebordet og del den i to emner. Kna dem godt og form til to brød. Legg dem i 2 liters brødformer og la dem få en etterhev. klipp litt i hvert brød og stek dem ved 200 gr. på nederste rille i ca. 45 minutter.

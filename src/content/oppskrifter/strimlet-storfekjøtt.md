@@ -26,10 +26,10 @@ images: ["../../assets/recipe-images/web_strimlet-storfekjøtt.jpg"]
 
 1. skjær skrelt agurk og vasket vårløk på langs. Kutt salaten og riv koriander grovt. Bland alt sammen i en stor bolle.
 
-2. Finhakk chili og hvitløk
+2. Finhakk chili og hvitløk.
 
-3. Varm opp olje i wokpannen. Stek kjøttet hurtig med fin kuttet chili, hvitløk og sesamfrø
+3. Varm opp olje i wokpannen. Stek kjøttet hurtig med fin kuttet chili, hvitløk og sesamfrø.
 
-4. Bland kjøttet i salataen. Få med olje fra pannen
+4. Bland kjøttet i salaten. Få med olje fra pannen,
 
 5. Hell på soya og press over lime. Smak til med salt og pepper.

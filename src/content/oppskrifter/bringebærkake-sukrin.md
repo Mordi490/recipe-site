@@ -17,4 +17,4 @@ images: ["../../assets/recipe-images/web_bringebærkake-sukrin.jpg"]
 
 ## Instruksjoner
 
-Bland ingrendiensene tilsett posens innhold og visp til en glat, jevn røre. strø over bringebær. Stekes midt i ovnen på 175 gr. i ca. 30 minutter.
+Bland ingrediensene tilsett posens innhold og visp til en glatt, jevn røre. strø over bringebær. Stekes midt i ovnen på 175 gr. i ca. 30 minutter.

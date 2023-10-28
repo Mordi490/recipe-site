@@ -19,7 +19,7 @@ images: ["../../assets/recipe-images/web_gaffelkaker.jpg"]
 
 ## Instruksjoner
 
-Smuldre smøret i melet. Bland med sukker. Ha i egget og kna deigen raskt sammen. (Har du food processor med hakkekniv, kan du ha i alle ingrediensene på en gang og kjøre på full hastighet til deigen samler seg.)
+Smuldre smøret i melet. Bland med sukker. Ha i egget og kna deigen raskt sammen. (Har du food prosessor med hakkekniv, kan du ha i alle ingrediensene på en gang og kjøre på full hastighet til deigen samler seg.)
 
 Trill deigen til kuler og legg dem på bakepapirdekkede stekeplater med litt avstand imellom. Trykk kakene ned med en gaffel, slik at de får gaffelmønster på toppen. Pensle over kakene med litt smeltet smør og strø over med perlesukker.
 

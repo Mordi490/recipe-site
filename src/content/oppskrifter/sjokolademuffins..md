@@ -3,10 +3,7 @@ title: Sjokolademuffins
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
 images:
-  [
-    "../../assets/recipe-images/web_sjokolademuffins.jpg",
-    "../../assets/recipe-images/web_sjokolademuffins-2.jpg",
-  ]
+  ["../../assets/recipe-images/web_sjokolademuffins-2.jpg"]
 ---
 
 # Sjokolademuffins
@@ -24,9 +21,9 @@ images:
 ### Pynt
 
 - sjokolade/melis glasur
-- nonstop
+- Non Stop
 - mokkabønner, evt. hva enn du vil
 
 ## Instruksjon
 
-Sett stekeovn på 225 gr. Rør margarin og sukker hvitt. Visp inn ett og ett egg. Bland det tørre og ha det i smørbollen. Tilsett melk og bland alt. Fyll papir-muffinsformer ca. halvfulle med røre- Sett formene på brett. Stekes på midterste rille i ca. 15-20 minutter.
+Sett stekeovn på 225 gr. Rør margarin og sukker hvitt. Visp inn ett og ett egg. Bland det tørre og ha det i smørbollen. Tilsett melk og bland alt. Fyll muffinsformer ca. halvfulle med røre. Sett formene på brett. Stekes på midterste rille i ca. 15-20 minutter.

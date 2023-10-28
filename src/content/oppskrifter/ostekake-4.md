@@ -14,10 +14,10 @@ images: ["../../assets/recipe-images/web_ostekake-2.jpg"]
 - 100 g melis
 - 1 ts vaniljesukker
 - 1 pakke pisket kremfløte
-- 1 pk. sitrongele - blandes med halvparten av vannet (2,5 dl) som er anbefalt på pakken. Avkjøles og blanded med det andre
+- 1 pk. sitrongelè - blandes med halvparten av vannet (2,5 dl) som er anbefalt på pakken. Avkjøles og blandet med det andre
 
 ## Instruksjoner
 
 Start med å lage bunnen: Ca. 225 g Bixit-kjeks blandes med en klatt smeltet smør. Legg blandingen rett på kakefatet med springform rundt. Husk å smøre formen. Avkjøles.
 
-Pisk fløten til krem. Ha i cottage cheese, rømme, melis, vaniljesukker og avkjølt gele. Hell geleen over den stivnede ostemassen, og dytt stemorsblomster nedi geleen. La det stivne natta over.
+Pisk fløten til krem. Ha i cottage cheese, rømme, melis, vaniljesukker og avkjølt gelè. Hell gelèen over den stivnede ostemassen, og dytt stemorsblomster nedi gelèen. La det stivne natta over.

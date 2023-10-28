@@ -2,7 +2,7 @@
 title: Sopp pizza
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-images: ["../../assets/recipe-images/web_wienerstenger.jpg"]
+images: ["../../assets/recipe-images/web_sopp-pizza.jpg"]
 ---
 
 # Sopp pizza
@@ -21,9 +21,9 @@ images: ["../../assets/recipe-images/web_wienerstenger.jpg"]
 
 - 2 middels store pasternakker, ca. 500 g
 - vann, salt
-- 1/2 lter frisk renset sopp eller ca. 200 g
+- 1/2 liter frisk renset sopp eller ca. 200 g
 - 1 ss smør eller margarin
-- 2-3 dl creme fraiche
+- 2-3 dl cremè fraîche
 - 1 ss fransk sennep, salt, pepper
 - 2-3 tomater
 - 4 dl revet ost
@@ -36,18 +36,18 @@ images: ["../../assets/recipe-images/web_wienerstenger.jpg"]
 
 3. Dekk til og la heve 1-1 1/2 time.
 
-4. Lag fyllet. SKrell skjær grønnsakene i tynne skiver på langs. Kok dem kanpt myke i lett-saltet vann. La dem renne godt av.
+4. Lag fyllet. Skrell skjær grønnsakene i tynne skiver på langs. Kok dem knapt myke i lett-saltet vann. La dem renne godt av.
 
 5. la soppen renne godt av og hakk den grovt.
 
-6. Ha soppen i en stekepanne og fres den noen minutter. Tilsett creme fraiche, sennep, salt og pepper.
+6. Ha soppen i en stekepanne og fres den noen minutter. Tilsett cremè fraîche, sennep, salt og pepper.
 
 7. Ta deigen opp og elt den smidig på lettmelet bord. Del den i fire deler og arbeid hver del på melet underlag. Trill ut til runde boller, klapp dem ut til en sirkel ca. 20 cm i diameter.
 
-8. Legg de ferdige bunnene på bakepaprikledd stekeplate.
+8. Legg de ferdige bunnene på bakepapirkledd stekeplate.
 
 9. Fordel soppblandingen på pizzabunnene. Legg på tynne tomat- og pasternakkskiver. Dryss på ost.
 
 10. La heve på plate 5-10 minutter.
 
-11. Stek pizzaene midt i ovnen ved 250 gr, 15-20 minutter. I varmluftsovn ed 225 gr, 20-25 minutter.
+11. Stek pizzaene midt i ovnen ved 250 gr, 15-20 minutter. I varmluftsovn ved 225 gr, 20-25 minutter.

@@ -34,7 +34,7 @@ images: ["../../assets/recipe-images/web_strimlet-svinekjøtt-i-karri.jpg"]
 
 6. Åpne vannkastanjene og hell av vannet
 
-7. Tilsett kjøttet og alle grønnsaken i kokosmelken. La alt koke i ca. 10 minutter
+7. Tilsett kjøttet og alle grønnsakene i kokosmelken. La alt koke i ca. 10 minutter
 
 8. Smak til med salt og pepper eller mer karri om du liker det sterkt
 

@@ -30,18 +30,18 @@ images:
 
 1. Bland havrekjekssmuler, pekannøtter, smør og honning. Trykk ut deigen i bunnen av en springform med diameter på 22 cm.
 
-2. Legg gelatinen i bløt i kaldt vann i ca. 10 minutter. Kok op fersken- eller appelsinjuice. Løs gelatinen i den kokende juicen. Avkjøl blandingen.
+2. Legg gelatinen i bløt i kaldt vann i ca. 10 minutter. Kok opp fersken- eller appelsinjuice. Løs gelatinen i den kokende juicen. Avkjøl blandingen.
 
 3. Hvis du bruker fersk frukt, må den kokes før du kan bruke den. Kok opp ferskenskiver, sukker og sitronsaft. La det småkoke i ca. 5 minutter, eller til ferskene er møre. Rør inn vaniljesukker. Legg halvparten av ferskenskivene i en skål, og sett dem til side så lenge.
 
-4. Mos resten av ferskenskivene i en kjøkkenmaskin. Bland inn yoghurt, kesam og gleatinjuicen. Kjør maskinen til moussen er kremet og glatt. Legg de hele ferskenskivene på kakebunnen. Hell moussen over. Sett kaken kjølig i ca. 3 timer.
+4. Mos resten av ferskenskivene i en kjøkkenmaskin. Bland inn yoghurt, kesam og gelatinjuicen. Kjør maskinen til moussen er kremet og glatt. Legg de hele ferskenskivene på kakebunnen. Hell moussen over. Sett kaken kjølig i ca. 3 timer.
 
 ### Variasjon
 
-For å spare kalorier kan du yoghurt naturell og smake den til med ekte vanilje
+For å spare kalorier kan du bruke yoghurt naturell og smake den til med ekte vanilje
 
 ### Tips og råd
 
-Det er enkelst å bruke fingertuppene når du skal trykke deigen ut i formen. Pass på at bunnen blir ikke for tykk over det hele. Den skal ikke stekes!
+Det er enklest å bruke fingertuppene når du skal trykke deigen ut i formen. Pass på at bunnen blir like tykk over det hele. Den skal ikke stekes!
 
 Ferskenjuice får du i helsekostbutikker og velassorterte supermarkeder. Du kan også bruke ananasjuice eller annen juice med fruktkjøtt.

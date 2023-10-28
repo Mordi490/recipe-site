@@ -10,7 +10,7 @@ images: ["../../assets/recipe-images/web_hot-chop-suey-wok.jpg"]
 ## Ingredienser
 
 - 300 g strimlet svinekjøtt
-- 2 ss vegtabilsk olje
+- 2 ss vegetabilsk olje
 - 100 g sjampinjong
 - 1 løk
 - 1 rød chili
@@ -22,7 +22,7 @@ images: ["../../assets/recipe-images/web_hot-chop-suey-wok.jpg"]
 
 1. Rens og grovhakk sjampinjong, løk, chili og sukkererter (tenk at de skal kunne spises med spisepinner)
 
-2. Tilbred nudlene som anvist på pakken
+2. Tilbered nudlene som anvist på pakken
 
 3. Varm opp oljen i wokpannen og stek kjøttet på høy varme
 

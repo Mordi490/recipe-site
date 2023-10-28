@@ -4,8 +4,7 @@ tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
 images:
   [
-    "../../assets/recipe-images/web_2-verdener-sjokoladehjerte.jpg",
-    "../../assets/recipe-images/web_sjokoladehjerte-preview.jpg",
+    "../../assets/recipe-images/web_sjokoladehjerte.jpg",
   ]
 ---
 
@@ -28,4 +27,4 @@ images:
 
 ## Instruksjon
 
-Pisk eggedosis av egg og sukker. Sikt inn det tørre og rør inn smeltet smør. Hell røren i en godt smurt hjerteform, klipp gjerne ut bakepapir i hjerteform og legg det i bunnen av formen. Stek i ovn ved 170 gr. på nederste rille 30-40 minutter. Avkjøl på rist. Pynt gjerne med friske gjerne med friske bringebær og sitronmelisse.
+Pisk eggedosis av egg og sukker. Sikt inn det tørre og rør inn smeltet smør. Hell røren i en godt smurt hjerteform, klipp gjerne ut bakepapir i hjerteform og legg det i bunnen av formen. Stek i ovn ved 170 gr. på nederste rille 30-40 minutter. Avkjøl på rist. Pynt gjerne med friske bringebær og sitronmelisse.

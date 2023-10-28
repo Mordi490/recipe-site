@@ -25,14 +25,14 @@ images:
 ### Fyll
 
 - 3 dl kremfløte
-- 1 boks aprikoser eller 172 boks fersken
-- 50 g hakket kokesjoklade
+- 1 boks aprikoser eller 1/2 boks fersken
+- 50 g hakket kokesjokolade
 
 ## Instruksjon
 
 Stekes ved 175 gr. i 15-20 minutter i langpanne på midterste rille.
 
-**Marengsrulade:** Pisk eggehvitene halvt stive og telsett sukkeret litt etter litt. Hakk nøttekjernene og bland dem i eggehvitemassen sammen med hvetemel og kakao. Hell røren i en bakepapirkledd langpanne og dryss daimkuler på toppen. Avkjøl ruladen i langpanne.
+**Marengsrulade:** Pisk eggehvitene halvt stive og til sett sukkeret litt etter litt. Hakk nøttekjernene og bland dem i eggehvitemassen sammen med hvetemel og kakao. Hell røren i en bakepapirkledd langpanne og dryss daimkuler på toppen. Avkjøl ruladen i langpanne.
 
 **Fyll:** Pisk kremfløten stiv. Vend inn grovhakkede aprikoser (ferskener) og sjokoladebiter. Hvelv ruladen over på et stykke bakepapir. Ta av papiret som ble brukt under steking. Fordel aprikoskremen over kakebunnen. Bruk bakepapir til å rulle hele kaken sammen, men ikke for stramt. Fordi ruladen er laget av marengs, er det naturlig at den vil sprekke noe i overflaten. Kaken pakkes i bakepapiret og oppbevares kjølig til servering. Nyt ruladen samme dag, ellers kan marengsen blir myk og seig.
 

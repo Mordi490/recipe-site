@@ -1,6 +1,6 @@
 ---
 title: Pizzabunn
-tags: ["middag", "sukrin", "bakverk"]
+tags: ["middag", "sukrin", "bakverk", "lavkarbo"]
 ingredienser:
   ["egg", "soyamel", "hvitløk", "olje", "oregano", "ost", "bakepulver"]
 images: ["../../assets/recipe-images/web_pizzabunn-2.jpg"]
@@ -21,4 +21,4 @@ images: ["../../assets/recipe-images/web_pizzabunn-2.jpg"]
 
 ## Instruksjoner
 
-Ha i mel og bakepulver sist. Den halvafste røra smøres tynt utover et bakepapir. Bunnen forstekes på 220 grader i 8 min, slik at den er fast nok til å bære fyllet.
+Ha i mel og bakepulver sist. Den halvfaste røra smøres tynt utover et bakepapir. Bunnen forstekes på 220 grader i 8 min, slik at den er fast nok til å bære fyllet.

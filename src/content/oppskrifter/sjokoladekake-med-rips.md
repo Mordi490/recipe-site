@@ -21,4 +21,4 @@ images: ["../../assets/recipe-images/web_sjokoladekake-med-rips.jpg"]
 
 ## Instruksjoner
 
-Visp egg og sukker til eggedosis. Bland sammen de tørre ingrediensene og venddem i eggedosisen sammen med kesam, revet appelsinskall og hakkede nøtter. Rør lett til alt er godt blandet. Hell røren i en godt smurt rundt form, 24 cm i diameter. Stek ovn ved 200 gr. på nederste rille, ca. 25 minutter eller til kaken er stekt. Avkjøl på rist. Pynt med krem eller is ved siden av.
+Visp egg og sukker til eggedosis. Bland sammen de tørre ingrediensene og vend dem i eggedosisen sammen med kesam, revet appelsinskall og hakkede nøtter. Rør lett til alt er godt blandet. Hell røren i en godt smurt rundt form, 24 cm i diameter. Stek ovn ved 200 gr. på nederste rille, ca. 25 minutter eller til kaken er stekt. Avkjøl på rist. Pynt med krem eller is ved siden av.

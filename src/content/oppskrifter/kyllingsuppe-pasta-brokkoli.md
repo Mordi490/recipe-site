@@ -1,12 +1,12 @@
 ---
-title: Kylling- og couscoussalat med urter
+title: Kyllingsuppe med pasta og brokkoli
 tags: ["middag", "suppe"]
 ingredienser: ["kylling", "pasta", "brokkoli"]
 tattFra: https://www.matprat.no/oppskrifter/sunn/kyllingsuppe-med-pasta-og-brokkoli/
-images: ["../../assets/recipe-images/web_wienerstenger.jpg"]
+images: ["../../assets/recipe-images/web_kyllingsuppe-med-pasta-og-brokkili.jpg"]
 ---
 
-# Kylling- og couscoussalat med urter
+# Kyllingsuppe med pasta og brokkoli 
 
 ## Ingredienser
 
@@ -18,7 +18,7 @@ images: ["../../assets/recipe-images/web_wienerstenger.jpg"]
 - 12 dl vann
 - 2 stk hønsebuljongterning
 - 1 hermetisk tomat
-- 1 ss tomatpure
+- 1 ss tomatpurè
 - 1/2 ts sukker
 - 200 g brokkoli
 - 1/2 ts salt
@@ -30,6 +30,6 @@ images: ["../../assets/recipe-images/web_wienerstenger.jpg"]
 
 2. Skjær kyllingkjøttet i passe store suppebiter. Finhakk løk og skjær paprika i biter.
 
-3. Fres løken i olje til den er blank. Tilsett paprikabiter. Ha i buljongterninger, hell over vann og hermetiske toamter. Kok opp. Rør inn litt tomatpure for å få fin farge.
+3. Fres løken i olje til den er blank. Tilsett paprikabiter. Ha i buljongterninger, hell over vann og hermetiske tomater. Kok opp. Rør inn litt tomatpurè for å få fin farge.
 
 4. Ha pasta, kyllingbiter og brokkoli i suppen og kok opp. Smak eventuelt til med salt og pepper.

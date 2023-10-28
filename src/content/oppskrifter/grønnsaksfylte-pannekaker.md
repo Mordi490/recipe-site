@@ -27,7 +27,7 @@ images: ["../../assets/recipe-images/web_grønnsaksfylte-pannekaker.jpg"]
 
 ## Instruksjoner
 
-1. Lag pannekakrøre og la den svelle i ca. 15 minutter.
+1. Lag pannekakerøre og la den svelle i ca. 15 minutter.
 
 2. Del opp alle grønnsakane i forholdsvis små biter eller strimler. Wok grønnsakene i litt olje i en wok eller stor stekepanne til de er så vidt møre
 

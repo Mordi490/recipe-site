@@ -40,6 +40,6 @@ Dette er en gammel oppskrift som var populær på 50- og 60-tallet. Den opprinne
 
 ## Instruksjon
 
-Kok opp ingrediensene til belegget og avkjøl. Rør inn margarin og sukker lyst og lett og tilsett egget, mel med bakepulver og melken. Ha røren i en godt smurt liten rund form, 20-22 cm i diameter. Ha over belegget og stek kaken ved 180-200 gr. i 30-35 minutter. Avkjøll og del kaken i to.
+Kok opp ingrediensene til belegget og avkjøl. Rør inn margarin og sukker lyst og lett og tilsett egget, mel med bakepulver og melken. Ha røren i en godt smurt liten rund form, 20-22 cm i diameter. Ha over belegget og stek kaken ved 180-200 gr. i 30-35 minutter. Avkjøl og del kaken i to.
 
-Lag vaniljekremen og rør inn smør og delfiafett. Fyll kaken med denn kremen når den er kald, eller fyll med pisket krem.
+Lag vaniljekremen og rør inn smør og delfiafett. Fyll kaken med den kremen når den er kald, eller fyll med pisket krem.

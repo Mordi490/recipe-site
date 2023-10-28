@@ -16,7 +16,7 @@ images: ["../../assets/recipe-images/web_danske-nøttekaker.jpg"]
 
 ## Instruksjon
 
-1. Mal nøtten på mandelkvern. Ikke finfordel dem i foodprocessor, da flyter kakene utover under stekingen. Bland nøttene med melis i en bolle.
+1. Mal nøttene på mandelkvern. Ikke finfordel dem i food prosessor, da flyter kakene utover under stekingen. Bland nøttene med melis i en bolle.
 
 2. Stivpisk hvitene, og rør inn litt etter litt i nøtteblandingen.
 
@@ -26,6 +26,6 @@ images: ["../../assets/recipe-images/web_danske-nøttekaker.jpg"]
 
 5. Legg bakepapiret med kakene over på en rist. Avkjøl og løsne fra papiret.
 
-6. Server kaken enkle, eller legg sammen to og to med smeltet kokesjokolade imellom.
+6. Server kakene enkle, eller legg sammen to og to med smeltet kokesjokolade imellom.
 
 7. Oppbevar kaken tørt og kjølig hvis de har sjokoladefyll.

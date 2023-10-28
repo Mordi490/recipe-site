@@ -15,6 +15,6 @@ images: ["../../assets/recipe-images/web_sjokolademuffins.jpg"]
 - hakkede sjokolade, nøtter, etc
 - sukrin kakemiks
 
-Bland ingrediensen, tilsett posens innhold og visp til en glatt, jevn røre. Fordel røren i muffinsformer og stek midt i ovnen på 175 gr i ca. 20-25 minutter. Kan også stekes i rund kakeform.
+Bland ingrediensene, tilsett posens innhold og visp til en glatt, jevn røre. Fordel røren i muffinsformer og stek midt i ovnen på 175 gr i ca. 20-25 minutter. Kan også stekes i rund kakeform.
 
 Glasurforslag: [Sjokoladekrem](./sjokoladekrem-sukrin)

@@ -22,12 +22,12 @@ images: ["../../assets/recipe-images/web_wienerstenger.jpg"]
 
 2. Smelt smøret, ha i melken og la det koke opp.
 
-3. Hell den varme smør-melka i eggedosisen under kraftig visping
+3. Hell den varme smør-melka i eggedosisen under kraftig visping.
 
 4. Rør inn melet, blandet med bakepulveret.
 
-5. Rør till du får en jevn røre.
+5. Rør til du får en jevn røre.
 
-6. Ha i stor langpanne, strø ønsket mengde med kanel og sukker over
+6. Ha i stor langpanne, strø ønsket mengde med kanel og sukker over.
 
-7. Stekes ved 180 gr i 20-25 minutter i nederste rille.
+7. Stekes ved 180 gr. i 20-25 minutter i nederste rille.

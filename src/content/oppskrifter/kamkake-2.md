@@ -18,4 +18,4 @@ images: ["../../assets/recipe-images/web_kamkaker.jpg"]
 
 ## Instruksjon
 
-Smelt smør, varm melk. Rør inn sukker, gjær og egg. Elt inn hvetemel til passe deig. Heves godt. Ikke arbeid for mye med deigen når den kjevles ut. Kjelve ut til passe tynn deig. Rør opp og stikk ut med passende emner. Etter hev. Pensles med egg. Stek ved 250 gr. midt i ovnen ca. 10-15 minutter.
+Smelt smør, varm melk. Rør inn sukker, gjær og egg. Elt inn hvetemel til passe deig. Heves godt. Ikke arbeid for mye med deigen når den kjevles ut. Kjelve ut til passe tynn deig. Rør opp og stikk ut med passende emner. Etterhev. Pensles med egg. Stek ved 250 gr. midt i ovnen ca. 10-15 minutter.

@@ -25,7 +25,7 @@ images: ["../../assets/recipe-images/web_enkle-epleruter.jpg"]
 
 ## Instruksjon
 
-1. Start med å skreel og kjerne ut eplene. Del dem i båter og legg dem i en plastpose. Tilsett sukker og kanel. Bland godt og la dem ligge i posen.
+1. Start med å skrelle og kjerne ut eplene. Del dem i båter og legg dem i en plastpose. Tilsett sukker og kanel. Bland godt og la dem ligge i posen.
 
 2. Smelt smøret og la det avkjøles.
 

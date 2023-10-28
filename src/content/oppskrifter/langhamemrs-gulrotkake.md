@@ -27,7 +27,7 @@ Dette skal gi ca. 25 stk
 
 ### Glasur
 
-- ca. 100 g fløteost - f.eks. creme chateu, chateu bleu e.l.
+- ca. 100 g fløteost - f.eks. creme chateau, chateau bleu e.l.
 - 50 g smør eller margarin
 - 1 ts vaniljesukker
 - 125 g melis

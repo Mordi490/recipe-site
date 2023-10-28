@@ -21,6 +21,6 @@ Lag små kjøtboller og stek dem på panne.
 - agurk, skiver delt i to
 - mais, om man ønsker det
 
-Tacoboller, papriak, tomat og agurk trees på grillpinner. Legg pinnene på et stort serveringsfat.
+Tacoboller, paprika, tomat og agurk trees på grillpinner. Legg pinnene på et stort serveringsfat.
 
 Varm tortillas i stekeovnen og tandoorisausen i en kasserolle.

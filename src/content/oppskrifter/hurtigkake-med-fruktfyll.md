@@ -2,7 +2,7 @@
 title: Hurtigkake med fruktfyll
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-images: ["../../assets/recipe-images/web_wienerstenger.jpg"]
+images: ["../../assets/recipe-images/web_hurtigkake-med-frukt.jpg"]
 ---
 
 # Hurtigkake med fruktfyll
@@ -35,4 +35,4 @@ Bland alle de tørre ingrediensene i en bolle. Smuldre i smøret, visp sammen eg
 
 ### Fyll
 
-Mos banan og de godt avrente ferskene med en gaffel eller kjør begge deler i food porcessor. Det kan godt være små biter av frukt i mosen. Smak til med sitron. Legg pisket krem og fruktmost mellom lagene og server kaken straks. Vil du ha en saftigere kake, kan du dynke med aprikossaft.
+Mos banan og de godt avrente ferskene med en gaffel eller kjør begge deler i food prosessor. Det kan godt være små biter av frukt i mosen. Smak til med sitron. Legg pisket krem og fruktmost mellom lagene og server kaken straks. Vil du ha en saftigere kake, kan du dynke med aprikossaft.

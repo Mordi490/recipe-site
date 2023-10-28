@@ -28,7 +28,7 @@ Oppskriften gir 2 brød
 
 4. Elt deigen på arbeidsbordet. Tilsett mer mel om nødvendig.
 
-5. Del deigen i to like store emner. Form til 2 sprekkfire, avlange brød. Strø med litt mel og legg på smurt eller bakepaprikledd stekeplate. Dekk til og etterhev ca. 1 time. Skjær et par snitt i hvert brød med en skarp kniv.
+5. Del deigen i to like store emner. Form til 2 sprekkfrie, avlange brød. Strø med litt mel og legg på smurt eller bakepaprikledd stekeplate. Dekk til og etterhev ca. 1 time. Skjær et par snitt i hvert brød med en skarp kniv.
 
 6. Stek brødene på nederste rille ved 275 gr, ca. 10 minutter, senk varmen til 200 gr, og stek ca. 20 minutter til.
 

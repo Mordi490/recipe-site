@@ -22,7 +22,7 @@ images: ["../../assets/recipe-images/web_risboller.jpg"]
 - 1 kopp sukker
 - 1 pl. sjokolade, smeltes
 - 4 ss kaffe
-- 1 delfaifett, smeltes i svak varme
+- 1 delfiafett, smeltes på svak varme
 - puffet ris
 
 ## Instruksjoner

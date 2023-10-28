@@ -26,6 +26,6 @@ images: ["../../assets/recipe-images/web_tosca-kake.jpg"]
 
 ## Instruksjoner
 
-Sett setekovn på 175 gr. Pisk margaring og sukker lustig og luftig. Pisk inn ett og ett egg. Bland mel og bakepulver og sikt det ned i bollen. Tilsett fløte og bland deigen godt. Fordel røren i bunnen av en smurt og strødd springform med diameter på ca. 26 cm. Stek kaken i nedre del på ca. 26 cm. Stek kaken i nedre del av ovnen i ca. 40 minutter.
+Sett stekeovn på 175 gr. Pisk margarin og sukker lyst og luftig. Pisk inn ett og ett egg. Bland mel og bakepulver og sikt det ned i bollen. Tilsett fløte og bland deigen godt. Fordel røren i bunnen av en smurt og strødd springform med diameter på ca. 26 cm. Stek kaken i nedre del på ca. 26 cm. Stek kaken i nedre del av ovnen i ca. 40 minutter.
 
 **Glasur:** smelt smøret i en liten tykkbunnet kjele, bruk lav varme. Rør inn resten av ingrediensene og rør til glasuren tykner. Fordel den jevnt opp kaken og stek til glasuren er gyllen, ca. 20 minutter.

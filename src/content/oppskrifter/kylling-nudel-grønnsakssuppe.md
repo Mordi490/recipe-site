@@ -18,13 +18,13 @@ images:
 - 1/2 stk finhakket løk
 - 8 dl vann
 - 1 pk nudler med krydder (Anbefaler Indomie om du får tak i)
-- 2 stk gulrøt i skier
+- 2 stk gulrøt i skiver
 - ca. 50 g purre i ringer
 
 ## Instruksjoner
 
 1. Skjær kyllingfilet i passe store suppebiter
 
-2. Fres kyllingbitene i olje i en kjele sammen med finhakked løk til kjøttet er hvot og løken er blank.
+2. Fres kyllingbitene i olje i en kjele sammen med finhakket løk til kjøttet er hvitt og løken er blank.
 
-3. Hell i vannet og kok opp. Tilsett nulder og grønnsaker og kok i noen minutter til nudlene er myke og grønnsakene er møre. Ha til slutt krydderet fra nudelpakken og smak til suppen.
+3. Hell i vannet og kok opp. Tilsett nudler og grønnsaker og kok i noen minutter til nudlene er myke og grønnsakene er møre. Ha til slutt krydderet fra nudelpakken og smak til suppen.
