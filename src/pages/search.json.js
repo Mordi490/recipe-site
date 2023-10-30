@@ -10,7 +10,7 @@ async function getOppskrifter() {
   }));
 }
 
-export async function get({}) {
+export async function GET({}) {
   return new Response(JSON.stringify(await getOppskrifter()), {
     status: 200,
     headers: {
