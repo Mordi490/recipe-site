@@ -2,8 +2,7 @@
 title: Sjokolademuffins
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-images:
-  ["../../assets/recipe-images/web_sjokolademuffins-2.jpg"]
+images: ["../../assets/recipe-images/web_sjokolademuffins-2.jpg"]
 ---
 
 # Sjokolademuffins

@@ -24,6 +24,7 @@ images: ["../../assets/recipe-images/web_sjokoladehorn.jpg"]
 - litt sukker
 
   **eller**
+
 - 2 dl kakao
 - 1 dl sukker
 - ca. 4 ss vann

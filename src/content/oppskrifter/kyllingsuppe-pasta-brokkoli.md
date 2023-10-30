@@ -3,10 +3,11 @@ title: Kyllingsuppe med pasta og brokkoli
 tags: ["middag", "suppe"]
 ingredienser: ["kylling", "pasta", "brokkoli"]
 tattFra: https://www.matprat.no/oppskrifter/sunn/kyllingsuppe-med-pasta-og-brokkoli/
-images: ["../../assets/recipe-images/web_kyllingsuppe-med-pasta-og-brokkili.jpg"]
+images:
+  ["../../assets/recipe-images/web_kyllingsuppe-med-pasta-og-brokkili.jpg"]
 ---
 
-# Kyllingsuppe med pasta og brokkoli 
+# Kyllingsuppe med pasta og brokkoli
 
 ## Ingredienser
 

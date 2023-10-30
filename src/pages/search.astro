@@ -4,11 +4,17 @@ import Layout from "../layouts/Layout.astro";
 export const prerender = false;
 ---
 
-<Layout description={`Søk etter oppskrifter`} tab_title={`Søk etter oppskrifter`}>
+<Layout
+  description={`Søk etter oppskrifter`}
+  tab_title={`Søk etter oppskrifter`}
+>
   <div class="flex flex-col items-center pb-2 pt-4">
-    <aside class="grid w-fit rounded-lg border-2 border-solid border-black px-8 py-4">
+    <aside
+      class="grid w-fit rounded-lg border-2 border-solid border-black px-8 py-4"
+    >
       <div class="flex flex-col">
-        <label for="search" class="text-lg font-bold">Søk etter oppskrift</label>
+        <label for="search" class="text-lg font-bold">Søk etter oppskrift</label
+        >
         <span>Søk etter tittelen på oppskrift</span>
       </div>
       <input
@@ -25,7 +31,10 @@ export const prerender = false;
     <p id="searchReadOut"></p>
   </div>
   <section aria-label="Search Reults">
-    <ul id="searchResult" class="flex flex-col gap-2 py-2 sm:grid sm:grid-cols-2 xl:grid-cols-3">
+    <ul
+      id="searchResult"
+      class="flex flex-col gap-2 py-2 sm:grid sm:grid-cols-2 xl:grid-cols-3"
+    >
     </ul>
   </section>
 </Layout>
@@ -35,8 +44,12 @@ export const prerender = false;
 
   // selectors
   const search = document.querySelector("#search") as HTMLInputElement;
-  const searchReadOut = document.querySelector("#searchReadOut") as HTMLAnchorElement;
-  const resultsList = document.querySelector("#searchResult") as HTMLUListElement;
+  const searchReadOut = document.querySelector(
+    "#searchReadOut",
+  ) as HTMLAnchorElement;
+  const resultsList = document.querySelector(
+    "#searchResult",
+  ) as HTMLUListElement;
 
   let SEARCH_DATA: any;
   let FUSE_INSTANCE: any;
@@ -98,7 +111,9 @@ export const prerender = false;
 
     const searchResult = FUSE_INSTANCE.search(search);
     resultsList.innerHTML =
-      searchResult.length > 0 ? generateSearchList(searchResult) : "Ingen resultater";
+      searchResult.length > 0
+        ? generateSearchList(searchResult)
+        : "Ingen resultater";
   }
 
   type RecipeSearchResultItem = {
@@ -125,7 +140,9 @@ export const prerender = false;
 
   // functions
   function updateDocumentTitle(search: string) {
-    document.title = search ? `Søkeresultater for "${search}"` : "Søk etter oppskrift";
+    document.title = search
+      ? `Søkeresultater for "${search}"`
+      : "Søk etter oppskrift";
   }
 
   function updateSearchReadOut(search: string) {
@@ -140,7 +157,9 @@ export const prerender = false;
 
   // event listeners
   window.addEventListener("DOMContentLoaded", () => {
-    const urlParams = new URLSearchParams(window.location.search).get("q") as string; // TODO: better handling of null
+    const urlParams = new URLSearchParams(window.location.search).get(
+      "q",
+    ) as string; // TODO: better handling of null
     updateDocumentTitle(urlParams);
     fetchSearchResult(urlParams);
     updateSearchReadOut(urlParams);

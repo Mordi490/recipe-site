@@ -9,7 +9,7 @@ images:
   ]
 ---
 
-# Kanelsnurrer 
+# Kanelsnurrer
 
 ## Ingredienser
 

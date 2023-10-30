@@ -11,12 +11,12 @@ ingredienser:
     "margarin",
     "sur melk",
   ]
-images: [
+images:
+  [
     "../../assets/recipe-images/web_sjokoladerull-en.jpg",
     "../../assets/recipe-images/web_sjokoladerull-to.jpg",
-    "../../assets/recipe-images/web_sjokoladerull-tre.jpg"
-    ]
-
+    "../../assets/recipe-images/web_sjokoladerull-tre.jpg",
+  ]
 ---
 
 # Sjokoladerull

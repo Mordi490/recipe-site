@@ -15,8 +15,9 @@ ingredienser:
     "grønnsaksbuljong",
   ]
 tattFra: https://www.matprat.no/oppskrifter/sunn/tomatsuppe-med-kylling-bonner-og-basilikum-/
-images: [
-    "../../assets/recipe-images/web_tomatsuppe-med-kylling-bønner-og-basilikum.jpg", 
+images:
+  [
+    "../../assets/recipe-images/web_tomatsuppe-med-kylling-bønner-og-basilikum.jpg",
     "../../assets/recipe-images/web_tomatsuppe-med-kylling-og-basilikum-to.jpg",
   ]
 ---

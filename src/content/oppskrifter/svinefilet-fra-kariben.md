@@ -2,9 +2,10 @@
 title: Svinefilet fra karibien
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-images: [
-  "../../assets/recipe-images/web_svinefilet-fra-karibien-en.jpg", 
-  "../../assets/recipe-images/web_svinefilet-fra-kariben-to.jpg"
+images:
+  [
+    "../../assets/recipe-images/web_svinefilet-fra-karibien-en.jpg",
+    "../../assets/recipe-images/web_svinefilet-fra-kariben-to.jpg",
   ]
 ---
 

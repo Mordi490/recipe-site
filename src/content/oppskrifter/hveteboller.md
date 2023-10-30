@@ -2,8 +2,9 @@
 title: Hveteboller
 tags: ["dessert", "bakverk"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
-images: [
-  "../../assets/recipe-images/web_hveteboller-epleboller-med-melisglasur-mandelboller-vaniljeboller.jpg",
+images:
+  [
+    "../../assets/recipe-images/web_hveteboller-epleboller-med-melisglasur-mandelboller-vaniljeboller.jpg",
   ]
 ---
 

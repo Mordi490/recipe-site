@@ -30,7 +30,7 @@ images:
 
 1. Skjær kyllingfilet i strimler. Del løk i tynne båter, gulrot og vårløk i tynne skiver. Ha ingrediensene til sausen klar.
 
-2. Vend  kyllingstrimlene i maisstivelse og stek dem raskt i olije til de er gjennomstekt.
+2. Vend kyllingstrimlene i maisstivelse og stek dem raskt i olije til de er gjennomstekt.
 
 3. Ta kjøttet ut og fortsett med løk, gulrot og ingefær.
 

@@ -18,7 +18,7 @@ images: ["../../assets/recipe-images/web_hvetesnurre.jpg",
 - 150 g smør
 - 1/4 l melk
 
-## Fyll 
+## Fyll
 
 - 1 pose vaniljekrem
 - ca. 1 dl rosiner
