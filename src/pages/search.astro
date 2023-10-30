@@ -89,6 +89,17 @@ export const prerender = false;
 				}
 				</style></svg>`;
 
+  function generateSearchList(results: any) {
+    return results
+      .map((res: RecipeSearchResultItem) => {
+        const { slug, title } = res.item;
+        return `<li class="text-lg font-semibold active:underline hover:underline rounded-full px-4 py-2 truncate">
+                <a href="/oppskrifter/${slug}">${title}</a>
+                </li>`;
+      })
+      .join("");
+  }
+
   async function fetchSearchResult(search: string) {
     if (search.length === 0) return;
     resultsList.innerHTML = SPINNER;
@@ -127,17 +138,6 @@ export const prerender = false;
     score: number;
   };
 
-  function generateSearchList(results: any) {
-    return results
-      .map((res: RecipeSearchResultItem) => {
-        const { slug, title } = res.item;
-        return `<li class="text-lg font-semibold active:underline hover:underline rounded-full px-4 py-2 truncate">
-                <a href="/oppskrifter/${slug}">${title}</a>
-                </li>`;
-      })
-      .join("");
-  }
-
   // functions
   function updateDocumentTitle(search: string) {
     document.title = search
@@ -152,7 +152,7 @@ export const prerender = false;
   function updateSearchPageUrl(search: string) {
     const url = new URL(window.location.href);
     url.searchParams.set("q", search);
-    window.history.replaceState(null, "", search);
+    window.history.replaceState(null, "", url);
   }
 
   // event listeners
@@ -167,7 +167,7 @@ export const prerender = false;
     search.focus();
   });
 
-  window.addEventListener("input", () => {
+  search.addEventListener("input", () => {
     const searchTerm = search.value;
     updateDocumentTitle(searchTerm);
     updateSearchReadOut(searchTerm);
