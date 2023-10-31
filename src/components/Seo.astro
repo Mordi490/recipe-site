@@ -1,0 +1,37 @@
+---
+import siteDefaultData from "../data/siteDefaultData.json";
+
+const {
+  title,
+  description,
+  url = Astro.url,
+  images,
+  frontmatter,
+} = Astro.props;
+---
+
+<!-- SEO -->
+<link rel="canonical" href={url} />
+
+<!-- Open Graph -->
+<meta property="og:site_name" content="Bentes Oppskrifter" />
+<meta property="og:title" content={title} />
+<meta property="og:description" content={description} />
+<meta property="og:url" content={url} />
+<meta property="og:image" content={images?.[0] || siteDefaultData.image.src} />
+<meta
+  property="og:image:url"
+  content={images?.[0] || siteDefaultData.image.src}
+/>
+<meta
+  property="og:image:secure_url"
+  content={images?.[0] || siteDefaultData.image.src}
+/>
+
+<!-- Twitter -->
+<meta name="twitter:title" content={title} />
+<meta name="twitter:description" content={description} />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content={images?.[0] || siteDefaultData.image.src} />
+<meta name="twitter:image:alt" content={title} />
+<meta name="twitter:domain" content={import.meta.env.SITE} />
