@@ -8,10 +8,10 @@ import HeaderLink from "./HeaderLink.astro";
       transition:animate="none"
       class="mx-auto flex w-full max-w-3xl justify-around"
     >
-      <HeaderLink href="/">Hjem</HeaderLink>
-      <HeaderLink href="/oppskrifter">Oppskrifter</HeaderLink>
-      <HeaderLink href="/about">Om siden</HeaderLink>
-      <HeaderLink href="/search">
+      <HeaderLink href="/" aria-label="Startside">Hjem</HeaderLink>
+      <HeaderLink href="/oppskrifter" aria-label="Se oppskrifter">Oppskrifter</HeaderLink>
+      <HeaderLink href="/about" aria-label="Bakgrunn for siden">Om siden</HeaderLink>
+      <HeaderLink href="/search" aria-label="Søk etter oppsrkifter">
         <span class="flex items-center">
           <span class="hidden sm:inline-flex">
             Søk
