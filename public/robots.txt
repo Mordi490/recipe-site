@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bentesoppskrifter.no/sitemap-index.xml
