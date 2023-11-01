@@ -1,12 +1,12 @@
 ---
-title: Berlingerkranser
+title: Berlinerkranser
 tags: ["dessert", "kake"]
 ingredienser: ["smør", "sukker", "eggeplommer", "havregryn"]
 tattFra: https://www.detsoteliv.no/oppskrift/berlinerkranser
 images: ["../../assets/recipe-images/web_berlinerkranser.jpg"]
 ---
 
-# Berlingerkranser
+# Berlinerkranser
 
 ## Ingredienser
 
