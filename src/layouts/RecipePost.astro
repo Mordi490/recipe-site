@@ -8,7 +8,12 @@ type Props = CollectionEntry<"oppskrifter">["data"];
 const { title, tags, ingredienser, images, tattFra } = Astro.props;
 ---
 
-<Layout description={`Oppskrift for: ${title}`} tab_title={title}>
+<Layout
+  description={`Oppskrift for: ${title}`}
+  tab_title={title}
+  {images}
+  {title}
+>
   <section class="prose prose-lg mx-auto px-2 py-4 lg:prose-xl">
     {
       tattFra && (

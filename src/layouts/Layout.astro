@@ -3,6 +3,10 @@ interface Props {
   tab_title: string;
   description: string;
   page_title?: string;
+  title?: string;
+  images?: {
+    src: string;
+  }[];
 }
 
 import "../styles/globals.css";
@@ -10,8 +14,7 @@ import Footer from "../components/Footer.astro";
 import Header from "../components/Header.astro";
 import Seo from "../components/Seo.astro";
 
-const { tab_title, description, page_title, title, images, frontmatter } =
-  Astro.props;
+const { tab_title, description, page_title, title, images } = Astro.props;
 ---
 
 <!doctype html>
@@ -36,7 +39,7 @@ const { tab_title, description, page_title, title, images, frontmatter } =
     <!-- Primary Meta Tags -->
     <title>{tab_title}</title>
     <meta name="description" content={description} />
-    <Seo {title} {description} {images} {frontmatter} />
+    <Seo {title} {description} {images} />
   </head>
 
   <body>
