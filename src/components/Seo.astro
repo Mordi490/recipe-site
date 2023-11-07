@@ -1,31 +1,27 @@
 ---
-import siteDefaultData from "../data/siteDefaultData.json";
+interface Props {
+  title?: string;
+  description?: string;
+  url?: string;
+  seo_image?: string;
+}
 
-const { title, description, url = Astro.url, images } = Astro.props;
+const { title, description, url = Astro.url, seo_image } = Astro.props;
 ---
 
-<!-- SEO -->
 <link rel="canonical" href={url} />
 
 <!-- Open Graph -->
 <meta property="og:site_name" content="Bentes Oppskrifter" />
-<meta property="og:title" content={title} />
+<meta property="og:title" content={title || "Bentes Oppskrifter"} />
 <meta property="og:description" content={description} />
 <meta property="og:url" content={url} />
-<meta property="og:image" content={images?.[0] || siteDefaultData.image.src} />
-<meta
-  property="og:image:url"
-  content={images?.[0] || siteDefaultData.image.src}
-/>
-<meta
-  property="og:image:secure_url"
-  content={images?.[0] || siteDefaultData.image.src}
-/>
+<meta property="og:image" content={seo_image || "/preview-image.png"} />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
 
 <!-- Twitter -->
-<meta name="twitter:title" content={title} />
+<meta name="twitter:title" content={title || "Bentes Oppskrifter"} />
 <meta name="twitter:description" content={description} />
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:image" content={images?.[0] || siteDefaultData.image.src} />
-<meta name="twitter:image:alt" content={title} />
 <meta name="twitter:domain" content={import.meta.env.SITE} />

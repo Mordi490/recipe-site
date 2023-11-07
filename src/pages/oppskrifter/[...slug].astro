@@ -13,8 +13,44 @@ type Props = CollectionEntry<"oppskrifter">;
 
 const oppskrift = Astro.props;
 const { Content } = await oppskrift.render();
+
+let params = new URLSearchParams();
+
+const hasImages =
+  oppskrift.data.images && oppskrift.data.images.length > 0 ? true : false;
+
+if (hasImages) {
+  console.log("init: ", oppskrift.data.images?.[0].src);
+  // trim the path a bit
+  const fullPath = oppskrift.data.images?.[0].src.split("/") as string[];
+
+  const top = fullPath.indexOf("recipe-images");
+
+  const trimmedPath = fullPath
+    .slice(top + 1, fullPath.length)
+    .join(",")
+    .replaceAll(",", "/")
+    .toString();
+
+  console.log("trimmedPath: ", trimmedPath);
+
+  params.append("image=", trimmedPath); // this is the "_astro/{imagename}.jpg"
+}
+const ogImgPath = `${Astro.url.origin}/og/${oppskrift.slug}.png?${params}`;
+console.log(ogImgPath);
+
+// I was given:
+// og/eplestenger.png?image=%2F_astro%2Fweb_eplestenger.e2177a38.jpg
+
+// I want:
+// og/eplestenger.png?image=_astro/web_eplestenger.e2177a38.jpg
 ---
 
-<RecipePost {...oppskrift.data}>
+<RecipePost {...oppskrift.data} seo_image={ogImgPath}>
+  <pre>
+  OGPath: {ogImgPath}
+  hasImages: {JSON.stringify(hasImages)}
+  params: {params}
+  </pre>
   <Content />
 </RecipePost>
