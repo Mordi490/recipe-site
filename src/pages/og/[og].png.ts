@@ -35,8 +35,8 @@ export const GET: APIRoute = async ({ params, request }) => {
     <div
       tw="relative w-full h-full flex flex-col p-16 justify-center items-center text-white"
     >
-      <h2 tw="text-6xl text-center">${og}</h2>
-      <p tw="absolute bottom-12 inset-x-auto text-2xl opacity-80">
+      <h2 tw="text-7xl text-center font-bold">${og}</h2>
+      <p tw="absolute bottom-12 inset-x-auto text-3xl opacity-80">
         Oppskrift for: ${og}
       </p>
     </div>
