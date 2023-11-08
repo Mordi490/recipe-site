@@ -19,9 +19,9 @@ export const GET: APIRoute = async ({ params, request }) => {
   const data = Object.fromEntries(searchParams.entries());
   data.url = origin;
 
-  console.log("searchParams: ", searchParams);
-  console.log("data: ", data);
-  console.log("data.url: ", data.url);
+  //console.log("searchParams: ", searchParams);
+  //console.log("data: ", data);
+  //console.log("data.url: ", data.url);
 
   // slug OG-template, used when frontmatter is present
   const template = html`<div tw="flex relative w-[1200px] h-[630px]">

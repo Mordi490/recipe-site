@@ -20,7 +20,7 @@ const hasImages =
   oppskrift.data.images && oppskrift.data.images.length > 0 ? true : false;
 
 if (hasImages) {
-  console.log("init: ", oppskrift.data.images?.[0].src);
+  //console.log("init: ", oppskrift.data.images?.[0].src);
   // trim the path a bit
   const fullPath = oppskrift.data.images?.[0].src.split("/") as string[];
 
@@ -32,12 +32,12 @@ if (hasImages) {
     .replaceAll(",", "/")
     .toString();
 
-  console.log("trimmedPath: ", trimmedPath);
+  //console.log("trimmedPath: ", trimmedPath);
 
   params.append("image=", trimmedPath); // this is the "_astro/{imagename}.jpg"
 }
 const ogImgPath = `${Astro.url.origin}/og/${oppskrift.slug}.png?${params}`;
-console.log(ogImgPath);
+//console.log(ogImgPath);
 
 // I was given:
 // og/eplestenger.png?image=%2F_astro%2Fweb_eplestenger.e2177a38.jpg
@@ -47,10 +47,5 @@ console.log(ogImgPath);
 ---
 
 <RecipePost {...oppskrift.data} seo_image={ogImgPath}>
-  <pre>
-  OGPath: {ogImgPath}
-  hasImages: {JSON.stringify(hasImages)}
-  params: {params}
-  </pre>
   <Content />
 </RecipePost>
