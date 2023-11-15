@@ -1,7 +1,7 @@
 ---
 title: sukkerfri vaniljekesam
-tags: ["sukrin", "dessert", "kake"]
-ingredienser: ["sukrin", "egg", "rømme"]
+tags: ["sukrin", "dessert"]
+ingredienser: ["vanilje kesam", "sukrin melis", "vaniljesukker"]
 images: ["../../assets/recipe-images/web_sukrin-glasur-preview.jpg"]
 ---
 

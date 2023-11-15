@@ -1,7 +1,8 @@
 ---
 title: Muffins
-tags: ["dessert", "sukrin"]
-ingredienser: ["mandelmel", "sukrinmelis", "eggehviter"]
+tags: ["dessert", "småkaker"]
+ingredienser:
+  ["egg", "sukker", "hvetemel", "bakepulver", "kakao", "margarin", "melk"]
 images: ["../../assets/recipe-images/web_muffins.jpg"]
 ---
 

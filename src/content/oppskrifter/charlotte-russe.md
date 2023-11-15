@@ -1,7 +1,18 @@
 ---
 title: Charlotte Russe
-tags: ["dessert", "småkake"]
-ingredienser: ["kylling", "pasta", "brokkoli"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "egg",
+    "sukker",
+    "sitron",
+    "gelatin",
+    "kremfløte",
+    "hvetemel",
+    "bakepulver",
+    "syltetøy",
+    "bær",
+  ]
 images: ["../../assets/recipe-images/web_charlotte-russe-bløtkakelengde.jpg"]
 ---
 

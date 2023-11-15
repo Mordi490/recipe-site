@@ -1,7 +1,17 @@
 ---
 title: Spicy couscoussalat
-tags: ["dessert", "sukrin"]
-ingredienser: ["mandelmel", "sukrinmelis", "eggehviter"]
+tags: ["tilbehør", "middag"]
+ingredienser:
+  [
+    "svinekjøtt",
+    "hvitløk",
+    "tacokrydder",
+    "couscous",
+    "tomat",
+    "agurk",
+    "lime",
+    "persille",
+  ]
 tattFra: https://www.matprat.no/oppskrifter/sunn/spicy-couscoussalat/
 images: ["../../assets/recipe-images/web_spicy-couscoussalat.jpg"]
 ---

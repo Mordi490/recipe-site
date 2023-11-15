@@ -1,15 +1,19 @@
 ---
 title: Sjokolademuffins 2
-tags: ["bakverk", "bolle", "rundstykke"]
+tags: ["dessert", "småkaker"]
 ingredienser:
   [
-    "sukker",
-    "sammalt hvetemel",
-    "sukker",
-    "hornsalt",
+    "hvetemel",
+    "kakaopulver",
     "bakepulver",
-    "margarin",
-    "sur melk",
+    "vaniljesukker",
+    "sukker",
+    "kokesjokolade",
+    "egg",
+    "smør",
+    "melk",
+    "melis",
+    "mints",
   ]
 images: ["../../assets/recipe-images/web_sjokolademuffins-dronningens-drøm.jpg"]
 ---

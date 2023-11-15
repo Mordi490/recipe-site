@@ -1,7 +1,18 @@
 ---
 title: Grønnsaksfylte pannekaker
-tags: ["dessert", "sukrin"]
-ingredienser: ["mandelmel", "sukrinmelis", "eggehviter"]
+tags: ["middag"]
+ingredienser:
+  [
+    "egg",
+    "hvetemel",
+    "melk",
+    "løk",
+    "brokkoli",
+    "squash",
+    "vårløk",
+    "gulrot",
+    "ingefær",
+  ]
 tattFra: https://bramat.no/treningtrening/ovelsesbank/287-slik-blir-du-kvitt-hengerumpa
 images: ["../../assets/recipe-images/web_grønnsaksfylte-pannekaker.jpg"]
 ---

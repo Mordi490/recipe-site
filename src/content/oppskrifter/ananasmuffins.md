@@ -1,7 +1,8 @@
 ---
 title: Ananasmuffins
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "bakverk", "muffins"]
+ingredienser:
+  ["sukker", "smør", "egg", "hvetemel", "bakepulver", "fløte", "ananas"]
 images: ["../../assets/recipe-images/web_ananasmuffins.jpg"]
 ---
 

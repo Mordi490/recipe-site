@@ -1,7 +1,20 @@
 ---
 title: Sjokoladekake 3
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "egg",
+    "sukker",
+    "margarin",
+    "sitron",
+    "melk",
+    "hvetemel",
+    "bakepulver",
+    "kakao",
+    "vaniljesukker",
+    "kaffe",
+    "melis",
+  ]
 images: ["../../assets/recipe-images/web_sjokoladekake-4.jpg"]
 ---
 

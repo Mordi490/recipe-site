@@ -1,7 +1,20 @@
 ---
 title: Blåbærostekake
 tags: ["ostekake", "dessert", "kake"]
-ingredienser: ["sukrin", "egg", "rømme"]
+ingredienser:
+  [
+    "havrekjeks",
+    "smør",
+    "blåbærgelè",
+    "blåbær",
+    "kremost",
+    "Mana-juice",
+    "melis",
+    "helmelk",
+    "vaniljesukker",
+    "gelatin",
+    "kremfløte",
+  ]
 images: ["../../assets/recipe-images/web_blåbærostekake.jpg"]
 ---
 

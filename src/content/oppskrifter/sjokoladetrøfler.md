@@ -1,7 +1,7 @@
 ---
 title: Sjokoladetrøfler
-tags: ["dessert", "sjokolade"]
-ingredienser: ["sjokolade", "fløte", "smør", "kakaopulver"]
+tags: ["dessert", "småkaker"]
+ingredienser: ["sjokolade", "fløte", "smør", "kakaopulver", "kaffe", "konjakk"]
 images: ["../../assets/recipe-images/web_sjokotrøfler.jpg"]
 ---
 

@@ -1,7 +1,16 @@
 ---
 title: Saftig langpannekake
-tags: ["sukrin", "dessert", "kake"]
-ingredienser: ["sukrin", "egg", "rømme"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "hvetemel",
+    "sukker",
+    "kakao",
+    "natron",
+    "bakepulver",
+    "vaniljesukker",
+    "skummet kulturmelk",
+  ]
 images:
   [
     "../../assets/recipe-images/web_blomstersjokoladekake-saftig-langpannekake.jpg",

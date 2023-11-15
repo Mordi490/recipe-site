@@ -1,7 +1,20 @@
 ---
 title: Sild med frukt
-tags: ["dessert", "småkake"]
-ingredienser: ["havregryn", "egg", "smør"]
+tags: ["pålegg", "tilbehør"]
+ingredienser:
+  [
+    "kryddersildfileter",
+    "fersken",
+    "banan",
+    "epler",
+    "sylteagurker",
+    "lettrømme",
+    "sitronsaft",
+    "sennep",
+    "ketchup",
+    "sherry",
+    "valnøtter",
+  ]
 images: ["../../assets/recipe-images/web_sild-med-frukt-sildesalat.jpg"]
 ---
 

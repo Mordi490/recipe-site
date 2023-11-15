@@ -1,7 +1,20 @@
 ---
 title: Ostekake med kransekakemasse
 tags: ["ostekake", "dessert", "kake"]
-ingredienser: ["sukrin", "egg", "rømme"]
+ingredienser:
+  [
+    "kransekakemasse",
+    "kakao",
+    "gelatin",
+    "melk",
+    "hvit sjokolade",
+    "egg",
+    "melis",
+    "ricottaost",
+    "kremfløte",
+    "hjertesjokolade",
+    "hjertestrøssel",
+  ]
 images: ["../../assets/recipe-images/web_ostekake-med-kransekakemasse.jpg"]
 ---
 

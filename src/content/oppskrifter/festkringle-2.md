@@ -1,7 +1,18 @@
 ---
 title: Festkringle 2
-tags: ["dessert", "småkake"]
-ingredienser: ["havregryn", "egg", "smør"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "hvetemel",
+    "smør",
+    "gjær",
+    "egg",
+    "fløte",
+    "sukker",
+    "melis",
+    "mandler",
+    "kanel",
+  ]
 images: ["../../assets/recipe-images/web_festkringle.jpg"]
 ---
 

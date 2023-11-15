@@ -1,16 +1,8 @@
 ---
 title: Scones 2
-tags: ["bakverk", "bolle", "rundstykke"]
+tags: ["bakverk", "boller", "rundstykker"]
 ingredienser:
-  [
-    "sukker",
-    "sammalt hvetemel",
-    "sukker",
-    "hornsalt",
-    "bakepulver",
-    "margarin",
-    "sur melk",
-  ]
+  ["hvetemel", "sammalt hvete", "sukker", "bakepulver", "margarin", "melk"]
 images: ["../../assets/recipe-images/web_scones.jpg"]
 ---
 

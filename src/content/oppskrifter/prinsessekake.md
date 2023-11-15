@@ -1,7 +1,7 @@
 ---
 title: prinsessekake
 tags: ["bakverk", "dessert", "kake"]
-ingredienser: ["sukker", "kakao", "vann", "melk"]
+ingredienser: ["smør", "melk", "gjær", "sukker", "kardemomme", "hvetemel"]
 images: ["../../assets/recipe-images/web_prinsessekake-skolebrød.jpg"]
 ---
 

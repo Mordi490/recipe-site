@@ -1,7 +1,18 @@
 ---
 title: Islandskake
-tags: ["dessert", "bakverk", "sukrin"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "bakverk", "iskake", "kake"]
+ingredienser:
+  [
+    "eggehviter",
+    "sukker",
+    "kokos",
+    "kokesjokolade",
+    "potetmel",
+    "bakepulver",
+    "vaniljekrem",
+    "kremfløte",
+    "kokesjokolade",
+  ]
 tattFra: https://www.detsoteliv.no/oppskrift/islandskake
 images: ["../../assets/recipe-images/web_islandskake.jpg"]
 ---

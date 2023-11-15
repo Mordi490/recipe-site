@@ -1,7 +1,7 @@
 ---
 title: Eplekake Sukrin
-tags: ["sukrin", "dessert", "kake", "eple"]
-ingredienser: ["sukrin", "egg", "rømme"]
+tags: ["sukrin", "kake"]
+ingredienser: ["sukrin kakemiks", "egg", "epler"]
 images: ["../../assets/recipe-images/web_eplekake.jpg"]
 ---
 

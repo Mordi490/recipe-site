@@ -1,7 +1,21 @@
 ---
 title: Krydret kyllingsalat
-tags: ["middag", "suppe"]
-ingredienser: ["kylling", "pasta", "brokkoli"]
+tags: ["middag"]
+ingredienser:
+  [
+    "kyllingfilet",
+    "spisskumin",
+    "pasta",
+    "asparges",
+    "sukkererter",
+    "gulrot",
+    "rødløk",
+    "kesam",
+    "yoghurt",
+    "karri",
+    "sitron",
+    "sukker",
+  ]
 tattFra: https://www.matprat.no/oppskrifter/sunn/kyllingsuppe-med-pasta-og-brokkoli/
 images: ["../../assets/recipe-images/web_krydret-kyllingsalat.jpg"]
 ---

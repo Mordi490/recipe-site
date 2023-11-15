@@ -1,7 +1,17 @@
 ---
 title: Hjertekake
-tags: ["drikke", "dessert"]
-ingredienser: ["sukker", "vann", "melk"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "egg",
+    "sukker",
+    "hvetemel",
+    "bakepulver",
+    "makronfyll",
+    "melis",
+    "kakao",
+    "hjertestrøssel",
+  ]
 images: ["../../assets/recipe-images/web_hjertekake.jpg"]
 ---
 

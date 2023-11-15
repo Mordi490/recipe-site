@@ -1,7 +1,7 @@
 ---
 title: Skumgodt
-tags: ["dessert", "småkake"]
-ingredienser: ["kylling", "pasta", "brokkoli"]
+tags: ["dessert", "godteri"]
+ingredienser: ["gelatin", "eggehviter", "sukker", "kokosmasse"]
 images: ["../../assets/recipe-images/web_skumgodt.jpg"]
 ---
 
@@ -9,7 +9,7 @@ images: ["../../assets/recipe-images/web_skumgodt.jpg"]
 
 ## Ingredienser
 
-- 7 plater gleatin
+- 7 plater gelatin
 - 4 eggehviter
 - 3 1/2 dl sukker
 - 2 dl kokosmasse

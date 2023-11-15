@@ -1,7 +1,17 @@
 ---
 title: Klippfiskboller
-tags: ["middag", "suppe"]
-ingredienser: ["kylling", "pasta", "brokkoli"]
+tags: ["middag"]
+ingredienser:
+  [
+    "klippfisk",
+    "potet",
+    "hvitløk",
+    "persille",
+    "melk",
+    "hvetemel",
+    "egg",
+    "loffsmuler",
+  ]
 tattFra: https://www.nrk.no/mat/klippfiskboller-1.8026137
 images:
   [

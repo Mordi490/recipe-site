@@ -1,7 +1,7 @@
 ---
 title: Små kringler
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser: ["smør", "hvetemel", "sukker", "vaniljesukker", "gjær"]
 images:
   [
     "../../assets/recipe-images/web_melisboller-små-kringler-en.jpg",

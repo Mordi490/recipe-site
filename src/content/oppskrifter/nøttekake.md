@@ -1,7 +1,17 @@
 ---
 title: Nøttekake
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "eggehviter",
+    "melis",
+    "hasselnøtter",
+    "bakepulver",
+    "vaniljesukker",
+    "kremfløte",
+    "sukker",
+    "kokesjokolade",
+  ]
 images: ["../../assets/recipe-images/web_nøttekake.jpg"]
 ---
 
@@ -16,6 +26,10 @@ images: ["../../assets/recipe-images/web_nøttekake.jpg"]
 - 1 ts vaniljesukker
 
 ### Fyll og pynt
+
+- 5 dl kremfløte
+- 2 ss sukker
+- 100 g reven kokesjokolade
 
 ## Instruksjoner
 

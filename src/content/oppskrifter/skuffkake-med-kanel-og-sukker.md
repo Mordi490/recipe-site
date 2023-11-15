@@ -1,7 +1,7 @@
 ---
 title: Skuffkake med kanel og sukker
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser: ["smør", "sukker", "smør", "melk", "hvetemel", "bakepulver"]
 images: ["../../assets/recipe-images/web_wienerstenger.jpg"]
 ---
 

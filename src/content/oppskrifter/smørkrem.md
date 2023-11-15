@@ -1,7 +1,17 @@
 ---
 title: Smørkrem
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "glasur"]
+ingredienser:
+  [
+    "smør",
+    "melis",
+    "eggeplommer",
+    "vaniljesukker",
+    "likør",
+    "kakao",
+    "konjakk",
+    "kaffe",
+  ]
 ---
 
 # Smørkrem

@@ -1,7 +1,16 @@
 ---
 title: Chop suey wok
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["middag"]
+ingredienser:
+  [
+    "svinekjøtt",
+    "paprika",
+    "kinakål",
+    "bønnespirer",
+    "nudler",
+    "woksaus",
+    "koriander",
+  ]
 images:
   [
     "../../assets/recipe-images/web_kylling-chop-suey.jpg",

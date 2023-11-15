@@ -1,7 +1,19 @@
 ---
 title: Solbærkake
-tags: ["dessert", "småkake"]
-ingredienser: ["kylling", "pasta", "brokkoli"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "egg",
+    "sukker",
+    "hvetemel",
+    "bakepulver",
+    "solbær",
+    "cremè de cassis",
+    "gelatin",
+    "kremfløte",
+    "mandelflak",
+    "melis",
+  ]
 images: ["../../assets/recipe-images/web_solbærkake.jpg"]
 ---
 
@@ -19,7 +31,7 @@ images: ["../../assets/recipe-images/web_solbærkake.jpg"]
 ### Fyll
 
 - 5 dl solbær
-- 90 g
+- 90 g sukker
 - 3 ss cremè de cassis (solbærlikør)
 - 6 plater gelatin
 - 2-3 ss kokende vann

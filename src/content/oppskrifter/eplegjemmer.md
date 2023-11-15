@@ -1,7 +1,20 @@
 ---
 title: Eplegjemmer
 tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+ingredienser:
+  [
+    "smør",
+    "melk",
+    "kardemomme",
+    "sukker",
+    "gjær",
+    "egg",
+    "hvetemel",
+    "eplemos",
+    "marsipan",
+    "fløte",
+    "nøtter",
+  ]
 images:
   [
     "../../assets/recipe-images/web_hvetebrød-med-rosiner-klippekrans-mandelfylte-smørboller-eplegjemmer.jpg",

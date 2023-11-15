@@ -1,7 +1,18 @@
 ---
 title: Skinke- og grønnsaksgrateng
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["middag"]
+ingredienser:
+  [
+    "fennikel",
+    "brokkoli",
+    "sjampinjong",
+    "purre",
+    "skinke",
+    "melk",
+    "egg",
+    "muskatnøtt",
+    "ost",
+  ]
 images:
   [
     "../../assets/recipe-images/web_skinke-og-grønnsakgrateng.jpg",

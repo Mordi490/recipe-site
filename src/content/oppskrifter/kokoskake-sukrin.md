@@ -1,7 +1,7 @@
 ---
 title: Kokoskake Sukrin
-tags: ["sukrin", "dessert", "kake", "eple"]
-ingredienser: ["sukrin", "egg", "rømme"]
+tags: ["sukrin", "dessert", "kake"]
+ingredienser: ["sukrin kakemiks", "egg", "kanel", "kokosmasse"]
 images: ["../../assets/recipe-images/web_kokoskake-sukrin.jpg"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Havreflarn
-tags: ["dessert", "småkake"]
-ingredienser: ["havregryn", "egg", "smør"]
+tags: ["dessert", "småkaker"]
+ingredienser: ["havregryn", "egg", "smør", "sukker", "hvetemel", "bakepulver"]
 images: ["../../assets/recipe-images/web_nøtteflarn-havreflarn.jpg"]
 ---
 

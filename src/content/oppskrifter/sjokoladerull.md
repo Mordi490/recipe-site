@@ -1,15 +1,19 @@
 ---
 title: Sjokoladerull
-tags: ["bakverk", "bolle", "rundstykke"]
+tags: ["dessert", "kake"]
 ingredienser:
   [
+    "egg",
     "sukker",
-    "sammalt hvetemel",
-    "sukker",
-    "hornsalt",
+    "kakao",
+    "hvetemel",
     "bakepulver",
-    "margarin",
-    "sur melk",
+    "kokesjokolade",
+    "smør",
+    "kaffe",
+    "melis",
+    "brandy",
+    "kremfløte",
   ]
 images:
   [

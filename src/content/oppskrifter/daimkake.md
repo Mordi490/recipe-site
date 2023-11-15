@@ -1,16 +1,8 @@
 ---
 title: Daimkake
-tags: ["bakverk", "bolle", "rundstykke"]
+tags: ["kake"]
 ingredienser:
-  [
-    "sukker",
-    "sammalt hvetemel",
-    "sukker",
-    "hornsalt",
-    "bakepulver",
-    "margarin",
-    "sur melk",
-  ]
+  ["egg", "sukker", "mandler", "bakepulver", "kremfløte", "kakao", "daim"]
 images:
   [
     "../../assets/recipe-images/web_daimkake-en.jpg",

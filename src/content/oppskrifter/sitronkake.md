@@ -1,7 +1,18 @@
 ---
 title: Sitronkake
-tags: ["ostekake", "dessert", "kake"]
-ingredienser: ["sukrin", "egg", "rømme"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "smør",
+    "hvetemel",
+    "sukker",
+    "egg",
+    "kakestrøssel",
+    "kremost",
+    "lettrømme",
+    "cottage cheese",
+    "sitron",
+  ]
 images: ["../../assets/recipe-images/web_sitronkake.jpg"]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Tomatsuppe med kylling, bønner og basilikum
-tags: ["dessert", "bakverk"]
+tags: ["middag", "lunsj"]
 ingredienser:
   [
     "kyllingfilet",

@@ -1,7 +1,18 @@
 ---
 title: Mammas marengskake
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "bakverk", "kake"]
+ingredienser:
+  [
+    "smør",
+    "sukker",
+    "egg",
+    "hvetemel",
+    "bakepulver",
+    "melk",
+    "marsipan",
+    "kremfløte",
+    "vaniljesukker",
+  ]
 images: ["../../assets/recipe-images/web_mammas-marengskake.jpg"]
 ---
 
@@ -11,15 +22,23 @@ images: ["../../assets/recipe-images/web_mammas-marengskake.jpg"]
 
 ### Bunn
 
-- 200 g (ca. 3 dl) nøttekjerner
-- 1/2 ts bakepulver
+- 75 g smør
+- 1 dl sukker
+- 4 eggeplommer
+- 1 1/2 dl hvetemel
+- 1 1/2 ts bakepulver
+- 2 ss melk
+
+### Pynt
+
 - 4 eggehviter
-- 2 1/2 dl sukker
+- 2 dl sukker
+- ca. 35 g marsipan
 
-### Fyll og pynt
+### Fyll
 
-- 3 dl kremfløte
-- 1 boks hermetiske kirsebær i sukkerlake eller 250 g dypfryste, sukrede bjørnebær
+- 2-3 dl kremfløte
+- 2 ts vaniljesukker
 
 ## Instruksjon
 

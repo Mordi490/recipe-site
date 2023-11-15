@@ -1,7 +1,17 @@
 ---
 title: Kirsebærpai
-tags: ["dessert", "småkake"]
-ingredienser: ["kylling", "pasta", "brokkoli"]
+tags: ["dessert", "pai"]
+ingredienser:
+  [
+    "hvetemel",
+    "muskat",
+    "margarin",
+    "kirsebær",
+    "mandler",
+    "sukker",
+    "melis",
+    "sitronsaft",
+  ]
 images:
   ["../../assets/recipe-images/web_kirsebærpai-smuldrepai-med-kirsebær.jpg"]
 ---

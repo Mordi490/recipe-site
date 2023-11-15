@@ -1,7 +1,7 @@
 ---
 title: Nøttedipp
-tags: ["dessert", "småkake"]
-ingredienser: ["kylling", "pasta", "brokkoli"]
+tags: ["dessert", "dipp"]
+ingredienser: ["cottage cheese", "yoghurt", "nøtter", "sitronsaft", "sukker"]
 images:
   [
     "../../assets/recipe-images/web_nøttedip-appelsindipp-ananasdipp-normannadipp.jpg",

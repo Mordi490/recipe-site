@@ -1,7 +1,24 @@
 ---
 title: Klassefestkake
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "smør",
+    "kokesjokolade",
+    "egg",
+    "hvetemel",
+    "sukker",
+    "kakao",
+    "bakepulver",
+    "aprikossyltetøy",
+    "kremfløte",
+    "drop",
+    "nonstop",
+    "sjokoladebokstaver",
+    "kokesjokolade",
+    "frukt",
+    "bær",
+  ]
 images: ["../../assets/recipe-images/web_klassefestkake.jpg"]
 ---
 

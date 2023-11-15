@@ -1,7 +1,7 @@
 ---
 title: sitronkake-sukrin
-tags: ["sukrin", "dessert", "kake"]
-ingredienser: ["sukrin", "egg", "rømme"]
+tags: ["dessert", "kake"]
+ingredienser: ["egg", "rømme", "sitron", "sukrin kakemiks"]
 images: ["../../assets/recipe-images/web_sitronkake-sukrin.jpg"]
 ---
 

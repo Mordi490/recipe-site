@@ -1,7 +1,7 @@
 ---
 title: Mazariner
-tags: ["dessert", "småkake"]
-ingredienser: ["havregryn", "egg", "smør"]
+tags: ["dessert", "småkaker"]
+ingredienser: ["smør", "melis", "eggeplomme", "hvetemel", "mandler", "egg"]
 ---
 
 # Mazariner

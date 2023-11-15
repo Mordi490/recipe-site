@@ -1,7 +1,8 @@
 ---
 title: Kanelsnurrer
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "småkaker"]
+ingredienser:
+  ["smør", "melk", "gjær", "sukker", "hvetemel", "kanel", "kardemomme", "egg"]
 images:
   [
     "../../assets/recipe-images/web_kanelsnurrer-2.jpg",

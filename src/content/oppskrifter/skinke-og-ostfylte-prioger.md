@@ -1,7 +1,7 @@
 ---
 title: Skinke- og ostefylte piroger
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["middag"]
+ingredienser: ["gjær", "smør", "melk", "sukker", "egg", "hvetemel"]
 images: ["../../assets/recipe-images/web_skinke-og-ostefylte-piroger.jpg"]
 ---
 

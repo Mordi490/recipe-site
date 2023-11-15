@@ -1,7 +1,20 @@
 ---
 title: Tacosalat
-tags: ["dessert", "sukrin"]
-ingredienser: ["mandelmel", "sukrinmelis", "eggehviter"]
+tags: ["lunsj", "tilbehør"]
+ingredienser:
+  [
+    "kjøttdeig",
+    "hvitløk",
+    "tacokrydder",
+    "røde bønner",
+    "rødløk",
+    "sitron",
+    "hjertesalat",
+    "nachochips",
+    "vårløk",
+    "jalapeño",
+    "koriander",
+  ]
 tattFra: https://www.matprat.no/oppskrifter/kos/tacosalat/
 images: ["../../assets/recipe-images/web_tacosalat.jpg"]
 ---

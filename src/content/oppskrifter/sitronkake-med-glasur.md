@@ -1,7 +1,7 @@
 ---
 title: Sitronkake med glasur
-tags: ["dessert", "småkake"]
-ingredienser: ["havregryn", "egg", "smør"]
+tags: ["dessert", "kake"]
+ingredienser: ["smør", "sukker", "egg", "sitron", "hvetemel", "bakepulver"]
 images:
   [
     "../../assets/recipe-images/web_sjokolade-dessert-sitronkake-med-glasur-en.jpg",

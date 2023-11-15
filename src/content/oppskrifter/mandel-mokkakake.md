@@ -1,7 +1,17 @@
 ---
 title: Mandel-mokkakake
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "mandler",
+    "kokesjokolade",
+    "melis",
+    "eggehviter",
+    "melis",
+    "eggeplommer",
+    "vaniljestang",
+    "kaffe",
+  ]
 images: ["../../assets/recipe-images/web_mandel-mokkakake.jpg"]
 ---
 

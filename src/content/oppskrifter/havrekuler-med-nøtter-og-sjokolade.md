@@ -1,7 +1,17 @@
 ---
 title: Havrekuler med nøtter og sjokolade
-tags: ["sukrin", "dessert", "kake"]
-ingredienser: ["sukrin", "egg", "rømme"]
+tags: ["dessert", "småkake"]
+ingredienser:
+  [
+    "mørk sjokolade",
+    "hasselnøtter",
+    "havregryn",
+    "sukker",
+    "kakao",
+    "smør",
+    "fløte",
+    "kakestrøssel",
+  ]
 images:
   ["../../assets/recipe-images/web_havrekuler-med-nøtter-og-sjokolade.jpg"]
 ---
@@ -17,7 +27,7 @@ images:
 - 50 g kakao
 - 100 g smør
 - ca. 1/2 dl fløte
-- **Pynt: kakestrø eller kakao**
+- **Pynt: kakestrøssel eller kakao**
 
 ## Instruksjoner
 

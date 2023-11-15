@@ -2,14 +2,7 @@
 title: Grønnsakssuppe 2
 tags: ["suppe", "middag"]
 ingredienser:
-  [
-    "hakkede tomater",
-    "grønn paprika",
-    "løk",
-    "kålhode",
-    "sellerirot",
-    "gulerøtter",
-  ]
+  ["toamt", "paprika", "løk", "hodekål", "selleri", "buljongterninger", "urter"]
 images: ["../../assets/recipe-images/web_grønnsaksuppe-1-grønnsaksuppe-2.jpg"]
 ---
 

@@ -1,7 +1,23 @@
 ---
 title: Dansk smørkake
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "bakverk", "kake"]
+ingredienser:
+  [
+    "sukker",
+    "smør",
+    "kardemomme",
+    "fløte",
+    "eggeplommer",
+    "vaniljesukker",
+    "masiennamel",
+    "melis",
+    "melk",
+    "egg",
+    "hvetemel",
+    "kanel",
+    "mandler",
+    "mandelflak",
+  ]
 images: ["../../assets/recipe-images/web_dansk-smørbake.jpg"]
 ---
 

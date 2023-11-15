@@ -1,7 +1,17 @@
 ---
 title: Serinakaker
-tags: ["middag", "suppe"]
-ingredienser: ["kylling", "pasta", "brokkoli"]
+tags: ["småkaker", "dessert"]
+ingredienser:
+  [
+    "hvetemel",
+    "bakepulver",
+    "vaniljesukker",
+    "smør",
+    "sukker",
+    "egg",
+    "mandler",
+    "eggehvite",
+  ]
 tattFra: https://www.detsoteliv.no/oppskrift/serinakaker
 images: ["../../assets/recipe-images/web_serinakaker.jpg"]
 ---

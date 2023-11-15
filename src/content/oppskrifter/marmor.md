@@ -1,7 +1,17 @@
 ---
 title: Marmorkake
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "margarin",
+    "sukker",
+    "egg",
+    "melk",
+    "hvetemel",
+    "bakepulver",
+    "kakao",
+    "vaniljesukker",
+  ]
 images:
   [
     "../../assets/recipe-images/web_marmorkake-en.jpg",
@@ -20,7 +30,7 @@ images:
 - 4 dl (240 g) hvetemel
 - 1 1/2 ts bakepulver
 - 2 ss kakao
-- 1 ts
+- 1 ts vaniljesukker
 - 2 ss sukker
 - ca. 2 ss lettmelk
 

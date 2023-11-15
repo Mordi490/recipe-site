@@ -1,7 +1,8 @@
 ---
 title: Ostekake med daimsjokolade
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser:
+  ["egg", "melis", "mandler", "gelatin", "kaffe", "sukker", "fløte", "daim"]
 images:
   [
     "../../assets/recipe-images/web_ostesouffle-bacon-ostekake-daimsjokolade.jpg",

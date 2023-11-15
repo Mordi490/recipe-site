@@ -1,7 +1,19 @@
 ---
 title: Finbakst
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["brød"]
+ingredienser:
+  [
+    "gjær",
+    "smør",
+    "melk",
+    "sukker",
+    "kardemomme",
+    "hvetemel",
+    "kransekakemasse",
+    "egg",
+    "perlesukker",
+    "mandelspon",
+  ]
 ---
 
 # Finbakst

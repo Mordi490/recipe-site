@@ -1,7 +1,8 @@
 ---
 title: Langstekt brød med kavre
-tags: ["dessert", "småkake"]
-ingredienser: ["havregryn", "egg", "smør"]
+tags: ["brød"]
+ingredienser:
+  ["rug grov", "rug fin", "hvetemel", "honning", "skummet melk", "karve"]
 images:
   ["../../assets/recipe-images/web_langstekt-brød-med-kavre-vørtekake.jpg"]
 ---

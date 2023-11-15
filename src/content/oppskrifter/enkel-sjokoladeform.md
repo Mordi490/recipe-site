@@ -1,7 +1,7 @@
 ---
 title: Enkel sjokladeform
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser: ["egg", "sukker", "hvetemel", "bakepulver", "vaniljesukker", "kakao", "kardemomme"]
 images: ["../../assets/recipe-images/web_enkel-sjokoladeform.jpg",
 "../../assets/recipe-images/enkel-sjokoladeform-preview.jpg"]
 ---

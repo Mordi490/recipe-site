@@ -1,7 +1,16 @@
 ---
 title: Krumkaker
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "bakverk", "småkaker", "jul"]
+ingredienser:
+  [
+    "margarin",
+    "sukker",
+    "egg",
+    "hvetemel",
+    "potetmel",
+    "bakepulver",
+    "kardemomme",
+  ]
 images: ["../../assets/recipe-images/web_krumkaker.jpg"]
 ---
 

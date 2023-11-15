@@ -1,7 +1,20 @@
 ---
 title: Sesamfrøkake med kremtopp
-tags: ["dessert", "småkake"]
-ingredienser: ["kylling", "pasta", "brokkoli"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "margarin",
+    "brunt sukker",
+    "egg",
+    "melk",
+    "sesamfrø",
+    "hvete grov",
+    "hvetemel",
+    "bakepulver",
+    "cremè fraîche",
+    "sitron",
+    "honnings",
+  ]
 images:
   [
     "../../assets/recipe-images/web_ferskenpai-gresskarpai-med-valnøtter-plommepai-sesamfrøkake-med-kremtopp.jpg",

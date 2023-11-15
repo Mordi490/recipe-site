@@ -1,7 +1,7 @@
 ---
 title: Wienerlengder
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser: ["smør", "sukker", "rosiner", "sukat", "kardemomme", "melis"]
 images:
   [
     "../../assets/recipe-images/web_hvetebrød-med-rosiner-klippekrans-mandelfylte-smørboller-eplegjemmer.jpg",

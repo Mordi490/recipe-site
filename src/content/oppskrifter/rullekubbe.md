@@ -1,7 +1,7 @@
 ---
 title: Rullekubbe
-tags: ["sukrin", "dessert", "kake"]
-ingredienser: ["sukrin", "egg", "rømme"]
+tags: ["dessert", "kake"]
+ingredienser: ["egg", "sukker", "hvetemel", "kakao", "appelsinlikør", "melis"]
 images: ["../../assets/recipe-images/web_rullekubbe-hege-lillys-langpanne.jpg"]
 ---
 

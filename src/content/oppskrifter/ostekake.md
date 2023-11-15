@@ -1,7 +1,17 @@
 ---
 title: Ostekake
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake", "ostekake"]
+ingredienser:
+  [
+    "digestive kjeks",
+    "margarin",
+    "fløte",
+    "rømme",
+    "cottage cheese",
+    "melis",
+    "vaniljesukker",
+    "sitrongelè",
+  ]
 images: ["../../assets/recipe-images/web_ostekake-3.jpg"]
 ---
 

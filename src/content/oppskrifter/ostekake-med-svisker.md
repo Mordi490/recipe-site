@@ -1,7 +1,20 @@
 ---
 title: Ostekake med svisker
 tags: ["ostekake", "dessert", "kake"]
-ingredienser: ["sukrin", "egg", "rømme"]
+ingredienser:
+  [
+    "hvetemel",
+    "smør",
+    "eggeplomme",
+    "svisker",
+    "rom",
+    "portvin",
+    "kremost",
+    "egg",
+    "sukker",
+    "kremfløte",
+    "maisennamel",
+  ]
 images: ["../../assets/recipe-images/web_ostekake-med-svisker.jpg"]
 ---
 

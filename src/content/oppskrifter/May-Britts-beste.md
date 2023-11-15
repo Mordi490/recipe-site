@@ -1,7 +1,18 @@
 ---
 title: May-Britts beste
 tags: ["ostekake", "dessert", "kake"]
-ingredienser: ["sukrin", "egg", "rømme"]
+ingredienser:
+  [
+    "digestive kjeks",
+    "smør",
+    "daimstrøssel",
+    "daim",
+    "kremfløte",
+    "sukker",
+    "eggehviter",
+    "kremost",
+    "eggeplommer",
+  ]
 images: ["../../assets/recipe-images/web_may-britts-beste.jpg"]
 ---
 
@@ -19,7 +30,7 @@ images: ["../../assets/recipe-images/web_may-britts-beste.jpg"]
 - 2 1/2 dl sukker
 - 3 eggehviter
 - 125 g kremost naturell
-- 3 egeplommer
+- 3 eggeplommer
 
 ## Instruksjoner
 

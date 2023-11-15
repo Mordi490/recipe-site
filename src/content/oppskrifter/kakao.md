@@ -1,7 +1,7 @@
 ---
 title: kakao
 tags: ["drikke", "dessert"]
-ingredienser: ["sukker", "kakao", "vann", "melk"]
+ingredienser: ["sukker", "kakao", "melk"]
 images: ["../../assets/recipe-images/web_scones-kakao-2.jpg"]
 ---
 

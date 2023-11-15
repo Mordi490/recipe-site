@@ -1,7 +1,18 @@
 ---
 title: Rullekake med smørkrem
-tags: ["dessert", "småkake"]
-ingredienser: ["kylling", "pasta", "brokkoli"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "egg",
+    "sukker",
+    "hvetemel",
+    "kakao",
+    "bakepulver",
+    "smør",
+    "melis",
+    "eggeplommer",
+    "vaniljesukker",
+  ]
 images:
   [
     "../../assets/recipe-images/web_sjokolade-rullekake-med-smørkrem-rullekake-med-syltetøy.jpg",

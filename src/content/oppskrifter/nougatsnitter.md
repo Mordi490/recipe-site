@@ -1,7 +1,7 @@
 ---
 title: Nougatsnitter
-tags: ["sukrin", "dessert", "kake"]
-ingredienser: ["sukrin", "egg", "rømme"]
+tags: ["dessert", "småkaker"]
+ingredienser: ["nougat", "hasselnøtter", "valnøtter", "sjokolade"]
 images: ["../../assets/recipe-images/web_after-eight-nougatsnitter.jpg"]
 ---
 

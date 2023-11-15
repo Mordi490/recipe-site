@@ -1,7 +1,7 @@
 ---
 title: Kaffelade
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "drikke"]
+ingredienser: ["kaffe", "mørk sjokolade", "kanelstang", "brunt kandissukker"]
 images: ["../../assets/recipe-images/web_kaffelade.jpg"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Kylling- og nudelssupe med grønnsaker
-tags: ["middag", "pizza"]
-ingredienser: ["kylling", "pita"]
+tags: ["middag"]
+ingredienser: ["kyllingfilet", "løk", "nudler", "gulrot", "purre"]
 tattFra: https://www.matprat.no/oppskrifter/sunn/kylling--og-nudelsuppe-med-gronnsaker/
 images:
   [

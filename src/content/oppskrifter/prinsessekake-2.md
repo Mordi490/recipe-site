@@ -1,7 +1,7 @@
 ---
 title: Prinsessekake 2
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser: ["gjær", "kaffefløte", "smør", "hvetemel", "sukker", "egg"]
 images: ["../../assets/recipe-images/web_prinsessekake.jpg"]
 ---
 

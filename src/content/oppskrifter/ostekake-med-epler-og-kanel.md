@@ -1,7 +1,19 @@
 ---
 title: Ostekake med epler og kanel
 tags: ["ostekake", "dessert", "kake"]
-ingredienser: ["sukrin", "egg", "rømme"]
+ingredienser:
+  [
+    "hvetemel",
+    "sukker",
+    "smør",
+    "rom",
+    "epler",
+    "kanel",
+    "vaniljestang",
+    "kremost",
+    "egg",
+    "fløte",
+  ]
 images: ["../../assets/recipe-images/web_ostekake-med-epler-og-kanel.jpg"]
 ---
 

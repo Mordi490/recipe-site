@@ -1,7 +1,18 @@
 ---
 title: Snickerskake
-tags: ["drikke", "dessert"]
-ingredienser: ["sukker", "vann", "melk"]
+tags: ["kake", "dessert"]
+ingredienser:
+  [
+    "egg",
+    "sukker",
+    "ritz-kjeks",
+    "peanøtter",
+    "bakepulver",
+    "vaniljesukker",
+    "melis",
+    "mørk kokesjokolade",
+    "fløte",
+  ]
 images:
   [
     "../../assets/recipe-images/web_snickers-kake-sjokoladekake-med-ostekrem.jpg",

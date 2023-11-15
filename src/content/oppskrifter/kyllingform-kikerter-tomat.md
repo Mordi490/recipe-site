@@ -1,7 +1,17 @@
 ---
 title: Kyllingform med kikerter og tomat
 tags: ["middag"]
-ingredienser: ["kylling", "kikerter", "tomat"]
+ingredienser:
+  [
+    "kylling",
+    "kikerter",
+    "tomat",
+    "gurkemeie",
+    "spisskumin",
+    "hvitløk",
+    "vårløk",
+    "persille",
+  ]
 tattFra: https://www.matprat.no/oppskrifter/sunn/kyllingform-med-kikerter-og-tomat/
 images:
   [

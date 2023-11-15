@@ -1,7 +1,16 @@
 ---
 title: Marengs med sjokolade-mascarpone
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "eggehviter",
+    "melis",
+    "kanel",
+    "sjokolade",
+    "mørk sjokolade",
+    "vaniljesukker",
+    "mascarpone",
+  ]
 images: ["../../assets/recipe-images/web_marengs-med-sjokolade-mascarpone.jpg"]
 ---
 
@@ -10,7 +19,7 @@ images: ["../../assets/recipe-images/web_marengs-med-sjokolade-mascarpone.jpg"]
 ## Ingredienser
 
 - 4 eggehviter
-- en liten klype slat
+- en liten klype salt
 - 3 dl melis
 - 1 ts malt kanel
 - 75 g mørk sjokolade

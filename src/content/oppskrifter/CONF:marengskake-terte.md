@@ -1,7 +1,8 @@
 ---
 title: Marengskake terte
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser:
+  ["margarin", "sukker", "melk", "hvetemel", "bakepulver", "egg", "mandler"]
 images:
   [
     "../../assets/recipe-images/web_marengsterte-kake-en.jpg",

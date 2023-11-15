@@ -1,7 +1,8 @@
 ---
 title: Fiber brød
-tags: ["dessert", "småkake"]
-ingredienser: ["havregryn", "egg", "smør"]
+tags: ["brød"]
+ingredienser:
+  ["sur melk", "gjær", "sirup", "solsikkebakst", "fiberbakst", "hvetemel"]
 images:
   [
     "../../assets/recipe-images/web_spennende-fiberbrød-mormors-beste-grovbrød.jpg",

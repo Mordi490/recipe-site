@@ -1,6 +1,6 @@
 ---
 title: muffins og glasur
-tags: ["dessert", kake]
+tags: ["dessert", "småkaker"]
 ingredienser:
   [
     "sukker",

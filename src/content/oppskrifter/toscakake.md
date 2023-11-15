@@ -1,7 +1,18 @@
 ---
 title: Tosca-kake
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "margarin",
+    "sukker",
+    "egg",
+    "hvetemel",
+    "bakepulver",
+    "fløte",
+    "smør",
+    "mandler",
+    "melk",
+  ]
 images: ["../../assets/recipe-images/web_tosca-kake.jpg"]
 ---
 
@@ -21,7 +32,7 @@ images: ["../../assets/recipe-images/web_tosca-kake.jpg"]
 - 75 g smør eller margarin
 - 1 1/2 dl skåldede hakkede mandler
 - 4 1/2 ss sukker
-- 1 1/2 ss hvete mel
+- 1 1/2 ss hvetemel
 - 1 1/2 ss melk
 
 ## Instruksjoner

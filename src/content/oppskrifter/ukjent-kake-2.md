@@ -1,7 +1,16 @@
 ---
 title: Ukjent kake
-tags: ["dessert", "bakverk", "sukrin"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "ritz kjeks",
+    "valnøtter",
+    "peanøtter",
+    "egg",
+    "sukker",
+    "bakepulver",
+    "vaniljesukker",
+  ]
 images: ["../../assets/recipe-images/web_random-kake.jpg"]
 draft: true
 ---

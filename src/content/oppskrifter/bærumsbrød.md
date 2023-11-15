@@ -1,7 +1,19 @@
 ---
 title: Bærumsbrød
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["brød"]
+ingredienser:
+  [
+    "honning",
+    "havregryn",
+    "solsikkekjerner",
+    "sesamfrø",
+    "gresskarkjerner",
+    "linfrø",
+    "gjær",
+    "chia frø",
+    "grov spelt",
+    "fin spelt",
+  ]
 images: ["../../assets/recipe-images/web_bærumsbrød.jpg"]
 ---
 

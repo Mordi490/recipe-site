@@ -1,7 +1,8 @@
 ---
 title: Kyllingfilet med ratatouille
-tags: ["dessert", "sukrin"]
-ingredienser: ["mandelmel", "sukrinmelis", "eggehviter"]
+tags: ["middag"]
+ingredienser:
+  ["kyllingfilet", "paprika", "løk", "tomatpurè", "tomater", "oregano"]
 tattFra: https://www.matprat.no/oppskrifter/sunn/kyllingfilet-med-ratatouille/
 images:
   [

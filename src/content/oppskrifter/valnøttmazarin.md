@@ -1,7 +1,19 @@
 ---
 title: Valnøttmazarin
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "småkaker"]
+ingredienser:
+  [
+    "mandler",
+    "valnøtter",
+    "egg",
+    "sukker",
+    "fløte",
+    "hvetemel",
+    "bakepulver",
+    "vaniljesukker",
+    "smør",
+    "mørk kokesjokolade",
+  ]
 images: ["../../assets/recipe-images/web_valnøttmazarin.jpg"]
 ---
 

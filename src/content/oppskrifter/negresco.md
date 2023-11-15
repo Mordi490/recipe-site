@@ -1,7 +1,19 @@
 ---
 title: Negresco
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "egg",
+    "sukker",
+    "mandler",
+    "smør",
+    "melis",
+    "vaniljesukker",
+    "kakao",
+    "juice",
+    "kokesjokolade",
+    "kokosfett",
+  ]
 images: ["../../assets/recipe-images/web_negresco-a-la-lise.jpg"]
 ---
 

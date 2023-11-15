@@ -1,7 +1,7 @@
 ---
 title: Tacoboller med tortillas og tandoorisaus
-tags: ["middag", "wok"]
-ingredienser: ["kylling", "pasta", "brokkoli"]
+tags: ["lunsj"]
+ingredienser: ["kjøttdeig", "tacopulver", "paprika", "tomat", "agurk", "mais"]
 images:
   [
     "../../assets/recipe-images/web_tacoboller-med-tortillas-og-tandoorisaus.jpg",

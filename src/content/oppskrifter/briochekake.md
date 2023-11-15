@@ -1,8 +1,16 @@
 ---
 title: Briochekake
-tags: ["bakverk", "bolle", "rundstykke"]
+tags: ["kake"]
 ingredienser:
-  ["sukker", "sammalt hvetemel", "sukker", "bakepulver", "margarin", "sur melk"]
+  [
+    "rosiner",
+    "egg",
+    "sukker",
+    "sammalt hvetemel",
+    "bakepulver",
+    "margarin",
+    "sur melk",
+  ]
 images: ["../../assets/recipe-images/web_wienerstenger.jpg"]
 ---
 

@@ -1,7 +1,20 @@
 ---
 title: Wienerkrans med fyll
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "smør",
+    "hvetemel",
+    "husholdningsfløte",
+    "gjær",
+    "egg",
+    "sukker",
+    "marsipan",
+    "kokesjokolade",
+    "kremfløte",
+    "melis",
+    "sitronsaft",
+  ]
 images: ["../../assets/recipe-images/web_wienerkrans-med-spennende-fyll.jpg"]
 ---
 

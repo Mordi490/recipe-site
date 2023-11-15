@@ -1,7 +1,7 @@
 ---
 title: Valmuehorn
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["horn", "bakverk"]
+ingredienser: ["smør", "melk", "gjær", "hvetemel", "egg", "valmuefrø"]
 images: ["../../assets/recipe-images/web_valmuehorn.jpg"]
 ---
 

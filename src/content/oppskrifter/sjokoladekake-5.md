@@ -1,7 +1,18 @@
 ---
 title: Sjokoladekake 5
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "egg",
+    "sukker",
+    "margarin",
+    "melk",
+    "hvetemel",
+    "kakao",
+    "bakepulver",
+    "kokesjokolade",
+    "kaffe",
+  ]
 images: ["../../assets/recipe-images/web_sjokoladekake-3.jpg"]
 ---
 
@@ -15,7 +26,7 @@ images: ["../../assets/recipe-images/web_sjokoladekake-3.jpg"]
 - 1 dl melk
 - 3 dl hvetemel
 - 2 ss kakao
-- 1 ts
+- 1 ts bakepulver
 
 ### Glasur
 

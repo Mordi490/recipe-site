@@ -1,7 +1,7 @@
 ---
 title: Rundstykkedeig
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["boller", "rundstykker"]
+ingredienser: ["hvetemel", "gjær", "smør", "sukker"]
 images:
   ["../../assets/recipe-images/web_drueklase-og-knuter-av-rundstykkedeig.jpg"]
 ---

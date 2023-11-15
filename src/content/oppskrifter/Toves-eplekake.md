@@ -1,7 +1,17 @@
 ---
 title: Toves eplekake
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "vaniljesaus",
+    "sukker",
+    "melk",
+    "smør",
+    "egeplomme",
+    "hvetemel",
+    "bakepulver",
+    "eple",
+  ]
 images: ["../../assets/recipe-images/web_toves-eplekake.jpg"]
 ---
 

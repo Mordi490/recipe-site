@@ -1,7 +1,20 @@
 ---
 title: After Eight ostekake
 tags: ["dessert", "kake", "ostekake"]
-ingredienser: ["sukrin", "egg", "rømme"]
+ingredienser:
+  [
+    "digestive kjeks",
+    "smør",
+    "kremost",
+    "sukker",
+    "hvetemel",
+    "vaniljesukker",
+    "egg",
+    "After Eight",
+    "kremfløte",
+    "rips",
+    "sitronmelisse",
+  ]
 images: ["../../assets/recipe-images/web_after-eight-ostekake.jpg"]
 ---
 

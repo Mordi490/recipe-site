@@ -1,7 +1,25 @@
 ---
 title: Gulrot-ostekake
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake", "ostekake"]
+ingredienser:
+  [
+    "kremost",
+    "sukker",
+    "egg",
+    "hvetemel",
+    "vaniljeekstrakt",
+    "lett rømme",
+    "solsikkeolje",
+    "brunt sukker",
+    "natron",
+    "kanel",
+    "nellik",
+    "musskatnøtt",
+    "gulrot",
+    "kremost",
+    "smør",
+    "melis",
+  ]
 images:
   [
     "../../assets/recipe-images/web_gulrot-ostekake-en.jpg",
@@ -20,7 +38,7 @@ images:
 - 2 egg
 - 1 ts hvetemel
 - 1 ts vaniljeekstrakt
-- 1 dl lettrømme
+- 1 dl lett rømme
 
 ### Gulrotkake
 

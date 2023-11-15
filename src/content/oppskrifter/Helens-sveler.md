@@ -1,7 +1,7 @@
 ---
 title: Helens sveler
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["lunsj"]
+ingredienser: ["hvetemel", "sur melk", "sukker", "egg", "natron", "bakepulver", "smør"]
 images: ["../../assets/recipe-images/web_helens-sveler.jpg",
 "../../assets/recipe-images/helens-sveler-preview.jpg"]
 ---

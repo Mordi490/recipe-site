@@ -1,7 +1,18 @@
 ---
 title: Hvetekake med sjokolade
-tags: ["dessert", "småkake"]
-ingredienser: ["havregryn", "egg", "smør"]
+tags: ["bolle"]
+ingredienser:
+  [
+    "gjær",
+    "smør",
+    "sukker",
+    "vaniljesukker",
+    "melk",
+    "egg",
+    "hvetemel",
+    "sjokolade",
+    "kanel",
+  ]
 images:
   [
     "../../assets/recipe-images/web_hvetekake-med-sjokolade-fødselsdagskrans.jpg",

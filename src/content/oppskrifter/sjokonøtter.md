@@ -1,7 +1,17 @@
 ---
 title: Sjokonøtter
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "småkaker"]
+ingredienser:
+  [
+    "smør",
+    "sjokellanøtt",
+    "fløte",
+    "egg",
+    "bakepulver",
+    "hvetemel",
+    "sjokella",
+    "smør",
+  ]
 images:
   [
     "../../assets/recipe-images/web_sjokonøtthatter-sjokonøttopper.jpg",

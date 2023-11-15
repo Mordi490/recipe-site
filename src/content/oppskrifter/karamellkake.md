@@ -1,7 +1,19 @@
 ---
 title: Karamellkake
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "egg",
+    "sukker",
+    "margarin",
+    "vaniljesukker",
+    "melk",
+    "bakepulver",
+    "karamellsaus",
+    "hvetemel",
+    "melis",
+    "kaffe",
+  ]
 images: ["../../assets/recipe-images/web_karamellkake.jpg"]
 ---
 

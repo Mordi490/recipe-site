@@ -1,7 +1,8 @@
 ---
 title: Saftig Plommekake
-tags: ["dessert", "småkake"]
-ingredienser: ["kylling", "pasta", "brokkoli"]
+tags: ["dessert", "kake"]
+ingredienser:
+  ["margarin", "sukker", "egg", "melk", "hvetemel", "bakepulver", "plommer"]
 images: ["../../assets/recipe-images/web_saftig-plommekake-jordbærterte.jpg"]
 ---
 

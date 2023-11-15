@@ -1,7 +1,22 @@
 ---
 title: Lefse og søst
-tags: ["dessert", "småkake"]
-ingredienser: ["kylling", "pasta", "brokkoli"]
+tags: ["lunsj"]
+ingredienser:
+  [
+    "melk",
+    "smør",
+    "hornsalt",
+    "hvetemel",
+    "melk",
+    "brunost",
+    "sukker",
+    "kefirmelk",
+    "egg",
+    "rosiner",
+    "hvetemel",
+    "melk",
+    "sukkerkulør",
+  ]
 images: ["../../assets/recipe-images/web_lefse-og-søst.jpg"]
 ---
 

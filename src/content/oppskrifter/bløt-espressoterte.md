@@ -1,7 +1,19 @@
 ---
 title: Bløt espressoterte
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "bakverk", "kake"]
+ingredienser:
+  [
+    "smør",
+    "melis",
+    "hvetemel",
+    "eggeplommer",
+    "fløte",
+    "melk",
+    "sjokolade",
+    "espresso",
+    "kakaopulver",
+    "bær",
+  ]
 images: ["../../assets/recipe-images/web_bløt-espressoterte.jpg"]
 ---
 

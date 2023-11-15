@@ -1,13 +1,21 @@
 ---
 title: ostekrem-sukrin
-tags: ["sukrin", "dessert", "glasur", "kake"]
-ingredienser: ["sukrin", "melis", "vaniljepuvler", "vaniljesukker", "smør"]
+tags: ["sukrin", "dessert", "glasur"]
+ingredienser:
+  [
+    "Philadelphiaost",
+    "smør",
+    "sukrin melis",
+    "melis",
+    "vaniljesukker",
+    "kremost",
+  ]
 images: ["../../assets/recipe-images/web_sukrin-glasur-preview.jpg"]
 ---
 
 # ostekrem-sukrin
 
-- 200 g Philadelphia kremsot
+- 200 g Philadelphia kremost
 - 60 g smør
 - 100 g Sukrin Melis
 - 50 g vanlig melis

@@ -1,7 +1,20 @@
 ---
 title: Ribbe
-tags: ["dessert", "bakverk", "sukrin"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["middag", "jul"]
+ingredienser:
+  [
+    "ribbe",
+    "rødkål",
+    "karve",
+    "hvitvin",
+    "brunt sukker",
+    "smør",
+    "svisker",
+    "portvin",
+    "kanel",
+    "nellik",
+    "klementinskall",
+  ]
 tattFra: https://www.aperitif.no/oppskrifter/oppskrift/ribbe-som-gjor-glad,63327
 images:
   [

@@ -1,7 +1,7 @@
 ---
 title: Fylte hvetestenger og kranser
-tags: ["kake", "dessert", "bakverk"]
-ingredienser: ["sukker", "kakao", "vann", "melk"]
+tags: ["småkaker", "dessert", "bakverk"]
+ingredienser: ["gjær", "smør", "melk", "egg", "sukker", "hvetemel"]
 images:
   [
     "../../assets/recipe-images/web_fylte-hvetestenger-og-kranser-en.jpg",

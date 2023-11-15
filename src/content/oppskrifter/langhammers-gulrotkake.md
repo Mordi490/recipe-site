@@ -1,7 +1,19 @@
 ---
 title: Langhammers gulrotkake
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "egg",
+    "sukker",
+    "hvetemel",
+    "natron",
+    "kanel",
+    "vaniljesukker",
+    "gulrøtter",
+    "fløteost",
+    "smør",
+    "melis",
+  ]
 images:
   [
     "../../assets/recipe-images/web_langhammers-gulrotkake.jpg",

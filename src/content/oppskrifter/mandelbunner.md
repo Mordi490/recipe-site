@@ -1,7 +1,7 @@
 ---
 title: Mandelbunner
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser: ["mandler", "eggehviter", "melis"]
 images:
   [
     "../../assets/recipe-images/web_mandelbunner-smørkrem-langkake-fødseldagsrullekake.jpg",

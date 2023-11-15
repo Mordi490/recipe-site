@@ -1,7 +1,7 @@
 ---
 title: Sachorte
-tags: ["sukrin", "dessert", "kake"]
-ingredienser: ["sukrin", "egg", "rømme"]
+tags: ["dessert", "kake"]
+ingredienser: ["smør", "kokesjokolade", "egg", "sukker", "kakao", "bakepulver", "vaniljesukker", "aprikosmarmelade", "dronning sjokolade", "sjokoladeblonder", "bringebær"]
 images: ["../../assets/recipe-images/web_myke-cookie-sachorte.jpg",
 "../../assets/recipe-images/sachorte-preview.jpg"]
 ---
@@ -15,7 +15,7 @@ images: ["../../assets/recipe-images/web_myke-cookie-sachorte.jpg",
 - 6 eggeplommer
 - 180 g sukker
 - 100 g hvetemel
-- 2 ss kakako
+- 2 ss kakao
 - 1/2 ts bakepulver
 - 1 ts vaniljesukker
 - 6 eggehviter

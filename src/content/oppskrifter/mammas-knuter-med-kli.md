@@ -1,7 +1,7 @@
 ---
 title: Mammas knuter med kli
-tags: ["dessert", "småkake"]
-ingredienser: ["havregryn", "egg", "smør"]
+tags: ["bolle", "horn"]
+ingredienser: ["gjær", "smør", "sukker", "melk", "egg", "kli", "hvetemel"]
 images:
   [
     "../../assets/recipe-images/web_rundstykker-med-cottage-cheese-rugboller-mammas-knuter-med-kli.jpg",

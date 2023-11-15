@@ -1,16 +1,8 @@
 ---
 title: Kulturkake med krydder
-tags: ["bakverk", "bolle", "rundstykke"]
+tags: ["bakverk", "kake"]
 ingredienser:
-  [
-    "sukker",
-    "sammalt hvetemel",
-    "sukker",
-    "hornsalt",
-    "bakepulver",
-    "margarin",
-    "sur melk",
-  ]
+  ["smør", "kulturmelk", "sukker", "kanel", "nellik", "natron", "hvetemel"]
 images: ["../../assets/recipe-images/web_kulturkake-med-krydder.jpg"]
 ---
 

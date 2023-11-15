@@ -1,7 +1,17 @@
 ---
 title: Kokoskake
-tags: ["dessert", "sukrin"]
-ingredienser: ["mandelmel", "sukrinmelis", "eggehviter"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "eggehviter",
+    "sukker",
+    "kokos",
+    "bakepulver",
+    "hvetemel",
+    "eggeplommer",
+    "fløte",
+    "svisker",
+  ]
 images: ["../../assets/recipe-images/web_kokoskake.jpg"]
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: Pannekaker med skinke
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["lunsj"]
+ingredienser:
+  ["egg", "melk", "hvetemel", "skinke", "fløteost", "fløte", "persille"]
 images:
   [
     "../../assets/recipe-images/web_pannekaker-med-skinke-en.jpg",

@@ -1,7 +1,21 @@
 ---
 title: sjokoladehjerte
-tags: ["sukrin", "dessert", "kake"]
-ingredienser: ["sukrin", "egg", "rømme"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "egg",
+    "sukker",
+    "smør",
+    "kokesjokolade",
+    "appelsin",
+    "hvetemel",
+    "vaniljesukker",
+    "kremost",
+    "melis",
+    "sjokoladehjerter",
+    "rips",
+    "sitronmelisse",
+  ]
 images:
   [
     "../../assets/recipe-images/web_2-verdener-sjokoladehjerte.jpg",

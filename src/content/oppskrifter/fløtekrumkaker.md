@@ -1,7 +1,7 @@
 ---
 title: Krumkaker
-tags: ["middag", "suppe"]
-ingredienser: ["kylling", "pasta", "brokkoli"]
+tags: ["dessert", "småkaker", "jul"]
+ingredienser: ["kremfløte", "sukker", "vaniljesukker", "hvetemel"]
 tattFra: https://www.detsoteliv.no/oppskrift/flotekrumkaker
 images: ["../../assets/recipe-images/web_fløtekrumkaker-en.jpg"]
 ---

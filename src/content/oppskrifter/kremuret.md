@@ -1,7 +1,22 @@
 ---
 title: Kremuret
-tags: ["dessert", "småkake"]
-ingredienser: ["havregryn", "egg", "smør"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "egg",
+    "sukker",
+    "hvetemel",
+    "potetmel",
+    "bakepulver",
+    "rosiner",
+    "portvin",
+    "sjokoladepudding",
+    "kremfløte",
+    "marsipan",
+    "konditorfarge",
+    "kakaopulver",
+    "mandelspon",
+  ]
 images: ["../../assets/recipe-images/web_kremuret.jpg"]
 ---
 

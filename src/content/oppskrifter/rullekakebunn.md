@@ -1,7 +1,7 @@
 ---
 title: Rullekakebunn
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser: ["egg", "sukker", "hvetemel", "bakepulver", "melk"]
 images: ["../../assets/recipe-images/web_langpannebunn-rullekakebunn.jpg"]
 ---
 

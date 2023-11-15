@@ -1,7 +1,19 @@
 ---
 title: Sjokoladekake
-tags: ["dessert", "småkake"]
-ingredienser: ["kylling", "pasta", "brokkoli"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "egg",
+    "sukker",
+    "melk",
+    "hvetemel",
+    "bakepulver",
+    "lys kokesjokolade",
+    "smør",
+    "vaniljesukker",
+    "melis",
+    "romessens",
+  ]
 images: ["../../assets/recipe-images/web_sjokoladekake.jpg"]
 ---
 

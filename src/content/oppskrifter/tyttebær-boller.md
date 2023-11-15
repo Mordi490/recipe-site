@@ -1,7 +1,7 @@
 ---
 title: Tyttebær boller
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "bolle"]
+ingredienser: ["smør", "hvetemel", "gjær", "melk", "sukker", "egg", "tyttebær"]
 images: ["../../assets/recipe-images/web_tyttebær-boller.jpg"]
 ---
 

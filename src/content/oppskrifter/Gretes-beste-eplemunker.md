@@ -1,7 +1,7 @@
 ---
 title: Gretes beste eplemunker
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["bakverk", "småkaker"]
+ingredienser: ["egg", "sukker", "melk", "sitron", "smør", "hvetemel", "bakepulver", "eple"]
 images: ["../../assets/recipe-images/web_gretes-beste-eplemunker.jpg",
 "../../assets/recipe-images/gretas-eplemunker.jpg"]
 ---

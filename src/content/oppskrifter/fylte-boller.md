@@ -1,7 +1,18 @@
 ---
 title: Fylte boller
-tags: ["dessert", "småkake"]
-ingredienser: ["havregryn", "egg", "smør"]
+tags: ["boller", "bakverk"]
+ingredienser:
+  [
+    "fløte",
+    "smør",
+    "sukker",
+    "gjær",
+    "hvetemel",
+    "makronfyll",
+    "kardemomme",
+    "egg",
+    "mandler",
+  ]
 images: ["../../assets/recipe-images/web_fylte-boller.jpg"]
 ---
 
@@ -19,7 +30,7 @@ images: ["../../assets/recipe-images/web_fylte-boller.jpg"]
 
 - 1 pakke makronfyll
 - 3 ss smør eller margarin
-- 1 ts kardemome
+- 1 ts kardemomme
 
 ### Pensling
 

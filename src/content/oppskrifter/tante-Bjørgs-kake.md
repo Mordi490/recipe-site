@@ -1,7 +1,18 @@
 ---
 title: Tante Bjørgs kake
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "egg",
+    "sukker",
+    "kokesjokolade",
+    "hvetemel",
+    "smør",
+    "kakao",
+    "bakepulver",
+    "melis",
+    "romessens",
+  ]
 images: ["../../assets/recipe-images/web_tante-bjørgs-kake-budapestrull-en.jpg"]
 ---
 

@@ -1,7 +1,18 @@
 ---
 title: Biscotti med mandler og sjokolade
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "bakverk", "småkaker"]
+ingredienser:
+  [
+    "smør",
+    "rørsukker",
+    "appelsin",
+    "mandler",
+    "egg",
+    "mørk kokesjokolade",
+    "hvetemel",
+    "vaniljesukker",
+    "bakepulver",
+  ]
 images:
   [
     "../../assets/recipe-images/web_biscotti-med-mandler-og-sjokolade-sjokoladekjeks-med-mørk-og-hvit-sjokolade.jpg",

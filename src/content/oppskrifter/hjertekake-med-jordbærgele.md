@@ -1,7 +1,17 @@
 ---
 title: Hjertekake med jordbærgelè
 tags: ["ostekake", "dessert", "kake"]
-ingredienser: ["sukrin", "egg", "rømme"]
+ingredienser:
+  [
+    "jordbærgelè",
+    "seterrømme",
+    "melis",
+    "kremfløte",
+    "rips",
+    "kakestrøssel",
+    "sitronmelisse",
+    "sjokoladeblonder",
+  ]
 images: ["../../assets/recipe-images/web_hjertekake-med-jordbærgele.jpg"]
 ---
 

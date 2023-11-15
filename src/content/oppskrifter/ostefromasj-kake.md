@@ -1,7 +1,23 @@
 ---
 title: Ostefromasj-kake
-tags: ["dessert", "småkake"]
-ingredienser: ["havregryn", "egg", "smør"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "egg",
+    "sukker",
+    "mandler",
+    "kokosmasse",
+    "gelatin",
+    "gourmet-ost",
+    "mokkabønner",
+    "kaffepulver",
+    "kaffelikør",
+    "kremfløte",
+    "krem",
+    "kiwi",
+    "marsipan",
+    "lakrislisser",
+  ]
 images: ["../../assets/recipe-images/web_ostefromasj-kake.jpg"]
 ---
 

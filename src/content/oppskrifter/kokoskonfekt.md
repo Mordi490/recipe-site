@@ -1,7 +1,7 @@
 ---
 title: Kokoskonfekt
-tags: ["dessert", "småkake"]
-ingredienser: ["havregryn", "egg", "smør"]
+tags: ["dessert", "småkaker"]
+ingredienser: ["melis", "kokos", "smør", "eggehviter"]
 images: ["../../assets/recipe-images/web_kokoskonfekt-peanøttruter.jpg"]
 ---
 

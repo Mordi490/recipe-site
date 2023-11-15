@@ -1,7 +1,19 @@
 ---
 title: Konfektkake med karamellkrem
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "bakverk", "kake"]
+ingredienser:
+  [
+    "smør",
+    "kokesjokolade",
+    "egg",
+    "melis",
+    "hvetemel",
+    "vaniljesukker",
+    "kremfløte",
+    "sukker",
+    "lys sirup",
+    "sjokoladeblonder",
+  ]
 images: ["../../assets/recipe-images/web_konfektkake-med-karamellkrem.jpg"]
 ---
 

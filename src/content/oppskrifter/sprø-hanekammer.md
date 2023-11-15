@@ -1,8 +1,8 @@
 ---
 title: Sprø hanekammer
-tags: ["bakverk", "bolle", "rundstykke"]
+tags: ["bakverk", "bolle"]
 ingredienser:
-  ["sukker", "sammalt hvetemel", "sukker", "bakepulver", "margarin", "sur melk"]
+  ["hvetemel", "smør", "gjær", "melk", "sukker", "egg", "perlesukker"]
 images: ["../../assets/recipe-images/web_sprø-hanekammer.jpg"]
 ---
 

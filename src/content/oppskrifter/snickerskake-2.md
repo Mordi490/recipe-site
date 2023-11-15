@@ -1,15 +1,15 @@
 ---
 title: Snickerskake 2
-tags: ["bakverk", "bolle", "rundstykke"]
+tags: ["bakverk", "kake"]
 ingredienser:
   [
+    "sirup",
+    "peanøttsmør",
+    "kokos",
     "sukker",
-    "sammalt hvetemel",
-    "sukker",
-    "hornsalt",
-    "bakepulver",
-    "margarin",
-    "sur melk",
+    "kellogs k",
+    "peanøtter",
+    "melkesjokolade",
   ]
 images: ["../../assets/recipe-images/web_snickerskake.jpg"]
 ---

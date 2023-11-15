@@ -1,7 +1,7 @@
 ---
 title: Sconessnitter
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["boler", "bakverk"]
+ingredienser: ["fint hvetemel", "hvetemel", "bakepulver", "kesam", "surmelk"]
 images: ["../../assets/recipe-images/web_sconessnitter.jpg"]
 ---
 

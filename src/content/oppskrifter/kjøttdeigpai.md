@@ -1,7 +1,21 @@
 ---
 title: Kjøttdeigpai
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["middag", "pai"]
+ingredienser:
+  [
+    "hvetemel",
+    "smør",
+    "kjøttdeig",
+    "bacon",
+    "skinke",
+    "løk",
+    "paprika",
+    "merian",
+    "basilikum",
+    "rødvinseddik",
+    "cremè fraîche",
+    "egg",
+  ]
 images: ["../../assets/recipe-images/web_kjøttdeigpai.jpg"]
 ---
 

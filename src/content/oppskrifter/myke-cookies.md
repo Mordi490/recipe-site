@@ -1,7 +1,18 @@
 ---
 title: myke cookies
-tags: ["sukrin", "dessert", "kake"]
-ingredienser: ["sukrin", "egg", "rømme"]
+tags: ["dessert", "småkaker"]
+ingredienser:
+  [
+    "smør",
+    "brunt sukker",
+    "sukker",
+    "egg",
+    "vaniljesukker",
+    "bakepulver",
+    "hvetemel",
+    "mandler",
+    "sjokolade",
+  ]
 images: ["../../assets/recipe-images/web_myke-cookie-sachorte.jpg"]
 ---
 

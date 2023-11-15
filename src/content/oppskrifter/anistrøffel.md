@@ -1,7 +1,7 @@
 ---
 title: Anistrøffel
 tags: ["dessert", "småkake"]
-ingredienser: ["kylling", "pasta", "brokkoli"]
+ingredienser: ["kremfløte", "stjerneanis", "kokesjokolade", "kakaopulver"]
 images: ["../../assets/recipe-images/web_anistrøffel.jpg"]
 ---
 

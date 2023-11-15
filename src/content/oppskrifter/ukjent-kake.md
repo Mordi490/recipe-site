@@ -1,7 +1,20 @@
 ---
 title: Ukjent kake
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "hvetemel",
+    "sukker",
+    "natron",
+    "kefir",
+    "kakao",
+    "margarin",
+    "appelsinmarmelade",
+    "melis",
+    "kokesjokolade",
+    "kaffe",
+    "romdråper",
+  ]
 images: ["../../assets/recipe-images/web_id-9.jpg"]
 draft: true
 ---

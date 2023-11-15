@@ -1,7 +1,7 @@
 ---
 title: Pizzadeig
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["middag"]
+ingredienser: ["gjær", "hvetemel"]
 images: ["../../assets/recipe-images/web_pizzadeig.jpg"]
 ---
 

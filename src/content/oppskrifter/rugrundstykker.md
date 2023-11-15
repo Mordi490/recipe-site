@@ -1,7 +1,7 @@
 ---
 title: Rug Rundstykker
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["rundstykker", "bakverk"]
+ingredienser: ["gjær", "rugmel", "hvetemel"]
 images: ["../../assets/recipe-images/web_valnøttrundstykker-rugrundstykker.jpg"]
 ---
 

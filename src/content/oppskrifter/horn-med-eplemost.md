@@ -1,7 +1,7 @@
 ---
 title: Horn med eplemost
-tags: ["tilbehør", "saus", "dip"]
-ingredienser: ["safran", "majones", "hvitløk"]
+tags: ["bolle"]
+ingredienser: ["hvetemel", "margarin", "sukker", "kardemomme", "gjær", "melk"]
 images: ["../../assets/recipe-images/web_horn-med-eplemost.jpg"]
 ---
 

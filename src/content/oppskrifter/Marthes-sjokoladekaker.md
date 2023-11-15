@@ -1,7 +1,18 @@
 ---
 title: Marthes sjokoladekake
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake", "sjokoladekake"]
+ingredienser:
+  [
+    "egg",
+    "sukker",
+    "mørk kokesjokolade",
+    "smør",
+    "margarin",
+    "hvetemel",
+    "hvetemel",
+    "vaniljesukker",
+    "mandelflak",
+  ]
 images: ["../../assets/recipe-images/web_marthas-sjokoladekaker.jpg"]
 ---
 

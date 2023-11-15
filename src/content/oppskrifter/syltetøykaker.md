@@ -1,7 +1,17 @@
 ---
 title: Syltetøykaker
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["snacks", "dessert"]
+ingredienser:
+  [
+    "smør",
+    "sukker",
+    "egg",
+    "hvetemel",
+    "mandler",
+    "melis",
+    "eggehvite",
+    "syltetøy",
+  ]
 images: ["../../assets/recipe-images/web_lekre-syltetøykaker.jpg"]
 ---
 

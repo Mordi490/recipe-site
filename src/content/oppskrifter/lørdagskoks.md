@@ -1,7 +1,21 @@
 ---
 title: Lørdagskos
-tags: ["dessert", "sukrin"]
-ingredienser: ["mandelmel", "sukrinmelis", "eggehviter"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "egg",
+    "sukker",
+    "hvetemel",
+    "bakepulver",
+    "melk",
+    "margarin",
+    "vaniljesukker",
+    "kakao",
+    "melis",
+    "kaffe",
+    "smør",
+    "kaffe",
+  ]
 images: ["../../assets/recipe-images/web_muffins-lørdagskos.jpg"]
 ---
 

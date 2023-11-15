@@ -1,7 +1,7 @@
 ---
 title: Yoghurt- og thainidipp
-tags: ["dessert", "småkake"]
-ingredienser: ["havregryn", "egg", "smør"]
+tags: ["dipp", "dressing"]
+ingredienser: ["tahini", "sitronsaft", "gresk yoghurt", "hvitløk"]
 tattFra: https://www.nrk.no/mat/falafel-_-kikertboller-1.12152010
 ---
 

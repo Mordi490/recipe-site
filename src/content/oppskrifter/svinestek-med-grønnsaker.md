@@ -1,7 +1,8 @@
 ---
 title: Svinestek med grønnsaker
-tags: ["dessert", "småkake"]
-ingredienser: ["kylling", "pasta", "brokkoli"]
+tags: ["middag"]
+ingredienser:
+  ["skinkestek", "bogstek", "gulrot", "purre", "selleri", "løk", "hvitløk"]
 images:
   [
     "../../assets/recipe-images/web_svinestek-med-grønnsaker-en.jpg",

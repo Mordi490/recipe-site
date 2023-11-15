@@ -1,7 +1,16 @@
 ---
 title: Lenes sjokoladebrød
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "bakverk", "brød"]
+ingredienser:
+  [
+    "smør",
+    "sukker",
+    "vaniljesukker",
+    "kakao",
+    "mørk sirup",
+    "hvetemel",
+    "bakepulver",
+  ]
 images:
   [
     "../../assets/recipe-images/web_havreringer-gode-kringler-lenes-sjokoladebrød.jpg",

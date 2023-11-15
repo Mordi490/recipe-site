@@ -1,7 +1,17 @@
 ---
 title: Janes brownies
 tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+ingredienser:
+  [
+    "smør",
+    "sukker",
+    "kakao",
+    "egg",
+    "bakepulver",
+    "vaniljesukker",
+    "solsikkefrø",
+    "nøttekjerner",
+  ]
 images: ["../../assets/recipe-images/web_sarah-bernard-to-janes-brownies.jpg"]
 ---
 

@@ -1,7 +1,18 @@
 ---
 title: Karrisild med nøtter
-tags: ["dessert", "småkake"]
-ingredienser: ["havregryn", "egg", "smør"]
+tags: ["pålegg", "tilbehør"]
+ingredienser:
+  [
+    "eple",
+    "hasselnøtter",
+    "cremè fraîche",
+    "lettrømme",
+    "kefir",
+    "karri",
+    "sukker",
+    "sitronsaft",
+    "sildfileter",
+  ]
 images:
   [
     "../../assets/recipe-images/web_pepperrotsild-med-purre-karrisild-med-nøtter.jpg",

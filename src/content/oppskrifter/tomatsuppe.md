@@ -1,7 +1,7 @@
 ---
 title: Tomatsuppe
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["lunsj", "middag"]
+ingredienser: ["løk", "hvitløk", "tomat", "grønnsaksbuljong", "melk"]
 images: ["../../assets/recipe-images/web_tomatsuppe.jpg"]
 ---
 

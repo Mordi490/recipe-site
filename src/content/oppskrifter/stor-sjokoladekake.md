@@ -1,7 +1,19 @@
 ---
 title: Stor sjokoladekake
 tags: ["dessert", "kake"]
-ingredienser: ["mandelmel", "sukrinmelis", "eggehviter"]
+ingredienser:
+  [
+    "margarin",
+    "sukker",
+    "vaniljesukker",
+    "egg",
+    "melk",
+    "hvetemel",
+    "kakao",
+    "bakepulver",
+    "kokesjokolade",
+    "melis",
+  ]
 images: ["../../assets/recipe-images/web_idk-1.jpg"]
 ---
 

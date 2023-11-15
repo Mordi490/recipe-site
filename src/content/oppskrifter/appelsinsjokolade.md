@@ -1,7 +1,7 @@
 ---
 title: Appelsinsjokolade
-tags: ["dessert", "småkake"]
-ingredienser: ["kylling", "pasta", "brokkoli"]
+tags: ["dessert", "kake", "sjokoladekake"]
+ingredienser: ["kokesjokolade", "appelsin"]
 images:
   ["../../assets/recipe-images/web_mikrokarameller-appelsin-sjokolade.jpg"]
 ---

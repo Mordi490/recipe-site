@@ -1,7 +1,16 @@
 ---
 title: Sjokoladekake 2
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "margarin",
+    "sukker",
+    "brunt sukker",
+    "hvetemel",
+    "bakepulver",
+    "mandler",
+    "kokesjokolade",
+  ]
 images: ["../../assets/recipe-images/web_sjokoladekake-2.jpg"]
 ---
 

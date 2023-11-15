@@ -1,7 +1,18 @@
 ---
 title: Oreokake
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "oreokjeks",
+    "sukker",
+    "melis",
+    "philadelphiaost",
+    "smør",
+    "kremfløte",
+    "sjokolademousse",
+    "kokesjokolade",
+    "sjokoladesaus",
+  ]
 images: ["../../assets/recipe-images/web_oreokake-2.jpg"]
 ---
 
@@ -16,7 +27,7 @@ images: ["../../assets/recipe-images/web_oreokake-2.jpg"]
 - 120 g smeltet smør
 - 3,5 dl kremfløte
 - 1 pose med sjokolademousse
-- 50 g Kokesjokolade
+- 50 g kokesjokolade
 - Freia sjokoladesaus på flaske, som brukes på f.eks. is
 
 ## Instruksjon

@@ -1,7 +1,7 @@
 ---
 title: Hvetesnurre
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["bolle"]
+ingredienser: ["hvetemel", "gjær", "sukker", "kardemomme", "smør", "melk", "vaniljekrem", "rosiner"]
 images: ["../../assets/recipe-images/web_hvetesnurre.jpg",
 "../../assets/recipe-images/hvetesnurre-preview.jpg"]
 ---

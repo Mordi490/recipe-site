@@ -1,7 +1,17 @@
 ---
 title: Fødselsdagskringle
-tags: ["dessert", "småkake"]
-ingredienser: ["havregryn", "egg", "smør"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "smør",
+    "hvetemel",
+    "sukker",
+    "gjær",
+    "melk",
+    "egg",
+    "makronfyll",
+    "kardemomme",
+  ]
 images: ["../../assets/recipe-images/web_fødseldagskringle.jpg"]
 ---
 

@@ -1,7 +1,19 @@
 ---
 title: Småhorn
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "horn"]
+ingredienser:
+  [
+    "aprikosmarmelade",
+    "egg",
+    "mandelflak",
+    "smør",
+    "sukker",
+    "kardemomme",
+    "melk",
+    "hvetemel",
+    "kanel",
+    "mandler",
+  ]
 images:
   [
     "../../assets/recipe-images/web_hvetebrød-med-rosiner-klippekrans-mandelfylte-smørboller-eplegjemmer.jpg",

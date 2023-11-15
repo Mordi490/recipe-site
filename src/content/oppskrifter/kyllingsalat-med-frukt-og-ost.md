@@ -1,7 +1,20 @@
 ---
 title: Kyllingsalat med frukt og ost
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["middag"]
+ingredienser:
+  [
+    "kylling",
+    "mandariner",
+    "ananas",
+    "paprika",
+    "stangselleri",
+    "eple",
+    "sitronsaft",
+    "kinakål",
+    "druer",
+    "fetaost",
+    "majones",
+  ]
 images: ["../../assets/recipe-images/web_kyllingsalat-med-frukt-og-ost.jpg"]
 ---
 
@@ -23,7 +36,7 @@ images: ["../../assets/recipe-images/web_kyllingsalat-med-frukt-og-ost.jpg"]
 
 ## Dressing
 
-- 1 pose mjones
+- 1 pose majones
 - litt saft fra ananas
 
 Server med loff eller baguetter som tilbehør.

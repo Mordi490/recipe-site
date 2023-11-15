@@ -1,7 +1,8 @@
 ---
 title: Riskjeks
-tags: ["dessert", "bakverk", "sukrin"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "småkaker"]
+ingredienser:
+  ["margarin", "sukker", "egg", "hvetemel", "bakepulver", "puffet ris"]
 images: ["../../assets/recipe-images/web_riskjeks.jpg"]
 ---
 

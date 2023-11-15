@@ -1,7 +1,19 @@
 ---
 title: Jordbærterte
-tags: ["dessert", "småkake"]
-ingredienser: ["kylling", "pasta", "brokkoli"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "hvetemel",
+    "sukker",
+    "margarin",
+    "eggeplomme",
+    "egg",
+    "potetmel",
+    "melk",
+    "fløte",
+    "jordbær",
+    "ripsgelè",
+  ]
 images: ["../../assets/recipe-images/web_saftig-plommekake-jordbærterte.jpg"]
 ---
 

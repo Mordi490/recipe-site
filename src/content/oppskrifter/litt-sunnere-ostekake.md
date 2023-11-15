@@ -1,7 +1,14 @@
 ---
 title: Litt sunnere ostekake
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake", "ostekake"]
+ingredienser:
+  [
+    "havregryn",
+    "kokesjokolade",
+    "bringebærgelè",
+    "cottage cheese",
+    "fruktyoghurt",
+  ]
 tattFra: https://www.melk.no/Oppskrifter/Kaker/Ostekaker/En-litt-sunnere-ostekake
 images: ["../../assets/recipe-images/web_en-litt-sunnere-ostekake.jpg"]
 ---

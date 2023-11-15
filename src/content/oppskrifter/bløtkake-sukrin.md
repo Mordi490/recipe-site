@@ -1,7 +1,7 @@
 ---
 title: bløtkake-sukrin
 tags: ["sukrin", "dessert", "kake"]
-ingredienser: ["sukrin", "egg", "rømme"]
+ingredienser: ["egg", "rømme", "bakepulver", "sukrin kakemiks"]
 images: ["../../assets/recipe-images/web_bløtkake-sukrin.jpg"]
 ---
 

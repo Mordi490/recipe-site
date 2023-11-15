@@ -1,7 +1,19 @@
 ---
 title: Karamell-sjokoladekake
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "bakverk", "kake", "sjokoladekake"]
+ingredienser:
+  [
+    "egg",
+    "sukker",
+    "kakao",
+    "hvetemel",
+    "potetmel",
+    "bakepulver",
+    "eggeplommer",
+    "kremfløte",
+    "gelatinplater",
+    "sjoklade",
+  ]
 images: ["../../assets/recipe-images/web_karamell-sjokoladekake.jpg"]
 ---
 

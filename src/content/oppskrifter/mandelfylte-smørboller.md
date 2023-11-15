@@ -1,7 +1,8 @@
 ---
 title: Mandelfylte smørboller
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "småkaker"]
+ingredienser:
+  ["smør", "melk", "kardemomme", "sukker", "gjær", "egg", "hvetemel", "mandler"]
 images:
   [
     "../../assets/recipe-images/web_hvetebrød-med-rosiner-klippekrans-mandelfylte-smørboller-eplegjemmer.jpg",

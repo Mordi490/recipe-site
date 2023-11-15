@@ -1,7 +1,19 @@
 ---
 title: Sjokolademousse-kake
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "egg",
+    "sukker",
+    "hvetemel",
+    "hasselbøtter",
+    "kremfløte",
+    "sukker",
+    "konjakk",
+    "mørk kokesjokolade",
+    "gelatinplater",
+    "smør",
+  ]
 images: ["../../assets/recipe-images/web_sjokolademousse-kake.jpg"]
 ---
 

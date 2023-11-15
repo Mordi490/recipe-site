@@ -1,7 +1,8 @@
 ---
 title: Sopp pizza
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser:
+  ["gjær", "hvetemel", "pasternakker", "sopp", "smør", "sennep", "tomat", "ost"]
 images: ["../../assets/recipe-images/web_sopp-pizza.jpg"]
 ---
 

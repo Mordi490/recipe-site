@@ -1,6 +1,6 @@
 ---
 title: Ukjent kringle
-tags: ["dessert", "bakverk"]
+tags: ["dessert", "kake"]
 ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
 images: ["../../assets/recipe-images/web_idk-8.jpg"]
 draft: true

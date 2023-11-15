@@ -1,7 +1,8 @@
 ---
 title: Valmueflette
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser:
+  ["hvetemel", "gjær", "sukker", "egg", "solsikkefrøolje", "melk", "valmuefrø"]
 images: ["../../assets/recipe-images/web_valmueflette.jpg"]
 ---
 

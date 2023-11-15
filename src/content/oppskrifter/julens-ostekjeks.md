@@ -1,7 +1,16 @@
 ---
 title: Julens ostekjeks
-tags: ["dessert", "småkake"]
-ingredienser: ["kylling", "pasta", "brokkoli"]
+tags: ["dessert", "snacks"]
+ingredienser:
+  [
+    "meierismør",
+    "hvetemel",
+    "cheddarost",
+    "sesamfrø",
+    "ost",
+    "karve",
+    "valmuefrø",
+  ]
 images: ["../../assets/recipe-images/web_julens-ostekjeks.jpg"]
 ---
 

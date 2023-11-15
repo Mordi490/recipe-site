@@ -1,7 +1,18 @@
 ---
 title: Rundstykker med cottage cheese
-tags: ["dessert", "småkake"]
-ingredienser: ["havregryn", "egg", "smør"]
+tags: ["rundstykker"]
+ingredienser:
+  [
+    "gjær",
+    "appelsinjuice",
+    "cottage cheese",
+    "sukker",
+    "appelsinskall",
+    "løk",
+    "natron",
+    "egg",
+    "hvetemel",
+  ]
 images:
   [
     "../../assets/recipe-images/web_rundstykker-med-cottage-cheese-rugboller-mammas-knuter-med-kli.jpg",

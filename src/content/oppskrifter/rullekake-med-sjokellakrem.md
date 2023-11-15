@@ -1,7 +1,17 @@
 ---
 title: Rullekake med sjokellakrem
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "egg",
+    "sukker",
+    "hvetemel",
+    "bakepulver",
+    "sjokella",
+    "smør",
+    "jordbær",
+    "mandelflak",
+  ]
 images:
   ["../../assets/recipe-images/web_rullekake-med-sjokellakrem-mandelkake.jpg"]
 ---

@@ -1,7 +1,17 @@
 ---
 title: Sweet chili laks
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["middag"]
+ingredienser:
+  [
+    "laksefilet",
+    "sesamolje",
+    "purre",
+    "squash",
+    "bønnespirer",
+    "gulrot",
+    "sweet chili saus",
+    "risnudler",
+  ]
 images: ["../../assets/recipe-images/web_sweet-chili-laks.jpg"]
 ---
 

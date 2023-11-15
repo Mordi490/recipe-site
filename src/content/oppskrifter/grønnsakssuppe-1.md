@@ -3,21 +3,20 @@ title: Grønnsakssuppe 1
 tags: ["suppe", "middag"]
 ingredienser:
   [
+    "kyllingbuljong",
     "vårløk",
-    "blomkål",
-    "vårløk",
-    "løk",
     "purre",
+    "løk",
     "spinat",
     "kålhode",
     "paprika",
-    "selleristang",
-    "gulerøtter",
-    "sitron",
-    "lime",
+    "selleri",
+    "gulrot",
+    "spisskumin",
+    "koriander",
     "persille",
-    "hvitløksfedd",
-    "tomater",
+    "hvitløk",
+    "tomat",
   ]
 images: ["../../assets/recipe-images/web_grønnsaksuppe-1-grønnsaksuppe-2.jpg"]
 ---

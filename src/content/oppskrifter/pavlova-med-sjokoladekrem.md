@@ -1,7 +1,15 @@
 ---
 title: Pavlova med sjokoladekrem
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "eggehviter",
+    "bakepulver",
+    "sukker",
+    "sjokolade",
+    "kremfløte",
+    "pasjonsfrukt",
+  ]
 images: ["../../assets/recipe-images/web_pavlova-med-sjokoladekrem.jpg"]
 ---
 

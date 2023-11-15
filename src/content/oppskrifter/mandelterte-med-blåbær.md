@@ -1,7 +1,17 @@
 ---
 title: Mandelterte med blåbær
-tags: ["dessert", "småkake"]
-ingredienser: ["kylling", "pasta", "brokkoli"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "egg",
+    "sukker",
+    "margarin",
+    "bakepulver",
+    "vaniljekrem",
+    "blåbær",
+    "ripsgelè",
+    "mandelflak",
+  ]
 images:
   [
     "../../assets/recipe-images/web_blåbærterte-mandelterte-med-blåbær-blåbærpai.jpg",

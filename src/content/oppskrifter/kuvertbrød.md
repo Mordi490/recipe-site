@@ -1,7 +1,7 @@
 ---
 title: Kuvertbrød
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["brød", "bakverk"]
+ingredienser: ["gjær", "potetmel", "sukker", "melk", "hvetemel"]
 images: ["../../assets/recipe-images/web_kuvertbrød.jpg"]
 ---
 

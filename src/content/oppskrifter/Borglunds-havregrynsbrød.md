@@ -1,7 +1,7 @@
 ---
 title: Borglunds havregrynsbrød
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["brød"]
+ingredienser: ["gjær", "hvetekim", "havregryn", "hvetemel"]
 images: ["../../assets/recipe-images/web_borglunds-havregrynsbrød.jpg"]
 ---
 

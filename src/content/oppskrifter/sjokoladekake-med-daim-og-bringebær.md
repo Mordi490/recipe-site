@@ -1,7 +1,20 @@
 ---
 title: Sjokoladekake med Daim og bringebær
-tags: ["sukrin", "dessert", "kake", "eple"]
-ingredienser: ["sukrin", "egg", "rømme"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "smør",
+    "egg",
+    "sukker",
+    "hvetemel",
+    "bakepulver",
+    "vaniljesukker",
+    "kakao",
+    "brigebærsyltetøy",
+    "bringebær",
+    "kremfløte",
+    "daim",
+  ]
 images:
   [
     "../../assets/recipe-images/web_sjokoladekake-med-daim-og-bringebær.jpg",

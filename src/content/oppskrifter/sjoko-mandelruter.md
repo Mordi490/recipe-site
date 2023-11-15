@@ -1,7 +1,15 @@
 ---
 title: Sjoko-mandelruter
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte"]
+tags: ["dessert", "småkaker"]
+ingredienser:
+  [
+    "kransemasse",
+    "egg",
+    "appelsin",
+    "kokesjokolade",
+    "kaffe",
+    "sjokoladehjerter",
+  ]
 images: ["../../assets/recipe-images/web_sjoko-mandelruter.jpg"]
 ---
 

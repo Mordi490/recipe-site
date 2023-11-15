@@ -1,7 +1,7 @@
 ---
 title: Aprikoskake
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "bakverk", "kake"]
+ingredienser: ["hvetemel", "sukker", "smør", "egg", "marsipan", "aprikoser"]
 images: ["../../assets/recipe-images/web_aprikoskake.jpg"]
 ---
 

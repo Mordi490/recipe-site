@@ -1,7 +1,23 @@
 ---
 title: Løvens charlotte
-tags: ["dessert", "småkake"]
-ingredienser: ["havregryn", "egg", "smør"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "egg",
+    "sukker",
+    "hvetemel",
+    "bakepulver",
+    "kokesjokolade",
+    "smør",
+    "melis",
+    "gelatin",
+    "kremfløte",
+    "egg",
+    "jordbæryoghurt",
+    "jordbær",
+    "mokkabønner",
+    "marsipan",
+  ]
 images: ["../../assets/recipe-images/web_løvens-charlotte.jpg"]
 ---
 

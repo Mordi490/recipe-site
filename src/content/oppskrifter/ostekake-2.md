@@ -1,7 +1,17 @@
 ---
 title: Ostekake 2
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "kornmo-kjeks",
+    "smør",
+    "sukker",
+    "kanel",
+    "egg",
+    "kremost",
+    "vaniljesukker",
+    "rømme",
+  ]
 images: ["../../assets/recipe-images/web_ostekake.jpg"]
 ---
 

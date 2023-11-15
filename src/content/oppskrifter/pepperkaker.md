@@ -1,6 +1,6 @@
 ---
 title: Pepperkaker
-tags: ["dessert", "bakverk"]
+tags: ["dessert", "småkaker"]
 ingredienser:
   [
     "smør",

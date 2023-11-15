@@ -1,7 +1,16 @@
 ---
 title: Hot chop suey wok
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["middag"]
+ingredienser:
+  [
+    "svinekjøtt",
+    "sjampinjong",
+    "løk",
+    "chili",
+    "sukkererter",
+    "nudler",
+    "woksaus",
+  ]
 images: ["../../assets/recipe-images/web_hot-chop-suey-wok.jpg"]
 ---
 

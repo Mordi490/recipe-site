@@ -2,7 +2,17 @@
 title: Epleknytter 2
 tags: ["bakverk", "bolle", "rundstykke"]
 ingredienser:
-  ["sukker", "sammalt hvetemel", "sukker", "bakepulver", "margarin", "sur melk"]
+  [
+    "marsipan",
+    "smør",
+    "eplemos",
+    "mandelflak",
+    "melk",
+    "gjær",
+    "sukker",
+    "kardemomme",
+    "hvetemel",
+  ]
 images:
   [
     "../../assets/recipe-images/web_epleknytter-prinsessekake-kugelhupf-korintflette-eplekake-med-havrefres.jpg",

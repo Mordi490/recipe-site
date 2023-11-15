@@ -1,15 +1,20 @@
 ---
 title: Sjokoladekake med flettemønster
-tags: ["bakverk", "bolle", "rundstykke"]
+tags: ["kake", "dessert"]
 ingredienser:
   [
+    "smør",
     "sukker",
-    "sammalt hvetemel",
-    "sukker",
-    "hornsalt",
+    "egg",
+    "melk",
+    "kaffe",
+    "vaniljesukker",
     "bakepulver",
-    "margarin",
-    "sur melk",
+    "kakaopulver",
+    "hvetemel",
+    "kokesjokolade",
+    "kremfløte",
+    "melis",
   ]
 images:
   [

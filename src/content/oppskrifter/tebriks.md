@@ -1,7 +1,7 @@
 ---
 title: Tebriks
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "småkaker"]
+ingredienser: ["smør", "sukker", "gjær", "hvetemel"]
 images: ["../../assets/recipe-images/web_tebriks.jpg"]
 ---
 

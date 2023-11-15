@@ -1,7 +1,16 @@
 ---
 title: Korinterkaker
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kaker"]
+ingredienser:
+  [
+    "smør",
+    "sukker",
+    "eggeplommer",
+    "appelsin",
+    "korinter",
+    "hornsalt",
+    "hvetemel",
+  ]
 images: ["../../assets/recipe-images/web_korintkaker.jpg"]
 ---
 

@@ -1,7 +1,21 @@
 ---
 title: Siv Hildes ostekake
-tags: ["sukrin", "dessert", "kake"]
-ingredienser: ["sukrin", "egg", "rømme"]
+tags: ["ostekake", "dessert", "kake"]
+ingredienser:
+  [
+    "hasselnøtter",
+    "digestive",
+    "smør",
+    "appelsinjuice",
+    "gelatin",
+    "kremost",
+    "cremè fraîche",
+    "aprikoskompott",
+    "solo",
+    "appelsin",
+    "lime",
+    "sjokoladeblonder",
+  ]
 images: ["../../assets/recipe-images/web_siv-hildes-ostekake.jpg"]
 ---
 

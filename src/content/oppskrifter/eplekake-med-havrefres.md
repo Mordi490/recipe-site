@@ -2,7 +2,19 @@
 title: Eplekake med havrefres
 tags: ["bakverk", "bolle", "rundstykke"]
 ingredienser:
-  ["sukker", "sammalt hvetemel", "sukker", "bakepulver", "margarin", "sur melk"]
+  [
+    "havregryn",
+    "smør",
+    "honning",
+    "rosiner",
+    "epler",
+    "egg",
+    "melk",
+    "gjær",
+    "sukker",
+    "kardemomme",
+    "hvetemel",
+  ]
 images:
   [
     "../../assets/recipe-images/web_epleknytter-prinsessekake-kugelhupf-korintflette-eplekake-med-havrefres.jpg",

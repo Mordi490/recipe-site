@@ -1,7 +1,7 @@
 ---
 title: Valnøttknekk til strø
-tags: ["dessert", "småkake"]
-ingredienser: ["kylling", "pasta", "brokkoli"]
+tags: ["dessert", "dryss"]
+ingredienser: ["sukker", "smør", "sirup", "melk", "valnøtter"]
 images: ["../../assets/recipe-images/web_valnøttsnekk.jpg"]
 ---
 

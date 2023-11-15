@@ -1,7 +1,17 @@
 ---
 title: Nøttekake med krem
-tags: ["dessert", "småkake"]
-ingredienser: ["havregryn", "egg", "smør"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "eggehviter",
+    "sukker",
+    "hasselnøtter",
+    "kremfløte",
+    "mørk kokesjokolade",
+    "appelsin",
+    "krem",
+    "kiwi",
+  ]
 images:
   [
     "../../assets/recipe-images/web_mormors-eplekake-nøttekake-med-krem.jpg",

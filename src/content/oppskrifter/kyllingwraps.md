@@ -1,7 +1,8 @@
 ---
 title: Kyllingwraps
-tags: ["middag", "wok"]
-ingredienser: ["kylling", "pasta", "brokkoli"]
+tags: ["middag"]
+ingredienser:
+  ["kyllingfilet", "tortilla", "salsa", "matfløte", "løk", "hvitløk", "ost"]
 tattFra: https://www.nrk.no/mat/kyllingwraps-1.12271835
 images:
   [

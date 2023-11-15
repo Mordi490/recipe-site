@@ -1,7 +1,7 @@
 ---
 title: Bodils havrekjeks
-tags: ["dessert", "småkake"]
-ingredienser: ["kylling", "pasta", "brokkoli"]
+tags: ["dessert", "småkaker"]
+ingredienser: ["smør", "sukker", "melk", "havregryn", "hvetemel", "bakepulver"]
 images: ["../../assets/recipe-images/web_smørbar-juleost-bodils-havrekjeks.jpg"]
 ---
 

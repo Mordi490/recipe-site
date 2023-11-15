@@ -1,7 +1,20 @@
 ---
 title: Sjokoladesuksess
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "eggehviter",
+    "meli",
+    "sjokolade",
+    "mandler",
+    "bakepulver",
+    "eggeplommer",
+    "sukker",
+    "fløte",
+    "vaniljesukker",
+    "smør",
+    "karamellpynt",
+  ]
 images: ["../../assets/recipe-images/web_sjokoladesuksess.jpg"]
 ---
 

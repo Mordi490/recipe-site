@@ -1,7 +1,8 @@
 ---
 title: Sjokolademuffins sukrin
-tags: ["sukrin", "dessert", "kake"]
-ingredienser: ["sukrin", "egg", "rømme"]
+tags: ["sukrin", "dessert", "småkaker"]
+ingredienser:
+  ["egg", "rømme", "kakaopulver", "sjokolade", "nøtter", "sukrin kakemiks"]
 images: ["../../assets/recipe-images/web_sjokolademuffins.jpg"]
 ---
 

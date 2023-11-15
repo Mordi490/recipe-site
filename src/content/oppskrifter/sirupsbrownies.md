@@ -1,7 +1,8 @@
 ---
 title: Sirupsbrownies
-tags: ["sukrin", "dessert", "kake", "eple"]
-ingredienser: ["sukrin", "egg", "rømme"]
+tags: ["dessert"]
+ingredienser:
+  ["kakao", "mørk sjokolade", "smør", "sirup", "sukker", "valnøtter", "melis"]
 images:
   [
     "../../assets/recipe-images/web_sjokoladekake-med-daim-og-bringebær-sirupsbrownies.jpg",

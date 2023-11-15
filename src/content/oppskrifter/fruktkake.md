@@ -1,7 +1,21 @@
 ---
 title: Fruktkake
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "smør",
+    "egg",
+    "sukker",
+    "hvetemel",
+    "potetmel",
+    "bakepulver",
+    "vaniljekrem",
+    "mandellikør",
+    "krefløte",
+    "fersken",
+    "nektarin",
+    "bær",
+  ]
 images: ["../../assets/recipe-images/web_fruktkake.jpg"]
 ---
 
@@ -29,7 +43,7 @@ images: ["../../assets/recipe-images/web_fruktkake.jpg"]
 ### Pynt
 
 - 3-4 friske ferskener eller nektariner
-- ca. 2 dl friske bør
+- ca. 2 dl friske bær
 
 ## Instruksjon
 

@@ -1,7 +1,8 @@
 ---
 title: Kolakaker
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "småkaker"]
+ingredienser:
+  ["margarin", "sukker", "hvetemel", "natron", "bakepulver", "vaniljesukker"]
 images:
   [
     "../../assets/recipe-images/web_kolakker-en.jpg",

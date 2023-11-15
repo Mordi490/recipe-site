@@ -1,7 +1,17 @@
 ---
 title: Tørre vafler
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "småkaker"]
+ingredienser:
+  [
+    "egg",
+    "sukker",
+    "eggeplomme",
+    "smør",
+    "potetmel",
+    "hvetemel",
+    "bakepulver",
+    "vaniljesukker",
+  ]
 images:
   [
     "../../assets/recipe-images/web_tørre-vafler-en.jpg",

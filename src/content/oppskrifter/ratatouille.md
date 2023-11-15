@@ -1,7 +1,7 @@
 ---
 title: Ratatouille
-tags: ["tilbehør", "grønnsaker"]
-ingredienser: ["kylling", "pasta", "brokkoli"]
+tags: ["tilbehør", "vegan", "middag"]
+ingredienser: ["paprika", "squash", "løk", "tomat", "tomatepurè", "oregano"]
 tattFra: https://www.matprat.no/oppskrifter/sunn/ratatouille/
 images:
   [

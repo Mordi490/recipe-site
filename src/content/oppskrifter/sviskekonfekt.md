@@ -1,7 +1,7 @@
 ---
 title: Sviskekonfekt
-tags: ["dessert", "småkake"]
-ingredienser: ["havregryn", "egg", "smør"]
+tags: ["dessert", "godteri"]
+ingredienser: ["svisker", "marsipan", "rom", "kokesjokolade", "syltevoks"]
 images: ["../../assets/recipe-images/web_sviskekonfekt.jpg"]
 ---
 

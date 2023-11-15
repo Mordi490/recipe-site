@@ -1,7 +1,7 @@
 ---
 title: Berlinerkranser
 tags: ["dessert", "kake"]
-ingredienser: ["smør", "sukker", "eggeplommer", "havregryn"]
+ingredienser: ["egg", "sukker", "hvetemel", "smør", "perlesukker"]
 tattFra: https://www.detsoteliv.no/oppskrift/berlinerkranser
 images: ["../../assets/recipe-images/web_berlinerkranser.jpg"]
 ---
@@ -15,7 +15,7 @@ images: ["../../assets/recipe-images/web_berlinerkranser.jpg"]
 - 60 g sukker
 - 175 g hvetemel
 - 125 g smør
-- **PYNT: 1 eggehivte**
+- **PYNT: 1 eggehvite**
 - **PYNT: perlesukker**
 
 ## Instruksjoner

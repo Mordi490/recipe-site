@@ -1,7 +1,8 @@
 ---
 title: Sveler 2
-tags: ["dessert", "småkake"]
-ingredienser: ["kylling", "pasta", "brokkoli"]
+tags: ["lunsj"]
+ingredienser:
+  ["egg", "sukker", "hvetemel", "kulturmelk", "hjortesalt", "natron", "smør"]
 images: ["../../assets/recipe-images/web_svele.jpg"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Fløyelskake
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser: ["smør", "sukker", "egg", "hvetemel", "bakepulver", "vaniljesukker", "fløte"]
 images: ["../../assets/recipe-images/web_fløyelskake.jpg",
 "../../assets/recipe-images/fløyelskake-preview.jpg"]
 ---

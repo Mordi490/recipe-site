@@ -1,7 +1,20 @@
 ---
 title: Jordbærkarusell
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "bakverk", "kake"]
+ingredienser:
+  [
+    "egg",
+    "sukker",
+    "hvetemel",
+    "bakepulver",
+    "melk",
+    "jordbær",
+    "appelsinlikør",
+    "Grand Mariner",
+    "gelatinplater",
+    "kremfløte",
+    "sukker",
+  ]
 images: ["../../assets/recipe-images/web_jordbærkarusell.jpg"]
 ---
 

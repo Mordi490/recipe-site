@@ -1,7 +1,17 @@
 ---
 title: Hjerteostekake med jordbær
 tags: ["ostekake", "dessert", "kake"]
-ingredienser: ["sukrin", "egg", "rømme"]
+ingredienser:
+  [
+    "sjokoladekjeks",
+    "smør",
+    "bringebær",
+    "jordbær",
+    "blåbær",
+    "kremost",
+    "seterrømme",
+    "sukker",
+  ]
 images: ["../../assets/recipe-images/web_hjerteostekake-med-jordbær.jpg"]
 ---
 

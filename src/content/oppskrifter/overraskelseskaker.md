@@ -1,7 +1,19 @@
 ---
 title: Overraskelseskaker
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "smør",
+    "sukker",
+    "egg",
+    "melk",
+    "gjær",
+    "hvetemel",
+    "epler",
+    "brunt sukker",
+    "kanel",
+    "perlesukker",
+  ]
 images: ["../../assets/recipe-images/web_overraskelseskaker.jpg"]
 ---
 

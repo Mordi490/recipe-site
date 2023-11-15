@@ -1,7 +1,20 @@
 ---
 title: sjoko-banankake
-tags: ["sukrin", "dessert", "kake"]
-ingredienser: ["sukrin", "egg", "rømme"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "egg",
+    "sukker",
+    "melk",
+    "hvetemel",
+    "vaniljesukker",
+    "smør",
+    "banna",
+    "valnøtter",
+    "kokesjokolade",
+    "kremfløte",
+    "jordbær",
+  ]
 images:
   ["../../assets/recipe-images/web_saftig-sjokoladekake-sjoko-banankake.jpg"]
 ---

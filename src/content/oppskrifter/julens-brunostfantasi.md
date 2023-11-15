@@ -1,7 +1,7 @@
 ---
 title: Julens brunostfantasi
-tags: ["dessert", "småkake"]
-ingredienser: ["kylling", "pasta", "brokkoli"]
+tags: ["tilbehør", "dipp"]
+ingredienser: ["brunost", "maisennamel", "appelsinjuice"]
 images: ["../../assets/recipe-images/web_julens-brunostfantasi.jpg"]
 ---
 

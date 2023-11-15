@@ -1,8 +1,20 @@
 ---
 title: Kugelkupf
-tags: ["bakverk", "bolle", "rundstykke"]
+tags: ["bakverk", "bolle"]
 ingredienser:
-  ["sukker", "sammalt hvetemel", "sukker", "bakepulver", "margarin", "sur melk"]
+  [
+    "smør",
+    "melk",
+    "gjær",
+    "sukker",
+    "kardemomme",
+    "hvetemel",
+    "egg",
+    "sitron",
+    "melis",
+    "pistasienøtt",
+    "mandler",
+  ]
 images:
   [
     "../../assets/recipe-images/web_epleknytter-prinsessekake-kugelhupf-korintflette-eplekake-med-havrefres.jpg",

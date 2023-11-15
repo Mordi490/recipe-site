@@ -1,7 +1,18 @@
 ---
 title: Sjokolademuffins med valmuefrø
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "småkaker"]
+ingredienser:
+  [
+    "smør",
+    "sukker",
+    "egg",
+    "hvetemel",
+    "vaniljesukker",
+    "kefir",
+    "kulturmelk",
+    "kokesjokolade",
+    "valmuefrø",
+  ]
 images: ["../../assets/recipe-images/web_sjokolademuffins-med-valmuefrø.jpg"]
 ---
 

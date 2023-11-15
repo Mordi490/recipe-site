@@ -1,7 +1,8 @@
 ---
 title: Eplehorn
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "horn"]
+ingredienser:
+  ["smør", "gjær", "melk", "sukker", "egg", "hvetemel", "eplemos", "kardemomme"]
 images: ["../../assets/recipe-images/web_sitronboller-eplehorn.jpg"]
 ---
 

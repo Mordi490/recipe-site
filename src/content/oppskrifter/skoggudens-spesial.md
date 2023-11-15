@@ -1,7 +1,7 @@
 ---
 title: Skoggudens spesial
-tags: ["dessert", "småkake"]
-ingredienser: ["havregryn", "egg", "smør"]
+tags: ["dessert", "kake"]
+ingredienser: ["egg", "sukker", "hvetemel", "grov hvete", "bakepulver", "multer", "multlikør", "seterrømme", "marsipan", "lakrislisser", "mynteblader"]
 images: ["../../assets/recipe-images/web_skoggudens-spesial.jpg",
 "../../assets/recipe-images/web_skytten-kake-preview.jpg"]
 ---

@@ -1,7 +1,17 @@
 ---
 title: Smultringer
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "bakverk", "småkaker"]
+ingredienser:
+  [
+    "egg",
+    "sukker",
+    "seterrømme",
+    "melk",
+    "hjortesalt",
+    "kardemomme",
+    "hvetemel",
+    "smult",
+  ]
 images:
   [
     "../../assets/recipe-images/web_smultringer-en.jpg",

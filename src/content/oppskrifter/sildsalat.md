@@ -1,7 +1,18 @@
 ---
 title: Sildsalat
-tags: ["dessert", "småkake"]
-ingredienser: ["havregryn", "egg", "smør"]
+tags: ["tilbehør"]
+ingredienser:
+  [
+    "kryddersild",
+    "poteter",
+    "gulrot",
+    "syltede rødbeter",
+    "løk",
+    "rømme",
+    "ravigottsaus",
+    "rødbetelake",
+    "sukker",
+  ]
 images: ["../../assets/recipe-images/web_sild-med-frukt-sildesalat.jpg"]
 ---
 

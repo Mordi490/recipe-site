@@ -1,7 +1,7 @@
 ---
 title: fromasjkake
-tags: ["drikke", "dessert"]
-ingredienser: ["sukker", "vann", "melk"]
+tags: ["kake", "dessert"]
+ingredienser: ["sitrongelè", "fløte", "fruktcocktail", "nøttekjerner"]
 images: ["../../assets/recipe-images/web_fromasjkake.jpg"]
 ---
 

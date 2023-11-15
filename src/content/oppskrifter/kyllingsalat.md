@@ -1,7 +1,20 @@
 ---
 title: Kyllingsalat
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["middag", "lunsj"]
+ingredienser:
+  [
+    "kylling",
+    "skinke",
+    "hamburgerygg",
+    "sjampinjong",
+    "selleri",
+    "dill",
+    "majones",
+    "rømme",
+    "fløte",
+    "dijonsennep",
+    "karri",
+  ]
 images:
   [
     "../../assets/recipe-images/web_kyllingsalat-en.jpg",

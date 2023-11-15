@@ -1,7 +1,8 @@
 ---
 title: Punsjboller
-tags: ["dessert", "småkake"]
-ingredienser: ["havregryn", "egg", "smør"]
+tags: ["dessert", "småkaker"]
+ingredienser:
+  ["melis", "smør", "smuler", "mandler", "kakao", "mørk sirup", "romsessens"]
 images: ["../../assets/recipe-images/web_punsjboller.jpg"]
 ---
 

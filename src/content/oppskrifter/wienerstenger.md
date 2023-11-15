@@ -1,7 +1,8 @@
 ---
 title: Wienerstenger
-tags: ["dessert", "småkake"]
-ingredienser: ["havregryn", "egg", "smør"]
+tags: ["dessert", "småkaker"]
+ingredienser:
+  ["gjær", "egg", "sukker", "hvetemel", "smør", "vaniljekrem", "melisglasur"]
 images: ["../../assets/recipe-images/web_wienerstenger.jpg"]
 ---
 

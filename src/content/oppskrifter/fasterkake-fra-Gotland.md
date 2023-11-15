@@ -1,7 +1,17 @@
 ---
 title: Fasterkake fra Gotland
 tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+ingredienser:
+  [
+    "melk",
+    "grøtris",
+    "sukker",
+    "hvetemel",
+    "gurkemeie",
+    "rosiner",
+    "mandler",
+    "egg",
+  ]
 images:
   [
     "../../assets/recipe-images/web_fasterkake-fra-gotland-en.jpg",

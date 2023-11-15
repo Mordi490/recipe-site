@@ -1,7 +1,18 @@
 ---
 title: Blomstersjokoladehjerte
-tags: ["sukrin", "dessert", "kake"]
-ingredienser: ["sukrin", "egg", "rømme"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "egg",
+    "sukker",
+    "smør",
+    "kokesjokolade",
+    "hvetemel",
+    "bakepulver",
+    "Dronning-glasur",
+    "kremfløte",
+    "jordbær",
+  ]
 images:
   [
     "../../assets/recipe-images/web_blomstersjokoladekake-saftig-langpannekake.jpg",
@@ -24,7 +35,7 @@ images:
 ### Glasur
 
 - 1-2 pk. Dronning-glasur
-- kremflløte
+- kremfløte
 - jordbær
 
 ## Instruksjoner

@@ -1,7 +1,16 @@
 ---
 title: Knekkebrød 2
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["brød"]
+ingredienser:
+  [
+    "havregryn",
+    "linfrø",
+    "sesamfrø",
+    "solsikkekjerner",
+    "gresskarkjerner",
+    "chia frø",
+    "sammalt hvete",
+  ]
 images: ["../../assets/recipe-images/web_knekkebrød-2-en.jpg"]
 ---
 

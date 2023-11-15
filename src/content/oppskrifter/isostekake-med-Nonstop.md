@@ -1,7 +1,19 @@
 ---
 title: Isostekake med Nonstop
 tags: ["ostekake", "dessert", "kake"]
-ingredienser: ["sukrin", "egg", "rømme"]
+ingredienser:
+  [
+    "makronfyll",
+    "hvetemel",
+    "kremfløte",
+    "kakepynt",
+    "kremfløte",
+    "egg",
+    "sukker",
+    "vaniljesukker",
+    "kremost",
+    "Nonstop",
+  ]
 images: ["../../assets/recipe-images/web_isostekake-med-nonstop.jpg"]
 ---
 

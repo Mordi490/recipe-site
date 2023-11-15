@@ -1,7 +1,7 @@
 ---
 title: Pollo gratinato (ostegrainert hel grillet kylling)
-tags: ["dessert", "småkake"]
-ingredienser: ["kylling", "pasta", "brokkoli"]
+tags: ["middage"]
+ingredienser: ["hel kylling", "squash", "paprika", "hvitløk", "sitron"]
 images: ["../../assets/recipe-images/web_pollo-gratinato.jpg"]
 ---
 

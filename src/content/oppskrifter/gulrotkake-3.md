@@ -1,7 +1,18 @@
 ---
 title: Gulrotkake 3
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "sukker",
+    "egg",
+    "hvetemel",
+    "bakepulver",
+    "vaniljesukker",
+    "natron",
+    "kanel",
+    "gulrot",
+    "mandler",
+  ]
 images: ["../../assets/recipe-images/web_gulrotkake-3.jpg"]
 ---
 

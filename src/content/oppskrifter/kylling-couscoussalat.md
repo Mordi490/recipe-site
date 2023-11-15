@@ -1,7 +1,19 @@
 ---
 title: Kylling- og couscoussalat med urter
-tags: ["dessert", "kake"]
-ingredienser: ["smør", "sukker", "eggeplommer", "havregryn"]
+tags: ["middag"]
+ingredienser:
+  [
+    "kyllingfilet",
+    "margarin",
+    "cherrytomat",
+    "spinat",
+    "mynte",
+    "koriander",
+    "kapers",
+    "sitron",
+    "hvitløk",
+    "olivenolje",
+  ]
 tattFra: https://www.matprat.no
 images:
   ["../../assets/recipe-images/web_kylling-og-couscoussalat-med-urter.jpg"]
@@ -23,7 +35,7 @@ images:
 - 2 ss frisk mynte
 - 2 ss frisk koriander
 - 2 ss kapers med stilk
-- saft og skall av 1 stiron
+- saft og skall av 1 sitron
 - 2 båt hvitløk
 - 2 ss olivenolje
 

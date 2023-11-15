@@ -1,7 +1,18 @@
 ---
 title: Pavlova
-tags: ["dessert", "småkake"]
-ingredienser: ["kylling", "pasta", "brokkoli"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "eggehviter",
+    "sukker",
+    "maisennamel",
+    "hvitvinseddik",
+    "bringebæreddik",
+    "vaniljekrem",
+    "kremfløte",
+    "pasjonsfrukt",
+    "bær",
+  ]
 images: ["../../assets/recipe-images/web_pavlova.jpg"]
 ---
 

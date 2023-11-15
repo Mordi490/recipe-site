@@ -1,7 +1,7 @@
 ---
 title: Bløtkakelengde
-tags: ["dessert", "småkake"]
-ingredienser: ["kylling", "pasta", "brokkoli"]
+tags: ["dessert", "kake"]
+ingredienser: ["rullekake", "kremfløte", "krokandryss"]
 images: ["../../assets/recipe-images/web_charlotte-russe-bløtkakelengde.jpg"]
 ---
 

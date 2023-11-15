@@ -1,7 +1,7 @@
 ---
 title: Vaniljeboller 2
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["boller", "bakverk"]
+ingredienser: ["melk", "sukker", "vaniljesukker", "egg", "maisennamel", "smør"]
 images:
   [
     "../../assets/recipe-images/web_hveteboller-epleboller-med-melisglasur-mandelboller-vaniljeboller.jpg",

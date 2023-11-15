@@ -1,7 +1,22 @@
 ---
 title: Mokka-suksess
-tags: ["dessert", "småkake"]
-ingredienser: ["havregryn", "egg", "smør"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "egg",
+    "melis",
+    "mandler",
+    "kremfløte",
+    "kokesjokolade",
+    "kaffepulver",
+    "kaffepulver",
+    "sukker",
+    "smør",
+    "kaffelikør",
+    "krem",
+    "marsipan",
+    "sølvkuler",
+  ]
 images: ["../../assets/recipe-images/web_mokka-suksess.jpg"]
 ---
 
@@ -20,7 +35,7 @@ Denne kaken skal dekoreres til stjernetegnet væren
 ### Mokkakrem
 
 - 1 dl kremfløte
-- 1/2 pl kokesjokolade
+- 1/2 pl. kokesjokolade
 - 2 ts kaffepulver
 - 1 dk sukker
 - 3 eggeplommer

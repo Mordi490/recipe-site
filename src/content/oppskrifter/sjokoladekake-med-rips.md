@@ -1,7 +1,17 @@
 ---
 title: Sjokoladekake med rips
-tags: ["ostekake", "dessert", "kake"]
-ingredienser: ["sukrin", "egg", "rømme"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "egg",
+    "sukker",
+    "hvetemel",
+    "bakepulver",
+    "vaniljesukker",
+    "kesam",
+    "appelsin",
+    "valnøtter",
+  ]
 images: ["../../assets/recipe-images/web_sjokoladekake-med-rips.jpg"]
 ---
 

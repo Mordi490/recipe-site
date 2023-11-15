@@ -1,7 +1,19 @@
 ---
 title: Bollehjerte
 tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+ingredienser:
+  [
+    "melk",
+    "gjær",
+    "sukker",
+    "hvetemel",
+    "smør",
+    "koriander",
+    "aprikossyltetøy",
+    "kransekakemasse",
+    "egg",
+    "mandelspon",
+  ]
 images: ["../../assets/recipe-images/web_bollehjerte.jpg"]
 ---
 

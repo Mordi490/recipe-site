@@ -1,8 +1,7 @@
 ---
 title: Pizza
-tags: ["middag", "sukrin", "bakverk"]
-ingredienser:
-  ["egg", "soyamel", "hvitløk", "olje", "oregano", "ost", "bakepulver"]
+tags: ["middag"]
+ingredienser: ["hvetemel", "gjær"]
 images: ["../../assets/recipe-images/web_pizza.jpg"]
 ---
 

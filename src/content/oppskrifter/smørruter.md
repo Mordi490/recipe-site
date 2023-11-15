@@ -1,8 +1,7 @@
 ---
 title: Smørruter
-tags: ["bakverk", "bolle", "rundstykke"]
-ingredienser:
-  ["sukker", "sammalt hvetemel", "sukker", "bakepulver", "margarin", "sur melk"]
+tags: ["bakverk", "småkaker"]
+ingredienser: ["smør", "melk", "gjær", "sitron", "sukker", "hvetemel"]
 images:
   [
     "../../assets/recipe-images/web_brriochekake-festkringle-smørruter-en.jpg",

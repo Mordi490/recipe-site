@@ -1,7 +1,19 @@
 ---
 title: Langpannekake 2
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "smør",
+    "sukker",
+    "egg",
+    "hvetemel",
+    "kakaopulver",
+    "bakepulver",
+    "vaniljesukker",
+    "melk",
+    "melis",
+    "kaffe",
+  ]
 images: ["../../assets/recipe-images/web_langpannekake.jpg"]
 ---
 

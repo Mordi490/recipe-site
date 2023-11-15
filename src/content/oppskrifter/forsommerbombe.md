@@ -1,7 +1,7 @@
 ---
 title: forsommerbombe
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser: ["gjær", "melk", "hvetemel", "smør", "sukker", "egg", "maisennamel", "egg", vaniljepulver", "likør", "vin", "kremfløte", "rips"]
 images: ["../../assets/recipe-images/web_forsommerbombe.jpg",
 "../../assets/recipe-images/forsommer-preview.jpg"]
 ---

@@ -1,7 +1,7 @@
 ---
 title: Melkekake
-tags: ["dessert", "bakverk", "sukrin"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser: ["skummet melk", "hvetemel", "byggmel", "sukker", "hjortesalt"]
 images: ["../../assets/recipe-images/web_melkkake.jpg"]
 ---
 

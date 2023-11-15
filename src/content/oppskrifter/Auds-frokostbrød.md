@@ -1,7 +1,19 @@
 ---
 title: Auds frokostbrød
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["brød"]
+ingredienser:
+  [
+    "fiberbakst",
+    "grovbakst",
+    "havregryn",
+    "linfrø",
+    "sesamfrø",
+    "valnøtter",
+    "salt",
+    "lys sirup",
+    "skummet melk",
+    "gjær",
+  ]
 images: ["../../assets/recipe-images/web_auds-frokostbrød.jpg"]
 ---
 

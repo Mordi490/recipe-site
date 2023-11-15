@@ -1,7 +1,21 @@
 ---
 title: Pepperkaker 2
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "småkaker"]
+ingredienser:
+  [
+    "smør",
+    "sukker",
+    "mørk sirup",
+    "nellik",
+    "ingefær",
+    "kanel",
+    "egg",
+    "natron",
+    "hvetemel",
+    "melis",
+    "eggehvite",
+    "sitronsaft",
+  ]
 tattFra: https://www.matprat.no/oppskrifter/tradisjon/pepperkaker/
 images: ["../../assets/recipe-images/web_pepperkaker.jpg"]
 ---

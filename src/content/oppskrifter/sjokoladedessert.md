@@ -1,7 +1,8 @@
 ---
 title: Sjokoladedessert
-tags: ["dessert", "småkake"]
-ingredienser: ["havregryn", "egg", "smør"]
+tags: ["dessert", "kake"]
+ingredienser:
+  ["hasselnøtter", "After Eight", "melis", "kokesjokolade", "egg", "kaffe"]
 images:
   [
     "../../assets/recipe-images/web_sjokolade-dessert-sitronkake-med-glasur-en.jpg",

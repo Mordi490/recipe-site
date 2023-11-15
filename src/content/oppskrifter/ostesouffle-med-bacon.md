@@ -1,7 +1,7 @@
 ---
 title: Ostesouffle med bacon
 tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+ingredienser: ["margarin", "hvetemel", "melk", "egg", "gaudaost", "bacon"]
 images:
   [
     "../../assets/recipe-images/web_ostesouffle-bacon-ostekake-daimsjokolade.jpg",

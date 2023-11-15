@@ -1,7 +1,8 @@
 ---
 title: Jordbærkake
-tags: ["dessert", "bakverk", "sukrin"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "bakverk"]
+ingredienser:
+  ["egg", "sukker", "hvetemel", "bakepulver", "kremfløte", "jordbær", "krokan"]
 images:
   [
     "../../assets/recipe-images/web_jordbærkake-en.jpg",

@@ -1,7 +1,19 @@
 ---
 title: Linsesuppe med kylling og koriander
-tags: ["middag"]
-ingredienser: ["kylling", "kikerter", "tomat"]
+tags: ["middag", "suppe"]
+ingredienser:
+  [
+    "spisskumin",
+    "kyllingkjøttdeig",
+    "løk",
+    "hvitløk",
+    "ingefær",
+    "chili",
+    "sambal oelek",
+    "linser",
+    "tomat",
+    "hønsebuljong",
+  ]
 tattFra: https://www.matprat.no/oppskrifter/sunn/linsesuppe-med-kylling-og-koriander/
 images:
   ["../../assets/recipe-images/web_linsesuppe-med-kylling-og-koriander.jpg"]
@@ -13,7 +25,7 @@ images:
 
 - 1 ts salt
 - 0,25 ts pepper
-- 1 ts malt spisskummen
+- 1 ts malt spisskumin
 - 400 g strimlet kyllingkjøtt
 - 1 ss olivenolje
 - 1 stk. hakket løk

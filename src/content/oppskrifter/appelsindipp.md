@@ -1,7 +1,7 @@
 ---
 title: Appelsindipp
-tags: ["dessert", "småkake"]
-ingredienser: ["kylling", "pasta", "brokkoli"]
+tags: ["dessert", "dipp"]
+ingredienser: ["cottage cheese", "fruktyoghurt", "appelsin", "sukker"]
 images:
   [
     "../../assets/recipe-images/web_nøttedip-appelsindipp-ananasdipp-normannadipp.jpg",

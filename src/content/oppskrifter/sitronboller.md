@@ -1,7 +1,20 @@
 ---
 title: Sitronboller
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "boller"]
+ingredienser:
+  [
+    "gjær",
+    "smør",
+    "melk",
+    "sukker",
+    "hvetemel",
+    "fløte",
+    "melk",
+    "eggeplomme",
+    "potetmel",
+    "sitron",
+    "strøsukker",
+  ]
 images: ["../../assets/recipe-images/web_sitronboller-eplehorn.jpg"]
 ---
 

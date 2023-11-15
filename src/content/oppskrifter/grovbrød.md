@@ -1,7 +1,7 @@
 ---
 title: Grovbrød
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["brød"]
+ingredienser: ["hvetekorn", "gjær", "smør", "sammalt hvete", "hvetemel"]
 images: ["../../assets/recipe-images/web_grovbrød.jpg"]
 ---
 

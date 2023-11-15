@@ -1,7 +1,7 @@
 ---
 title: Sveler
-tags: ["dessert", "småkake"]
-ingredienser: ["kylling", "pasta", "brokkoli"]
+tags: ["lunsj"]
+ingredienser: ["hvetemel", "kefir", "sukker", "natron", "bakepulver", "egg"]
 images: ["../../assets/recipe-images/web_hardingar-sveler.jpg"]
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: Laup/skillingskaker
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "småkaker"]
+ingredienser:
+  ["smør", "melk", "gjær", "sukker", "anis", "rugmel", "hvetemel", "egg"]
 images: ["../../assets/recipe-images/web_skillingskaker.jpg"]
 ---
 

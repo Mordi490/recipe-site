@@ -1,7 +1,8 @@
 ---
 title: Rosinbolle
-tags: ["dessert", "småkake"]
-ingredienser: ["havregryn", "egg", "smør"]
+tags: ["lunsj", "småkaker"]
+ingredienser:
+  ["smør", "melk", "gjær", "sukker", "kardemomme", "rosiner", "hvetemel"]
 images: ["../../assets/recipe-images/web_rosinboller.jpg"]
 ---
 

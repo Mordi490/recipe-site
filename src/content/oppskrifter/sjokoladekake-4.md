@@ -1,7 +1,8 @@
 ---
 title: Sjokoladekake 4
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser:
+  ["egg", "sukker", "rømme", "hvetemel", "kakao", "bakepulver", "smør"]
 ---
 
 # Sjokoladekake 4

@@ -1,7 +1,19 @@
 ---
 title: Calzone
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["middag", "pizza"]
+ingredienser:
+  [
+    "gjær",
+    "hvetemel",
+    "løk",
+    "hvitløk",
+    "hermetisk tomat",
+    "basilikum",
+    "laubærblad",
+    "tomatepurè",
+    "skinke",
+    "ost",
+  ]
 images: ["../../assets/recipe-images/web_calzone.jpg"]
 ---
 
@@ -28,7 +40,7 @@ images: ["../../assets/recipe-images/web_calzone.jpg"]
 - 1/2 ts basilikum
 - 1/2 ts oregano
 - 1 laubærblad
-- 3 ss tomatpure
+- 3 ss tomatpurè
 
 ### Legg på
 

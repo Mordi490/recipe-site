@@ -1,7 +1,17 @@
 ---
 title: Daim-sjokoladekake
-tags: ["ostekake", "dessert", "kake"]
-ingredienser: ["sukrin", "egg", "rømme"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "mørk sjokolade",
+    "smør",
+    "sukker",
+    "egg",
+    "hvetemel",
+    "bakepulver",
+    "Daim",
+    "bringebærsorbet",
+  ]
 images: ["../../assets/recipe-images/web_daim-sjokoladekake.jpg"]
 ---
 

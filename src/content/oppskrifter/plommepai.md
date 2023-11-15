@@ -1,7 +1,21 @@
 ---
 title: Plommepai
-tags: ["dessert", "småkake"]
-ingredienser: ["kylling", "pasta", "brokkoli"]
+tags: ["dessert", "pai"]
+ingredienser:
+  [
+    "plommer",
+    "mandler",
+    "egg",
+    "kesam",
+    "cremè fraîche",
+    "honning",
+    "hvetemel",
+    "havregryn",
+    "brunt sukker",
+    "margarin",
+    "kokesjokolade",
+    "fersken",
+  ]
 images:
   [
     "../../assets/recipe-images/web_ferskenpai-gresskarpai-med-valnøtter-plommepai-sesamfrøkake-med-kremtopp.jpg",

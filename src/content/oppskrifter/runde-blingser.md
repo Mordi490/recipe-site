@@ -1,7 +1,7 @@
 ---
 title: Runde blingser
-tags: ["dessert", "småkake"]
-ingredienser: ["kylling", "pasta", "brokkoli"]
+tags: ["lunsj"]
+ingredienser: ["gjær", "melk", "smør", "havregryn", "hvetemel"]
 images: ["../../assets/recipe-images/web_runde-blingser.jpg"]
 ---
 

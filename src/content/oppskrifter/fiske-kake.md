@@ -1,7 +1,23 @@
 ---
 title: Fiske kake
-tags: ["dessert", "småkake"]
-ingredienser: ["havregryn", "egg", "smør"]
+tags: ["middag", "fisk"]
+ingredienser:
+  [
+    "egg",
+    "sukker",
+    "hvetemel",
+    "potetmel",
+    "bakepulver",
+    "jordbær",
+    "jordbærgelè",
+    "mandler",
+    "gelatin",
+    "kremfløte",
+    "marsipan",
+    "sølvkuler",
+    "lakrislisser",
+    "mandelspon",
+  ]
 images: ["../../assets/recipe-images/web_kongelig-fiskekake.jpg"]
 ---
 
@@ -26,7 +42,7 @@ Denne kaken skal dekoreres til stjernetenget fisken
 - 300 g jordbær
 - 3 dl jordbærgelè (fra pakke)
 - 3/4 dl hakkede, ristede mandler
-- 4 pl. gelatin.
+- 4 pl. gelatin
 - 1/2 dl kokende vann
 - 2 egg
 - 2 ss sukker

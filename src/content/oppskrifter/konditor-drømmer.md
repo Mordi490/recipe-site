@@ -1,7 +1,25 @@
 ---
 title: Konditor-drømmer
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "bakverk", "kake"]
+ingredienser:
+  [
+    "mel",
+    "sukker",
+    "smør",
+    "kefir",
+    "mandler",
+    "sviskemos",
+    "portvin",
+    "krem",
+    "gelatinplater",
+    "hvitvin",
+    "jordbær",
+    "hasselnøtter",
+    "hvetemel",
+    "kremfløte",
+    "marsipan",
+    "kiwi",
+  ]
 images: ["../../assets/recipe-images/web_konditor-drømmer.jpg"]
 ---
 

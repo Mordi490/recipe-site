@@ -1,7 +1,16 @@
 ---
 title: Mikrokarameller
-tags: ["dessert", "småkake"]
-ingredienser: ["kylling", "pasta", "brokkoli"]
+tags: ["dessert", "småkaker"]
+ingredienser:
+  [
+    "meierismør",
+    "lys sirup",
+    "sukker",
+    "kakaopulver",
+    "mashmellows",
+    "kokosmasse",
+    "mandelflak",
+  ]
 images:
   ["../../assets/recipe-images/web_mikrokarameller-appelsin-sjokolade.jpg"]
 ---

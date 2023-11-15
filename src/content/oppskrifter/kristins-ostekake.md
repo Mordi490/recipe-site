@@ -1,7 +1,19 @@
 ---
 title: Kristins ostekake
 tags: ["ostekake", "dessert", "kake"]
-ingredienser: ["sukrin", "egg", "rømme"]
+ingredienser:
+  [
+    "bringebærgelè",
+    "sitrongelè",
+    "hjertestrøssel",
+    "kesam",
+    "sitronsaft",
+    "kremost",
+    "melis",
+    "kremfløte",
+    "digestive kjek",
+    "smør",
+  ]
 images: ["../../assets/recipe-images/web_kristins-ostekake.jpg"]
 ---
 
@@ -18,7 +30,7 @@ images: ["../../assets/recipe-images/web_kristins-ostekake.jpg"]
 - 2 1/2 dl vann
 - 2 beger kesam
 - 4 ss sitronsaft
-- 200 g kremostnaturell
+- 200 g kremost naturell
 - 1 dl melis
 - 5 dl kremfløte
 

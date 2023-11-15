@@ -1,7 +1,7 @@
 ---
 title: Kjertis sommerkake
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser: ["hvetemel", "sukker", "bakepulver", "smør", "melk", "egg", "sitronsaft", "epler", "kanel", "mandler",]
 images: ["../../assets/recipe-images/web_kjerstis-sommerkake.jpg",
 "../../assets/recipe-images/kjerstis-sommerkake-preview.jpg"]
 ---

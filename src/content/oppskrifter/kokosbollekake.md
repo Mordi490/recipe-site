@@ -1,15 +1,15 @@
 ---
 title: Kokosbollekake
-tags: ["bakverk", "dessert", "boller", "sukrin"]
+tags: ["bakverk", "dessert", "småkaker", "sukrin"]
 ingredienser:
   [
-    "gelatin",
+    "gelatinplater",
     "eggehviter",
-    "egg",
     "sukrin",
     "vaniljesukker",
     "kokosfett",
     "mørk kokesjokolade",
+    "eggeplommer",
     "kokosmasse",
   ]
 images: ["../../assets/recipe-images/web_kokosbollekake-2.jpg"]

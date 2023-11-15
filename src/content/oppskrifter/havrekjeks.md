@@ -1,7 +1,7 @@
 ---
 title: Havrekjeks
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "småkaker"]
+ingredienser: ["hvetemel", "sukker", "smør", "havregryn"]
 images: ["../../assets/recipe-images/web_havrekjeks.jpg"]
 ---
 

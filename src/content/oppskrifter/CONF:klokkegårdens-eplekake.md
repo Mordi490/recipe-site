@@ -1,7 +1,18 @@
 ---
 title: Klokkegårdens eplekake
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "margarin",
+    "sukker",
+    "egg",
+    "sitronsaft",
+    "hvetemel",
+    "bakepulver",
+    "melk",
+    "epler",
+    "kanel",
+  ]
 images: ["../../assets/recipe-images/web_klokkegårdens-eplekake.jpg"]
 ---
 

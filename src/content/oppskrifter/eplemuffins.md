@@ -1,7 +1,17 @@
 ---
 title: Eplemuffins
 tags: ["dessert", "småkake"]
-ingredienser: ["kylling", "pasta", "brokkoli"]
+ingredienser:
+  [
+    "margarin",
+    "sukker",
+    "egg",
+    "hvetemel",
+    "bakepulver",
+    "melk",
+    "rosiner",
+    "kanel",
+  ]
 images: ["../../assets/recipe-images/web_eplemuffins-eplepai.jpg"]
 ---
 

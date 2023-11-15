@@ -1,7 +1,21 @@
 ---
 title: Finske pepperkaker
-tags: ["dessert", "sukrin"]
-ingredienser: ["mandelmel", "sukrinmelis", "eggehviter"]
+tags: ["dessert", "jul"]
+ingredienser:
+  [
+    "brunt sukker",
+    "nellik",
+    "ingefær",
+    "kardemomme",
+    "kanel",
+    "kremfløte",
+    "kanel",
+    "smør",
+    "sukker",
+    "egg",
+    "natron",
+    "hvetemel",
+  ]
 tattFra: https://www.detsoteliv.no/
 images: ["../../assets/recipe-images/web_finske-pepperkaker.jpg"]
 ---

@@ -1,7 +1,7 @@
 ---
 title: Normannadipp
-tags: ["dessert", "småkake"]
-ingredienser: ["kylling", "pasta", "brokkoli"]
+tags: ["dessert", "dipp"]
+ingredienser: ["yoghurt", "normannaost", "sukker"]
 images:
   [
     "../../assets/recipe-images/web_nøttedip-appelsindipp-ananasdipp-normannadipp.jpg",

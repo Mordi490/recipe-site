@@ -1,7 +1,21 @@
 ---
 title: Snickerskladdkake
-tags: ["middag", "lasagne"]
-ingredienser: ["kjøttdeig", "pasta"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "smør",
+    "egg",
+    "sukker",
+    "vaniljesukker",
+    "bakepulver",
+    "kakao",
+    "hvetemel",
+    "kremfløte",
+    "sukker",
+    "sirup",
+    "melkesjokolade",
+    "peanøtter",
+  ]
 tattFra: https://www.detsoteliv.no/oppskrift/snickerskladdkake
 images:
   [

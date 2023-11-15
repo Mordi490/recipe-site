@@ -1,7 +1,8 @@
 ---
 title: Hardingar
-tags: ["dessert", "småkake"]
-ingredienser: ["kylling", "pasta", "brokkoli"]
+tags: ["dessert", "småkaker"]
+ingredienser:
+  ["smør", "sukker", "egg", "melk", "bakepulver", "hvetemel", "kanel"]
 images: ["../../assets/recipe-images/web_hardingar-sveler.jpg"]
 ---
 

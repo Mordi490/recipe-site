@@ -1,7 +1,7 @@
 ---
 title: Riskake fra Sovjet
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "småkaker"]
+ingredienser: ["rundkornet ris", "melk", "yohurt", "sukker", "mandeldråper", "egg", "syltetøy"]
 images: ["../../assets/recipe-images/web_riskake-fra-sovjet.jpg",
 "../../assets/recipe-images/riskake-fra-sovjet-preview.jpg"]
 ---

@@ -1,7 +1,18 @@
 ---
 title: Rabarabrarull med bringebær
-tags: ["dessert", "småkake"]
-ingredienser: ["kylling", "pasta", "brokkoli"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "egg",
+    "sukker",
+    "hvetemel",
+    "bakepulver",
+    "gelatin",
+    "rabarbra",
+    "kremfløte",
+    "krokan",
+    "bringebær",
+  ]
 images: ["../../assets/recipe-images/web_rabarbrarull-fruktbakkels.jpg"]
 ---
 

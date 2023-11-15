@@ -1,7 +1,8 @@
 ---
 title: Hvetebrød med rosiner
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["brød"]
+ingredienser:
+  ["smør", "melk", "gjær", "sukker", "kardemomme", "rosiner", "hvetemel", "egg"]
 images:
   [
     "../../assets/recipe-images/web_hvetebrød-med-rosiner-klippekrans-mandelfylte-smørboller-eplegjemmer.jpg",

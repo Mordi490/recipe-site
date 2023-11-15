@@ -1,7 +1,16 @@
 ---
 title: Sjokoladepai
-tags: ["dessert", "småkake"]
-ingredienser: ["havregryn", "egg", "smør"]
+tags: ["dessert", "pai"]
+ingredienser:
+  [
+    "hvetemel",
+    "smør",
+    "mørk kokesjokolade",
+    "kaffe",
+    "melis",
+    "egg",
+    "kremfløte",
+  ]
 images: ["../../assets/recipe-images/web_sjokoladepai.jpg"]
 ---
 

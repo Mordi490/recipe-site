@@ -1,7 +1,18 @@
 ---
 title: Bollekatt
 tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+ingredienser:
+  [
+    "melk",
+    "smør",
+    "gjær",
+    "sukker",
+    "kardemomme",
+    "hvetemel",
+    "rosiner",
+    "egg",
+    "melis",
+  ]
 images: ["../../assets/recipe-images/web_bollekatt.jpg"]
 ---
 

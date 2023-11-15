@@ -1,7 +1,8 @@
 ---
 title: Frøken Hansens hemmelighet
 tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+ingredienser:
+  ["mandler", "sukker", "egg", "smør", "kremfløte", "gelatin", "plommer"]
 images:
   [
     "../../assets/recipe-images/web_førken-hansens-hemmelighet-en.jpg",

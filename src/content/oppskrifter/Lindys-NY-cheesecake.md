@@ -1,7 +1,19 @@
 ---
 title: Lindy's New York Cheesecake
 tags: ["ostekake", "dessert", "kake"]
-ingredienser: ["sukrin", "egg", "rømme"]
+ingredienser:
+  [
+    "hvetemel",
+    "sukker",
+    "vaniljesukker",
+    "sitron",
+    "smør",
+    "rips",
+    "limeskall",
+    "kremost",
+    "egg",
+    "eggeplommer",
+  ]
 images: ["../../assets/recipe-images/web_lindy's-new-york-cheesecake.jpg"]
 ---
 
@@ -12,7 +24,7 @@ images: ["../../assets/recipe-images/web_lindy's-new-york-cheesecake.jpg"]
 - 2 1/2 dl hvetemel
 - 1 dl sukker
 - 1 ts vaniljesukker
-- finrevet skall av 1 stiron
+- finrevet skall av 1 sitron
 - 60 g smør
 - 1 eggeplomme
 - 1 s vann

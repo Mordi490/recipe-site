@@ -1,7 +1,17 @@
 ---
 title: Sjokoladekjeks med mørk og hvit sjokolade
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "småkaker"]
+ingredienser:
+  [
+    "smør",
+    "sukker",
+    "egg",
+    "vaniljesukker",
+    "hvetemel",
+    "havregryn",
+    "mørk sjokolade",
+    "hvit sjokolade",
+  ]
 images:
   [
     "../../assets/recipe-images/web_biscotti-med-mandler-og-sjokolade-sjokoladekjeks-med-mørk-og-hvit-sjokolade.jpg",

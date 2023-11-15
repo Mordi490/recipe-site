@@ -1,7 +1,21 @@
 ---
 title: Frisk sommerkake
 tags: ["ostekake", "dessert", "kake"]
-ingredienser: ["sukrin", "egg", "rømme"]
+ingredienser:
+  [
+    "smør",
+    "havrekjeks",
+    "kokosmasse",
+    "sitrongelè",
+    "cottage cheese",
+    "yohurt",
+    "eggeplommer",
+    "eggehviter",
+    "kremfløte",
+    "sitronmelisse",
+    "jordbær",
+    "kakestrøssel",
+  ]
 images: ["../../assets/recipe-images/web_frisk-sommerkake.jpg"]
 ---
 

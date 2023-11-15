@@ -1,7 +1,19 @@
 ---
 title: Kylling chop suey
-tags: ["dessert", "sukrin"]
-ingredienser: ["mandelmel", "sukrinmelis", "eggehviter"]
+tags: ["middag"]
+ingredienser:
+  [
+    "kyllingfilet",
+    "løk",
+    "gulrot",
+    "vårløk",
+    "maisennamel",
+    "ingefær",
+    "wokgrønnsaker",
+    "hønsebuljong",
+    "soyasaus",
+    "østersaus",
+  ]
 tattFra: https://www.matprat.no/oppskrifter/sunn/kylling-chop-suey/
 images:
   [

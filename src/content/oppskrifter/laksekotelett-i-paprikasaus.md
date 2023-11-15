@@ -1,7 +1,8 @@
 ---
 title: Laksekotelett i paprikasaus
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["middag"]
+ingredienser:
+  ["laksekotelett", "yoghurt", "lettrømme", "estragon", "chilipepper"]
 images: ["../../assets/recipe-images/web_laksekotelett-i-paprikasaus-to.jpg"]
 ---
 

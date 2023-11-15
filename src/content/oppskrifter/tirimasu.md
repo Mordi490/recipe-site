@@ -1,7 +1,17 @@
 ---
 title: Tirimasu
 tags: ["dessert", "kake"]
-ingredienser: ["sukrin", "egg", "rømme"]
+ingredienser:
+  [
+    "saviardikjeks",
+    "kaffepulver",
+    "amaretto",
+    "egg",
+    "sukker",
+    "mascarponeost",
+    "kakao",
+    "kremfløte",
+  ]
 images: ["../../assets/recipe-images/web_tirimasu.jpg"]
 ---
 

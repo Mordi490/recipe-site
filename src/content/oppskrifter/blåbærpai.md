@@ -1,7 +1,7 @@
 ---
 title: Blåbærpai
-tags: ["dessert", "småkake"]
-ingredienser: ["kylling", "pasta", "brokkoli"]
+tags: ["dessert", "pai"]
+ingredienser: ["hvetemel", "sukker", "margarin", "egg", "blåbær", "potetmel"]
 images:
   [
     "../../assets/recipe-images/web_blåbærterte-mandelterte-med-blåbær-blåbærpai.jpg",

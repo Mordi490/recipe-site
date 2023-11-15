@@ -1,15 +1,18 @@
 ---
 title: Krydderkake i langpanne
-tags: ["bakverk", "bolle", "rundstykke"]
+tags: ["bakverk", "kake"]
 ingredienser:
   [
-    "sukker",
-    "sammalt hvetemel",
-    "sukker",
-    "hornsalt",
-    "bakepulver",
     "margarin",
-    "sur melk",
+    "sukker",
+    "egg",
+    "hvetemel",
+    "bakepulver",
+    "kanel",
+    "nellik",
+    "ingefær",
+    "fløte",
+    "melk",
   ]
 images: ["../../assets/recipe-images/web_krydderkake-i-langpanne.jpg"]
 ---

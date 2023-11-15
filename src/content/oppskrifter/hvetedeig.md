@@ -1,16 +1,7 @@
 ---
 title: Hvetedeig
-tags: ["bakverk", "bolle", "rundstykke"]
-ingredienser:
-  [
-    "sukker",
-    "sammalt hvetemel",
-    "sukker",
-    "hornsalt",
-    "bakepulver",
-    "margarin",
-    "sur melk",
-  ]
+tags: ["bakverk"]
+ingredienser: ["smør", "melk", "gjær", "sukker", "kardemomme", "hvetemel"]
 images: ["../../assets/recipe-images/web_hvetedeig-horn.jpg"]
 ---
 

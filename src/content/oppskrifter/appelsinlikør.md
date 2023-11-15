@@ -1,7 +1,7 @@
 ---
 title: Appelsinlikør
-tags: ["dessert", "småkake"]
-ingredienser: ["kylling", "pasta", "brokkoli"]
+tags: ["dessert", "drikke", "likør", "alkohol"]
+ingredienser: ["sukker", "vaniljesaus", "vaniljekrem", "sprit"]
 images:
   ["../../assets/recipe-images/web_vaniljelikør-anislikør-appelsinlikør.jpg"]
 ---

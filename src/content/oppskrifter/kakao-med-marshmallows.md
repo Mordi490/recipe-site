@@ -1,7 +1,15 @@
 ---
 title: Kakao med marshmallows
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "drikke"]
+ingredienser:
+  [
+    "kokesjokolade",
+    "melk",
+    "eggeplommer",
+    "marshmallows",
+    "sjokolade",
+    "cappuccinokrydder",
+  ]
 images: ["../../assets/recipe-images/web_kakao-med-marshmallows.jpg"]
 ---
 

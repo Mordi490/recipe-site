@@ -2,7 +2,17 @@
 title: Korintflette
 tags: ["bakverk", "bolle", "rundstykke"]
 ingredienser:
-  ["sukker", "sammalt hvetemel", "sukker", "bakepulver", "margarin", "sur melk"]
+  [
+    "korinter",
+    "egg",
+    "perlesukker",
+    "smør",
+    "melk",
+    "gjær",
+    "sukker",
+    "kardemomme",
+    "hvetemel",
+  ]
 images:
   [
     "../../assets/recipe-images/web_epleknytter-prinsessekake-kugelhupf-korintflette-eplekake-med-havrefres.jpg",

@@ -1,7 +1,17 @@
 ---
 title: Skolebrød 2
-tags: ["dessert", "småkake"]
-ingredienser: ["havregryn", "egg", "smør"]
+tags: ["dessert", "bolle"]
+ingredienser:
+  [
+    "smør",
+    "melk",
+    "gjær",
+    "sukker",
+    "hvetemel",
+    "vaniljesaus",
+    "melisglasur",
+    "kokos",
+  ]
 images: ["../../assets/recipe-images/web_skolebrød.jpg"]
 ---
 

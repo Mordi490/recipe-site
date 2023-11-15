@@ -1,7 +1,16 @@
 ---
 title: Frokostrundstykker med hvete
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["rundstykker", "bakverk", "boller"]
+ingredienser:
+  [
+    "hveteflak",
+    "gjær",
+    "skummet kulturmelk",
+    "sukker",
+    "hvetespirer",
+    "sammalt hvete",
+    "rugmel",
+  ]
 images: ["../../assets/recipe-images/web_frokostrundstykker-med-hvete.jpg"]
 ---
 

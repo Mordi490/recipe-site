@@ -1,7 +1,19 @@
 ---
 title: Dobbeltflettet rosinlengde
 tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+ingredienser:
+  [
+    "smør",
+    "melk",
+    "gjær",
+    "sukker",
+    "eggeplomme",
+    "sitron",
+    "rosiner",
+    "hvetemel",
+    "egg",
+    "perlesukker",
+  ]
 images: ["../../assets/recipe-images/web_dobbeltflettet-rosinlengde.jpg"]
 ---
 

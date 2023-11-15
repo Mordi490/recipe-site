@@ -1,7 +1,19 @@
 ---
 title: Budapestrull
 tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+ingredienser:
+  [
+    "eggehviter",
+    "sukker",
+    "hasselnøttkjerner",
+    "hvetemel",
+    "kakao",
+    "daimkuler",
+    "kremfløte",
+    "aprikoser",
+    "ferksen",
+    "kokesjokolade",
+  ]
 images:
   [
     "../../assets/recipe-images/web_tante-bjørgs-kake-budapestrull-en.jpg",

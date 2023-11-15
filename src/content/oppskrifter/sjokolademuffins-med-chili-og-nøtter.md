@@ -1,7 +1,20 @@
 ---
 title: Sjokolademuffins med chili og nøtter
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte"]
+tags: ["dessert", "småkaker"]
+ingredienser:
+  [
+    "hvetemel",
+    "kakaopulver",
+    "bakepulver",
+    "vaniljesukker",
+    "sukker",
+    "kokesjokolade",
+    "chili",
+    "valnøttkjerner",
+    "egg",
+    "smør",
+    "melk",
+  ]
 images:
   ["../../assets/recipe-images/web_sjokolademuffins-med-chili-og-nøtter.jpg"]
 ---

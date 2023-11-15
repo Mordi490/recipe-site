@@ -1,7 +1,22 @@
 ---
 title: Falafel
-tags: ["dessert", "småkake"]
-ingredienser: ["havregryn", "egg", "smør"]
+tags: ["middag", "vegan"]
+ingredienser:
+  [
+    "kikerter",
+    "løk",
+    "hvitløk",
+    "spisskummen",
+    "korianderfrø",
+    "chilipulver",
+    "kardemomme",
+    "hvetemel",
+    "persille",
+    "koriander",
+    "plommetomater",
+    "agurk",
+    "rød løk",
+  ]
 tattFra: https://www.nrk.no/mat/falafel-_-kikertboller-1.12152010
 images:
   [

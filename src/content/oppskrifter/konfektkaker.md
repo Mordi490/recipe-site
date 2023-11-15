@@ -1,7 +1,8 @@
 ---
 title: Konfektkaker
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "bakverk", "kake"]
+ingredienser:
+  ["smør", "sukker", "egg", "hvetemel", "bakepulver", "kokesjokolade"]
 images: ["../../assets/recipe-images/web_konfektkaker.jpg"]
 ---
 

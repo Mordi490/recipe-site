@@ -1,7 +1,18 @@
 ---
 title: Banan split kake
-tags: ["kake", "iskake"]
-ingredienser: ["kylling", "pasta", "brokkoli"]
+tags: ["kake", "iskake", "dessert"]
+ingredienser:
+  [
+    "eggehviter",
+    "sukker",
+    "banan",
+    "tress is",
+    "kremfløte",
+    "melis",
+    "sjokoladesaus",
+    "sjokoladerull",
+    "sjokoladestrøssel",
+  ]
 tattFra: https://www.detsoteliv.no/oppskrift/banana-split-iskake
 images:
   [

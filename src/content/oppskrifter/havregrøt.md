@@ -1,7 +1,16 @@
 ---
 title: Havregrøt
-tags: ["dessert", "bakverk", "sukrin"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["grøt"]
+ingredienser:
+  [
+    "havregryn",
+    "kli",
+    "solsikkefrø",
+    "sesamfrø",
+    "linfrø",
+    "valnøtter",
+    "aprikoser",
+  ]
 images: ["../../assets/recipe-images/web_havregrøt.jpg"]
 ---
 

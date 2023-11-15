@@ -1,8 +1,7 @@
 ---
 title: Porsjonsbriohcer
-tags: ["bakverk", "bolle", "rundstykke"]
-ingredienser:
-  ["sukker", "sammalt hvetemel", "sukker", "bakepulver", "margarin", "sur melk"]
+tags: ["bakverk", "boller"]
+ingredienser: ["gjær", "hvetemel", "smør", "sukker", "egg"]
 images:
   ["../../assets/recipe-images/web_wienerkrans-briocher-porsjonsbriocher.jpg"]
 ---

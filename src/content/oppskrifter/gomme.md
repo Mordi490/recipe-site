@@ -1,7 +1,7 @@
 ---
 title: Gomme
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert"]
+ingredienser: ["ris", "sukker", "rosiner", "brunost", "kanel", "helmelk"]
 images: ["../../assets/recipe-images/web_gomme.jpg"]
 ---
 

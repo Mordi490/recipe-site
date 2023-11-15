@@ -1,7 +1,7 @@
 ---
 title: Boller
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["boller", "bakverk"]
+ingredienser: ["hvetemel", "margarin", "melk", "sukker", "gjær", "egg"]
 images: ["../../assets/recipe-images/web_boller.jpg"]
 ---
 

@@ -1,7 +1,18 @@
 ---
 title: Strimlet storfekjøtt
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["middag"]
+ingredienser:
+  [
+    "svinekjøtt",
+    "agurk",
+    "vårløk",
+    "sesamfrø",
+    "hvitkløk",
+    "chili",
+    "salat",
+    "soyasaus",
+    "lime",
+  ]
 images: ["../../assets/recipe-images/web_strimlet-storfekjøtt.jpg"]
 ---
 

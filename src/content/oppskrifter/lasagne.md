@@ -1,7 +1,21 @@
 ---
 title: Lasagne
-tags: ["dessert", "bakverk", "sukrin"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["middag"]
+ingredienser:
+  [
+    "kjøttdeig",
+    "løk",
+    "hvitløk",
+    "tomat",
+    "basilikum",
+    "smør",
+    "hvetemel",
+    "melk",
+    "parmesan",
+    "musaktnøtt",
+    "hvitost",
+    "lasagneplater",
+  ]
 images: ["../../assets/recipe-images/web_lasagne.jpg"]
 ---
 

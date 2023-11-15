@@ -1,7 +1,8 @@
 ---
 title: Ripskake med marengslokk
-tags: ["dessert", "sukrin"]
-ingredienser: ["mandelmel", "sukrinmelis", "eggehviter"]
+tags: ["dessert", "kake"]
+ingredienser:
+  ["smør", "sukker", "egg", "hvetemel", "bakepulver", "melk", "melis", "rips"]
 images:
   [
     "../../assets/recipe-images/web_riskake-med-marengslokk.jpg",

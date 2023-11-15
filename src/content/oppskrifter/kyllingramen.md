@@ -1,7 +1,24 @@
 ---
 title: Kyllingramen
-tags: ["middag", "pizza"]
-ingredienser: ["kylling", "pita"]
+tags: ["middag"]
+ingredienser:
+  [
+    "kyllingfilet",
+    "margarin",
+    "chilipasta",
+    "chili",
+    "kyllingkraft",
+    "sambal olek",
+    "hvitløk",
+    "stjerneanis",
+    "sitrongress",
+    "ingefær",
+    "soyabønnepasta",
+    "egg",
+    "eggnudler",
+    "vårløk",
+    "koriander",
+  ]
 tattFra: https://www.matprat.no/oppskrifter/sunn/kylling--og-nudelsuppe-med-gronnsaker/
 images:
   [

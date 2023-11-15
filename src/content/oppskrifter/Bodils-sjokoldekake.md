@@ -1,7 +1,8 @@
 ---
 title: Bodils sjokoladekake
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "bakverk", "kake", "sjokoladekake"]
+ingredienser:
+  ["smør", "egg", "sukker", "vaniljesukker", "hvetemel", "kakao", "jordbær"]
 images: ["../../assets/recipe-images/web_wienerstenger.jpg"]
 ---
 

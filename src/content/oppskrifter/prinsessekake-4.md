@@ -1,7 +1,20 @@
 ---
 title: Prinsessekake 4
-tags: ["dessert", "småkake"]
-ingredienser: ["havregryn", "egg", "smør"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "egg",
+    "sukker",
+    "hvetemel",
+    "bakepulver",
+    "vaniljekrem",
+    "kremfløte",
+    "marsipan",
+    "konditorfarge",
+    "melis",
+    "dekorasjonsblomster",
+    "mynteblader",
+  ]
 images:
   [
     "../../assets/recipe-images/web_jomfruens-kake(prinsessekake).jpg",

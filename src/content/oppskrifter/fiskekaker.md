@@ -1,7 +1,8 @@
 ---
 title: fiskekaker-boller-pudding
-tags: ["dessert", "småkake"]
-ingredienser: ["kylling", "pasta", "brokkoli"]
+tags: ["middag", "fisk"]
+ingredienser:
+  ["fisk", "sitronpepper", "potetmel", "melk", "egg", "løk", "muskatnøtt"]
 images: ["../../assets/recipe-images/web_fiskekaker-boller-pudding.jpg"]
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: Mona Bøe (eplebake)
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser:
+  ["margarin", "sukker", "hvetemel", "bakepulver", "egg", "syltetøy"]
 ---
 
 # Mona Bøe (eplebake)

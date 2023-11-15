@@ -3,13 +3,18 @@ title: Dronningens drøm
 tags: ["bakverk", "bolle", "rundstykke"]
 ingredienser:
   [
+    "egg",
     "sukker",
-    "sammalt hvetemel",
-    "sukker",
-    "hornsalt",
+    "hvetemel",
+    "vaniljesukker",
     "bakepulver",
-    "margarin",
-    "sur melk",
+    "kakao",
+    "melk",
+    "smør",
+    "vaniljekrem",
+    "sjokoladeblonder",
+    "kremfløte",
+    "kokesjokolade",
   ]
 images: ["../../assets/recipe-images/web_sjokolademuffins-dronningens-drøm.jpg"]
 ---

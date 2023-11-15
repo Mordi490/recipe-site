@@ -1,7 +1,18 @@
 ---
 title: Klippekrans
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "bakverk", "kake"]
+ingredienser:
+  [
+    "smør",
+    "melk",
+    "gjær",
+    "egg",
+    "kardemomme",
+    "hvetemel",
+    "mandler",
+    "sukker",
+    "rosiner",
+  ]
 images: ["../../assets/recipe-images/web_klippekrans.jpg"]
 ---
 

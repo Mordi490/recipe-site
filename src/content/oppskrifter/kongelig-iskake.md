@@ -1,7 +1,23 @@
 ---
 title: Kongelig iskake
-tags: ["dessert", "småkake"]
-ingredienser: ["havregryn", "egg", "smør"]
+tags: ["dessert", "kake", "iskake"]
+ingredienser:
+  [
+    "mandler",
+    "egg",
+    "sitronsaft",
+    "melis",
+    "kokesjokolade",
+    "gelatin",
+    "sukker",
+    "kremfløte",
+    "portvin",
+    "sjokolade",
+    "marsipan",
+    "jordbær",
+    "lakrislisser",
+    "sukkertøy",
+  ]
 images: ["../../assets/recipe-images/web_kongelig-iskake.jpg"]
 ---
 

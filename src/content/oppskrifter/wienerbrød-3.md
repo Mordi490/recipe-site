@@ -1,7 +1,7 @@
 ---
 title: Wienerbrød 3
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "boller"]
+ingredienser: ["gjær", "melk", "egg", "sukker", "hvetemel", "margarin"]
 images: ["../../assets/recipe-images/web_wienerbrød.jpg"]
 ---
 

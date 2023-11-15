@@ -1,8 +1,8 @@
 ---
 title: Fylte briochelengder
-tags: ["bakverk", "bolle", "rundstykke"]
+tags: ["bakverk", "bolle"]
 ingredienser:
-  ["sukker", "sammalt hvetemel", "sukker", "bakepulver", "margarin", "sur melk"]
+  ["rosiner", "valnøtter", "egg", "gjær", "hvetemel", "smør", "sukker"]
 ---
 
 # Fylte briochelengder

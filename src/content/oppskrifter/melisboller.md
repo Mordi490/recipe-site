@@ -1,7 +1,8 @@
 ---
 title: Melisboller
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "småkaker"]
+ingredienser:
+  ["gjær", "melk", "smør", "sukker", "hvetemel", "vaniljesukker", "melis"]
 images: ["../../assets/recipe-images/web_melisboller-små-kringler-en.jpg"]
 ---
 

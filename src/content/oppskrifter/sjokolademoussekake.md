@@ -1,6 +1,6 @@
 ---
 title: Sjokolademoussekake
-tags: ["dessert", "bakverk"]
+tags: ["dessert", "kake"]
 ingredienser:
   [
     "eggehvite",

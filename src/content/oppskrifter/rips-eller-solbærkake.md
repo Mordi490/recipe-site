@@ -1,7 +1,7 @@
 ---
 title: Rips eller solbærkake
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser: ["smør", "egg", "sukker", "hvetemel", "rips", "solbær", "melis"]
 images: ["../../assets/recipe-images/web_rips-eller-solbærkake.jpg"]
 ---
 

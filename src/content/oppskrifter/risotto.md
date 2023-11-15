@@ -1,16 +1,7 @@
 ---
 title: Risotto
-tags: ["bakverk", "bolle", "rundstykke"]
-ingredienser:
-  [
-    "sukker",
-    "sammalt hvetemel",
-    "sukker",
-    "hornsalt",
-    "bakepulver",
-    "margarin",
-    "sur melk",
-  ]
+tags: ["tilbehør", "middag"]
+ingredienser: ["margarin", "løk", "ris", "buljong", "kjøttdeig", "tomatpurè"]
 images: ["../../assets/recipe-images/web_risotto-brytebrød.jpg"]
 ---
 

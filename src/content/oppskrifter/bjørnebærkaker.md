@@ -1,7 +1,17 @@
 ---
 title: Bjørnebærkaker
 tags: ["dessert", "småkake"]
-ingredienser: ["kylling", "pasta", "brokkoli"]
+ingredienser:
+  [
+    "hvetemel",
+    "sukker",
+    "margarin",
+    "egg",
+    "marsipan",
+    "bjørnebær",
+    "perlesukker",
+    "mandler",
+  ]
 images: ["../../assets/recipe-images/web_bjørnebærkaker.jpg"]
 ---
 

@@ -2,15 +2,7 @@
 title: Horn
 tags: ["bakverk", "bolle", "rundstykke"]
 ingredienser:
-  [
-    "sukker",
-    "sammalt hvetemel",
-    "sukker",
-    "hornsalt",
-    "bakepulver",
-    "margarin",
-    "sur melk",
-  ]
+  ["smør", "melk", "gjær", "sukker", "kardemomme", "hvetemel", "egg"]
 images: ["../../assets/recipe-images/web_hvetedeig-horn.jpg"]
 ---
 

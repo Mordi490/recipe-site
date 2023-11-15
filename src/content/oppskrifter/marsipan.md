@@ -1,7 +1,7 @@
 ---
 title: Marsipan
 tags: ["dessert"]
-ingredienser: ["kylling", "pasta", "brokkoli"]
+ingredienser: ["mandler", "melis", "eggehviter"]
 ---
 
 # Marsipan

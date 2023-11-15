@@ -1,7 +1,24 @@
 ---
 title: Sechuankylling (kinesisk)
 tags: ["middag", "wok"]
-ingredienser: ["kylling", "pasta", "brokkoli"]
+ingredienser:
+  [
+    "kyllingfilet",
+    "paprika",
+    "squash",
+    "sjampinjong",
+    "gulrot",
+    "løk",
+    "sukkererter",
+    "grønne bønner",
+    "purre",
+    "cashewnøtter",
+    "hønsebuljong",
+    "soyasaus",
+    "chilipasta",
+    "ingefær",
+    "potetmel",
+  ]
 tattFra: https://www.matprat.no
 images: ["../../assets/recipe-images/web_sechuankylling-en.jpg"]
 ---

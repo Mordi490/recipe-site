@@ -1,7 +1,7 @@
 ---
 title: Sjokoladepletter med marsipan
-tags: ["dessert", "småkake"]
-ingredienser: ["kylling", "pasta", "brokkoli"]
+tags: ["dessert", "småkaker"]
+ingredienser: ["marsipan", "småsjokolader"]
 images:
   [
     "../../assets/recipe-images/web_sjakkruter-sjokoladepletter-med-marsipan-trøffel-konfekt.jpg",

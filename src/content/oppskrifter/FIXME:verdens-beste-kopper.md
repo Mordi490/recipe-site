@@ -1,7 +1,16 @@
 ---
 title: Verdens beste kopper
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "småkaker"]
+ingredienser:
+  [
+    "egg",
+    "sukker",
+    "hvetemel",
+    "potetmel",
+    "bakepulver",
+    "perlesukker",
+    "mandler",
+  ]
 images: ["../../assets/recipe-images/web_verdens-beste-kopper.jpg"]
 ---
 

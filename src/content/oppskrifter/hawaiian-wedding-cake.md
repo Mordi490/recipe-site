@@ -1,7 +1,20 @@
 ---
 title: Hawaiian wedding cake
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "sukker",
+    "hvetemel",
+    "bakepulver",
+    "ananas",
+    "egg",
+    "valnøtter",
+    "hasselnøtter",
+    "melis",
+    "kremost",
+    "smør",
+    "vaniljesukker",
+  ]
 images: ["../../assets/recipe-images/web_hawaii-wedding-cake.jpg"]
 ---
 

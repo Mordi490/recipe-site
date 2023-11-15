@@ -1,7 +1,8 @@
 ---
 title: Solveigs beste sjokoladekake
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser:
+  ["egg", "melis", "mandler", "bakepulver", "sjokella", "espresso", "kremfløte"]
 images: ["../../assets/recipe-images/web_solveigs-beste-sjokoladekake.jpg"]
 ---
 
@@ -21,8 +22,7 @@ images: ["../../assets/recipe-images/web_solveigs-beste-sjokoladekake.jpg"]
 
 - 240 g sjokella (liten boks)
 - 3 ss kokende vann
-- 1 porsjonpose Nescafe
-- Espresso
+- 1 porsjonpose Nescafe Espresso
 - 1/2 dl kremfløte
 
 ## Instruksjon

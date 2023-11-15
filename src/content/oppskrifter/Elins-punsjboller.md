@@ -1,7 +1,23 @@
 ---
 title: Elins punsjboller
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "bakverk", "boller"]
+ingredienser:
+  [
+    "kakerester",
+    "melis",
+    "bringebærsyltetøy",
+    "kakao",
+    "vaniljesukker",
+    "rom essens",
+    "kokosmasse",
+    "strøssel",
+    "smør",
+    "sukker",
+    "hvetemel",
+    "natron",
+    "egg",
+    "godteri",
+  ]
 images: ["../../assets/recipe-images/web_elins-beste-punsjboller.jpg"]
 ---
 

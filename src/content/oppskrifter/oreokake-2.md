@@ -1,7 +1,17 @@
 ---
 title: Oreokake 2
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "oreokjeks",
+    "sukker",
+    "melis",
+    "philadelphiaost",
+    "smør",
+    "kremfløte",
+    "sjokolademousse",
+    "kokesjokolade",
+  ]
 images: ["../../assets/recipe-images/web_oreokake.jpg"]
 ---
 

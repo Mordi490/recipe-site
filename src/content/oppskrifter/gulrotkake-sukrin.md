@@ -1,7 +1,7 @@
 ---
 title: gulrot sukrin
 tags: ["sukrin", "dessert", "kake"]
-ingredienser: ["sukrin", "egg", "rømme"]
+ingredienser: ["sukrin kakemiks", "egg", "natron", "gulrot", "kanel"]
 images: ["../../assets/recipe-images/web_gulrotkake-sukrin.jpg"]
 ---
 

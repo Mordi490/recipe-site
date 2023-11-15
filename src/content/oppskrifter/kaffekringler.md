@@ -1,7 +1,8 @@
 ---
 title: Kaffekringler
-tags: ["dessert", "småkake"]
-ingredienser: ["havregryn", "egg", "smør"]
+tags: ["dessert", "småkaker"]
+ingredienser:
+  ["gjær", "smør", "melk", "sukker", "rugmel", "hvetemel", "rømme", "hornsalt"]
 images: ["../../assets/recipe-images/web_kaffekringler.jpg"]
 ---
 

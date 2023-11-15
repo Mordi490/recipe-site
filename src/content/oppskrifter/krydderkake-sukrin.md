@@ -1,7 +1,17 @@
 ---
 title: krydderkake sukrin
 tags: ["sukrin", "dessert", "kake"]
-ingredienser: ["sukrin", "egg", "rømme"]
+ingredienser:
+  [
+    "egg",
+    "rømme",
+    "kesam",
+    "natron",
+    "kanel",
+    "nellik",
+    "kardemomme",
+    "sukrin kakemiks",
+  ]
 images: ["../../assets/recipe-images/web_krydderkake-sukrin.jpg"]
 ---
 

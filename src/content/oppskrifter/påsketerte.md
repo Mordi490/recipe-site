@@ -1,7 +1,17 @@
 ---
 title: Påsketerte
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "hasselnøtter",
+    "sukker",
+    "egg",
+    "fløte",
+    "potetmel",
+    "mørk sjokolade",
+    "smør",
+    "marsipan",
+  ]
 images:
   [
     "../../assets/recipe-images/web_påsketerte-en.jpg",

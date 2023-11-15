@@ -1,7 +1,7 @@
 ---
 title: Ananasdipp
 tags: ["dessert", "småkake"]
-ingredienser: ["kylling", "pasta", "brokkoli"]
+ingredienser: ["cottage cheese", "ananas", "karri"]
 images:
   [
     "../../assets/recipe-images/web_nøttedip-appelsindipp-ananasdipp-normannadipp.jpg",

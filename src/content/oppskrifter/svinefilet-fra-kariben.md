@@ -1,7 +1,8 @@
 ---
 title: Svinefilet fra karibien
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["middag"]
+ingredienser:
+  ["løk", "karri", "svinefilet", "hønsebuljong", "kokosmelk", "ris", "gressløk"]
 images:
   [
     "../../assets/recipe-images/web_svinefilet-fra-karibien-en.jpg",

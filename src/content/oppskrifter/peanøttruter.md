@@ -1,7 +1,7 @@
 ---
 title: Peanøttruter
-tags: ["dessert", "småkake"]
-ingredienser: ["havregryn", "egg", "smør"]
+tags: ["dessert", "småkaker"]
+ingredienser: ["kokesjokolade", "smør", "sylteboks", "peanøtter"]
 images: ["../../assets/recipe-images/web_kokoskonfekt-peanøttruter.jpg"]
 ---
 

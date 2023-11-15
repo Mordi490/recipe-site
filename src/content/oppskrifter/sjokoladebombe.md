@@ -1,7 +1,26 @@
 ---
 title: Sjokoladebombe
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "egg",
+    "sukker",
+    "potetmel",
+    "vanlnøtkjerner",
+    "cremè fraîche",
+    "melis",
+    "bringebær",
+    "Baileys",
+    "nougat",
+    "marengs",
+    "gelatin",
+    "kremfløte",
+    "kokesjokolade",
+    "valnøtter",
+    "kaffe",
+    "konjakk",
+    "kremfløte",
+  ]
 images: ["../../assets/recipe-images/web_sjokoladebombe.jpg"]
 ---
 

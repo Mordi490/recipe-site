@@ -1,7 +1,7 @@
 ---
 title: Sukkerbrød
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser: ["sukker", "hvetemel", "potetmel", "bakepulver", "egg"]
 images:
   [
     "../../assets/recipe-images/web_sukkerbrød.jpg",

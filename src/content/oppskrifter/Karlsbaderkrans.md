@@ -1,7 +1,7 @@
 ---
 title: Karlsbaderkrans
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "bakverk", "kake"]
+ingredienser: ["smør", "melk", "hvetemel", "eggeplommer", "sukker", "makronfyll", "egg", "melis", "romdråper"]
 images: ["../../assets/recipe-images/web_karlsbaderkrans.jpg",
 "../../assets/recipe-images/karlsbaderkrans-preview.jpg"]
 ---

@@ -1,7 +1,17 @@
 ---
 title: Kokosbollekake 2
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "småkaker"]
+ingredienser:
+  [
+    "gelatinplater",
+    "eggehviter",
+    "sukker",
+    "vaniljesukker",
+    "kokosmasse",
+    "kokosfett",
+    "lys kokesjokolade",
+    "eggeplommer",
+  ]
 images: ["../../assets/recipe-images/web_kokosbollekake.jpg"]
 ---
 

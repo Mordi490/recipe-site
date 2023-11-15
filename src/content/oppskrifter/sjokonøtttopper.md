@@ -1,7 +1,7 @@
 ---
 title: Sjokonøttopper
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "småkaker"]
+ingredienser: ["sjokonøtt", "delfiafett", "espresso", "risnøtter"]
 images:
   [
     "../../assets/recipe-images/web_sjokonøtthatter-sjokonøttopper.jpg",

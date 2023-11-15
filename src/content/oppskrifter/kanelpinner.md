@@ -1,7 +1,7 @@
 ---
 title: Kanelpinner
-tags: ["middag", "suppe"]
-ingredienser: ["kylling", "pasta", "brokkoli"]
+tags: ["dessert", "småkaker"]
+ingredienser: ["smør", "melis", "hvetemel", "sukker", "kanel"]
 tattFra: https://www.detsoteliv.no/oppskrift/kanelpinner
 images: ["../../assets/recipe-images/web_kanelpinner.jpg"]
 ---

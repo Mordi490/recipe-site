@@ -1,7 +1,7 @@
 ---
 title: Rugboller
-tags: ["dessert", "småkake"]
-ingredienser: ["havregryn", "egg", "smør"]
+tags: ["boller", "bakverk"]
+ingredienser: ["skummet melk", "gjær", "smør", "honning", "rugmel", "hvetemel"]
 images:
   [
     "../../assets/recipe-images/web_rundstykker-med-cottage-cheese-rugboller-mammas-knuter-med-kli.jpg",

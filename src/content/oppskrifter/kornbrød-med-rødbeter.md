@@ -1,7 +1,8 @@
 ---
 title: Kornbrød med rødbeter
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["brød"]
+ingredienser:
+  ["hvetekorn", "sirup", "gjær", "sammalt rug", "hvetemel", "rødbeter"]
 images: ["../../assets/recipe-images/web_kornbrød-med-rødbeter.jpg"]
 ---
 

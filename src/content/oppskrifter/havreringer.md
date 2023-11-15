@@ -1,7 +1,19 @@
 ---
 title: Havreringer
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "småkaker"]
+ingredienser:
+  [
+    "smør",
+    "hvetemel",
+    "sukker",
+    "egg",
+    "vaniljesukker",
+    "sitron",
+    "hornsalt",
+    "kardemomme",
+    "mandler",
+    "perlesukker",
+  ]
 images:
   [
     "../../assets/recipe-images/web_havreringer-gode-kringler-lenes-sjokoladebrød.jpg",

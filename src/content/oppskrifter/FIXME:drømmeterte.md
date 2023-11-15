@@ -1,7 +1,8 @@
 ---
 title: Drømmeterte
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser:
+  ["margarin", "sukker", "egg", "hvetemel", "bakepulver", "melk", "mandler"]
 images: ["../../assets/recipe-images/web_drømmeterte.jpg"]
 ---
 

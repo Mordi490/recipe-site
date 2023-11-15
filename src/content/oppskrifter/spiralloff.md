@@ -1,7 +1,7 @@
 ---
 title: Spiralloff
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser: ["hvetemel", "margarin", "sukker", "melk", "gjær", "egg"]
 images: ["../../assets/recipe-images/web_spiralloff.jpg"]
 ---
 

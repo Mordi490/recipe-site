@@ -1,7 +1,18 @@
 ---
 title: Mandelboller
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "bakverk", "småkaker"]
+ingredienser:
+  [
+    "marsipan",
+    "egg",
+    "mandelflak",
+    "smør",
+    "melk",
+    "kardemomme",
+    "sukker",
+    "gjær",
+    "hvetemel",
+  ]
 images:
   [
     "../../assets/recipe-images/web_hveteboller-epleboller-med-melisglasur-mandelboller-vaniljeboller.jpg",

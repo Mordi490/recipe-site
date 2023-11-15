@@ -1,7 +1,7 @@
 ---
 title: Lutefisk
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["middag", "jul"]
+ingredienser: ["lutefisk", "ertestuing", "potet", "erter", "hvetemel"]
 tattFra: https://www.aperitif.no/oppskrifter/oppskrift/lutefisk-med-klassisk-tilbehor,62073
 images: ["../../assets/recipe-images/web_lutefisk-på-tradisjonelt-vis.jpg"]
 ---

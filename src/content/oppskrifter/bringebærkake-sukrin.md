@@ -1,7 +1,7 @@
 ---
 title: bringebærkake-sukrin
 tags: ["sukrin", "dessert", "kake"]
-ingredienser: ["sukrin", "egg", "rømme"]
+ingredienser: ["egg", "kesam", "bær", "sukrin kakemiks"]
 images: ["../../assets/recipe-images/web_bringebærkake-sukrin.jpg"]
 ---
 

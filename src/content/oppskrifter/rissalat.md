@@ -1,7 +1,24 @@
 ---
 title: Rissalat
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["lunsj", "tilbehør"]
+ingredienser:
+  [
+    "ris",
+    "skinke",
+    "reker",
+    "crabsticks",
+    "epler",
+    "egg",
+    "løk",
+    "paprika",
+    "sylteagurk",
+    "majones",
+    "rømme",
+    "sitron",
+    "sukker",
+    "sennep",
+    "oregano",
+  ]
 images: ["../../assets/recipe-images/web_rissalat.jpg"]
 ---
 

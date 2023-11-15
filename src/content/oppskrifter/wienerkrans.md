@@ -1,8 +1,7 @@
 ---
 title: Wienerkrans
-tags: ["bakverk", "bolle", "rundstykke"]
-ingredienser:
-  ["sukker", "sammalt hvetemel", "sukker", "bakepulver", "margarin", "sur melk"]
+tags: ["bakverk", "kake"]
+ingredienser: ["mandelflarn", "melisdryss"]
 images:
   ["../../assets/recipe-images/web_wienerkrans-briocher-porsjonsbriocher.jpg"]
 ---

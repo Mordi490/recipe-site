@@ -1,7 +1,7 @@
 ---
 title: Juleprim
-tags: ["dessert", "småkake"]
-ingredienser: ["kylling", "pasta", "brokkoli"]
+tags: ["pålegg"]
+ingredienser: ["seterrømme", "prim", "kanel", "kardemomme", "korinter"]
 images: ["../../assets/recipe-images/web_guleprim-tante-ellas-pålegg.jpg"]
 ---
 

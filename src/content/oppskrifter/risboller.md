@@ -1,16 +1,8 @@
 ---
 title: Risboller
-tags: ["bakverk", "bolle", "rundstykke"]
+tags: ["bakverk", "småkaker"]
 ingredienser:
-  [
-    "sukker",
-    "sammalt hvetemel",
-    "sukker",
-    "hornsalt",
-    "bakepulver",
-    "margarin",
-    "sur melk",
-  ]
+  ["egg", "sukker", "sjokolade", "kaffe", "delfiafett", "puffet ris"]
 images: ["../../assets/recipe-images/web_risboller.jpg"]
 ---
 

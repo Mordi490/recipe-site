@@ -1,7 +1,15 @@
 ---
 title: Ostekake 4
-tags: ["dessert", "bakverk", "sukrin"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "cottage cheese",
+    "rømme",
+    "melis",
+    "vaniljesukker",
+    "kremfløte",
+    "sitrongelè",
+  ]
 images: ["../../assets/recipe-images/web_ostekake-2.jpg"]
 ---
 

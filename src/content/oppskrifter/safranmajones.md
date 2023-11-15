@@ -1,7 +1,7 @@
 ---
 title: Safranmajones
-tags: ["tilbehør", "saus", "dip"]
-ingredienser: ["safran", "majones", "hvitløk"]
+tags: ["tilbehør", "saus", "dipp"]
+ingredienser: ["safran", "eggeplommer", "hvitløk", "sitronsaft"]
 tattFra: https://www.nrk.no/mat/safranmajones-1.8026143
 ---
 

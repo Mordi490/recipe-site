@@ -1,7 +1,8 @@
 ---
 title: Sukkersnurrer
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "småkaker"]
+ingredienser:
+  ["melk", "gjær", "smør", "egg", "sukker", "hvetemel", "vaniljesukker"]
 images: ["../../assets/recipe-images/web_sukkersnurrer.jpg"]
 ---
 

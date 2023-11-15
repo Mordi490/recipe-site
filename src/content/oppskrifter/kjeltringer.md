@@ -1,7 +1,8 @@
 ---
 title: Kjeltringer
-tags: ["dessert", "småkake"]
-ingredienser: ["havregryn", "egg", "smør"]
+tags: ["dessert", "småkaker"]
+ingredienser:
+  ["hvetemel", "sammalt hvete", "bakepulver", "smør", "honning", "kefir"]
 images:
   ["../../assets/recipe-images/web_kjeltringer-verdens-beste-skonroker.jpg"]
 ---

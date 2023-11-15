@@ -1,7 +1,17 @@
 ---
 title: Brownies
 tags: ["dessert", "sjokolade", "sukrin"]
-ingredienser: ["mørk sjokolade", "smør", "kaffe", "sukrin", "egg", "nætter"]
+ingredienser:
+  [
+    "mørk sjokolade",
+    "smør",
+    "kaffe",
+    "sukrin",
+    "egg",
+    "mandler",
+    "bakepulver",
+    "valnøtter",
+  ]
 images: ["../../assets/recipe-images/web_brownies.jpg"]
 ---
 

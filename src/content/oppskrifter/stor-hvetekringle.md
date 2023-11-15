@@ -1,7 +1,20 @@
 ---
 title: Stor hvetekringle
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "gjær",
+    "smør",
+    "melk",
+    "sukker",
+    "kardemomme",
+    "egg",
+    "hvetemel",
+    "kransekakemasse",
+    "sukat",
+    "mandelspon",
+    "perlesukker",
+  ]
 images: ["../../assets/recipe-images/web_stor-hvetekringle.jpg"]
 ---
 

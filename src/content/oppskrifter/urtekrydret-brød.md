@@ -1,7 +1,7 @@
 ---
 title: Urtekrydret brød
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser: ["gjær", "melk", "sukker", "urter", "egg", "hvetemel"]
 images: ["../../assets/recipe-images/web_urtekrydret-brød.jpg"]
 ---
 

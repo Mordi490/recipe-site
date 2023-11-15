@@ -1,7 +1,19 @@
 ---
 title: Bløt sjokoladekake med kirsebærsaus
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte"]
+tags: ["dessert", "bakverk", "kake"]
+ingredienser:
+  [
+    "kokesjokolade",
+    "smør",
+    "kaffe",
+    "egg",
+    "melis",
+    "hvetemel",
+    "kirsebær",
+    "kirsebærlikør",
+    "crème fraîche",
+    "vaniljestang",
+  ]
 images:
   ["../../assets/recipe-images/web_bløt-sjokoladekake-med-kirsebærsaus.jpg"]
 ---
@@ -27,7 +39,7 @@ images:
 
 ### Pynt
 
-- 3 dl crème fraîce
+- 3 dl crème fraîche
 - 3 ss melis
 - frøene fra 1/2 vaniljestang
 - noen kirsebær

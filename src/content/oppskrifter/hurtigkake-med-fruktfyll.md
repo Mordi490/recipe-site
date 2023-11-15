@@ -1,7 +1,22 @@
 ---
 title: Hurtigkake med fruktfyll
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "hvetemel",
+    "bakepulver",
+    "sukker",
+    "sitron",
+    "smør",
+    "egg",
+    "melk",
+    "perlesukker",
+    "mandler",
+    "banan",
+    "fersken",
+    "sitrondråper",
+    "kremfløte",
+  ]
 images: ["../../assets/recipe-images/web_hurtigkake-med-frukt.jpg"]
 ---
 

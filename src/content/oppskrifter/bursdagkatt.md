@@ -1,7 +1,23 @@
 ---
 title: Bursdagskatt
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "bakverk", "kake"]
+ingredienser:
+  [
+    "egg",
+    "sukker",
+    "smør",
+    "hvetemel",
+    "kakao",
+    "bakepulver",
+    "vaniljesukker",
+    "melk",
+    "melkesjokolade",
+    "kaffe",
+    "melis",
+    "eggeplommer",
+    "kremfløte",
+    "sjokolade",
+  ]
 images: ["../../assets/recipe-images/web_bursdagskatt.jpg"]
 ---
 

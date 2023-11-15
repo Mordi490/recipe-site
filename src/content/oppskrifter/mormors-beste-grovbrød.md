@@ -1,7 +1,16 @@
 ---
 title: Mormors beste grovbrød
-tags: ["dessert", "småkake"]
-ingredienser: ["havregryn", "egg", "smør"]
+tags: ["brød"]
+ingredienser:
+  [
+    "skummet melk",
+    "gjær",
+    "sirup",
+    "sesamfrø",
+    "linfrø",
+    "grovbaskt mel",
+    "hvetemel",
+  ]
 images:
   [
     "../../assets/recipe-images/web_spennende-fiberbrød-mormors-beste-grovbrød.jpg",
@@ -12,7 +21,7 @@ images:
 
 ## Ingredienser
 
-- 8 dl skummelt melk
+- 8 dl skummet melk
 - 50 g gjær
 - 1 ts salt
 - 2 ss sirup

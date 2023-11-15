@@ -1,7 +1,20 @@
 ---
 title: Mild delfiakake
 tags: ["dessert", "kake"]
-ingredienser: ["smør", "sukker", "eggeplommer", "havregryn"]
+ingredienser:
+  [
+    "delfiafett",
+    "dronnings kokesjokolade",
+    "fløte",
+    "egg",
+    "sukker",
+    "vaniljesukker",
+    "mandler",
+    "rosinder",
+    "per-kjeks",
+    "seigmenn",
+    "mandler",
+  ]
 tattFra: https://www.detsoteliv.no/oppskrift/mild-delfiakake
 images: ["../../assets/recipe-images/web_mild-delfiakake.jpg"]
 ---

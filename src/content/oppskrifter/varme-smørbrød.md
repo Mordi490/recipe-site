@@ -1,7 +1,20 @@
 ---
 title: Varme smørbrød
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["lunsj"]
+ingredienser:
+  [
+    "formloff",
+    "geitost",
+    "smør",
+    "honning",
+    "pinjenøtter",
+    "mozzarella",
+    "parmaskine",
+    "spekeskinke",
+    "tomater",
+    "pesto",
+    "basilikum",
+  ]
 images:
   [
     "../../assets/recipe-images/web_varme-smørbrød-en.jpg",

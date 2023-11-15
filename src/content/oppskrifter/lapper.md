@@ -1,7 +1,16 @@
 ---
 title: Lapper
-tags: ["dessert", "småkake"]
-ingredienser: ["kylling", "pasta", "brokkoli"]
+tags: ["lusnj"]
+ingredienser:
+  [
+    "egg",
+    "sukker",
+    "kulturmelk",
+    "hvetemel",
+    "kardemomme",
+    "natron",
+    "margarin",
+  ]
 images: ["../../assets/recipe-images/web_lapper-blåbærsyltetøy.jpg"]
 ---
 

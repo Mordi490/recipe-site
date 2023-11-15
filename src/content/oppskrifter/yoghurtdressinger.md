@@ -1,7 +1,20 @@
 ---
 title: Yoghurtdressinger
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dipp", "dressing"]
+ingredienser:
+  [
+    "egg",
+    "løk",
+    "persille",
+    "basilikum",
+    "yoghurt",
+    "lettrømme",
+    "avokado",
+    "sitron",
+    "gressløk",
+    "paprika",
+    "dill",
+  ]
 images:
   [
     "../../assets/recipe-images/web_yoghurtdressinger-to.jpg",

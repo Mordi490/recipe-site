@@ -1,7 +1,22 @@
 ---
 title: Kimchi
-tags: ["dessert", "sukrin"]
-ingredienser: ["mandelmel", "sukrinmelis", "eggehviter"]
+tags: ["tilbehør"]
+ingredienser:
+  [
+    "kinakål",
+    "daikon-reddik",
+    "reddik",
+    "gulrot",
+    "vårløk",
+    "gochujang",
+    "gochugaru",
+    "riseddik",
+    "fiskesaus",
+    "brunt sukker",
+    "løk",
+    "hvitløk",
+    "ingefær",
+  ]
 tattFra: https://www.matprat.no/oppskrifter/sunn/kimchi/
 images: ["../../assets/recipe-images/web_kimchi.jpg"]
 ---

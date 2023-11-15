@@ -1,7 +1,16 @@
 ---
 title: Twist
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "snacks"]
+ingredienser:
+  [
+    "melk",
+    "gjær",
+    "smør",
+    "sukker",
+    "brunt sukker",
+    "hasselnøttkjerner",
+    "kanel",
+  ]
 images: ["../../assets/recipe-images/web_twist.jpg"]
 ---
 

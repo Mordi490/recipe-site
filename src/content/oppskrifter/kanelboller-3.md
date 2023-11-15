@@ -1,7 +1,7 @@
 ---
 title: Kanelboller 3
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "småkaker"]
+ingredienser: ["gjær", "hvetemel", "smør", "egg", "sukker", "kanel"]
 images: ["../../assets/recipe-images/web_kanelboller.jpg"]
 ---
 

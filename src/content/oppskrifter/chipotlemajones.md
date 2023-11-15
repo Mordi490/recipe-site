@@ -1,7 +1,14 @@
 ---
 title: Chipotlemajones
-tags: ["tilbehør", "saus", "dip"]
-ingredienser: ["safran", "majones", "hvitløk"]
+tags: ["tilbehør", "dipp"]
+ingredienser:
+  [
+    "hvitløksfedd",
+    "eggeplommer",
+    "dijonsennep",
+    "chipotle krydder",
+    "sitronsaft",
+  ]
 tattFra: https://www.nrk.no/mat/chipotlemajones-1.15173783
 ---
 

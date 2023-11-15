@@ -1,7 +1,8 @@
 ---
 title: Wienersnurrer
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "boller"]
+ingredienser:
+  ["smør", "melk", "gjær", "sukker", "egg", "hvetemel", "kardemomme", "melis"]
 images: ["../../assets/recipe-images/web_wienersnurrer.jpg"]
 ---
 

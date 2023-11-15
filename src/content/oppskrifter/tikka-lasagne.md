@@ -1,7 +1,7 @@
 ---
 title: Tikka lasagne
 tags: ["middag", "lasagne"]
-ingredienser: ["kjøttdeig", "pasta"]
+ingredienser: ["kjøttdeig", "lasagneplater", "tikka masala saus", "hvitost"]
 tattFra: https://www.matprat.no/oppskrifter/familien/tikka-lasagne/
 images:
   [

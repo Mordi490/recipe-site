@@ -1,7 +1,19 @@
 ---
 title: Eplestenger
 tags: ["dessert", "småkake"]
-ingredienser: ["havregryn", "egg", "smør"]
+ingredienser:
+  [
+    "smør",
+    "melk",
+    "gjær",
+    "sukker",
+    "egg",
+    "hornsalt",
+    "hvetemel",
+    "eplemos",
+    "melis",
+    "kokos",
+  ]
 images: ["../../assets/recipe-images/web_eplestenger.jpg"]
 ---
 

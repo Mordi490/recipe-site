@@ -1,7 +1,20 @@
 ---
 title: Dansk gjærkringle
 tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+ingredienser:
+  [
+    "hvetemel",
+    "sukker",
+    "smør",
+    "gjær",
+    "kardemomme",
+    "melk",
+    "egg",
+    "sukat",
+    "rosiner",
+    "melis",
+    "mandeldråper",
+  ]
 images: ["../../assets/recipe-images/web_dansk-gjærkringle.jpg"]
 ---
 

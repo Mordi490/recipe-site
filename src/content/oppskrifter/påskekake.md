@@ -1,7 +1,19 @@
 ---
 title: Påskekake
-tags: ["middag", "suppe"]
-ingredienser: ["kylling", "pasta", "brokkoli"]
+tags: ["kake", "dessert"]
+ingredienser:
+  [
+    "egg",
+    "sukker",
+    "hvetemel",
+    "bakepulver",
+    "syltetøy",
+    "mørk kokesjokolade",
+    "eggeplommer",
+    "kremfløte",
+    "marsipan",
+    "konditorfarge",
+  ]
 images: ["../../assets/recipe-images/web_påskekake.jpg"]
 ---
 

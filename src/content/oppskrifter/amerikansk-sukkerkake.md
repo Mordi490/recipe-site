@@ -1,7 +1,8 @@
 ---
 title: Amerikansk sukkerkake
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "bakverk", "kake"]
+ingredienser:
+  ["egg", "sukker", "potetmel", "hvetemel", "bakepulver", "vailjesukker"]
 images:
   [
     "../../assets/recipe-images/web_amerikansk-sukkerkake.jpg",
@@ -14,7 +15,7 @@ images:
 ## Ingredienser
 
 - 4 egg
-- 2 ss kalt vann
+- 2 ss kaldt vann
 - 200 g sukker
 - 100 g potetmel
 - 100 g hvetemel

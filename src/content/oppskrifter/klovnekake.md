@@ -1,7 +1,8 @@
 ---
 title: Klovnekake
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser:
+  ["smør", "kakao", "sukker", "hvetemel", "natron", "egg", "melis", "godteri"]
 images: ["../../assets/recipe-images/web_klovnekake-en.jpg"]
 ---
 

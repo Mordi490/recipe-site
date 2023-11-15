@@ -1,7 +1,20 @@
 ---
 title: Delfiakake med kvikklunsj
-tags: ["dessert", "sukrin"]
-ingredienser: ["mandelmel", "sukrinmelis", "eggehviter"]
+tags: ["kake"]
+ingredienser:
+  [
+    "delfiafett",
+    "kokesjokolade",
+    "kaffe",
+    "egg",
+    "sukker",
+    "konjakk",
+    "whisky",
+    "kvikklunsj",
+    "marsipan",
+    "gelètopper",
+    "cocktailbær",
+  ]
 tattFra: https://www.detsoteliv.no/oppskrift/delfiakake-med-kvikk-lunsj
 images:
   [

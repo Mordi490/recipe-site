@@ -1,7 +1,19 @@
 ---
 title: Pitapizza med tandoorikylling
 tags: ["middag", "pizza"]
-ingredienser: ["kylling", "pita"]
+ingredienser:
+  [
+    "kylling låtfilet",
+    "pita",
+    "margarin",
+    "tandoorikrydder",
+    "cremè fraîche",
+    "fetaost",
+    "agurk",
+    "rødløk",
+    "persille",
+    "sitron",
+  ]
 tattFra: https://www.matprat.no/oppskrifter/familien/pitapizza-med-tandoorikylling/
 images:
   [

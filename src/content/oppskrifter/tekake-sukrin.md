@@ -1,7 +1,7 @@
 ---
 title: tekake-sukrin
 tags: ["sukrin", "dessert", "kake"]
-ingredienser: ["sukrin", "egg", "rømme"]
+ingredienser: ["egg", "sukrin kakemiks"]
 images: ["../../assets/recipe-images/web_tekake.jpg"]
 ---
 

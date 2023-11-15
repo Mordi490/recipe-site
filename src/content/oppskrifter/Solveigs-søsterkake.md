@@ -1,7 +1,18 @@
 ---
 title: Solveigs søsterkake
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "hvetemel",
+    "melis",
+    "margarin",
+    "kardemomme",
+    "melk",
+    "egg",
+    "gjær",
+    "rosiner",
+    "sukat",
+  ]
 images: ["../../assets/recipe-images/web_solveigs-søsterkake-en.jpg"]
 ---
 

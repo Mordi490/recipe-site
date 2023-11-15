@@ -1,7 +1,7 @@
 ---
 title: Gratinerte pannekaker
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["middag"]
+ingredienser: ["egg", "melk", "hvetemel", "skinkeskiver", "ost"]
 images:
   [
     "../../assets/recipe-images/web_gratinerte-pannekaker-en.jpg",

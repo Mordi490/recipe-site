@@ -1,7 +1,18 @@
 ---
 title: Klippekrans 2
 tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+ingredienser:
+  [
+    "smør",
+    "sukker",
+    "kardemomme",
+    "melk",
+    "egg",
+    "hvetemel",
+    "kanel",
+    "mandler",
+    "mandelflak",
+  ]
 images:
   [
     "../../assets/recipe-images/web_hvetebrød-med-rosiner-klippekrans-mandelfylte-smørboller-eplegjemmer.jpg",

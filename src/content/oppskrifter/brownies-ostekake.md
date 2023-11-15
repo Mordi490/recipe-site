@@ -1,7 +1,20 @@
 ---
 title: brownies ostekake
 tags: ["ostekake", "dessert", "kake"]
-ingredienser: ["sukrin", "egg", "rømme"]
+ingredienser:
+  [
+    "smør",
+    "mørk sjokolade",
+    "egg",
+    "sukker",
+    "melk",
+    "hvetemel",
+    "sjokoladeblonder",
+    "kaffebønner",
+    "kremost",
+    "vaniljesukker",
+    "yoghurt",
+  ]
 images: ["../../assets/recipe-images/web_brownies-ostekake.jpg"]
 ---
 

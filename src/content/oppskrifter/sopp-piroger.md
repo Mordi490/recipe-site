@@ -1,7 +1,17 @@
 ---
 title: Sopp-piroger
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["middag"]
+ingredienser:
+  [
+    "rugmel",
+    "hvetemel",
+    "kantarell",
+    "sjalottløk",
+    "smør",
+    "hvetemel",
+    "persille",
+    "ost",
+  ]
 images: ["../../assets/recipe-images/web_sopp-piroger.jpg"]
 ---
 

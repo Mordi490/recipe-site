@@ -1,7 +1,17 @@
 ---
 title: sjokoladekake med ostekrem
-tags: ["drikke", "dessert"]
-ingredienser: ["sukker", "vann", "melk"]
+tags: ["kake", "dessert"]
+ingredienser:
+  [
+    "smør",
+    "mørk kokesjokolade",
+    "egg",
+    "sukker",
+    "hvetemel",
+    "vaniljesukker",
+    "kremost",
+    "sukker",
+  ]
 images:
   [
     "../../assets/recipe-images/web_snickers-kake-sjokoladekake-med-ostekrem.jpg",

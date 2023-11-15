@@ -1,7 +1,17 @@
 ---
 title: Sjokoladekake med lime
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "egg",
+    "sukker",
+    "hvetemel",
+    "kakaopulver",
+    "vaniljesukker",
+    "lettrømme",
+    "lime",
+    "sjokoladepletter",
+  ]
 images:
   [
     "../../assets/recipe-images/web_sjokoladekake-med-solsikkekjerner-sjokoladekake-med-lime.jpg",

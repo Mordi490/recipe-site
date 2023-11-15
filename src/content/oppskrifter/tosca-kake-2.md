@@ -1,7 +1,17 @@
 ---
 title: Tosca-kake 2
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "margarin",
+    "sukker",
+    "hvetemel",
+    "bakepulver",
+    "egg",
+    "melk",
+    "mandler",
+    "smør",
+  ]
 images: ["../../assets/recipe-images/web_toscakake-2.jpg"]
 ---
 

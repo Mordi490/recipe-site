@@ -1,7 +1,18 @@
 ---
 title: Kirsebærmuffins
-tags: ["dessert", "småkake"]
-ingredienser: ["kylling", "pasta", "brokkoli"]
+tags: ["dessert", "småkaker"]
+ingredienser:
+  [
+    "margarin",
+    "sukker",
+    "egg",
+    "vaniljesukker",
+    "hvetemel",
+    "bakepulver",
+    "krisebær",
+    "melk",
+    "melis",
+  ]
 images:
   [
     "../../assets/recipe-images/web_kirsebærlengde-kirsebærstrudel-kirsebærmuffins.jpg",

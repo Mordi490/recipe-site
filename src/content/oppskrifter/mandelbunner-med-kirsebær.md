@@ -1,7 +1,8 @@
 ---
 title: Mandelbunner med kirsebær
-tags: ["dessert", "småkake"]
-ingredienser: ["kylling", "pasta", "brokkoli"]
+tags: ["dessert", "kake"]
+ingredienser:
+  ["marsipan", "egg", "kremfløte", "vaniljesukker", "kirsebærlikør", "kirsebær"]
 images:
   [
     "../../assets/recipe-images/web_mandelbunner-med-kirsebær-kirsebærterter.jpg",

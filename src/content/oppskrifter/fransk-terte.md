@@ -1,7 +1,16 @@
 ---
 title: Fransk terte
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "nøttekjerner",
+    "bakepulver",
+    "eggehviter",
+    "sukker",
+    "kremfløte",
+    "kirsebær",
+    "bjørnebær",
+  ]
 images: ["../../assets/recipe-images/web_fransk-terte.jpg"]
 ---
 

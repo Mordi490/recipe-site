@@ -1,7 +1,19 @@
 ---
 title: Minikaker med kremfyll
-tags: ["dessert", "småkake"]
-ingredienser: ["havregryn", "egg", "smør"]
+tags: ["dessert", "småkaker"]
+ingredienser:
+  [
+    "smør",
+    "sukker",
+    "lys sirup",
+    "hvetemel",
+    "havregryn",
+    "ingegær",
+    "sitron",
+    "konjakk",
+    "melis",
+    "kaffe",
+  ]
 images: ["../../assets/recipe-images/web_minikaker-med-kremfyll.jpg"]
 ---
 

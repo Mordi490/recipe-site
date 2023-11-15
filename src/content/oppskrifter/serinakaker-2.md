@@ -1,7 +1,17 @@
 ---
 title: Serinakaker 2
-tags: ["middag", "suppe"]
-ingredienser: ["kylling", "pasta", "brokkoli"]
+tags: ["småkaker", "dessert"]
+ingredienser:
+  [
+    "hvetemel",
+    "bakepulver",
+    "vaniljepulver",
+    "meierismør",
+    "sukker",
+    "mandler",
+    "egg",
+    "perlesukker",
+  ]
 images:
   [
     "../../assets/recipe-images/web_serinakaker-2-en.jpg",

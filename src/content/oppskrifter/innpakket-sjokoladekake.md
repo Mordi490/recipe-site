@@ -1,7 +1,24 @@
 ---
 title: Innpakket Sjokoladekake
-tags: ["kake", "dessert", "bakverk"]
-ingredienser: ["sukker", "kakao", "vann", "melk"]
+tags: ["kake", "dessert", "sjokoladekake"]
+ingredienser:
+  [
+    "egg",
+    "sukker",
+    "smør",
+    "melk",
+    "hvetemel",
+    "vaniljesukker",
+    "bakepulver",
+    "kakao",
+    "kokesjokolade",
+    "kaffe",
+    "eggeplommer",
+    "kremfløte",
+    "lys kokesjokolade",
+    "lys sirup",
+    "gelètopper",
+  ]
 images: ["../../assets/recipe-images/web_innpakket-sjokoladekake.jpg"]
 ---
 

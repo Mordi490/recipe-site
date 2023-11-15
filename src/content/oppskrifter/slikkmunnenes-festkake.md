@@ -1,7 +1,23 @@
 ---
 title: Slikkmunnenes festkake
-tags: ["dessert", "småkake"]
-ingredienser: ["havregryn", "egg", "smør"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "egg",
+    "sukker",
+    "hvetemel",
+    "mandler",
+    "bakepulver",
+    "kremfløte",
+    "vaniljesukker",
+    "mandler",
+    "kremfløte",
+    "pære",
+    "pære",
+    "sjokolade",
+    "marsipan",
+    "sølvkuler",
+  ]
 images: ["../../assets/recipe-images/web_slikkemunnenes-festkake.jpg"]
 ---
 
@@ -29,7 +45,7 @@ Denne kaken skal dekoreres til stjernetegnet vekten
 
 ### Pynt
 
-- 3 dl kremføte
+- 3 dl kremfløte
 - 1 ts sukker
 - 2 halve pærer
 - dessert sjokolade

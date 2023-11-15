@@ -1,7 +1,17 @@
 ---
 title: Ferskenpai
-tags: ["dessert", "småkake"]
-ingredienser: ["kylling", "pasta", "brokkoli"]
+tags: ["dessert", "pai"]
+ingredienser:
+  [
+    "hvetemel",
+    "havregryn",
+    "mandler",
+    "brunt sukker",
+    "margarin",
+    "kokesjokolade",
+    "fersken",
+    "honning",
+  ]
 images:
   [
     "../../assets/recipe-images/web_ferskenpai-gresskarpai-med-valnøtter-plommepai-sesamfrøkake-med-kremtopp.jpg",

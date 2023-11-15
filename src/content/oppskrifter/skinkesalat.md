@@ -1,7 +1,19 @@
 ---
 title: Skinkesalat
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["lunsj"]
+ingredienser:
+  [
+    "bogskinke",
+    "sjampinjong",
+    "kinakål",
+    "goudaost",
+    "ris",
+    "agurk",
+    "tomat",
+    "paprika",
+    "purreløk",
+    "rømmedressing",
+  ]
 images: ["../../assets/recipe-images/web_skinkesalat.jpg"]
 ---
 

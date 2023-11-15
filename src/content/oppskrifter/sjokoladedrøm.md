@@ -1,7 +1,20 @@
 ---
 title: Sjokoladedrøm
-tags: ["dessert", "småkake"]
-ingredienser: ["havregryn", "egg", "smør"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "egg",
+    "sukker",
+    "hvetemel",
+    "potetmel",
+    "kakao",
+    "bakepulver",
+    "vaniljesukker",
+    "vaniljesaus",
+    "melk",
+    "fløte",
+    "kokesjokolade",
+  ]
 images: ["../../assets/recipe-images/web_sjokoladedrøm.jpg"]
 ---
 

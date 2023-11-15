@@ -1,7 +1,19 @@
 ---
 title: Kokoskake med sviskefyll
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "småkaker"]
+ingredienser:
+  [
+    "eggehviter",
+    "sukker",
+    "kokos",
+    "hvetemel",
+    "bakepulver",
+    "eggeplommer",
+    "sukker",
+    "melk",
+    "margarin",
+    "svisker",
+  ]
 images: ["../../assets/recipe-images/web_kokoskake-med-sviskefyll.jpg"]
 ---
 

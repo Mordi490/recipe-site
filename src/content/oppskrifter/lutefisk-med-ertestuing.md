@@ -1,7 +1,8 @@
 ---
 title: Lutefisk med ertestuing
-tags: ["middag", "suppe"]
-ingredienser: ["kylling", "pasta", "brokkoli"]
+tags: ["middag", "jul"]
+ingredienser:
+  ["lutefisk", "lutefisk", "erter", "smør", "sukker", "hvetemel", "sennep"]
 tattFra: https://oppskrift.klikk.no/lutefisk-med-ertestuing/1020/
 images:
   [

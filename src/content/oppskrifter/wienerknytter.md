@@ -1,8 +1,7 @@
 ---
 title: Wienerknytter
 tags: ["bakverk", "bolle", "rundstykke"]
-ingredienser:
-  ["sukker", "sammalt hvetemel", "sukker", "bakepulver", "margarin", "sur melk"]
+ingredienser: ["mandler", "sukker", "egg", "melis"]
 images:
   [
     "../../assets/recipe-images/web_wienerdeig-wienerknytter-wienerboller-med-eggekrem-wienerbrød.jpg",

@@ -1,7 +1,19 @@
 ---
 title: Virginia konfekt
-tags: ["dessert", "småkake"]
-ingredienser: ["kylling", "pasta", "brokkoli"]
+tags: ["dessert", "småkaker"]
+ingredienser:
+  [
+    "kokesjokolade",
+    "kokosfett",
+    "egg",
+    "pulverkaffe",
+    "kandiserte frukter",
+    "mandler",
+    "nøtter",
+    "fiken",
+    "dadler",
+    "rosiner",
+  ]
 images: ["../../assets/recipe-images/web_krydderknekk-virginia-konfekt.jpg"]
 ---
 

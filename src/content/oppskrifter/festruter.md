@@ -1,7 +1,18 @@
 ---
 title: Festruter
 tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+ingredienser:
+  [
+    "hvetemel",
+    "sukker",
+    "bakepulver",
+    "smør",
+    "egg",
+    "mandler",
+    "vaniljesukker",
+    "fløte",
+    "sitron",
+  ]
 images:
   [
     "../../assets/recipe-images/web_korintkaker.jpg",

@@ -1,7 +1,8 @@
 ---
 title: Lakseform med brokkoli
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["middag"]
+ingredienser:
+  ["brokkolitopper", "laksefilet", "melk", "hvetemel", "muskatnøtt", "ost"]
 images: ["../../assets/recipe-images/web_lakseform-med-brokkoli.jpg"]
 ---
 
@@ -18,7 +19,7 @@ images: ["../../assets/recipe-images/web_lakseform-med-brokkoli.jpg"]
 
 - 3 dl ekstra lettmelk
 - 1 ss hvetemel
-- salt, muskattnøtt, pepper
+- salt, muskatnøtt, pepper
 - 2 dl revet ost
 
 ## Instruksjon

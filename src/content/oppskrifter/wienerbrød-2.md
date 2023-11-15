@@ -1,8 +1,8 @@
 ---
 title: Wienerbrød 2
-tags: ["bakverk", "bolle", "rundstykke"]
+tags: ["bakverk", "boller"]
 ingredienser:
-  ["sukker", "sammalt hvetemel", "sukker", "bakepulver", "margarin", "sur melk"]
+  ["melis", "smør", "melk", "gjær", "sukker", "kardemomme", "egg", "hvetemel"]
 images:
   [
     "../../assets/recipe-images/web_wienerdeig-wienerknytter-wienerboller-med-eggekrem-wienerbrød.jpg",

@@ -1,7 +1,7 @@
 ---
 title: Helsebrød
-tags: ["dessert", "småkake"]
-ingredienser: ["havregryn", "egg", "smør"]
+tags: ["brød"]
+ingredienser: ["gjær", "cottage cheese", "kesam", "honning", "hvetekim", "havregryn", "sammalt hvete", "rosiner", "hvetemel"]
 images: ["../../assets/recipe-images/web_reyjavikbrød-helsebrød.jpg",
 "../../assets/recipe-images/reyjavikbrød-helsebrød-preview.jpg"]
 ---

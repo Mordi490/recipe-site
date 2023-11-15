@@ -1,7 +1,20 @@
 ---
 title: Sjokoladeiskake
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake", "iskake"]
+ingredienser:
+  [
+    "mandler",
+    "sukker",
+    "eggehviter",
+    "eggeplomer",
+    "melk",
+    "melis",
+    "mørk kokesjokolade",
+    "fløte",
+    "konjakk",
+    "kremfløte",
+    "mandler",
+  ]
 images: ["../../assets/recipe-images/web_sjokoladeiskake.jpg"]
 ---
 

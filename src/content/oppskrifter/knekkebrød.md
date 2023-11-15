@@ -1,7 +1,15 @@
 ---
 title: Knekkebrød
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["brød"]
+ingredienser:
+  [
+    "havregryn",
+    "sammalt spelt",
+    "havrekli",
+    "linfrø",
+    "sesamfrø",
+    "solsikkefrø",
+  ]
 images: ["../../assets/recipe-images/web_verdens-herligste-knekkebrød.jpg"]
 ---
 

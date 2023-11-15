@@ -1,7 +1,16 @@
 ---
 title: Pepperrotsild med purre
-tags: ["dessert", "småkake"]
-ingredienser: ["havregryn", "egg", "smør"]
+tags: ["tilbehør", "pålegg"]
+ingredienser:
+  [
+    "kryddersildfilet",
+    "purre",
+    "kremfløte",
+    "cremè fraîce",
+    "pepperrotpurè",
+    "sukker",
+    "sitronsaft",
+  ]
 images:
   [
     "../../assets/recipe-images/web_pepperrotsild-med-purre-karrisild-med-nøtter.jpg",
@@ -16,7 +25,7 @@ images:
 - 3 dl finsnittet purre
 - 1 1/2 dl kremfløte
 - 1 dl cremè fraîche
-- 2 ts pepperrotpure (tube)
+- 2 ts pepperrotpurè (tube)
 - sukker
 - sitronsaft
 

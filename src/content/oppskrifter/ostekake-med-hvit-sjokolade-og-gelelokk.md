@@ -1,7 +1,19 @@
 ---
 title: Ostekake med hvit sjokolade og gelèlokk
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "kronmo-kjeks",
+    "smør",
+    "sukker",
+    "kremost",
+    "sukker",
+    "hvit sjokolade",
+    "gelatin",
+    "kremfløte",
+    "bringebærgelè",
+    "bringebær",
+  ]
 images:
   [
     "../../assets/recipe-images/web_ostekake-med-hvit-sjokolade-en.jpg",

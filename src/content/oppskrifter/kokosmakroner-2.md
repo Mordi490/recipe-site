@@ -1,7 +1,18 @@
 ---
 title: kokosmakroner 2
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "bakverk", "småkaker"]
+ingredienser:
+  [
+    "eggehviter",
+    "sukker",
+    "kokosmasse",
+    "hvetemel",
+    "egg",
+    "melis",
+    "margarin",
+    "kokosmasse",
+    "bakepulver",
+  ]
 images: ["../../assets/recipe-images/web_kokosmakroner.jpg"]
 ---
 

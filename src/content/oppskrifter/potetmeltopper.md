@@ -1,7 +1,16 @@
 ---
 title: Potetmeltopper
-tags: ["dessert", "sukrin"]
-ingredienser: ["mandelmel", "sukrinmelis", "eggehviter"]
+tags: ["dessert", "småkaker"]
+ingredienser:
+  [
+    "potetmel",
+    "hvetemel",
+    "sukker",
+    "egg",
+    "margarin",
+    "bakepulver",
+    "vaniljesukker",
+  ]
 images: ["../../assets/recipe-images/web_potetmeltopper.jpg"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Ukjent ostekake
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake", "ostekake"]
+ingredienser: ["bringebærgelè", "fløte"]
 images:
   [
     "../../assets/recipe-images/web_idk-2.jpg",
@@ -14,7 +14,7 @@ draft: true
 
 ## Ingredienser
 
-- 2 pk. bringebær gele
+- 2 pk. bringebær gelè
 - 5-6 dl fløte
 
 ## Instruksjon

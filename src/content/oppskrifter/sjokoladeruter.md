@@ -1,7 +1,19 @@
 ---
 title: Sjokoladeruter
-tags: ["dessert", "småkake"]
-ingredienser: ["havregryn", "egg", "smør"]
+tags: ["dessert", "småkaker"]
+ingredienser:
+  [
+    "smør",
+    "sukker",
+    "egg",
+    "hvetemel",
+    "vaniljesukker",
+    "bakepulver",
+    "kakao",
+    "melk",
+    "mørk kokesjokolade",
+    "eggehvite",
+  ]
 images: ["../../assets/recipe-images/web_sjokoladeruter.jpg"]
 ---
 
@@ -20,8 +32,7 @@ images: ["../../assets/recipe-images/web_sjokoladeruter.jpg"]
 
 ### Overtrekk
 
-- 150 g smeltet mørk
-- kokesjokolade
+- 150 g smeltet mørk kokesjokolade
 
 ### Melisglasur
 

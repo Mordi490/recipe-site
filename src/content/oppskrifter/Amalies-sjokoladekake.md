@@ -1,7 +1,20 @@
 ---
 title: Amalies sjokoladekake
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "bakverk", "kake", "sjokoladekake"]
+ingredienser:
+  [
+    "smør",
+    "sukker",
+    "eggeplommer",
+    "melk",
+    "kaffe",
+    "vaniljesukker",
+    "bakepulver",
+    "kakaopulver",
+    "hvetemel",
+    "kokesjokolade",
+    "melis",
+  ]
 images:
   [
     "../../assets/recipe-images/web_amalies-sjokoladekake-sjokoladekake-med-granateple.jpg",

@@ -1,7 +1,18 @@
 ---
 title: Biffwok
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["middag"]
+ingredienser:
+  [
+    "svinekjøtt",
+    "brokkoli",
+    "rød løk",
+    "paprika",
+    "cashewnøtter",
+    "cherry tomat",
+    "nudler",
+    "woksaus",
+    "vårløk",
+  ]
 images: ["../../assets/recipe-images/web_biffwok.jpg"]
 ---
 

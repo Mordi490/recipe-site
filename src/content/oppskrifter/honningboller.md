@@ -1,7 +1,7 @@
 ---
 title: Honningboller
-tags: ["dessert", "småkake"]
-ingredienser: ["havregryn", "egg", "smør"]
+tags: ["dessert", "småkaker"]
+ingredienser: ["smør", "melk", "gjær", "honning", "hvetemel"]
 images: ["../../assets/recipe-images/web_honningboller.jpg"]
 ---
 

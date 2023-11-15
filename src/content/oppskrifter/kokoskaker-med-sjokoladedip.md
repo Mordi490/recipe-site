@@ -1,7 +1,7 @@
 ---
 title: kokoskaker med sjokoladedip
-tags: ["dessert", "småkake"]
-ingredienser: ["havregryn", "egg", "smør"]
+tags: ["dessert", "småkaker"]
+ingredienser: ["eggehviter", "sukker", "kokosmasse", "kokesjokolade"]
 images: ["../../assets/recipe-images/web_kokoskaker-med-sjokoladedip.jpg"]
 ---
 

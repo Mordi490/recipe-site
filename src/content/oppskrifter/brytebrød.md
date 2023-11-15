@@ -1,16 +1,7 @@
 ---
 title: Brytebrød
-tags: ["bakverk", "bolle", "rundstykke"]
-ingredienser:
-  [
-    "sukker",
-    "sammalt hvetemel",
-    "sukker",
-    "hornsalt",
-    "bakepulver",
-    "margarin",
-    "sur melk",
-  ]
+tags: ["bakverk", "brød"]
+ingredienser: ["havregryn", "sammalt hvete", "hvetemel", "gjær", "melk"]
 images: ["../../assets/recipe-images/web_risotto-brytebrød.jpg"]
 ---
 

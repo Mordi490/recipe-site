@@ -1,7 +1,18 @@
 ---
 title: Ostekake 3
-tags: ["dessert", "bakverk", "sukrin"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "kjeks",
+    "margarin",
+    "kremost",
+    "rømme",
+    "melis",
+    "vaniljesukker",
+    "fløte",
+    "appelsingelè",
+    "bringebærgelè",
+  ]
 images: ["../../assets/recipe-images/web_ostekake-4.jpg"]
 ---
 

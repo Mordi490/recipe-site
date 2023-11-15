@@ -1,7 +1,7 @@
 ---
 title: Sarah Bernard
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser: ["kransekakemasse", "kremfløte", "kokesjokolade", "delfiafett"]
 images:
   [
     "../../assets/recipe-images/web_sarah-bernard-en.jpg",

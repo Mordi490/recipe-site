@@ -1,7 +1,18 @@
 ---
 title: Kyllingsalat med bønner og linser
 tags: ["middag"]
-ingredienser: ["kylling", "kikerter", "tomat"]
+ingredienser:
+  [
+    "kyllingfilet",
+    "hvitløk",
+    "hønsebuljong",
+    "chilipulver",
+    "lime",
+    "ertebønne-linsemiks",
+    "agurk",
+    "rødløk",
+    "hjeretesalat",
+  ]
 tattFra: https://www.matprat.no/oppskrifter/sunn/kyllingsalat-med-bonner-og-linser/
 images:
   [

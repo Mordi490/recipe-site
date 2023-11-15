@@ -1,7 +1,17 @@
 ---
 title: Fruktbakkels
-tags: ["dessert", "småkake"]
-ingredienser: ["kylling", "pasta", "brokkoli"]
+tags: ["dessert", "småkaker"]
+ingredienser:
+  [
+    "hvetemel",
+    "sukker",
+    "vaniljesukker",
+    "margarin",
+    "egg",
+    "vaniljekrem",
+    "bringebær",
+    "bjørnebær",
+  ]
 images: ["../../assets/recipe-images/web_rabarbrarull-fruktbakkels.jpg"]
 ---
 

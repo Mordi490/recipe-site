@@ -1,16 +1,7 @@
 ---
 title: Scones
 tags: ["bakverk", "bolle", "rundstykke"]
-ingredienser:
-  [
-    "sukker",
-    "sammalt hvetemel",
-    "sukker",
-    "hornsalt",
-    "bakepulver",
-    "margarin",
-    "sur melk",
-  ]
+ingredienser: ["sukker", "kakao", "melk"]
 images:
   [
     "../../assets/recipe-images/web_scones-kakao-2.jpg",

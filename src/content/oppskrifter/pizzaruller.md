@@ -1,7 +1,8 @@
 ---
 title: Pizzaruller
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["middag"]
+ingredienser:
+  ["gjær", "hvetemel", "paprika", "kjøtt", "pizzakrydder", "taffelost"]
 images: ["../../assets/recipe-images/web_pizzaruller.jpg"]
 ---
 

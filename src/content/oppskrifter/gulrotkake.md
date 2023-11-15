@@ -1,8 +1,20 @@
 ---
 title: Gulrotkake
-tags: ["middag", "sukrin", "bakverk"]
+tags: ["dessert", "kake"]
 ingredienser:
-  ["egg", "soyamel", "hvitløk", "olje", "oregano", "ost", "bakepulver"]
+  [
+    "egg",
+    "sukker",
+    "hvetemel",
+    "natron",
+    "kanel",
+    "vaniljesukker",
+    "bakepulver",
+    "gulrot",
+    "Philadelfiaost",
+    "margarin",
+    "melis",
+  ]
 images: ["../../assets/recipe-images/web_gulrotkake.jpg"]
 ---
 

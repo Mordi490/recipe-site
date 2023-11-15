@@ -1,7 +1,19 @@
 ---
 title: Bistikk med krem
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "bakverk", "kake"]
+ingredienser:
+  [
+    "margarin",
+    "sukker",
+    "vaniljesukker",
+    "melk",
+    "mandler",
+    "egg",
+    "hvetemel",
+    "bakepulver",
+    "delfiafett",
+    "kremfløte",
+  ]
 images: ["../../assets/recipe-images/web_bistikk-med-krem.jpg"]
 ---
 

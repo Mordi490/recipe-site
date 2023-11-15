@@ -1,7 +1,7 @@
 ---
 title: Momsepai med bærsmak
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "pai"]
+ingredienser: ["gjær", "melk", "egg", "sukker", "smør", "bær", "kremfløte"]
 images: ["../../assets/recipe-images/web_momsepai-med-bærsmak.jpg"]
 ---
 

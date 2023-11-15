@@ -1,7 +1,23 @@
 ---
 title: Pai
-tags: ["middag"]
-ingredienser: ["kylling", "kikerter", "tomat"]
+tags: ["middag", "pai"]
+ingredienser:
+  [
+    "hvetemel",
+    "sukker",
+    "smør",
+    "squash",
+    "løk",
+    "paprika",
+    "tomat",
+    "sopp",
+    "karrikrydder",
+    "kanel",
+    "egg",
+    "melk",
+    "parmesan",
+    "cheddar",
+  ]
 images: ["../../assets/recipe-images/web_pai.jpg"]
 ---
 

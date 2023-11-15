@@ -1,15 +1,16 @@
 ---
 title: Kjerstis langpannekake
-tags: ["bakverk", "bolle", "rundstykke"]
+tags: ["bakverk", "kake"]
 ingredienser:
   [
+    "egg",
     "sukker",
-    "sammalt hvetemel",
-    "sukker",
-    "hornsalt",
     "bakepulver",
-    "margarin",
-    "sur melk",
+    "hvetemel",
+    "vaniljesukker",
+    "kakao",
+    "melk",
+    "smør",
   ]
 images: ["../../assets/recipe-images/web_kjerstis-langpannekake.jpg"]
 ---

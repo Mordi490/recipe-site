@@ -1,7 +1,7 @@
 ---
 title: Blåbærsyltetøy
-tags: ["dessert", "småkake"]
-ingredienser: ["kylling", "pasta", "brokkoli"]
+tags: ["syltetøy"]
+ingredienser: ["blåbær", "sukker"]
 images: ["../../assets/recipe-images/web_lapper-blåbærsyltetøy.jpg"]
 ---
 

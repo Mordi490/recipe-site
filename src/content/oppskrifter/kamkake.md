@@ -1,7 +1,7 @@
 ---
 title: Kamkake
-tags: ["dessert", "bakverk", "sukrin"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "bakverk", "bolle"]
+ingredienser: ["smør", "melk", "egg", "sirup", "gjær", "hornsalt"]
 images: ["../../assets/recipe-images/web_kamkake.jpg"]
 ---
 

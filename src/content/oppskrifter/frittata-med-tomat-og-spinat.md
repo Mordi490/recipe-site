@@ -1,7 +1,7 @@
 ---
 title: Frittata med tomater og spinat
-tags: ["middag"]
-ingredienser: ["kylling", "kikerter", "tomat"]
+tags: ["middag", "vegetar"]
+ingredienser: ["hvitløk", "løk", "spinat", "egg", "cherrytomat", "parmesan"]
 tattFra: https://www.matprat.no/oppskrifter/sunn/frittata-med-tomater-og-spinat/
 images: ["../../assets/recipe-images/web_frittata-med-tomat-og-spinat.jpg"]
 ---

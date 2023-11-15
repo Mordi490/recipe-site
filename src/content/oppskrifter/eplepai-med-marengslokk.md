@@ -1,7 +1,7 @@
 ---
 title: Eplepai med marengslokk
-tags: ["dessert", "småkake"]
-ingredienser: ["kylling", "pasta", "brokkoli"]
+tags: ["dessert", "kake"]
+ingredienser: ["hvetemel", "margarin", "sukker", "egg", "epler", "kanel"]
 images: ["../../assets/recipe-images/web_eplemuffins-eplepai.jpg"]
 ---
 

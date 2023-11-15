@@ -1,7 +1,20 @@
 ---
 title: Oreo ostekake
 tags: ["ostekake", "dessert", "kake"]
-ingredienser: ["sukrin", "egg", "rømme"]
+ingredienser:
+  [
+    "Oreo sjokoladekjeks",
+    "smør",
+    "jordbær",
+    "kremost",
+    "sukker",
+    "hvetemel",
+    "egg",
+    "eggeplommer",
+    "kremfløte",
+    "vaniljesaus",
+    "seterrømme",
+  ]
 images: ["../../assets/recipe-images/web_oreo-ostekake.jpg"]
 ---
 

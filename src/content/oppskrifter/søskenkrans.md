@@ -1,7 +1,17 @@
 ---
 title: Søskenkrans
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "gjær",
+    "melk",
+    "sukker",
+    "hvetemel",
+    "smør",
+    "kanel",
+    "nøttekjerner",
+    "melis",
+  ]
 images: ["../../assets/recipe-images/web_søskenskrans.jpg"]
 ---
 

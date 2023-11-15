@@ -1,7 +1,8 @@
 ---
 title: Kirsebærlengde
-tags: ["dessert", "småkake"]
-ingredienser: ["kylling", "pasta", "brokkoli"]
+tags: ["dessert", "kake"]
+ingredienser:
+  ["butterdeig", "kirsebær", "sukker", "kremfløte", "melis", "kirsebærsaft"]
 images:
   [
     "../../assets/recipe-images/web_kirsebærlengde-kirsebærstrudel-kirsebærmuffins.jpg",

@@ -1,7 +1,22 @@
 ---
 title: Delikat moussekake
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["kake"]
+ingredienser:
+  [
+    "havrekjeks",
+    "pekannøtter",
+    "smør",
+    "honning",
+    "fersken",
+    "appelsinjuice",
+    "gelatinplater",
+    "sukker",
+    "sitronsaft",
+    "vaniljesukker",
+    "yoghurt",
+    "kesam",
+    "cottage cheese",
+  ]
 images:
   [
     "../../assets/recipe-images/web_delfiakat-moussekake-en.jpg",
@@ -19,7 +34,7 @@ images:
 - 3 ss honning
 - 1 dl fersken- eller appelsinjuice
 - 4 gelatinplater
-- 3 store skrelte ferskener, helst ferkse
+- 3 store skrelte ferskener, helst ferske
 - 3 ss sukker
 - 1 ss presset sitronsaft
 - 1 ss vaniljesukker

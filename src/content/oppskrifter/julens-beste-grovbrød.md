@@ -1,7 +1,7 @@
 ---
 title: Julens beste grovbrød
-tags: ["dessert", "småkake"]
-ingredienser: ["havregryn", "egg", "smør"]
+tags: ["brød"]
+ingredienser: ["gjær", "skummet kulturmelk", "grov hvete", "rugmel", "hvetemel", "hvetekli"]
 images: ["../../assets/recipe-images/web_julens-beste-grovbrød.jpg",
 "../../assets/recipe-images/julens-beste-grovbrød-preview.jpg"]
 ---

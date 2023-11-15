@@ -1,7 +1,7 @@
 ---
 title: Kokosmakroner
-tags: ["middag", "suppe"]
-ingredienser: ["kylling", "pasta", "brokkoli"]
+tags: ["dessert", "småkaker"]
+ingredienser: ["eggehviter", "melis", "vaniljesukker", "kokos"]
 tattFra: https://www.detsoteliv.no/oppskrift/kokosmakroner
 images: ["../../assets/recipe-images/web_kokosmakroner-2.jpg"]
 ---

@@ -1,7 +1,19 @@
 ---
 title: Marias boller
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["boller"]
+ingredienser:
+  [
+    "gjær",
+    "smør",
+    "melk",
+    "salt",
+    "kardemomme",
+    "sukker",
+    "gultenfritt mel",
+    "kanel",
+    "egg",
+    "perlesukker",
+  ]
 images: ["../../assets/recipe-images/web_marias-boller.jpg"]
 ---
 

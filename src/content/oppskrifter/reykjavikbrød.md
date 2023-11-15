@@ -1,7 +1,7 @@
 ---
 title: Reykjavikbrød
-tags: ["dessert", "småkake"]
-ingredienser: ["havregryn", "egg", "smør"]
+tags: ["brød"]
+ingredienser: ["gjær", "brunt sukker", "honning", "hvete grov", "appelsinskall", "sitronskall", "anis", "hvetemel"]
 images: ["../../assets/recipe-images/web_reyjavikbrød-helsebrød.jpg",
 "../../assets/recipe-images/reyjavikbrød-helsebrød-preview.jpg"]
 ---

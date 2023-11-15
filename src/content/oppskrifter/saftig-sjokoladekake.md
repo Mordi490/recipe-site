@@ -1,7 +1,26 @@
 ---
 title: Saftig Sjokoladekake
-tags: ["sukrin", "dessert", "kake"]
-ingredienser: ["sukrin", "egg", "rømme"]
+tags: ["dessert", "kake"]
+ingredienser:
+  [
+    "egg",
+    "sukker",
+    "melk",
+    "smør",
+    "hvetemel",
+    "bakepulver",
+    "vaniljesukker",
+    "kakao",
+    "hvit sjokolade",
+    "smør",
+    "melis",
+    "glasur",
+    "sølvkuler",
+    "physalis",
+    "kiwi",
+    "granateple",
+    "silkebånd",
+  ]
 images:
   [
     "../../assets/recipe-images/web_saftig-sjokoladekake-sjoko-banankake.jpg",

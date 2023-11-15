@@ -1,7 +1,7 @@
 ---
 title: Umsesen
-tags: ["dessert", "bakverk"]
-ingredienser: ["smør", "mørk sirup", "sukker", "kremfløte", "nelik"]
+tags: ["dessert", "kake"]
+ingredienser: ["smør", "sukker", "hvetemel", "kardemomme", "kanel", "nellik", "natron", "sur melk", "egg", "fruktblanding", "valnøtter"]
 images: ["../../assets/recipe-images/web_umsesen.jpg",
 "../../assets/recipe-images/umsesen-preview.jpg"]
 ---
