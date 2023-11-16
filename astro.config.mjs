@@ -12,7 +12,11 @@ export default defineConfig({
   site: "https://www.bentesoppskrifter.no",
   integrations: [tailwind(), sitemap()],
   output: "hybrid",
-  adapter: vercel(),
+  adapter: vercel({
+    webAnalytics: {
+      enabled: true,
+    },
+  }),
   imageService: true,
 });
 
