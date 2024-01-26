@@ -4,7 +4,7 @@ import Layout from "../layouts/Layout.astro";
 import tidsskriftkassett from "../assets/about-images/tidsskriftkassett.webp";
 import ark1 from "../assets/about-images/web_slitt-ark-1.jpg";
 import ark2 from "../assets/about-images/web_slitt-ark-2.jpg";
-import ResponsiveImage from "../components/ResponsiveImage.astro";
+import { Image } from "astro:assets";
 ---
 
 <Layout
@@ -23,11 +23,12 @@ import ResponsiveImage from "../components/ResponsiveImage.astro";
     </p>
 
     <div class="mx-auto flex max-w-lg justify-center pb-4 pt-2">
-      <ResponsiveImage
+      <Image
         src={tidsskriftkassett}
-        sizes={[400, 700, 900]}
-        alt="bildet av tidsskriftkassetten"
-        format="avif"
+        sizes={`(max-width: 480px) 400px, (max-width: 720px) 700px, (max-width: 960px) 900px`}
+        widths={[400, 700, 900]}
+        format="webp"
+        alt="Bildet av en tidsskriftakssett"
       />
     </div>
 
@@ -42,19 +43,21 @@ import ResponsiveImage from "../components/ResponsiveImage.astro";
       class="flex max-w-4xl flex-col items-center gap-1 pb-4 pt-2 sm:flex-row sm:justify-around"
     >
       <div class="sm:w-1/2">
-        <ResponsiveImage
+        <Image
           src={ark1}
-          sizes={[300, 350, 400, 450, 500, 600]}
-          alt="bildet av et slitt ark"
-          format="avif"
+          sizes={`(max-width: 480px) 400px, (max-width: 720px) 700px, (max-width: 960px) 900px`}
+          widths={[400, 700, 900]}
+          format="webp"
+          alt="Bildet av et slitt ark"
         />
       </div>
       <div class="sm:w-1/2">
-        <ResponsiveImage
+        <Image
           src={ark2}
-          sizes={[300, 350, 400, 450, 500, 600]}
-          alt="bildet av enda et slitt ark"
-          format="avif"
+          sizes={`(max-width: 480px) 400px, (max-width: 720px) 700px, (max-width: 960px) 900px`}
+          widths={[400, 700, 900]}
+          format="webp"
+          alt="Bildet av enda et slitt ark"
         />
       </div>
     </div>
