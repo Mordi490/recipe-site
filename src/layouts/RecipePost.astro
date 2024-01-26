@@ -2,6 +2,7 @@
 import type { CollectionEntry } from "astro:content";
 import Layout from "./Layout.astro";
 import ResponsiveImage from "../components/ResponsiveImage.astro";
+import { Image, imageConfig } from "astro:assets";
 
 type Props = CollectionEntry<"oppskrifter">["data"] & {
   seo_image?: string;
@@ -35,14 +36,27 @@ const { title, tags, ingredienser, images, tattFra, seo_image } = Astro.props;
   <div class="flex max-w-4xl flex-col justify-center gap-4">
     {
       images &&
+        images.map((img, index) => (
+          <Image
+            src={img}
+            sizes={`(max-width: 480px) 400px, (max-width: 720px) 700px, (max-width: 960px) 900px`}
+            widths={[400, 700, 900]}
+            format="webp"
+            alt={`Bilde (${index}) av oppskrift for ${title}`}
+          />
+        ))
+      // uncomments self made image converter & resizer to see if Astros built in ones are faster
+      // TODO: test webp vs avif speed
+      /*
         images.map((img) => (
           <ResponsiveImage
             src={img}
             sizes={[400, 700, 900]}
             alt="bildet av oppskriften"
-            format="avif"
+            format="webp"
           />
         ))
+        */
     }
   </div>
 </Layout>
