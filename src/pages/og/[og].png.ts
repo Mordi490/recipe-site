@@ -1,7 +1,7 @@
 import satori from "satori";
 import { html } from "satori-html";
 import { Resvg } from "@resvg/resvg-js";
-import Inter from "../../../public/fonts/Inter-Regular.ttf";
+import Inter from "../../../public/fonts/InterVariable.ttf";
 import type { APIRoute } from "astro";
 
 let SITE = "";
