@@ -94,7 +94,7 @@ export const prerender = false;
     return results
       .map((res: RecipeSearchResultItem) => {
         const { slug, title } = res.item;
-        return `<li class="text-lg font-semibold active:underline hover:underline rounded-full px-4 py-2 truncate">
+        return `<li class="text-lg font-bold active:underline hover:underline rounded-full px-4 py-2 truncate">
                 <a href="/oppskrifter/${slug}">${title}</a>
                 </li>`;
       })
