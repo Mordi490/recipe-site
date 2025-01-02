@@ -10,7 +10,14 @@ export default defineConfig({
     optimizeDeps: { exclude: [`@resvg/resvg-js`] },
   },
   site: "https://www.bentesoppskrifter.no",
-  integrations: [tailwind(), sitemap()],
+  integrations: [
+    tailwind(),
+    sitemap({
+      i18n: {
+        defaultLocale: "nb-NO",
+      },
+    }),
+  ],
   output: "server",
   adapter: vercel({
     webAnalytics: {
