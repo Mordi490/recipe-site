@@ -11,7 +11,7 @@ export default defineConfig({
   },
   site: "https://www.bentesoppskrifter.no",
   integrations: [tailwind(), sitemap()],
-  output: "hybrid",
+  output: "server",
   adapter: vercel({
     webAnalytics: {
       enabled: true,
