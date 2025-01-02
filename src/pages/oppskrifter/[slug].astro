@@ -1,0 +1,46 @@
+---
+import type { GetStaticPaths } from "astro";
+import { type CollectionEntry, getCollection, render } from "astro:content";
+import RecipePost from "../../layouts/RecipePost.astro";
+import { optional } from "astro:schema";
+
+// TODO: confirm if this is needed. What about "static" vs "server" output
+export const prerender = true;
+
+// this page will render both individual recipes (url/oppskrifter/entry2) AND the paginated/list (url/oppskrifter) view of mutliple recipes
+
+export const getStaticPaths = (async () => {
+  const oppskrifter = await getCollection("oppskrifter");
+  return oppskrifter.map((oppskrift) => ({
+    params: { slug: oppskrift.id },
+    props: { oppskrift },
+  }));
+}) satisfies GetStaticPaths;
+
+const { oppskrift } = Astro.props;
+const { Content } = await render(oppskrift);
+
+let params = new URLSearchParams();
+
+const hasImages =
+  oppskrift.data.images && oppskrift.data.images.length > 0 ? true : false;
+
+if (hasImages) {
+  const fullPath = oppskrift.data.images?.[0].src.split("/") as string[];
+
+  const top = fullPath.indexOf("recipe-images");
+
+  const trimmedPath = fullPath
+    .slice(top + 1, fullPath.length)
+    .join(",")
+    .replaceAll(",", "/")
+    .toString();
+
+  params.append("image=", trimmedPath); // this is the "_astro/{imagename}.jpg"
+}
+const ogImgPath = `${Astro.url.origin}/og/${oppskrift.id}.png?${params}`;
+---
+
+<RecipePost {...oppskrift.data} seo_image={ogImgPath}>
+  <Content />
+</RecipePost>

@@ -1,8 +1,8 @@
 ---
 import Layout from "../layouts/Layout.astro";
 import { getCollection } from "astro:content";
-const oppskrifter = await getCollection("oppskrifter");
 
+const oppskrifter = await getCollection("oppskrifter");
 const total = oppskrifter.length;
 ---
 

@@ -1,7 +1,11 @@
+import { glob } from "astro/loaders";
 import { defineCollection, z } from "astro:content";
 
 const oppskrifter = defineCollection({
-  type: "content",
+  loader: glob({
+    pattern: "**/*.md",
+    base: "./src/content/oppskrifter",
+  }),
   schema: ({ image }) =>
     z.object({
       title: z.string(),
