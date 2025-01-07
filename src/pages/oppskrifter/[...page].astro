@@ -6,8 +6,6 @@ import type { GetStaticPathsOptions, Page } from "astro";
 import RecipeListView from "../../components/RecipeListView.astro";
 import { PER_PAGE } from "../../const";
 
-export const prerender = true;
-
 export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
   const oppskrifter = await getCollection("oppskrifter");
 
@@ -31,6 +29,7 @@ const posts = page.data;
   tab_title="Oppskrifter"
   page_title="Liste over alle oppskrifter"
   seo_title="Liste over alle oppskrifter"
+  seo_image=`${Astro.url.origin}/og/oppskrifter.png`
 >
   <RecipeListView posts={posts} page={page} />
   <Pagination prevUrl={page.url.prev} nextUrl={page.url.next} url={page.url} />

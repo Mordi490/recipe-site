@@ -6,7 +6,11 @@ const oppskrifter = await getCollection("oppskrifter");
 const total = oppskrifter.length;
 ---
 
-<Layout tab_title="Bentes Opskrifter" description="En samling av oppskrifter">
+<Layout
+  tab_title="Bentes Opskrifter"
+  description="En samling av oppskrifter"
+  seo_image=`${Astro.url.origin}/og/index.png`
+>
   <div class="flex flex-col text-center">
     <p class="py-2 text-xl">
       Dette er et arkiv over oppskrifter som Bente har samlet.
