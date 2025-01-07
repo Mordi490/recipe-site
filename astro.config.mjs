@@ -7,7 +7,6 @@ import sitemap from "@astrojs/sitemap";
 export default defineConfig({
   vite: {
     plugins: [rawFonts([`.ttf`])],
-    optimizeDeps: { exclude: [`@resvg/resvg-js`] },
   },
   site: "https://www.bentesoppskrifter.no",
   integrations: [
@@ -18,7 +17,7 @@ export default defineConfig({
       },
     }),
   ],
-  output: "server",
+  output: "static",
   adapter: vercel({
     webAnalytics: {
       enabled: true,

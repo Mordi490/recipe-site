@@ -6,8 +6,6 @@ import type { GetStaticPathsOptions, Page } from "astro";
 import RecipeListView from "../../components/RecipeListView.astro";
 import { PER_PAGE } from "../../const";
 
-export const prerender = true;
-
 export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
   const oppskrifter = await getCollection("oppskrifter");
 
