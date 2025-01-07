@@ -7,7 +7,7 @@ interface Props {
 }
 
 const { title, description, url = Astro.url, seo_image } = Astro.props;
-const siteUrl = Astro.site?.hostname;
+const siteUrl = Astro.url.origin;
 ---
 
 <link rel="canonical" href={url} />
