@@ -13,7 +13,7 @@ export default defineConfig({
     tailwind(),
     sitemap({
       i18n: {
-        defaultLocale: "nb-NO",
+        defaultLocale: "no",
       },
     }),
   ],
