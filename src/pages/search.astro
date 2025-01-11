@@ -1,5 +1,7 @@
 ---
 import Layout from "../layouts/Layout.astro";
+// @ts-ignore
+import Search from "astro-pagefind/components/Search";
 ---
 
 <Layout
@@ -15,25 +17,13 @@ import Layout from "../layouts/Layout.astro";
     class="mt-4 max-w-sm rounded-lg border-2 border-solid border-black px-8 py-4 pb-2 pt-4"
   >
     <h4 class="text-lg font-bold">Søk etter oppskrift</h4>
-    <div class="py-2" id="search"></div>
+    <Search
+      id="search"
+      className="pagefind-ui"
+      uiOptions={{ showImages: false }}
+    />
   </div>
 </Layout>
-<script>
-  window.addEventListener("DOMContentLoaded", (event) => {
-    // @ts-ignore
-    new PagefindUI({
-      element: "#search",
-      showSubResults: false,
-      showImages: false,
-      debounceTimeoutMs: 300,
-      filteringOptions: {
-        perfectMatchesOnly: false,
-        splitWords: true,
-        minimumWordLength: 2,
-      },
-    });
-  });
-</script>
 
 <style is:global>
   nav {
