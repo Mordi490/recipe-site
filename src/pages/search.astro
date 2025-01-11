@@ -1,5 +1,7 @@
 ---
 import Layout from "../layouts/Layout.astro";
+// @ts-ignore
+import Search from "astro-pagefind/components/Search";
 ---
 
 <Layout
@@ -8,170 +10,60 @@ import Layout from "../layouts/Layout.astro";
   seo_title="Søk etter oppskrifter"
   seo_image=`${Astro.url.origin}/og/search.png`
 >
-  <div class="flex flex-col items-center pb-2 pt-4">
-    <aside
-      class="grid w-fit rounded-lg border-2 border-solid border-black px-8 py-4"
-    >
-      <div class="flex flex-col">
-        <label for="search" class="text-lg font-bold">Søk etter oppskrift</label
-        >
-        <span>Søk etter tittelen på oppskrift</span>
-      </div>
-      <input
-        class="rounded-lg border-2 border-solid border-black px-4 py-2 text-lg text-gray-800 focus:border-blue-300 focus:outline-none focus:ring"
-        type="search"
-        name="search"
-        id="search"
-        min="1"
-        max="40"
-        placeholder="Skriv her"
-        required
-      />
-    </aside>
-    <p id="searchReadOut"></p>
+  <link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
+  <script src="/pagefind/pagefind-ui.js" is:inline></script>
+
+  <div
+    class="mt-4 max-w-sm rounded-lg border-2 border-solid border-black px-8 py-4 pb-2 pt-4"
+  >
+    <h4 class="text-lg font-bold">Søk etter oppskrift</h4>
+    <Search
+      id="search"
+      className="pagefind-ui"
+      uiOptions={{ showImages: false }}
+    />
   </div>
-  <section aria-label="Search Reults">
-    <ul
-      id="searchResult"
-      class="flex flex-col gap-2 py-2 sm:grid sm:grid-cols-2 xl:grid-cols-3"
-    >
-    </ul>
-  </section>
 </Layout>
 
-<script>
-  import Fuse from "fuse.js";
-
-  // selectors
-  const search = document.querySelector("#search") as HTMLInputElement;
-  const searchReadOut = document.querySelector(
-    "#searchReadOut",
-  ) as HTMLAnchorElement;
-  const resultsList = document.querySelector(
-    "#searchResult",
-  ) as HTMLUListElement;
-
-  let SEARCH_DATA: any;
-  let FUSE_INSTANCE: any;
-
-  const FUSE_OPTIONS = {
-    includeScore: true,
-    shouldSort: true,
-    threshold: 0.4,
-    keys: [
-      {
-        name: "id",
-        weight: 0.6,
-      },
-      {
-        name: "title",
-        weight: 0.7,
-      },
-      {
-        name: "ingredienser",
-        weight: 0.4,
-      },
-      {
-        name: "tattFra?",
-        weight: 0.2,
-      },
-    ],
-  };
-
-  const SPINNER = `<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="#000000" viewBox="0 0 256 256" id="spinner"><path d="M236,128a108,108,0,0,1-216,0c0-42.52,24.73-81.34,63-98.9A12,12,0,1,1,93,50.91C63.24,64.57,44,94.83,44,128a84,84,0,0,0,168,0c0-33.17-19.24-63.43-49-77.09A12,12,0,1,1,173,29.1C211.27,46.66,236,85.48,236,128Z"></path><style>
-				#spinner {
-					animation: spin 1s linear infinite;
-				}
-				@keyframes spin {
-					100% {
-						transform: rotate(360deg);
-					}
-				}
-				</style></svg>`;
-
-  function generateSearchList(results: any) {
-    return results
-      .map((res: RecipeSearchResultItem) => {
-        const { id, title } = res.item;
-        return `<li class="text-lg font-bold active:underline hover:underline rounded-full px-4 py-2">
-                <a href="/oppskrifter/${id}">${title}</a>
-                </li>`;
-      })
-      .join("");
+<style is:global>
+  nav {
+    display: grid;
+    place-items: center;
   }
 
-  async function fetchSearchResult(search: string) {
-    if (search.length === 0) return;
-    resultsList.innerHTML = SPINNER;
-    if (!SEARCH_DATA) {
-      try {
-        const res = await fetch("/search.json");
-        if (!res.ok) {
-          throw new Error("Something went wrong");
-        }
-        const data = await res.json();
-        SEARCH_DATA = data;
-      } catch (err) {
-        console.error(err);
-      }
-    }
-    if (SEARCH_DATA && !FUSE_INSTANCE) {
-      FUSE_INSTANCE = new Fuse(SEARCH_DATA, FUSE_OPTIONS);
-    }
-    if (!FUSE_INSTANCE) return;
+  .pagefind-ui {
+    --pagefind-ui-scale: 0.9;
+    --pagefind-ui-primary: navy;
+    --pagefind-ui-text: black;
+    --pagefind-ui-border: slategrey;
+    --pagefind-ui-border-width: 1px;
+    --pagefind-ui-border-radius: 0.25rem;
+    --pagefind-ui-font: Atkinson-Hyperlegible;
 
-    const searchResult = FUSE_INSTANCE.search(search);
-    resultsList.innerHTML =
-      searchResult.length > 0
-        ? generateSearchList(searchResult)
-        : "Ingen resultater";
+    max-width: 100%;
   }
 
-  type RecipeSearchResultItem = {
-    item: {
-      id: string;
-      title: string;
-      ingredienser: string[];
-      tattFra?: string;
-    };
-    refIndex: number;
-    score: number;
-  };
-
-  // functions
-  function updateDocumentTitle(search: string) {
-    document.title = search
-      ? `Søkeresultater for "${search}"`
-      : "Søk etter oppskrift";
+  .pagefind-ui .pagefind-ui__drawer:not(.pagefind-ui__hidden) {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin-top: 0px;
+    z-index: 9999;
+    padding: 0 2em 1em;
+    overflow-y: auto;
+    box-shadow:
+      0 10px 10px -5px rgba(0, 0, 0, 0.2),
+      0 2px 2px 0 rgba(0, 0, 0, 0.1);
+    border-bottom-right-radius: var(--pagefind-ui-border-radius);
+    border-bottom-left-radius: var(--pagefind-ui-border-radius);
+    background-color: var(--pagefind-ui-background);
   }
 
-  function updateSearchReadOut(search: string) {
-    searchReadOut.textContent = search ? `Søkeresultater for "${search}"` : "";
+  .pagefind-ui .pagefind-ui__result-link {
+    color: var(--pagefind-ui-primary);
   }
 
-  function updateSearchPageUrl(search: string) {
-    const url = new URL(window.location.href);
-    url.searchParams.set("q", search);
-    window.history.replaceState(null, "", url);
+  .pagefind-ui .pagefind-ui__result-excerpt {
+    color: var(--pagefind-ui-text);
   }
-
-  // event listeners
-  window.addEventListener("DOMContentLoaded", () => {
-    const urlParams = new URLSearchParams(window.location.search).get(
-      "q",
-    ) as string;
-    updateDocumentTitle(urlParams);
-    fetchSearchResult(urlParams);
-    updateSearchReadOut(urlParams);
-    search.value = urlParams;
-    search.focus();
-  });
-
-  search.addEventListener("input", () => {
-    const searchTerm = search.value;
-    updateDocumentTitle(searchTerm);
-    updateSearchReadOut(searchTerm);
-    fetchSearchResult(searchTerm);
-    updateSearchPageUrl(searchTerm);
-  });
-</script>
+</style>
