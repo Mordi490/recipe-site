@@ -29,5 +29,9 @@ pnpm-debug.log*
 # bun
 bun.lockb
 
+# ignore pagefind public data
+public/no_*
+public/pagefind*
+
 todo.md
 test.ts
