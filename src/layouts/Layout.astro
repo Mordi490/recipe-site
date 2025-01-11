@@ -42,18 +42,16 @@ const { tab_title, description, page_title, seo_title, seo_image } =
     <meta name="description" content={description} />
     <Seo title={seo_title} {description} {seo_image} />
   </head>
-  <body>
+  <body class="flex h-screen flex-col">
     <Header />
-    <div class="flex h-screen flex-col">
-      {
-        page_title && (
-          <h5 class="py-2 text-center text-3xl font-bold">{page_title}</h5>
-        )
-      }
-      <main class="mx-auto flex-grow px-1">
-        <slot />
-      </main>
-      <Footer />
-    </div>
+    {
+      page_title && (
+        <h5 class="py-2 text-center text-3xl font-bold">{page_title}</h5>
+      )
+    }
+    <main class="mx-auto flex-grow px-1">
+      <slot />
+    </main>
+    <Footer />
   </body>
 </html>
