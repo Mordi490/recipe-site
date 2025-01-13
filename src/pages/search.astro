@@ -13,16 +13,12 @@ import Search from "astro-pagefind/components/Search";
   <link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
   <script src="/pagefind/pagefind-ui.js" is:inline></script>
 
-  <div
-    class="mt-4 max-w-sm rounded-lg border-2 border-solid border-black px-8 py-4 pb-2 pt-4"
-  >
-    <h4 class="text-lg font-bold">Søk etter oppskrift</h4>
-    <Search
-      id="search"
-      className="pagefind-ui"
-      uiOptions={{ showImages: false }}
-    />
-  </div>
+  <h4 class="mt-2 py-2 text-2xl font-bold">Søk etter oppskrift</h4>
+  <Search
+    id="search"
+    className="pagefind-ui pb-4"
+    uiOptions={{ showImages: false }}
+  />
 </Layout>
 
 <style is:global>
