@@ -18,11 +18,14 @@
     "astro": "^5.2.2",
     "astro-og-canvas": "^0.5.5",
     "astro-pagefind": "^1.7.0",
+    "markdown-it": "^14.1.0",
+    "sanitize-html": "^2.14.0",
     "tailwind-merge": "^1.14.0",
     "tailwindcss": "^3.4.13"
   },
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.15",
+    "@types/sanitize-html": "^2.13.0",
     "prettier": "^3.3.3",
     "prettier-plugin-astro": "^0.12.3",
     "prettier-plugin-tailwindcss": "^0.5.14"
