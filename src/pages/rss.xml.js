@@ -8,7 +8,7 @@ const parser = markdownit();
 export async function GET(context) {
   const oppskrifter = await getCollection("oppskrifter");
   return rss({
-    title: "bentes Oppskrifter",
+    title: "Bentes Oppskrifter",
     description: "En samling av oppskrifter",
     site: context.site,
     stylesheet: "/rss.xsl",
