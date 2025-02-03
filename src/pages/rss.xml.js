@@ -12,6 +12,9 @@ export async function GET(context) {
     description: "En samling av oppskrifter",
     site: context.site,
     stylesheet: "/rss.xsl",
+    xmlns: {
+      atom: "http://www.w3.org/2005/Atom",
+    },
     items: oppskrifter.map((o) => ({
       title: o.data.title,
       link: `/oppskrifter/${o.id}`,
