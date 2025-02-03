@@ -19,20 +19,7 @@ export async function GET(context) {
       title: o.data.title,
       link: `/oppskrifter/${o.id}`,
       description: `Oppskrift for ${o.data.title}`,
-      content: sanitizeHtml(parser.render(o.body), {
-        allowedTags: sanitizeHtml.defaults.allowedTags.concat(["img"]),
-        transformTags: {
-          img: (tagName, attribs) => ({
-            tagName: "img",
-            attribs: {
-              ...attribs,
-              src: attribs.src
-                ? new URL(attribs.src, context.site).toString()
-                : attribs.src,
-            },
-          }),
-        },
-      }),
+      content: sanitizeHtml(parser.render(o.body)),
     })),
     customData: `<language>no</language>
       <atom:link href="${context.site}/rss.xml" rel="self" type="application/rss+xml" />
