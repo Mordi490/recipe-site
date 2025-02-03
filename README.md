@@ -18,7 +18,7 @@ Astro also gives you the ability to opt-in and use larger JS frameworks such as 
 
 #### Image Optimizations
 
-Original images were saved as 3000x4000 jpg's (~3.5 MB), then converted to a more "reasonable" (1440x1920) resolution using a [bash script](https://github.com/Mordi490/recipe-site/blob/main/resize-images.sh), resulting in ~1 MB images. The images are processed with Astro's built-in `Image` component, which converts images to webp's and resizes them to multiple sizes. Resulting in a range of 50-300 KB. This was previously done with [depreciated custom code] (https://github.com/Mordi490/recipe-site/blob/30c592df5c06e784e3d3635aeecea601eccd8593/src/components/ResponsiveImage.astro), but now Astro's `Image` component does everything and more.
+Original images were saved as 3000x4000 jpg's (~3.5 MB), then converted to a more "reasonable" (1440x1920) resolution using a [bash script](https://github.com/Mordi490/recipe-site/blob/main/scripts/resize-images.sh), resulting in ~1 MB images. The images are processed with Astro's built-in `Image` component, which converts images to webp's and resizes them to multiple sizes. Resulting in a range of 50-300 KB. This was previously done with [depreciated custom code] (https://github.com/Mordi490/recipe-site/blob/30c592df5c06e784e3d3635aeecea601eccd8593/src/components/ResponsiveImage.astro), but now Astro's `Image` component does everything and more.
 
 #### Lighthouse Scores
 
@@ -28,14 +28,14 @@ This is somewhat expected since I used [FuseJS](https://www.fusejs.io/) for fuzz
 
 Examples of Lighthouse scores:
 
-![Example on a paginated page](image-1.png)
+![Example on a paginated page](.github/images/image-1.png)
 
-![Example on a recipe](image-3.png)
+![Example on a recipe](.github/images/image-3.png)
 
 Worst-case scenario on the search page:
 
-![Worst-case Lighthouse score on the search page](image.png)
+![Worst-case Lighthouse score on the search page](.github/images/image.png)
 
 More reasonable case on the search page:
 
-![Reasonable case on the search page](image-2.png)
+![Reasonable case on the search page](.github/images/image-2.png)
