@@ -18,6 +18,17 @@ export async function GET(context) {
       description: `Oppskrift for ${o.data.title}`,
       content: sanitizeHtml(parser.render(o.body), {
         allowedTags: sanitizeHtml.defaults.allowedTags.concat(["img"]),
+        transformTags: {
+          img: (tagName, attribs) => ({
+            tagName: "img",
+            attribs: {
+              ...attribs,
+              src: attribs.src
+                ? new URL(attribs.src, context.site).toString()
+                : attribs.src,
+            },
+          }),
+        },
       }),
     })),
     customData: `<language>no</language>
