@@ -29,6 +29,16 @@ const { tab_title, description, page_title, seo_title, seo_image } =
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
     <link rel="manifest" href="/site.webmanifest" />
 
+    <!-- RSS autodiscovery: https://www.rssboard.org/rss-autodiscovery -->
+    <link
+      rel="alternate"
+      type="application/rss+xml"
+      title="Bentes oppskrifter"
+      href={new URL("rss.xml", Astro.site)}
+    />
+
+    <link rel="manifest" href="/site.webmanifest" />
+
     <meta name="generator" content={Astro.generator} />
 
     <!-- Primary Meta Tags -->
