@@ -21,6 +21,7 @@ export async function GET(context) {
       }),
     })),
     customData: `<language>no</language>
+      <atom:link href="${context.site}/rss.xml" rel="self" type="application/rss+xml" />
       <image>
         <url>${context.site}preview-image.png</url>
         <title>Bentes Oppskrifter</title>
