@@ -24,8 +24,6 @@ images:
 
 # Tomatsuppe med kylling, bønner og basilikum
 
-Oppskriften er tatt fra matprat
-
 ## Ingredienser
 
 - 2 stk kyllingfilet
