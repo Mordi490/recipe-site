@@ -11,11 +11,7 @@ ingredienser:
     "woksaus",
     "koriander",
   ]
-images:
-  [
-    "../../assets/recipe-images/web_kylling-chop-suey.jpg",
-    "../../assets/recipe-images/web_kylling-chop-suey-to.jpg",
-  ]
+images: ["../../assets/recipe-images/web_chop-suey.jpg"]
 ---
 
 # Chop suey wok
