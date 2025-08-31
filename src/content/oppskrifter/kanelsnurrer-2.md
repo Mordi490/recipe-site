@@ -27,7 +27,7 @@ images: ["../../assets/recipe-images/web_kanelsnurrer-2.jpg"]
 
 ## Instruksjon
 
-Smelt smøret og tilsett melk. La blandingen bli lunken. Løs gjæren i melken og tilsett sukker og kardemomme. Ha i mel og elt deigen godt. Dekk den med et kjede og la den heve til dobbel størrelse på et lunt sted ca. 1 time. Slå deigen ned og kjevle den til et rektangel ca. 20x20 cm.
+Smelt smøret og tilsett melk. La blandingen bli lunken. Løs gjæren i melken og tilsett sukker og kardemomme. Ha i mel og elt deigen godt. Dekk den med et klede og la den heve til dobbel størrelse på et lunt sted ca. 1 time. Slå deigen ned og kjevle den til et rektangel ca. 20x20 cm.
 
 **Fyll:** Rør sammen smør, sukker og kanel og smør den utover leiven. Rull deigen sammen og skjær den i ca. 2 cm tykke skiver som legges på bakepapirkledd stekeplate eller i papirformer (40 stk). Dekk bollene med et klede og la den etterheve 30 minutter på et lunt sted. Pensle dem med sammenvispet egg og dryss på perlesukker før de stekes friskt brune og avkjøles på rist.
 
